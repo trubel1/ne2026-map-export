@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-Export New England 2026 vault notes for a given day to GeoJSON, for Guru Maps.
+Export New England 2026 vault notes to GeoJSON, for Guru Maps.
 
 Usage:
     python3 export_day.py [YYYY-MM-DD]
+    python3 export_day.py --all
 
-If no date is given, defaults to tomorrow (relative to today).
-Scans Places/ and Destinations/ for notes whose `day` frontmatter includes
-the target date, and writes map.geojson in this directory.
+If no date is given, defaults to tomorrow (relative to today), and only
+notes whose `day` frontmatter includes that date are exported.
+
+--all exports every note in Places/ and Destinations/ that has Coordinates,
+regardless of `day` -- the full researched set, not just one day's plan.
 """
 import re
 import sys
@@ -106,29 +109,37 @@ def build_feature(p, text):
     }
 
 def main():
-    date_str = sys.argv[1] if len(sys.argv) > 1 else (
-        datetime.date.today() + datetime.timedelta(days=1)
-    ).isoformat()
-    target_link = target_daynote(date_str)
+    all_mode = len(sys.argv) > 1 and sys.argv[1] == "--all"
+    target_link = None if all_mode else target_daynote(
+        sys.argv[1] if len(sys.argv) > 1 else
+        (datetime.date.today() + datetime.timedelta(days=1)).isoformat()
+    )
 
     features = []
+    skipped_no_coords = 0
     for folder in ["Places", "Destinations"]:
         for p in sorted((VAULT / folder).glob("*.md")):
             text = p.read_text(encoding="utf-8", errors="ignore")
-            if matches_day(text, target_link):
+            if all_mode or matches_day(text, target_link):
                 f = build_feature(p, text)
                 if f:
                     features.append(f)
+                elif all_mode:
+                    skipped_no_coords += 1
 
     fc = {"type": "FeatureCollection", "features": features}
     out = OUT_DIR / "map.geojson"
     out.write_text(json.dumps(fc, indent=2))
 
-    print(f"Target day: {target_link}")
-    print(f"Wrote {len(features)} features to {out}")
-    for f in features:
-        pr = f["properties"]
-        print(" -", pr["name"], "|", pr["icon"], "|", pr["color"])
+    if all_mode:
+        print(f"ALL mode: wrote {len(features)} features to {out}")
+        print(f"Skipped {skipped_no_coords} notes with no Coordinates")
+    else:
+        print(f"Target day: {target_link}")
+        print(f"Wrote {len(features)} features to {out}")
+        for f in features:
+            pr = f["properties"]
+            print(" -", pr["name"], "|", pr["icon"], "|", pr["color"])
 
 if __name__ == "__main__":
     main()
