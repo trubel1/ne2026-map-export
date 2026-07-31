@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diagnostic Test 4 (whitespace line)",
+        "icon": "sandwich",
+        "color": "teal",
+        "detail": "PARAGRAPH A - before the whitespace-only line. PARAGRAPH A - before the whitespace-only line. PARAGRAPH A - before the whitespace-only line. \n    \nPARAGRAPH B - after the whitespace-only line. PARAGRAPH B - after the whitespace-only line. PARAGRAPH B - after the whitespace-only line. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07,
+          42.34
+        ]
+      }
+    }
+  ]
+}
