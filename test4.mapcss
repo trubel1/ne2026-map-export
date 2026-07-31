@@ -1,0 +1,10 @@
+node {
+    icon-scale: 1.2;
+    image-allow-overlap: true;
+    text: eval(tag('name'));
+    text-color: #333333;
+    details-text: eval(tag('name'));
+    details-description: eval(tag('detail'));
+    [icon=sandwich] { icon-image: "poi_fast_food.svg"; }
+    [color=teal] { icon-tint: teal; }
+}
