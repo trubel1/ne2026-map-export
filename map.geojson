@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4Guys llc",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "description:",
+        "description": "4Guys llc is a casual restaurant serving Mexican-inspired dishes like tacos, with a price range of $10\u201320. It is open for lunch and dinner, but does not serve alcohol.",
+        "url": "https://www.google.com/maps/place/4Guys+llc/@44.0897852,-70.2452275,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b0dbf47cf49:0xfc59c0e575e4ba3b!8m2!3d44.1102197!4d-70.2258153!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVTU1dKWWFHdFZWRTVVVWtSS2Jsb3lVakJVZWxKaFlXeG9kMkpYWXhBQuABAPoBBQjTARA0!16s%2Fg%2F11z6pvxm0q?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D",
+        "start_date_time": "",
+        "detail": "4Guys llc is a casual restaurant serving Mexican-inspired dishes like tacos, with a price range of $10\u201320. It is open for lunch and dinner, but does not serve alcohol.\n\nGoogle Maps: https://www.google.com/maps/place/4Guys+llc/@44.0897852,-70.2452275,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b0dbf47cf49:0xfc59c0e575e4ba3b!8m2!3d44.1102197!4d-70.2258153!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVTU1dKWWFHdFZWRTVVVWtSS2Jsb3lVakJVZWxKaFlXeG9kMkpYWXhBQuABAPoBBQjTARA0!16s%2Fg%2F11z6pvxm0q?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.22642017886061,
+          44.11017252287733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bell the Cat Belfast ME",
+        "icon": "coffee",
+        "color": "red",
+        "vault_type": "Cafe",
+        "description": "Belfast staple since 1994 \u2014 from-scratch bakery/cafe with fresh pastries and made-to-order sandwiches using local ingredients.",
+        "url": "https://bellthecatinc.com",
+        "start_date_time": "2026-08-22T10:30:00",
+        "detail": "Time: 2026-08-22T10:30:00\n\nBelfast staple since 1994 \u2014 from-scratch bakery/cafe with fresh pastries and made-to-order sandwiches using local ingredients.\n\nGoogle Maps: https://bellthecatinc.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0248794,
+          44.4236894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DaVinci's Eatery Lewiston ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Sit-down Italian restaurant inside the historic Bates Mill Complex \u2014 a full Italian-American menu, best known for garlic knots and lasagna. Open for lunch and dinner (Sat 11am\u201310pm), the most \"proper sit-down meal\" option among the Auburn/Lewiston lunch candidates.",
+        "url": "https://www.google.com/maps/place/DaVinci's+Eatery/@44.0936454,-70.2181866,17z",
+        "start_date_time": "2026-08-22T12:00:00",
+        "detail": "Time: 2026-08-22T12:00:00\n\nSit-down Italian restaurant inside the historic Bates Mill Complex \u2014 a full Italian-American menu, best known for garlic knots and lasagna. Open for lunch and dinner (Sat 11am\u201310pm), the most \"proper sit-down meal\" option among the Auburn/Lewiston lunch candidates.\n\nGoogle Maps: https://www.google.com/maps/place/DaVinci's+Eatery/@44.0936454,-70.2181866,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2181866,
+          44.0936454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mac's Downeast Seafood Auburn ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual counter-service seafood shack, ranked #1 restaurant in Auburn on Tripadvisor. Fresh, never-frozen seafood \u2014 best known for its lobster roll and homemade chowder. Open daily 11am\u20137pm, a fast and high-quality \"true Maine\" lunch option.",
+        "url": "https://www.google.com/maps/place/Mac's+Downeast+Seafood/@44.0807045,-70.2674974,17z",
+        "start_date_time": "2026-08-22T12:00:00",
+        "detail": "Time: 2026-08-22T12:00:00\n\nCasual counter-service seafood shack, ranked #1 restaurant in Auburn on Tripadvisor. Fresh, never-frozen seafood \u2014 best known for its lobster roll and homemade chowder. Open daily 11am\u20137pm, a fast and high-quality \"true Maine\" lunch option.\n\nGoogle Maps: https://www.google.com/maps/place/Mac's+Downeast+Seafood/@44.0807045,-70.2674974,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2674974,
+          44.0807045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mac's Grill Auburn ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Auburn's longtime steakhouse (25+ years running), hand-cutting Choice Black Angus steaks in-house daily. Casual, rustic sit-down atmosphere with a broad American menu beyond just steak. Open Sat 11:30am\u201310pm.",
+        "url": "https://www.google.com/maps/place/Mac's+Grill/@44.0804470,-70.2739478,17z",
+        "start_date_time": "2026-08-22T12:00:00",
+        "detail": "Time: 2026-08-22T12:00:00\n\nAuburn's longtime steakhouse (25+ years running), hand-cutting Choice Black Angus steaks in-house daily. Casual, rustic sit-down atmosphere with a broad American menu beyond just steak. Open Sat 11:30am\u201310pm.\n\nGoogle Maps: https://www.google.com/maps/place/Mac's+Grill/@44.0804470,-70.2739478,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2739478,
+          44.080447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mancini's Italian Deli Lewiston ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual Italian microdeli in downtown Lewiston specializing in focaccia sandwiches, pastas, and slab pizza, plus a small market of imported Italian goods. The fastest, lightest option among the lunch candidates if you'd rather not sit down for a full meal. Open Sat 11am\u20137pm.",
+        "url": "https://www.google.com/maps/place/Mancini's+Italian+Deli/@44.0992238,-70.2172130,17z",
+        "start_date_time": "2026-08-22T12:00:00",
+        "detail": "Time: 2026-08-22T12:00:00\n\nCasual Italian microdeli in downtown Lewiston specializing in focaccia sandwiches, pastas, and slab pizza, plus a small market of imported Italian goods. The fastest, lightest option among the lunch candidates if you'd rather not sit down for a full meal. Open Sat 11am\u20137pm.\n\nGoogle Maps: https://www.google.com/maps/place/Mancini's+Italian+Deli/@44.0992238,-70.2172130,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.217213,
+          44.0992238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Station Grill Restaurant",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "description:",
+        "description": "Station Grill Restaurant is an American diner-style eatery offering comfort food like breakfast items and seafood. Expected price range is $10\u201320, and it is open for lunch but closes at 3 PM, not serving dinner. Alcohol service is not specified.",
+        "url": "https://www.google.com/maps/place/Station+Grill+Restaurant/@44.0938557,-70.2241485,670m/data=!3m1!1e3!4m11!1m3!2m2!1spet+friendly+Restaurants!6e5!3m6!1s0x4cb26b2ea521ae1b:0x9eda377fa9727250!8m2!3d44.0938556!4d-70.2201055!15sChhwZXQgZnJpZW5kbHkgUmVzdGF1cmFudHNaGiIYcGV0IGZyaWVuZGx5IHJlc3RhdXJhbnRzkgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ2JXUnRka1pCRUFF4AEA-gEFCOoBEAw!16s%2Fg%2F11j8wbcmbm?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D",
+        "start_date_time": "",
+        "detail": "Station Grill Restaurant is an American diner-style eatery offering comfort food like breakfast items and seafood. Expected price range is $10\u201320, and it is open for lunch but closes at 3 PM, not serving dinner. Alcohol service is not specified.\n\nGoogle Maps: https://www.google.com/maps/place/Station+Grill+Restaurant/@44.0938557,-70.2241485,670m/data=!3m1!1e3!4m11!1m3!2m2!1spet+friendly+Restaurants!6e5!3m6!1s0x4cb26b2ea521ae1b:0x9eda377fa9727250!8m2!3d44.0938556!4d-70.2201055!15sChhwZXQgZnJpZW5kbHkgUmVzdGF1cmFudHNaGiIYcGV0IGZyaWVuZGx5IHJlc3RhdXJhbnRzkgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ2JXUnRka1pCRUFF4AEA-gEFCOoBEAw!16s%2Fg%2F11j8wbcmbm?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.22006383381473,
+          44.09392360370163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blue Feather Lewiston ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "New (2025) kitchen-and-bar concept in downtown Lewiston blending comfort food with creative flair. Early reviews are excellent, though it's new enough that it doesn't yet have the long track record of the other lunch candidates on this list. Open Sat 11am\u20139pm.",
+        "url": "https://www.google.com/maps/place/The+Blue+Feather/@44.0976289,-70.2180085,17z",
+        "start_date_time": "2026-08-22T12:00:00",
+        "detail": "Time: 2026-08-22T12:00:00\n\nNew (2025) kitchen-and-bar concept in downtown Lewiston blending comfort food with creative flair. Early reviews are excellent, though it's new enough that it doesn't yet have the long track record of the other lunch candidates on this list. Open Sat 11am\u20139pm.\n\nGoogle Maps: https://www.google.com/maps/place/The+Blue+Feather/@44.0976289,-70.2180085,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2180085,
+          44.0976289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lunch Table",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "description:",
+        "description": "The Lunch Table is a restaurant offering sandwiches, soups, and salads with a price range of $10\u201320. It is open for lunch and closes at 2 PM but does not serve dinner. Alcohol availability is not mentioned.",
+        "url": "https://www.google.com/maps/place/The+Lunch+Table/@44.0838596,-70.2564842,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b32058406f5:0x39c864acfd6aba1c!8m2!3d44.0838901!4d-70.2013888!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFHYTA5RlduWlNiVloxVGtNeGFHTlhiREZqUjA1WFVYcENTRlpWUlJBQuABAPoBBAgAEDY!16s%2Fg%2F11svgztb6x?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D",
+        "start_date_time": "",
+        "detail": "The Lunch Table is a restaurant offering sandwiches, soups, and salads with a price range of $10\u201320. It is open for lunch and closes at 2 PM but does not serve dinner. Alcohol availability is not mentioned.\n\nGoogle Maps: https://www.google.com/maps/place/The+Lunch+Table/@44.0838596,-70.2564842,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b32058406f5:0x39c864acfd6aba1c!8m2!3d44.0838901!4d-70.2013888!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFHYTA5RlduWlNiVloxVGtNeGFHTlhiREZqUjA1WFVYcENTRlpWUlJBQuABAPoBBAgAEDY!16s%2Fg%2F11svgztb6x?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20151607177162,
+          44.085218622616345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf Cove Inn",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "description:",
+        "description": "The Wolf Cove Inn is a serene B&B located by Tripp Lake, offering a free breakfast with a focus on local and seasonal ingredients. The expected price range for rooms is around $255 to $278 per night. It primarily serves breakfast and does not explicitly mention lunch or dinner service. Alcohol availability is not specified.",
+        "url": "https://www.google.com/maps/place/Wolf+Cove+Inn/@44.055054,-70.4367298,2352m/data=!3m1!1e3!4m20!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m10!1s0x4cb24359a2bcaaf1:0x76c548c57de800c!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.0584025!4d-70.4256829!16s%2Fg%2F1w111stp?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D",
+        "start_date_time": "",
+        "detail": "The Wolf Cove Inn is a serene B&B located by Tripp Lake, offering a free breakfast with a focus on local and seasonal ingredients. The expected price range for rooms is around $255 to $278 per night. It primarily serves breakfast and does not explicitly mention lunch or dinner service. Alcohol availability is not specified.\n\nGoogle Maps: https://www.google.com/maps/place/Wolf+Cove+Inn/@44.055054,-70.4367298,2352m/data=!3m1!1e3!4m20!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m10!1s0x4cb24359a2bcaaf1:0x76c548c57de800c!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.0584025!4d-70.4256829!16s%2Fg%2F1w111stp?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.42565377159968,
+          44.05827624001918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 12 1st S St Bar Harbor ME",
+        "icon": "hotel",
+        "color": "blue",
+        "vault_type": "Lodging",
+        "description": "Rocko's Cottage is the actual home of longtime Bar Harbor locals Lisa and Rick, rented out by the week each summer \u2014 a 2-bedroom, 1-bath cottage in the heart of downtown, walkable to everything.",
+        "url": "https://www.vrbo.com/232330?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783459962610&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=561&destination=Bar+Harbor%2C+Maine%2C+United+States+of+America&destType=MARKET&neighborhoodId=890182262554296320&selected=33486288&latLong=44.387673%2C-68.205357&searchId=3dc8cc51-f527-45da-b347-f283a7671201&sort=RECOMMENDED&userIntent=&expediaPropertyId=33486288",
+        "start_date_time": "2026-08-15T00:00:00",
+        "detail": "Time: 2026-08-15T00:00:00\n\nRocko's Cottage is the actual home of longtime Bar Harbor locals Lisa and Rick, rented out by the week each summer \u2014 a 2-bedroom, 1-bath cottage in the heart of downtown, walkable to everything.\n\nGoogle Maps: https://www.vrbo.com/232330?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783459962610&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=561&destination=Bar+Harbor%2C+Maine%2C+United+States+of+America&destType=MARKET&neighborhoodId=890182262554296320&selected=33486288&latLong=44.387673%2C-68.205357&searchId=3dc8cc51-f527-45da-b347-f283a7671201&sort=RECOMMENDED&userIntent=&expediaPropertyId=33486288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20437119395062,
+          44.38478503341662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 NoCo AirBnB North Conway NH",
+        "icon": "hotel",
+        "color": "blue",
+        "vault_type": "Lodging",
+        "description": "NoCo Village Den \u2014 a family-friendly vacation rental set back off a quiet street in North Conway Village, walkable to Schouler Park, Zeb's, and downtown shops/restaurants.",
+        "url": "https://www.vrbo.com/4462408?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783460125958&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=911698014578778112&destination=North+Conway+Village%2C+North+Conway%2C+New+Hampshire%2C+United+States+of+America&destType=BOUNDING_BOX&neighborhoodId=911698014578778112&latLong=44.053646%2C-71.123863&searchId=890d9e68-2325-4880-aae0-9cf305eaf74c&sort=RECOMMENDED&semcid=VRBO-US.UB.GOOGLE.DT-c-EN.VR&semdtl=a112239513975.b1116712253345.g1aud-2486215136849%3Akwd-47975641.e1c.m1CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE.r18649645b7946865b48fddb928e649676810f69faa86a5b6127c902552c48b6db.c1.j19012019.k1.d1496097377157.h1e.i1.l1.n1.o1.p1.q1.s1inns+north+conway%2C+nh.t1.x1.f1.u1.v1.w1&gclid=CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE&userIntent=&expediaPropertyId=113553680",
+        "start_date_time": "2026-08-22T00:00:00",
+        "detail": "Time: 2026-08-22T00:00:00\n\nNoCo Village Den \u2014 a family-friendly vacation rental set back off a quiet street in North Conway Village, walkable to Schouler Park, Zeb's, and downtown shops/restaurants.\n\nGoogle Maps: https://www.vrbo.com/4462408?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783460125958&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=911698014578778112&destination=North+Conway+Village%2C+North+Conway%2C+New+Hampshire%2C+United+States+of+America&destType=BOUNDING_BOX&neighborhoodId=911698014578778112&latLong=44.053646%2C-71.123863&searchId=890d9e68-2325-4880-aae0-9cf305eaf74c&sort=RECOMMENDED&semcid=VRBO-US.UB.GOOGLE.DT-c-EN.VR&semdtl=a112239513975.b1116712253345.g1aud-2486215136849%3Akwd-47975641.e1c.m1CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE.r18649645b7946865b48fddb928e649676810f69faa86a5b6127c902552c48b6db.c1.j19012019.k1.d1496097377157.h1e.i1.l1.n1.o1.p1.q1.s1inns+north+conway%2C+nh.t1.x1.f1.u1.v1.w1&gclid=CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE&userIntent=&expediaPropertyId=113553680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12328184886388,
+          44.0525975852248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u2757\ufe0f Vito Marcello's Italian Bistro",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Vito Marcello's Italian Bistro is an Italian restaurant offering a menu priced between $20-$60 per person. It serves dinner daily, closing at 9:30 PM most days, and does serve alcohol.",
+        "url": "https://www.google.com/maps/place/Vito+Marcello's+Italian+Bistro/@44.0514106,-71.1295884,716m/data=!3m1!1e3!4m6!3m5!1s0x4cb3a0e3c9da571f:0xed5ac83c36801d77!8m2!3d44.0518923!4d-71.1253186!16s%2Fg%2F1262ppsbs?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D",
+        "start_date_time": "2026-08-22T18:30:00",
+        "detail": "Time: 2026-08-22T18:30:00\n\nVito Marcello's Italian Bistro is an Italian restaurant offering a menu priced between $20-$60 per person. It serves dinner daily, closing at 9:30 PM most days, and does serve alcohol.\n\nGoogle Maps: https://www.google.com/maps/place/Vito+Marcello's+Italian+Bistro/@44.0514106,-71.1295884,716m/data=!3m1!1e3!4m6!3m5!1s0x4cb3a0e3c9da571f:0xed5ac83c36801d77!8m2!3d44.0518923!4d-71.1253186!16s%2Fg%2F1262ppsbs?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12725311675452,
+          44.05141061676107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangeley Lake, ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "url": "",
+        "start_date_time": "",
+        "detail": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6972061,
+          44.9415062
+        ]
+      }
+    }
+  ]
+}
