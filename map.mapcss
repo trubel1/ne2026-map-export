@@ -1,5 +1,5 @@
 node {
-    icon-scale: 2.5;
+    icon-scale: 1.2;
     image-allow-overlap: true;
     text: eval(tag('name'));
     text-color: #333333;
