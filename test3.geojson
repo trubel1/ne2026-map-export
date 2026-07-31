@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diagnostic Test 3 (link mid-text)",
+        "icon": "sandwich",
+        "color": "teal",
+        "detail": "PARAGRAPH 1 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 1 END.\n\nPARAGRAPH 2 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 2 END.\n\nPARAGRAPH 3 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 3 END.\n\n[View on Google Maps](https://www.google.com/maps/place/Earls+Kitchen+%2B+Bar/@42.3472291,-71.0844681,812m/data=!3m3!1e3!4b1!5s0x89e37a0dd77182cf:0x7f4bdaf4bd326028!4m6!3m5!1s0x89e37a103d153b47:0xd9e2a9e2c1c46ca5!8m2!3d42.3472252!4d-71.0818932!16s%2Fg%2F11f06k55nq?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D)\n\nPARAGRAPH 4 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 4 END.\n\nPARAGRAPH 5 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 5 END.\n\nPARAGRAPH 6 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 6 END.\n\nPARAGRAPH 7 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 7 END.\n\nPARAGRAPH 8 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 8 END.\n\nPARAGRAPH 9 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 9 END.\n\nPARAGRAPH 10 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 10 END."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09,
+          42.35
+        ]
+      }
+    }
+  ]
+}
