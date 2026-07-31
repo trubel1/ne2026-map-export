@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diagnostic Test",
+        "icon": "sandwich",
+        "color": "teal",
+        "detail": "PARAGRAPH 1 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 1 END.\n\nPARAGRAPH 2 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 2 END.\n\nPARAGRAPH 3 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 3 END.\n\nPARAGRAPH 4 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 4 END.\n\nPARAGRAPH 5 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 5 END.\n\nPARAGRAPH 6 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 6 END.\n\nPARAGRAPH 7 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 7 END.\n\nPARAGRAPH 8 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 8 END.\n\nPARAGRAPH 9 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 9 END.\n\nPARAGRAPH 10 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 10 END.\n\nPARAGRAPH 11 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 11 END.\n\nPARAGRAPH 12 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 12 END.\n\nPARAGRAPH 13 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 13 END.\n\nPARAGRAPH 14 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 14 END.\n\nPARAGRAPH 15 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 15 END.\n\nPARAGRAPH 16 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 16 END.\n\nPARAGRAPH 17 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 17 END.\n\nPARAGRAPH 18 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 18 END.\n\nPARAGRAPH 19 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 19 END.\n\nPARAGRAPH 20 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 20 END.\n\nPARAGRAPH 21 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 21 END.\n\nPARAGRAPH 22 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 22 END.\n\nPARAGRAPH 23 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 23 END.\n\nPARAGRAPH 24 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 24 END.\n\nPARAGRAPH 25 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 25 END.\n\nPARAGRAPH 26 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 26 END.\n\nPARAGRAPH 27 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 27 END.\n\nPARAGRAPH 28 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 28 END.\n\nPARAGRAPH 29 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 29 END.\n\nPARAGRAPH 30 START. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. PARAGRAPH 30 END."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0818,
+          42.3472
+        ]
+      }
+    }
+  ]
+}
