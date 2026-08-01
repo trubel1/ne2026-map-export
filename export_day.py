@@ -91,20 +91,23 @@ def build_feature(p, text):
     detail = desc
     if start_dt:
         detail = f"Time: {start_dt}\n\n" + detail if detail else f"Time: {start_dt}"
+    props = {
+        "name": name,
+        "icon": icon,
+        "color": color,
+        "vault_type": ptype,
+        "description": desc,
+        "start_date_time": start_dt,
+        "detail": detail,
+    }
+    # "website" is a native field Guru recognizes on any point (not just real
+    # OSM POIs) and renders as a proper tappable button, bypassing the
+    # unreliable free-text link rendering in details-description entirely.
     if url:
-        detail = (detail + "\n\n" if detail else "") + "Google Maps: " + url
+        props["website"] = url
     return {
         "type": "Feature",
-        "properties": {
-            "name": name,
-            "icon": icon,
-            "color": color,
-            "vault_type": ptype,
-            "description": desc,
-            "url": url,
-            "start_date_time": start_dt,
-            "detail": detail,
-        },
+        "properties": props,
         "geometry": {"type": "Point", "coordinates": [lon, lat]},
     }
 
