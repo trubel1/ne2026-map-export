@@ -29078,6 +29078,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Topsham, ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9759459,
+          43.9275435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Trenton, ME",
         "icon": "route",
         "color": "orange",
