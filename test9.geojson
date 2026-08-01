@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deuxave (OBSIDIAN LINK TEST)",
+        "icon": "sandwich",
+        "color": "teal",
+        "detail": "Deuxave \u2014 upscale French restaurant, Back Bay Boston.\n\nOpen in Obsidian: obsidian://open?vault=Sovereign%20Creator%20OS%20Lite&file=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%97%EF%B8%8F%E2%9D%8C%20Deuxave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0916957,
+          42.3495174
+        ]
+      }
+    }
+  ]
+}
