@@ -7048,9 +7048,9 @@
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
-        "description": "",
+        "description": "Upscale-casual, globally-inspired dinner spot in Camden \u2014 chef-owned, energetic room, known for lobster ravioli and Brazilian moqueca.",
         "start_date_time": "2026-08-05T18:30:00",
-        "detail": "Time: 2026-08-05T18:30:00",
+        "detail": "Time: 2026-08-05T18:30:00\n\nUpscale-casual, globally-inspired dinner spot in Camden \u2014 chef-owned, energetic room, known for lobster ravioli and Brazilian moqueca.",
         "website": "https://www.google.com/maps/place/Fresh+and+Co/@44.2087599,-69.0653899,220m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c1c45124f:0x4b9a51c7971fb5d0!8m2!3d44.2091236!4d-69.0638126!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmlialZNWlhkQlJSQULgAQD6AQQIABBH!16s%2Fg%2F1tdg7d7v?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
