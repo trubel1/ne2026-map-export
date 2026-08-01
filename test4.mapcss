@@ -3,8 +3,26 @@ node {
     image-allow-overlap: true;
     text: eval(tag('name'));
     text-color: #333333;
+    font-size: 9;
+    text-priority: 1;
     details-text: eval(tag('name'));
     details-description: eval(tag('detail'));
+
+    [icon=utensils] { icon-image: "poi_restaurant.svg"; }
+    [icon=coffee]   { icon-image: "poi_cafe.svg"; }
+    [icon=hotel]    { icon-image: "poi_hotel.svg"; }
+    [icon=route]    { icon-image: "poi_tourism_attraction.svg"; }
+    [icon=star]     { icon-image: "poi_monument.svg"; }
+    [icon=alert-triangle] { icon-image: "poi_triangle.svg"; }
+    [icon=users]    { icon-image: "poi_community_centre.svg"; }
+    [icon=scroll]   { icon-image: "poi_museum.svg"; }
     [icon=sandwich] { icon-image: "poi_fast_food.svg"; }
-    [color=teal] { icon-tint: teal; }
+
+    [color=red]    { icon-tint: red; }
+    [color=blue]   { icon-tint: blue; }
+    [color=green]  { icon-tint: green; }
+    [color=orange] { icon-tint: orange; }
+    [color=purple] { icon-tint: purple; }
+    [color=yellow] { icon-tint: #E0C000; }
+    [color=teal]   { icon-tint: teal; }
 }

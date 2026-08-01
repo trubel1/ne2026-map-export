@@ -3,6 +3,8 @@ node {
     image-allow-overlap: true;
     text: eval(tag('name'));
     text-color: #333333;
+    font-size: 9;
+    text-priority: 1;
     details-text: eval(tag('name'));
     details-description: eval(tag('detail'));
 
