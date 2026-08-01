@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Website Tag Test",
+        "icon": "sandwich",
+        "color": "teal",
+        "website": "https://www.google.com/maps/place/Deuxave/@42.3495174,-71.0916957,812m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e37a04c2ac1b6f:0xb67531643a81095!8m2!3d42.3495135!4d-71.0891154!16s%2Fg%2F1tj1t2rv",
+        "phone": "+16175175915",
+        "detail": "Testing whether website/phone tags get native tappable treatment."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0916957,
+          42.3495174
+        ]
+      }
+    }
+  ]
+}
