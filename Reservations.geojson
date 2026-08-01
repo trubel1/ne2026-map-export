@@ -1,0 +1,991 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac Summit Road Bar Harbor ME (Visit 1)",
+        "icon": "route",
+        "color": "orange",
+        "detail": "To drive up the Cadillac Summit Road, you will need to book a vehicle reservation in advance through Recreation.gov.\n\nHere are the essential details you need to know before securing your slot:\n\n\ud83d\udcc5 Booking Windows & Availability\n\nBecause spaces fill up incredibly fast, tickets are released in two separate tiers:\n\n- 30% of tickets are released 90 days in advance on a rolling basis.\n- The remaining 70% are released at 10:00 AM ET exactly 2 days in advance. If you are looking for a last-minute slot for this week, setting an alarm for 10:00 AM two days before your desired drive is your best bet.\n\n\ud83d\ude97 Ticket Options & Rules\n\n- Cost: $6.00 per vehicle (non-refundable).\n- Ticket Types: You can choose a Sunrise ticket (entry window is typically 2 hours long) or a Daytime ticket (entry slots are every 30 minutes).\n- Length Limit: Vehicles must be under 21 feet long (including any hitch attachments or bike racks). Oversized vehicles or trailers are strictly prohibited.\n- Time Limits: While you must enter during your designated entry window, there is no departure time limit\u2014you can stay at the summit as long as you'd like until the road closes at 9:00 PM.\n\n\u26a0\ufe0f Important Reminders\n\n1. Park Entrance Pass Required: The $6 vehicle reservation is _in addition_ to your standard Acadia National Park Entrance Pass (or America the Beautiful Senior/Annual pass). You must have both.\n2. No Connectivity at the Gate: Cellular service is highly unreliable on the mountain. You must print your reservation QR code or save it as a digital copy/screenshot on your phone before heading up. They cannot look up your reservation at the check station.\n3. No Re-entry: Your ticket is good for a single entry only.\n\nThis Visit\n\nConfirmation #0864562614-1 \u2014 Sunrise, August 17, 2026, 7:00\u20137:30 AM entry window. Booked June 15, 2026.",
+        "website": "https://www.recreation.gov/timed-entry/400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2274,
+          44.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac Summit Road Bar Harbor ME (Visit 2)",
+        "icon": "route",
+        "color": "orange",
+        "detail": "See Cadillac Summit Road Bar Harbor ME (Visit 1) for full booking/rules details \u2014 same reservation system, second visit this trip.\n\nThis Visit\n\nConfirmation #0869855993-1 \u2014 Daytime, August 20, 2026, 9:00\u20139:30 AM entry window. Booked June 15, 2026.",
+        "website": "https://www.recreation.gov/timed-entry/400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2274,
+          44.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islesford Dock Restaurant and Gallery",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Islesford+Dock+Restaurant+and+Gallery/@44.2607362,-68.2476227,14.39z/data=!4m6!3m5!1s0x4caebb5540bbf797:0x87c7d07c912b1d8a!8m2!3d44.2607755!4d-68.2398167!16s%2Fg%2F1x5f9z3t?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23957252649859,
+          44.26174369390356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12 1st S St Bar Harbor ME",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "Rocko's Cottage, Bar Harbor \u2013 Review\nOverall: A genuinely local, hosted-with-care downtown cottage rather than an anonymous rental \u2014 consistently praised for cleanliness, hospitality, and an unbeatable walk-everywhere location.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home (2BR/1BA), ~900 sq ft\n- Sleeps: 4\n- Host: Lisa and Rick \u2014 Bar Harbor locals (Lisa 60+ years in town; Rick a recently-retired Jackson Laboratory engineer). This is their actual home, rented by the week only in summer.\n- Rate seen: ~$295/night (subject to change)\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: full kitchen, living room\n- Laundry: washer & dryer on site\n- Outdoor: deck/patio\n- Climate: A/C, heater, fireplace\n- Connectivity: internet, cable/satellite\n- Parking: on-site; pets welcome\n\n---\n\n\ud83d\udccd Location & Neighborhood\nDowntown Bar Harbor, an easy walk to nearly everything \u2014 the free Island Explorer bus hub is two blocks away, and restaurants, the Village Green, Abbe Museum, Bar Harbor Historical Society, and Jesup Memorial Library are all within about 0.2\u20130.4 miles. No need to worry about parking once you're settled in.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nHosts live locally and have historically greeted guests in person at arrival.\n\n---\n\n\u2b50 Host & Reviews\nReviews consistently highlight excellent communication, an immaculately clean home, and hosts who \"think of every little thing\" \u2014 guests describe it as a step above typical VRBO stays. Everything in town is described as an easy, quiet walk from the cottage.\n\n---\n\n\ud83d\udc4d Pros\n- Real local hosts with a strong hospitality track record\n- Unbeatable walkable downtown location\n- Consistently spotless\n\n---\n\n\ud83d\udc4e Cons\n- Small footprint (900 sq ft, 1 bath) \u2014 best for a couple or small family, not a large group\n- Only available by the week in summer (less flexible for short stays)\n\n---\n\n\ud83c\udfaf Best For\nCouples or small families who want to walk everywhere in downtown Bar Harbor without a car.\n\n---\n\n\ud83d\udd17 Sources\n- Rocko's Cottage Nestled in the Heart of Downtown Bar Harbor",
+        "website": "https://www.vrbo.com/232330?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783459962610&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=561&destination=Bar+Harbor%2C+Maine%2C+United+States+of+America&destType=MARKET&neighborhoodId=890182262554296320&selected=33486288&latLong=44.387673%2C-68.205357&searchId=3dc8cc51-f527-45da-b347-f283a7671201&sort=RECOMMENDED&userIntent=&expediaPropertyId=33486288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20437119395062,
+          44.38478503341662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40 Paper Camden ME 1",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/40+Paper/@44.2090357,-69.0704308,518m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c83007275:0x36276ea03da782e8!8m2!3d44.2106493!4d-69.0677745!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2VjbGVjdGljX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBvVDFwV2J6TlRNVlo2VEZSU2NrOUVaRTFoVlVaSVlrWk5NRmd4UlJBQuABAPoBBAgAEEA!16s%2Fg%2F1tf815rh?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06774628344897,
+          44.21075151151168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "46 Jackson St, Littleton NH",
+        "icon": "hotel",
+        "color": "purple",
+        "detail": "Home in Littleton \u2013 Review\nOverall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91\u2605, 56 reviews) \u2014 walkable to Main Street with a mountain view.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home, colonial\n- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)\n- Bathrooms: 1.5\n- Max guests: 6\n- Host: Deborah A \u2014 Superhost, 8 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: yes\n- Laundry: washer & dryer\n- Outdoor: mountain view\n- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace\n- Parking: free driveway parking (4 spaces)\n- Other: 40\" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed\n- Note: must climb stairs\n\n---\n\n\ud83d\udccd Location & Neighborhood\nWalk to award-winning Main Street \u2014 shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nCheck-in after 3:00 PM, checkout before 12:00 PM. Pets allowed.\n\n---\n\n\u2b50 Host & Reviews\nDeborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.\n\n---\n\n\ud83d\udc4d Pros\n- Superhost with a strong, well-established review record\n- Spacious for a group (3BR/7 beds/6 guests)\n- Free driveway parking and fast Wi-Fi/workspace \u2014 good for remote work days\n- Walkable to Main Street\n\n---\n\n\ud83d\udc4e Cons\n- Only 1.5 baths for up to 6 guests\n- Some bedrooms have less conventional bed setups (bunk/single mixed in) \u2014 check fit for your group\n\n---\n\n\ud83c\udfaf Best For\nA group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.",
+        "website": "https://www.airbnb.com/rooms/626085727753547407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77205075815117,
+          44.307760774011804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AirBnB 442 Main St Chatham MA",
+        "icon": "hotel",
+        "color": "purple",
+        "detail": "Full Renovation! Amazing Spot with Views! \u2013 Review\nOverall: A bright, fully renovated second-story condo right on Main Street, professionally managed by a long-established Superhost with an excellent review record (4.93\u2605, 151 reviews) \u2014 modern and turnkey, walkable to everything downtown.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire condominium, second-story walkup\n- Bedrooms / Beds: 2 bedrooms, 2 beds (1 king, 1 double)\n- Bathrooms: 1\n- Max guests: 4\n- Host: Del Mar Vacations \u2014 Superhost, 10 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: bright kitchen/living area, new appliances, island seating\n- Laundry: washer & dryer\n- Outdoor: deck with a gas grill\n- Climate: central A/C\n- Living area: large flat-screen TV, sectional couch\n- Pets: dogs welcomed, $40/night per dog fee\n- Linens: sheets and bath towels provided, beds made upon arrival\n\n---\n\n\ud83d\udccd Location & Neighborhood\nRight on Main Street \u2014 walkable to local shops, galleries, a movie theater, and restaurants (Impudent Oyster, Chatham Squire, Bluefins Sushi & Sake Bar, Wild Goose Tavern). About a 3-minute drive to Lighthouse Beach and Oyster Pond Beach.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nSelf check-in via smartlock, after 4:00 PM. Checkout before 9:00 AM (early \u2014 plan accordingly). Dogs allowed with a $40/night fee.\n\n---\n\n\u2b50 Host & Reviews\nDel Mar Vacations, Superhost with 10 years of hosting experience. 4.93 out of 5 stars across 151 reviews \u2014 a well-established, professionally managed property.\n\n---\n\n\ud83d\udc4d Pros\n- Completely renovated, modern condo right on Main Street\n- Strong, well-established review record\n- Outdoor deck with gas grill \u2014 good for cooking in\n- Linens/towels provided, beds made on arrival\n\n---\n\n\ud83d\udc4e Cons\n- Only 1 bathroom for 4 guests\n- Early checkout (9:00 AM)\n- Second-story walkup \u2014 worth checking for stairs if that's a concern\n- Extra pet fee if bringing a dog\n\n---\n\n\ud83c\udfaf Best For\nA couple or small family wanting a modern, low-maintenance, walkable Main Street base in Chatham.",
+        "website": "https://www.airbnb.com/rooms/32892701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95533703766199,
+          41.679467791198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alpine Tavern at The Wentworth Littleton NH",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18232697426697,
+          44.14724025571265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Bounty CIA Hyde Park, NY",
+        "icon": "coffee",
+        "color": "red",
+        "detail": "American Bounty CIA\n\n\ud83d\udccd 1946 Campus Drive, Hyde Park, NY 12538\n\nThe CIA's New American restaurant, on OpenTable's Top 100 Brunch list, showcasing Hudson Valley ingredients executed by advanced culinary students.\n\nMust Order\n- Sunday brunch prix fixe \u2014 the top 100 pick \u2014 outstanding value\n- Hudson Valley duck \u2014 a recurring signature\n- Seasonal vegetable dishes \u2014 among the most creative preparations\n\nTips\n- Brunch books faster than dinner \u2014 reserve early\n- Much more relaxed atmosphere than The Bocuse\n- Phone: (845) 471-6608 \u2014 10-minute grace period, call if running late\n- Located inside Roth Hall; enter campus following signs for \"Restaurant & Visitor Parking,\" park in the Anton Plaza garage\n- Campus is cashless \u2014 all major credit cards accepted",
+        "website": "https://www.opentable.com/r/american-bounty-at-the-culinary-institute-of-america-hyde-park?corrid=dcd2cd21-1c16-4db0-9116-3b22551c1fc1&avt=eyJ2IjozLCJtIjoxLCJwIjowLCJzIjoxLCJuIjowfQ&p=2&sd=2026-09-06T18%3A30%3A00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93287442593865,
+          41.74561639096278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aster & Rose Restaurant Camden ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Aster+%26+Rose+Restaurant/@44.2691958,-69.1002327,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cae775eb918804b:0x6d07c0c2faed1ed4!8m2!3d44.269192!4d-69.0976578!16s%2Fg%2F11swk7hf2q?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.09781,
+          44.26899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Branches Grill and Cafe Chatham MA",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Overview\nType: Restaurant  \n\nBest known for: Great food and exceptional service. Bathroom facilities are well-stocked.\n\nLocation context: Chatham, MA area  \n\nPrice level: $20\u201330 per person  \n\nVisit timing: Not mentioned  \n\nTypical Customers\nDemographics: Locals and tourists  \n\nGroup types: Couples and families  \n\nCommon occasions: Casual dining and dinner  \n\nVibe & Setting\nAtmosphere: Casual and friendly  \n\nNoise level: Moderate  \n\nDecor & setting: Indoor seating with an inviting atmosphere  \n\nService style: Attentive and personable  \n\nRecommended Dishes\nOverall dish consensus  \nPopular items include the Crab and Corn Chowder, Jerk Chicken Combo, and Escovitch Fish, praised for their flavors and preparations.\n\nHow \u201ctop dishes\u201d are determined  \nTop dishes are chosen based on their appearance in multiple reviews and photos, along with strong praise from visitors mentioning their enjoyment.\n\n| Rank | Dish                          | Why it stands out                                    | How often it\u2019s mentioned     | Ideal for                    |\n|------|-------------------------------|------------------------------------------------------|-------------------------------|-------------------------------|\n| 1    | Crab and Corn Chowder        | Perfectly seasoned and absolutely delicious.         | Mentioned in several reviews. | Great for sharing             |\n| 2    | Jerk Chicken Combo Meal      | Large portions with balanced flavors and sauces.     | Repeatedly called out as a favorite. | Hearty main                  |\n| 3    | Escovitch Fish               | Fresh and flavorful, a highlight of the menu.       | Appears in numerous photos.   | Good for special occasions    |\n\nGood alternates / backup choices  \n- Grilled Lemon Pepper Shrimp: Noted for its delicious flavor.\n- Surf and Turf: Comforting and generous serving size.\n\nHighlights (non-dish positives from reviews)\nFriendly Service: Many reviews highlight the attentive and personable service, contributing to a pleasant dining experience.\n\nClean Facilities: Reviewers frequently mention the cleanliness and well-stocked bathroom, enhancing the overall impression of the restaurant.\n\nCommon Issues (from reviews)\nBusy Times: Not mentioned.\n\nLong Waits: Some guests reported longer waits during peak hours, like dinner service.\n\nPractical Notes\nReservation / wait: Not mentioned  \n\nAccessibility: Not mentioned  \n\nParking / transit: Ample street parking available in the area.  \n\nBest use case: Best for casual dinners and family outings.  \n\nGuest-Favorite Dish & Drink Recommendations\n\nAcross OpenTable, Google, and Tripadvisor reviews, several dishes stand out as crowd favorites:\n\n- Jerk Chicken (Combo or Quesadilla): Tender, juicy chicken marinated in classic Jamaican spices. The jerk quesadilla\u2014packed with melted cheese and seasoned meat\u2014is a top-rated appetizer.\n    \n- Curried Goat: Slow-cooked until tender in rich, aromatic curry spices, served alongside fragrant rice, beans, and sweet fried plantains.\n    \n- Ian\u2019s Rum Punch: The restaurant\u2019s signature cocktail, lauded by reviewers as smooth, perfectly balanced, and essential for starting the meal.\n    \n- Grilled Lemon Pepper Shrimp & Eggplant: A fresh, lighter entree pairing charred seafood with seasonal vegetables.\n    \n- Pumpkin Soup & Jamaican Festival: Highly recommended comforting starters featuring homemade island seasonings.",
+        "website": "https://www.google.com/maps/place/Branches+Grill+and+Cafe/@41.6786019,-69.9899069,4128m/data=!3m1!1e3!4m11!1m3!2m2!1sRestaurants!6e5!3m6!1s0x89fb15cb4bc13357:0xedf3edca99b94bda!8m2!3d41.6892421!4d-69.9663327!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnh3ZEZWdGJGSlhha0p5VW0xM2VWVkZNREZrV0dSRlpWWnNkbEZ1WXhBQuABAPoBBAgAEDg!16s%2Fg%2F11gzqvr4yg?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96610307363441,
+          41.68900537080297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Louis - Costa Media Camden ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Cafe+Louis+-+Costa+Media/@44.2082064,-69.0698581,576m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7deb7ed5a19:0x6a4b739c53f5fdd2!8m2!3d44.2081533!4d-69.0666541!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXhibUZmYUdsQlJSQULgAQD6AQQIHhA9!16s%2Fg%2F11y1qxd_kp?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06666231462867,
+          44.2082545032899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Del Mar Bar & Bistro Chatham MA",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Del Mar Bar & Bistro\n\n\ud83d\udccd 907 Main St, Chatham, MA 02633\n\nA cool, coastal-elegant nightspot for eating, drinking, and socializing \u2014 native seafood, bistro classics, and wood-fired thin-crust pizzas paired with a strong cocktail and wine list. Rated #2 of 56 restaurants in Chatham on Tripadvisor (4.6) and 4.7 on Google across 300+ reviews; one reviewer called it \"one of the best all-around restaurants on Cape Cod.\"\n\nMust Order\n- Fig & prosciutto wood-fired pizza \u2014 repeatedly singled out as one of the best non-traditional pizzas on the menu\n- Maple-glazed roasted duckling with bourbon cherries \u2014 a standout main\n- Wild mushroom & brie tart \u2014 rich, well-balanced starter\n- Oysters Rockefeller and braised short rib \u2014 recurring menu favorites\n- Lemon Drop martini \u2014 the cocktail program is a genuine strength, not an afterthought\n- Ask about the Japanese pumpkin ravioli if it's running as a special \u2014 it's not a permanent menu item\n\nTips\n- Reservations strongly recommended \u2014 this place books up quickly, especially in-season\n- On the pricier side (entr\u00e9es/shared plates $30-50+; a couple with cocktails or wine can run $150-250), but reviewers consistently feel the quality justifies it\n- Multiple dining spaces, including a covered patio strung with lights \u2014 nice for a warm-weather date night\n- Dinner only, Monday\u2013Saturday, 4:30 PM to close",
+        "website": "https://www.google.com/maps/place/Del+Mar+Bar+%26+Bistro/@41.6786019,-69.9899069,4128m/data=!3m1!1e3!4m11!1m3!2m2!1sRestaurants!6e5!3m6!1s0x89fb14bd01846881:0x25bef925d5453213!8m2!3d41.6860075!4d-69.9694353!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBBmJpc3Ryb5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOU0xYVkxTVmRuRUFF4AEA-gEECCEQPQ!16s%2Fg%2F1tdksvgl?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96943050804009,
+          41.686844805455145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franny's Bistro Aug 11 Camden ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Reservation confirmation (Aug 11)",
+        "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06402174693756,
+          44.2079792946598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franny's Bistro Camden ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Day: `=dateformat(this.start-date-time, \"cccc\")`\n \n Day: `=dateformat(this.start-date-time, \"cccc\")`\nReservation confirmation (Aug 5)",
+        "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06402174693756,
+          44.2079792946598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant's Stowe VT",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Here is the summary of your upcoming dinner reservation at Grant's:\n\n- Date: Tuesday, September 1, 2026\n    \n- Time: 6:30 PM (EDT)\n    \n- Party Size: 2 people\n    \n- Location: Dining Room\n    \n- Address: 123 Mountain Road, Stowe, VT 05672, US\n    \n- Confirmation ID: AB6F-B454-4C17-7BA0\n\nReservation confirmation (Sep 1)",
+        "website": "https://www.google.com/maps/place/Grant's/@44.4647265,-72.6917657,1747m/data=!3m1!1e3!4m6!3m5!1s0x4cb597b0f14471d9:0x443d6d7c0f9143cd!8m2!3d44.46661!4d-72.6887308!16s%2Fg%2F11tp164830?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68891,
+          44.46674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Bella Vita Kitchen and Bar Chatham MA",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/La+Bella+Vita+Kitchen+and+Bar/@41.7866321,-69.9972985,3259m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89fb698520a7d9cf:0x3afe5685c57b07a9!2sLa+Bella+Vita+Kitchen+and+Bar!8m2!3d41.7866326!4d-69.9870202!16s%2Fg%2F11fvglg5s4!3m5!1s0x89fb698520a7d9cf:0x3afe5685c57b07a9!8m2!3d41.7866326!4d-69.9870202!16s%2Fg%2F11fvglg5s4?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98700562404723,
+          41.78736869866472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Voile",
+        "icon": "wine",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/La+Voile/@42.34957,-71.0858194,819m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e37a0fa7fdb08d:0x5e69932da6f3fd55!8m2!3d42.3495661!4d-71.0832445!16s%2Fg%2F1tdcy2tb?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0832869577244,
+          42.34968355756723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McKay's Public House Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20437563990602,
+          44.38630193556034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mooncussers Tavern Chatham MA",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Mooncussers+Tavern/@41.676934,-70.0995467,3265m/data=!3m1!1e3!4m11!3m10!1s0x89fb3e509f18d17d:0x65165751e7229b15!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6769345!4d-70.0892684!16s%2Fg%2F1td2cckh?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0891026021052,
+          41.6774461392735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NoCo AirBnB North Conway NH",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "NoCo Village Den, North Conway \u2013 Review\nOverall: A quiet-street, family-oriented rental branded \"Your North Conway Adventure Hub\" \u2014 walkable to the village center, well-stocked for cooking and kids, with outdoor space for downtime between hikes.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing name: NoCo Village Den (\"North Conway Adventure Hub! Walk to Shops & Dining\")\n- Host: managed via Hospitable (self-managed short-term rental)\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: full kitchen with stainless appliances (range, hood, fridge w/ ice maker, dishwasher), Ninja Air Fryer/Toaster Oven, Instant Pot, blender, cookware and bakeware; also stocked with kids' plates, bowls, sippy cups, and toddler utensils\n- Laundry: newly renovated half-bath combined with washer & dryer\n- Outdoor: deck, lawn, fire pit \u2014 set back off a quiet street\n- Parking: on-site\n\n---\n\n\ud83d\udccd Location & Neighborhood\nSchouler Park & Playground, Zeb's, and North Conway's shops/restaurants/coffee are all walkable. Hiking trails, Cranmore Mountain Resort, and the Settlers Green outlets are a short drive away.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nNot confirmed from available sources \u2014 check the listing directly before travel.\n\n---\n\n\u2b50 Host & Reviews\nNot confirmed from available sources.\n\n---\n\n\ud83d\udc4d Pros\n- Well-equipped kitchen, including gear for cooking with kids\n- Quiet street with real outdoor space (deck/lawn/fire pit)\n- Walkable to the village center\n\n---\n\n\ud83d\udc4e Cons\n- Only a half-bath with the laundry combo (verify full bathroom count before travel)\n- Specific guest-review sentiment not available from public search\n\n---\n\n\ud83c\udfaf Best For\nFamilies wanting a walkable, self-catering base near North Conway village and the White Mountains trailheads.\n\n---\n\n\ud83d\udd17 Sources\n- North Conway Adventure Hub! Walk to Shops & Dining | \"NoCo Village Den\"",
+        "website": "https://www.vrbo.com/4462408?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783460125958&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=911698014578778112&destination=North+Conway+Village%2C+North+Conway%2C+New+Hampshire%2C+United+States+of+America&destType=BOUNDING_BOX&neighborhoodId=911698014578778112&latLong=44.053646%2C-71.123863&searchId=890d9e68-2325-4880-aae0-9cf305eaf74c&sort=RECOMMENDED&semcid=VRBO-US.UB.GOOGLE.DT-c-EN.VR&semdtl=a112239513975.b1116712253345.g1aud-2486215136849%3Akwd-47975641.e1c.m1CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE.r18649645b7946865b48fddb928e649676810f69faa86a5b6127c902552c48b6db.c1.j19012019.k1.d1496097377157.h1e.i1.l1.n1.o1.p1.q1.s1inns+north+conway%2C+nh.t1.x1.f1.u1.v1.w1&gclid=CjwKCAjwx7LSBhB3EiwAjcodxP40VRbwW8s8Ezx5KolOqK1c0LoNCzogugB0bz28OVlka47LXlbOABoCWqUQAvD_BwE&userIntent=&expediaPropertyId=113553680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12328184886388,
+          44.0525975852248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakes & Evelyn - Woodstock VT",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54907771751357,
+          43.613353146781954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pain d\u2019Avignon Restaurant Boulangerie Chatham MA",
+        "icon": "coffee",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Pain+d%E2%80%99Avignon+Restaurant+Boulangerie/@41.7076199,-70.3581593,104463m/data=!3m1!1e3!4m10!1m2!2m1!1sPain+d%E2%80%99Avignon+Restaurant+Boulangerie!3m6!1s0x89fb15340d0a666d:0x5fd0057c73aa13e7!8m2!3d41.687133!4d-69.9673906!15sCidQYWluIGTigJlBdmlnbm9uIFJlc3RhdXJhbnQgQm91bGFuZ2VyaWVaJyIlcGFpbiBkIGF2aWdub24gcmVzdGF1cmFudCBib3VsYW5nZXJpZZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11y75fg33m?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96721840069635,
+          41.70695739487517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pates Restaurant Chatham MA",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Pates+Restaurant/@41.6851626,-69.9912271,3264m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb14ea9ab0633f:0x21ec85887f01471f!8m2!3d41.6851631!4d-69.9809488!16s%2Fg%2F1v4k7k53?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98103665716778,
+          41.68577101070748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Wharf Camden ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Salt Wharf is a dining establishment known for its seafood, particularly dishes like mussels and lobster tortellini. It caters to a variety of customers, including couples celebrating special occasions and groups looking for a memorable dining experience. The overall vibe is a mix of casual and upscale, with a lively atmosphere, especially during happy hour.\n\nCustomers consistently praise the delicious food, stunning location, and excellent cocktails. Additionally, the service, although sometimes noted as feeling intimidated, is generally described as decent.\n\nSome common downsides include the need for reservations due to limited space, and the potential for close seating with other parties which may affect privacy during dining.\n\nReservation confirmation (Aug 9)",
+        "website": "https://www.google.com/maps/place/Salt+Wharf/@44.2092873,-69.0624444,181m/data=!3m1!1e3!4m6!3m5!1s0x4cadd75917dd6427:0xa1440bf2564023cb!8m2!3d44.2091477!4d-69.060989!16s%2Fg%2F11rv9bpsgv?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06098292392748,
+          44.209174873871106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simon Pearce 1 Hartford VT",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Simon+Pearce/@43.6460589,-72.4220369,795m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4cca0fca5cd17:0xc2f3e6a3d6ab104c!8m2!3d43.646055!4d-72.419462!16s%2Fm%2F021fw2n?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.41944,
+          43.64594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Table Salt Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Table+Salt/@44.3869713,-68.2069076,781m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4caebf894087db6d:0xe16b9d26ffdebc05!2sTable+Salt!8m2!3d44.3869713!4d-68.2043327!16s%2Fg%2F11xdhn5npq!3m5!1s0x4caebf894087db6d:0xe16b9d26ffdebc05!8m2!3d44.3869713!4d-68.2043327!16s%2Fg%2F11xdhn5npq?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20427929429857,
+          44.38710210493145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bocuse Restaurant CIA Hyde Park, NY",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "The Bocuse Restaurant CIA\n\n\ud83d\udccd Hyde Park, NY\n\nStudent-run French fine dining at the Culinary Institute of America \u2014 a Michelin-level experience at a fraction of NYC prices, executed by CIA's most advanced students.\n\nMust Order\n- Classic French tasting menu \u2014 changes seasonally\n- Souffl\u00e9 \u2014 a CIA signature \u2014 order it at the start of the meal\n- Cheese course \u2014 exceptional selection curated by CIA faculty\n\nTips\n- Reserve 2\u20133 weeks in advance \u2014 essential\n- Lunch is slightly more relaxed than dinner\n- Smart casual dress expected",
+        "website": "https://www.opentable.com/r/the-bocuse-restaurant-at-the-culinary-institute-of-america-hyde-park?corrid=dabacd31-2e38-459b-b007-c9fd2968f3db&avt=eyJ2IjozLCJtIjowLCJwIjowLCJzIjoxLCJuIjowfQ&p=2&sd=2026-09-06T18%3A30%3A00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93287442593865,
+          41.74561639096278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Heartwood at Vassar Poughkeepsie NY",
+        "icon": "hotel",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/The+Heartwood+at+Vassar/@41.6912527,-73.9103075,1679m/data=!3m1!1e3!4m18!1m6!2m5!1sHotels!5m3!5m2!1s2026-09-21!2i4!3m10!1s0x89dd3e50a011abff:0x44f9066fb98a01c!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6905804!4d-73.9007203!16s%2Fg%2F11w1kf88xw?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90073803500404,
+          41.69056236115042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Oyster Company Chatham MA",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/The+Oyster+Company/@41.6663164,-70.1287526,816m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89fb3ebc60be4c4b:0xba6f2880c1a00f7d!2sThe+Oyster+Company!8m2!3d41.6663164!4d-70.1261777!16s%2Fg%2F1td1l0gt!3m5!1s0x89fb3ebc60be4c4b:0xba6f2880c1a00f7d!8m2!3d41.6663164!4d-70.1261777!16s%2Fg%2F1td1l0gt?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.12627346541987,
+          41.66646834456841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Salt Line Poughkeepsie NY 2",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "The Salt Line is a restaurant known for its diverse menu featuring dishes such as Grass Fed Steak and Long Island Duck. It attracts a mix of patrons, including couples on date nights, families, and LGBTQ+ groups, often for celebrations and casual dining occasions. The atmosphere is upscale yet inviting, with a lively vibe enhanced by excellent service and a focus on delicious food. Customers consistently praise the perfectly cooked chicken, attentive service, and the overall enjoyable dining experience. Common criticisms are not explicitly mentioned, but some customers may find wait times longer during busy periods.\n\nNote: Confirmed via Resy \"Reservation Booked\" confirmation \u2014 Wed, Sep 23 at 6:30pm, 2 guests, Dining Room. No cancellation fee, but please cancel at least 24 hours in advance. Third and final Salt Line visit alongside Sep 22 (4 guests) and Sep 24 (5 guests, has a $15/guest cancellation fee).",
+        "website": "https://www.google.com/maps/place/The+Salt+Line/@41.6892315,-73.9015897,608m/data=!3m1!1e3!4m20!1m8!3m7!1s0x89c2b9b935200001:0xa7fbe7f1959624e!2sHudson+Valley,+NY!3b1!8m2!3d41.9209018!4d-73.9612887!16zL20vMDI5anF2!3m10!1s0x89dd3f0066b164a7:0x6c4617546701e16b!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6906907!4d-73.9006066!16s%2Fg%2F11w55vmqj7?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90061797850427,
+          41.69083481802939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vic Tavern at the Village Inn Woodstock VT",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Reservation confirmation (Sep 5)",
+        "website": "https://www.google.com/maps/place/The+Vic+Tavern+at+the+Village+Inn/@43.6281786,-72.581644,12275m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d963abbd894d:0xd622738d49e220c!8m2!3d43.6265551!4d-72.5112162!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5ZWjB4dFUxbFJFQUXgAQD6AQQIFBBB!16s%2Fg%2F11v0jw6kqt?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.51171378019312,
+          43.62881851648997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Westin Portland Harborview Portland ME",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/The+Westin+Portland+Harborview/@43.6505431,-70.2747594,3669m/data=!3m2!1e3!5s0x4cb29c139f0f3e7f:0x8d4243599d50c377!4m16!1m3!2m2!1swestin!6e4!3m11!1s0x4cb29c1150fe1919:0x604dfd1f1dbe0271!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d43.6548418!4d-70.2640432!15sCgZ3ZXN0aW4iA4gBAVoIIgZ3ZXN0aW6SAQVob3RlbOABAA!16s%2Fm%2F09k6vgp?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.26414478187155,
+          43.654795157599246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Mountain Cider Co",
+        "icon": "wine",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/White+Mountain+Cider+Co/@44.1040611,-71.1954694,789m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb398b772333577:0x63b4e141f95f80aa!8m2!3d44.1040611!4d-71.1954694!16s%2Fg%2F1tcx13sn?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19549085725357,
+          44.1039802080996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodstock AirBnB Woodstock VT",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "Woodstock Carriage House \u2013 Review\nOverall: A secluded, fully-renovated carriage house on a private 280-acre working estate \u2014 a quiet, scenic retreat rather than a downtown stay, about 2 miles from Woodstock village.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing name: Woodstock Carriage House (280 acres, views, gardens, skiing, farm)\n- Property type: Converted carriage house, formerly the horse caretaker's residence\n- Distance to town: ~2 miles from downtown Woodstock\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Fully furnished\n- Outdoor: deck with views over the estate's fields and mountains\n- Practical: slate-floor ski/mud entrance, separate back entrance for storing bikes/ski gear and changing out of active wear\n- Parking: doorstep parking\n\n---\n\n\ud83d\udccd Location & Neighborhood\nSet within a private, undeveloped 280-acre property with multiple secluded ponds (trout fishing, and wildlife viewing \u2014 deer, ducks, birds of prey). Convenient to Killington, Pico, Okemo, and Suicide Six ski areas, plus downtown Woodstock restaurants, shopping, fishing, and hiking.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nNot confirmed from available sources \u2014 check the listing directly.\n\n---\n\n\u2b50 Host & Reviews\nNot confirmed from available sources, but the listing appears frequently and prominently in Woodstock, VT vacation rental searches.\n\n---\n\n\ud83d\udc4d Pros\n- Genuinely secluded, private setting rare for a base camp this close to town\n- Real outdoor access \u2014 ponds, fields, wildlife, mountain views\n- Practical mudroom/gear entrance suited to an active outdoor trip\n\n---\n\n\ud83d\udc4e Cons\n- 2 miles from downtown means a car is needed for anything in town (not a walkable base camp)\n- Remote setting may not suit travelers wanting quick in-town access\n\n---\n\n\ud83c\udfaf Best For\nTravelers who want a quiet, scenic retreat near Woodstock and easy access to the surrounding ski areas, rather than a walkable in-town stay.\n\n---\n\n\ud83d\udd17 Sources\n- Woodstock Carriage House-280 acres-Views-Gardens-Skiing-Farm",
+        "website": "https://www.vrbo.com/104613ha?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783460599483&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=10868&destination=Woodstock%2C+Vermont%2C+United+States+of+America&destType=MARKET&latLong=43.624245%2C-72.518509&searchId=955cf04a-220f-43f0-9779-dc43f2c80688&sort=RECOMMENDED&userIntent=&expediaPropertyId=33559745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5084507,
+          43.6448009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "von Trapp Family Lodge & Resort Dining Room 1 Stowe VT",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4649088,-72.7459202,411m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74542626928272,
+          44.46515632538096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "von Trapp Family Lodge & Resort Dining Room Stowe VT",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4649088,-72.7459202,411m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74542626928272,
+          44.46515632538096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "von Trapp Family Lodge & Resort Lounge Stowe VT",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "The von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is best known for its picturesque surroundings and family-friendly atmosphere, attracting visitors seeking a casual outdoor experience.\n\nTypical customers include families, couples, and groups looking for leisure activities, especially during winter and summer vacations. The vibe is informal and cozy, offering a mix of recreational options and a welcoming environment.\n\nStrengths noted in reviews include the immaculate cleanliness of the lodge, the excellent staff service, and the beautiful grounds. Guests also appreciate the resort's family-friendly amenities and its pet-friendly policy.\n\nCommon downsides mentioned include discomfort with some pillows reported as too soft, and occasional concerns about timing for scheduled tours due to strict management.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4652093,-72.7452802,144m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74473086451796,
+          44.46550086752873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasserie LeBrun Bar Harbor ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "What it is:\u00a0An elegant French brasserie in Bar Harbor specializing in elevated classics like steak frites, oysters, and seasonal entrees.\n\nCustomers:\u00a0Diners seeking an upscale, high-quality dinner; couples, travelers, and food enthusiasts who appreciate fine-dining preparation in a refined setting.\n\nVibe:\u00a0Elegant, sophisticated, and polished; refined atmosphere suitable for special occasions, yet welcoming and hospitable.\n\nStrongest positives:\n\n- Exceptional food quality described as \"altering\" one's dining experience, with highlights including steak frites, short ribs, and tuna tartare\n- High-quality, attentive, and welcoming service (hostess and servers specifically praised)\n- Elegant, sophisticated atmosphere\n- Consistently cited as a \"best restaurant\" experience in Bar Harbor\n\nDownsides:\n\n- Some dishes are considered pricey relative to the portion size (e.g., pork belly, mushroom side)",
+        "website": "https://www.google.com/maps/place/Brasserie+LeBrun/@44.3887341,-68.2140074,698m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf7c736bae5b:0x60d1a9deddec1fd!8m2!3d44.3888304!4d-68.2097356!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklhMDFQVGt0QkVBReABAPoBBQiFBBBA!16s%2Fg%2F11stqk3gmj?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2096343749257,
+          44.388952884567544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David's Restaurant Portland ME",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/David's+Restaurant/@43.6570131,-70.2614741,1590m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb29c14e7fc930f:0xa886cb834e4173e5!2sDavid's+Restaurant!8m2!3d43.6570092!4d-70.2588992!16s%2Fg%2F1tdyqd45!3m5!1s0x4cb29c14e7fc930f:0xa886cb834e4173e5!8m2!3d43.6570092!4d-70.2588992!16s%2Fg%2F1tdyqd45?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25887607046147,
+          43.657176132713786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havana Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "What it is:\u00a0Upscale Latin American restaurant featuring a contemporary blend of Latin and American cuisine with signature dishes like seafood paella, lobster moqueca, and lobster cake.\n\nCustomers:\u00a0Diners seeking fine dining experiences\u2014couples, special occasions, travelers; LGBTQ+ friendly environment.\n\nVibe:\u00a0Classy, colorful, upscale; elegant ambiance with attentive service; dine-in only.\n\nStrongest positives:\n\n- Exceptional seafood dishes: lobster paella and moqueca (each mentioned in 75+ reviews); mussels praised as \"best we have ever eaten\"\n- Lobster cake (mentioned in 125 reviews)\n- Impressive wine list and seasonal desserts\n- Warm, knowledgeable servers providing excellent recommendations\n\nDownsides:\n\n- None consistently mentioned across reviews",
+        "website": "https://www.google.com/maps/place/Havana/@44.3854121,-68.2046771,137a,35y,125.7h,44.99t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m5!1s0x4caebf65b05732db:0x2cb64a1b062406e4!8m2!3d44.3841514!4d-68.2031965!16s%2Fg%2F1tfdd1ff?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20329668301032,
+          44.384187906589084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isa Bistro",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Isa+Bistro/@43.6549541,-70.2663707,1586m/data=!3m1!1e3!4m19!1m11!2m10!1sRestaurants!3m5!2sThe+Westin+Portland+Harborview!3s0x4cb29c1150fe1919:0x604dfd1f1dbe0271!4m2!1d-70.2640432!2d43.6548418!5m1!4e9!6e5!3m6!1s0x4cb29c12ee43330f:0xa3f1ff835a50f1ee!8m2!3d43.6580908!4d-70.2649402!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBBmJpc3Ryb5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSd2RYTkxlWGRCUlJBQuABAPoBBAgWEEg!16s%2Fg%2F11byck3h39?entry=ttu&g_ep=EgoyMDI2MDcyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.26486390544622,
+          43.65826333330157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LUNE Chatham MA",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/LUNE/@41.6667198,-70.1370676,3277m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89fb3f4813fab2ed:0x181a0e3b4b63ecfa!2sLUNE!8m2!3d41.6667219!4d-70.1267538!16s%2Fg%2F11vzv8d_4l!3m5!1s0x89fb3f4813fab2ed:0x181a0e3b4b63ecfa!8m2!3d41.6667219!4d-70.1267538!16s%2Fg%2F11vzv8d_4l?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1267947669113,
+          41.667201956938406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mr Tuna Portland ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Mr. Tuna\n\n\ud83d\udccd 83 Middle Street, Portland, ME\n\nMr. Tuna is one of Portland's most acclaimed restaurants, full stop. Chef Jordan Rubin is a James Beard Nominee for Best Chef: Northeast and a Food & Wine Best New Chef (2025). The restaurant was named #6 Best Restaurant in the Country by Food & Wine.\n\nMust Order\n- Tuna de Tigre \u2014 ceviche-style blend of Peruvian and Thai flavors; named one of the 26 best dishes in the USA by the NY Times (2024)\n- Tuna Tasting \u2014 a four-cut journey through local Maine bluefin\n- Torched halibut deluxe maki \u2014 pickled red onion, aji amarillo, avocado, acid-cured shishito, cilantro\n- Lunch bento box \u2014 the best value on the menu\n- Sushi burrito \u2014 a lunch-only crowd favorite\n\nTips\n- Open 11am\u20139:30pm daily; lunch bento specials run midday\n- Portions are small and prices reflect the quality \u2014 budget $30+ for a satisfying lunch\n- Honored with the Innovation Award from Gulf of Maine Research Institute for responsible sourcing\n- Steps from Eventide and Duckfat \u2014 do all three on the same afternoon",
+        "website": "https://www.google.com/maps/place/Mr.+Tuna,+83+Middle+St,+Portland,+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2515201,
+          43.6595864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalie's Restaurant at Camden Harbour Inn, A Member of Small Luxury Hotels ME",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Natalie's+Restaurant+at+Camden+Harbour+Inn,+A+Member+of+Small+Luxury+Hotels/@44.2057117,-69.0626585,175m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70fb9257661:0x31ca8e1d87368211!8m2!3d44.2057774!4d-69.0616898!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFm5ld19lbmdsYW5kX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1vrq96_r?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06170789286627,
+          44.20582958948347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nina June Rockport ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Nina+June/@44.1873577,-69.0753685,784m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cadd72ffeac25d5:0x4ae4a27eb17eb1d1!2sNina+June!8m2!3d44.1873577!4d-69.0727936!16s%2Fg%2F11c1nwggq3!3m5!1s0x4cadd72ffeac25d5:0x4ae4a27eb17eb1d1!8m2!3d44.1873577!4d-69.0727936!16s%2Fg%2F11c1nwggq3?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.07283198782667,
+          44.18756661760351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porcelli's Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "What it is:\u00a0Italian restaurant featuring handmade pasta dishes including pappardelle, mushroom gnocchi ragu, seafood risotto, osso buco, and cacio e pepe.\n\nCustomers:\u00a0Diners seeking elevated Italian cuisine without formality\u2014couples, groups, travelers; vegan-friendly options available.\n\nVibe:\u00a0Casual-to-upscale Italian; relaxed, welcoming atmosphere; described as \"a little Italian gem\" with elegant but unpretentious setting.\n\nStrongest positives:\n\n- Flavorful, high-quality handmade pasta and seafood risotto (with generous portions including lobster tail, scallops, shrimp, clams, mussels)\n- Fine dining food quality without stuffy atmosphere\n- Good wine selection\n- Attentive, friendly service; described as \"awesome\" and \"not overbearing\"\n- Vegan pasta options (gnocchi noted as \"fantastic\")\n\nDownsides:\n\n- Slow service between courses (waited over an hour between appetizer and entree)",
+        "website": "https://www.google.com/maps/place/Porcelli's/@44.3854121,-68.2046771,137a,35y,125.7h,44.99t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m5!1s0x4caebf000cab42d3:0xc533060515fc8430!8m2!3d44.3839032!4d-68.2036126!16s%2Fg%2F11y451bc5s?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20359500066851,
+          44.384005516263144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ports of Italy, Rockport Rockport ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Ports+of+Italy,+Rockport/@44.1906546,-69.0824852,784m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cadd7f58c73a11d:0xd0a50cc550173421!2sPorts+of+Italy,+Rockport!8m2!3d44.1906546!4d-69.0799103!16s%2Fg%2F11hpbwk0qb!3m5!1s0x4cadd7f58c73a11d:0xd0a50cc550173421!8m2!3d44.1906546!4d-69.0799103!16s%2Fg%2F11hpbwk0qb?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0798913330171,
+          44.19084747496062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Select Oyster Bar",
+        "icon": "wine",
+        "color": "red",
+        "detail": "on, MA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGUxZBD7zjULmdTJRQ5MyGEPaytG9cpz2Dpx-H52LHw&s)",
+        "website": "https://www.google.com/maps/place/Select+Oyster+Bar/@42.3485926,-71.0866886,812m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89e37a0f95a1549b:0xb1c0b98204eb6d11!2sSelect+Oyster+Bar!8m2!3d42.3485887!4d-71.0841083!16s%2Fg%2F11b6ghmbwx!3m5!1s0x89e37a0f95a1549b:0xb1c0b98204eb6d11!8m2!3d42.3485887!4d-71.0841083!16s%2Fg%2F11b6ghmbwx?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08402226944762,
+          42.3486121929773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lenox Hotel Boston MA",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "The Lenox Hotel, Boston \u2013 Review\nOverall: Charming, historic boutique hotel in an unbeatable Back Bay location, with standout service and a cozy, classic feel.[tripadvisor +2]\n---\nFast Facts\n\u2022\tLocation: 61 Exeter St, at Boylston, in Boston\u2019s Back Bay, steps from Newbury Street and Copley Square; very close to the Boston Marathon finish line.[yelp +1]\n\u2022\tStyle: Historic 1900 landmark building with classic architecture, traditional decor, and modern updates.[cntraveler +1]\n\u2022\tScale: ~215 guest rooms and suites.[lenoxhotel]\n\u2022\tVibe: Warm, \u201cold Boston\u201d character with a neighborhood feel; lots of repeat guests.[cntraveler +1]\n---\nLocation & Neighborhood\nThe Lenox sits in the heart of Back Bay, one block from Newbury Street\u2019s shops and caf\u00e9s and a short walk from the Prudential Center and Copley Square.  The area is excellent for dining, strolling after dinner, and accessing public transit (a few minutes\u2019 walk to the T).[travelweekly +2]\nFor first\u2011time visitors, the location balances a lively neighborhood feel with easy access to major sights; you can reach many attractions by foot or a quick train ride.[facebook +1]\n---\nRooms & Suites\nRooms are traditionally styled (think classic Boston rather than ultra\u2011modern), generally clean, comfortable, and well\u2011maintained, with some showing the quirks of an older building.  Guests often praise the charm and comfort of the rooms but note that some bathrooms could be more updated, even though they are kept clean.[tripadvisor +1]\nSuites, especially the Back Bay Suite, are more spacious and upscale, offering separate bedroom and living/dining areas, wet bar, and upgraded finishes.  Certain suites feature wood\u2011burning fireplaces and marble baths with embedded flat\u2011screen mirrors, giving a more luxurious, apartment\u2011style feel.[lenoxhotel]\n---\nCleanliness & Maintenance\nReviews consistently highlight good overall cleanliness across rooms and public areas.  Guests report feeling comfortable during their stay, with no pattern of issues around housekeeping.[jessicalitras +1]\nBecause it is a historic property, you may notice minor signs of age (smaller bathrooms in some rooms, slightly older fixtures), but these usually do not impact function or basic comfort.[tripadvisor +1]\n---\nService & Staff\nService is one of The Lenox\u2019s strongest points. Staff are frequently described as warm, professional, and genuinely helpful, contributing significantly to repeat visits.  Many guests call out front desk, bell staff, and concierge for going out of their way to assist, from luggage to local recommendations.[yelp +2]\nThe general tone of reviews suggests a personal, boutique feel rather than a big\u2011chain, transactional experience.[cntraveler +1]\n---\nAmenities & On\u2011Site Features\nThe hotel blends classic character with modern conveniences: Wi\u2011Fi, contemporary entertainment centers in upgraded rooms, and comfortable public spaces.  Select suites add features like fireplaces, wet bars, and enhanced bath amenities, which are appealing for longer stays or special occasions.[lenoxhotel +2]\nDining and bar options on\u2011site are positioned as cozy, local\u2011feeling spots rather than scene\u2011driven venues, which fits the overall boutique atmosphere.[lenoxhotel +1]\n---\nAtmosphere & Design\nThe Lenox leans into its historic 1900s roots, with classic architecture and traditional interiors rather than minimalist or ultra\u2011modern design.  Guests often comment on the hotel\u2019s \u201cBoston character\u201d and boutique charm, which contrasts with newer glass\u2011and\u2011steel properties nearby.[travelweekly +2]\nCommon areas feel intimate and warm, with a residential vibe that appeals to travelers who prefer personality over a corporate feel.[yelp +1]\n---\nPros\n\u2022\tExcellent Back Bay location for shopping, dining, and walking.[facebook +1]\n\u2022\tBoutique, historic charm with a strong sense of place.[travelweekly +1]\n\u2022\tConsistently praised service and friendly, attentive staff.[tripadvisor +2]\n\u2022\tComfortable, clean rooms; upgraded suites offer fireplaces and great views (including toward the Boston Marathon finish line in some cases).[lenoxhotel +2]\n---\nCons\n\u2022\tSome bathrooms and room details can feel a bit dated compared with brand\u2011new luxury hotels, even if they are clean.[tripadvisor]\n\u2022\tHistoric building means rooms and layouts may vary more than in newer properties; not ideal if you want a very standardized, modern look.[cntraveler +1]\n---\nBest For\n\u2022\tTravelers who value character, service, and location over cutting\u2011edge design.[yelp +1]\n\u2022\tFirst\u2011time visitors wanting to be in the middle of Back Bay near restaurants, shops, and the Marathon finish line.[facebook +1]\n\u2022\tCouples, solo travelers, and business guests who like a boutique feel; suites work well for longer stays or small gatherings.[lenoxhotel +1]\n---\nPersonal Take\nIf you want a classic Boston stay in Back Bay\u2014able to walk to Newbury Street, Copley, and plenty of restaurants\u2014The Lenox is a strong choice, especially if warm, attentive service matters to you.  If your priority is ultra\u2011modern design and big, spa\u2011like bathrooms, a newer luxury high\u2011rise might suit you better, but you would be trading away some of the Lenox\u2019s historic charm and boutique atmosphere.",
+        "website": "https://www.google.com/maps/place/The+Lenox+Hotel/@42.3492329,-71.0821029,812m/data=!3m2!1e3!5s0x89e37a0e8226384f:0x5413612e15e98680!4m11!3m10!1s0x89e37a0c29b7312d:0xb695c161551d8451!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d42.349229!4d-71.079528!16s%2Fm%2F0bbxqhr?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079439535973,
+          42.3493876766545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Norumbega Camden ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Quick lowdown\n\n- What to expect:\u00a0Upscale, cozy dinner/drinks in a historic 1886 stone \u201ccastle\u201d inn. Think date-night vibes, polished service, and a slower, relaxed meal.\n- What people rave about:\u00a0Warm hospitality\u00a0and\u00a0high-end comfort\u00a0are the consistent highlights; food praise tends to center on\u00a0local seafood.\n- What to order:\u00a0Prioritize\u00a0seafood-forward dishes\u00a0and\u00a0chef\u2019s seasonal specials\u00a0(usually the safest \u201cbest of\u201d at places like this).\n- What\u2019s special/unique:\u00a0The setting is the main draw\u2014castle-like historic property, romantic atmosphere, and a \u201cdestination\u201d feel even if you\u2019re just dining.\n- Hidden-gem angle:\u00a0If timing allows, arrive a bit early (or linger after) to enjoy the\u00a0property/ambience\u2014it\u2019s the kind of place where the surroundings are part of the experience.\n- Heads up:\u00a0It\u2019s an upscale spot\u2014dress a bit nicer than casual, and reservations are a good idea (you already have one).",
+        "website": "https://www.google.com/maps/place/The+Norumbega/@44.2178556,-69.0566583,17z/data=!4m11!3m10!1s0x4cadd7a47e75b3db:0x96cf127c84ea6021!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.2178556!4d-69.0566583!16s%2Fg%2F11cn8xlqjz?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05669048662135,
+          44.218051676761334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veranda at Balance Rock Inn Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Veranda+at+Balance+Rock+Inn/@44.3861715,-68.2076691,726m/data=!3m1!1e3!4m11!1m3!2m2!1sRestaurants!6e5!3m6!1s0x4caebf6309dc1e49:0xac2e693e1a4b64bf!8m2!3d44.3883819!4d-68.2012783!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFmZpbmVfZGluaW5nX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTktkelZ4VkU5UkVBReABAPoBBAgAEEE!16s%2Fg%2F11bttb79dk?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20142572229538,
+          44.38850720473573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vito Marcello's Italian Bistro",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Vito+Marcello's+Italian+Bistro/@44.0514106,-71.1295884,716m/data=!3m1!1e3!4m6!3m5!1s0x4cb3a0e3c9da571f:0xed5ac83c36801d77!8m2!3d44.0518923!4d-71.1253186!16s%2Fg%2F1262ppsbs?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12725311675452,
+          44.05141061676107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "twenty-eight Atlantic Chatham MA (Visit 1)",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "\u23e9 CHANGED: Originally booked for Fri, Sep 11 at 6:30pm \u2014 moved to Sat, Sep 12 at 6:30pm (Jul 26, 2026 change email), resolving a double-booking with Branches Grill and Cafe which keeps the Sep 11 slot. Confirmation #2110052411 unchanged. First of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 the second is Sep 18 (Visit 2), confirmation #2110050195.",
+        "website": "https://www.google.com/maps/place/twenty-eight+Atlantic/@41.7228278,-70.005598,3262m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb6b2c2c9eb68d:0x43679028a22560c6!8m2!3d41.7228283!4d-69.9953197!16s%2Fg%2F1tjfc93k?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99523924183245,
+          41.72337387982597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "von Trapp Family Lodge & Resort Stowe VT",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "The von Trapp Family Lodge & Resort is a 4-star hotel located in Stowe, known for its relaxed Alpine-style accommodations and proximity to ski slopes. It attracts a diverse clientele including families, couples, and business groups, particularly those seeking a scenic mountain getaway or hosting events. The overall vibe of the resort is casual yet polished, making it suitable for both leisure and business purposes.\n\nVisitors consistently praise the cleanliness and efficient service of the lodge, alongside its pleasant outdoor pool and fitness facilities. However, some guests mention issues with the softness of the pillows and the overall breakfast options, indicating a desire for improvement in these areas.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4654726,-72.7666041,6525m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74533598557375,
+          44.46506461767531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "twenty-eight Atlantic Chatham MA (Visit 2)",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "Note: Second of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 confirmation #2110050195, booked June 22, 2026. The first visit is Sep 11 (Visit 1), confirmation #2110052411.",
+        "website": "https://www.google.com/maps/place/twenty-eight+Atlantic/@41.7228278,-70.005598,3262m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb6b2c2c9eb68d:0x43679028a22560c6!8m2!3d41.7228283!4d-69.9953197!16s%2Fg%2F1tjfc93k?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99523924183245,
+          41.72337387982597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalie's Restaurant 2 Camden ME",
+        "icon": "hotel",
+        "color": "blue",
+        "detail": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0645,
+          44.2098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinner Bar Harbor ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "What it is:\u00a0A highly-rated American restaurant known for its flavorful, \"home-cooked\" style cuisine, with standout dishes including lobster risotto, schnitzel, curry mussels, and panko-encrusted halibut.\n\nCustomers:\u00a0Attracts locals and travelers alike, including world travelers and families looking for a high-quality, memorable dining experience in a welcoming setting.\n\nVibe:\u00a0Small-town energy; warm, unpretentious atmosphere where food is described as being \"cooked with love.\"\n\nStrongest positives:\n\n- Exceptional, flavorful food that many reviewers rank among the best they have ever eaten\n- Very kind, friendly, and attentive staff\n- Highly praised signature dishes like lobster risotto, schnitzel, and French onion soup\n- Great \"small-town\" atmosphere\n\nDownsides:\n\n- No significant recurring issues or downsides identified in recent reviews.\n\nNote: Reservation confirmed by telephone \u2014 (207) 901-0018. No email confirmation exists for this booking.",
+        "website": "https://www.google.com/maps/place/Dinner/@44.3886629,-68.2235514,1584m/data=!3m2!1e3!5s0x4caebf79398c221d:0x760efaa8d0294f9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf005b379c81:0xc72ad7b501a68b23!8m2!3d44.3886633!4d-68.2140236!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVrVmxwNmFHeGxha0V5V2pCV1psWXdkRnBaTTJod1dqQkdkMW94UlJBQuABAPoBBAguEEM!16s%2Fg%2F11vxy0p6s6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21403352345513,
+          44.38896600375487
+        ]
+      }
+    }
+  ]
+}
