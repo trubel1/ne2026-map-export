@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>DaVinci's Eatery (no-emoji test)</name>
+<description><![CDATA[<p><h3>DaVinci's Eatery</h3></p><p>📍 150 Mill St, Lewiston, ME 04240</p><p>One of five candidate lunch stops for the Bar Harbor → North Conway drive (2026-08-22) — Auburn/Lewiston sits almost exactly at the noon mark, ~150 miles / 3 hours in. DaVinci's occupies the historic Bates Mill Complex and serves a full Italian-American menu; the strongest pick here if you want an actual sit-down meal rather than a quick counter stop.</p><p><h3>Must Order</h3><br/><li><b>Garlic knots</b> — the most consistently praised item</li><br/><li><b>Lasagna</b> — a house specialty</li></p><p><h3>Tips</h3><br/><li>Open Saturdays 11am–10pm, so lunch timing isn't tight</li><br/><li>Located inside the Bates Mill Complex — worth a quick look at the historic building itself</li><hr/><p><a href="https://www.google.com/maps/place/DaVinci&#x27;s+Eatery/@44.0936454,-70.2181866,17z">View on Google Maps</a></p><p><a href="obsidian://open?vault=Sovereign%20Creator%20OS%20Lite&amp;file=05%20-%20Projects/New%20England%202026/Places/DaVinci%27s%20Eatery%20Lewiston%20ME">Open in Obsidian</a></p></p>]]></description>
+<Style>
+<IconStyle>
+<color>ff0000ff</color>
+<scale>1.2</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-70.2181866,44.0936454,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
