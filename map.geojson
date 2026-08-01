@@ -2507,6 +2507,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bowdoin College",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Bowdoin College is a private liberal arts college in Brunswick, Maine, with a historic New England campus open to visitors. On-campus dining is for students, but the grounds and architecture are worth a walk-through.",
+        "start_date_time": "",
+        "detail": "Bowdoin College is a private liberal arts college in Brunswick, Maine, with a historic New England campus open to visitors. On-campus dining is for students, but the grounds and architecture are worth a walk-through.",
+        "website": "\"https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9640036063209,
+          43.907820291895064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bowen's Tavern Belfast ME",
         "icon": "utensils",
         "color": "red",
