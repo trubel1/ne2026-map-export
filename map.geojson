@@ -3092,6 +3092,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cafe Dim Sum Burlington VT",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Authentic cart-style dim sum in downtown Burlington, ~40 min from Stowe \u2014 traditional dishes, warm community-hub atmosphere. 4.5-4.7 across platforms.",
+        "start_date_time": "",
+        "detail": "Cafe Dim Sum\n\n\ud83d\udccd 95 St Paul St, Burlington, VT\n\nA genuine, cart-style dim sum spot near Church Street downtown \u2014 nearly 40 items on the menu, described by reviewers as authentic with genuine warmth. Joe Coffee 4.5\u2605 (321 reviews); Sirved 4.7\u2605; Tripadvisor 5.0 (smaller review base).\n\nMust Order\n- Pork shumai\n- Wonton noodle soup\n- Mapo tofu\n- Scallion pancakes\n- Sesame noodles\n- Chicken feet, for the adventurous\n\nTips\n- Limited hours: open Friday-Sunday only, 11am-9pm \u2014 closed Mon-Thu, plan around this\n- About 35-40 min from Stowe \u2014 worth a dedicated trip if the dates line up with the open days",
+        "website": "https://www.google.com/maps/place/Cafe+Dim+Sum/@44.4778,-73.214,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214,
+          44.4778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cafe Miranda Rockland ME",
         "icon": "coffee",
         "color": "red",
@@ -6258,6 +6278,26 @@
         "coordinates": [
           -69.96235386142132,
           41.69648775648397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empire Chinese Kitchen Portland ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Maine's first dim sum restaurant (est. 2013) \u2014 Cantonese stir-fry, gluten-free dumplings, Shanghai soup dumplings that reviewers compare favorably to real Chinatown spots. 4.5-4.8 across platforms, 700+ reviews.",
+        "start_date_time": "",
+        "detail": "Empire Chinese Kitchen\n\n\ud83d\udccd 575 Congress St, Portland, ME\n\nMaine's first dedicated dim sum restaurant, established 2013. Reviewers consistently compare the Shanghai soup dumplings favorably to real Chinatown spots \u2014 a legitimate dim sum destination, not just a general Chinese restaurant with a few token items. Tripadvisor 4.5\u2605 (466 reviews, #6 of 511 Portland restaurants); Yelp 735 reviews; Restaurant Guru 4.8\u2605.\n\nMust Order\n- Shanghai soup dumplings \u2014 the standout, repeatedly singled out\n- Kung Pao chicken\n- Bacon fried rice\n- Garlic green beans\n- Gluten-free dumplings available\n\nTips\n- Specializes in dim sum, Cantonese stir-fry, and gluten-free options\n- Right on Congress St in the Arts District \u2014 easy to combine with other downtown Portland stops",
+        "website": "https://www.google.com/maps/place/Empire+Chinese+Kitchen/@43.6558,-70.2611,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2611,
+          43.6558
         ]
       }
     },
@@ -11204,6 +11244,26 @@
         "coordinates": [
           -66.976617,
           44.842052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky Catskills Kingston NY",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Asian-inspired caf\u00e9/dim-sum spot from the team behind Tabla (Tannersville) \u2014 opened Oct 2025 in uptown Kingston, quickly become a popular Hudson Valley spot. 4.5 DoorDash, 50+ reviews.",
+        "start_date_time": "",
+        "detail": "Lucky Catskills (Kingston)\n\n\ud83d\udccd 43 North Front St, Kingston, NY\n\nFrom Patty Wu and David Schneider (of Lucky Catskills and Tabla in Tannersville) \u2014 opened Oct 2025 in the former Kingston Bread + Bar space, uptown Kingston. Not a strict dim-sum-only restaurant, but genuinely brings real dim-sum-style dumplings and buns to the Hudson Valley \u2014 quickly become a popular local spot.\n\nMust Order\n- Steamed char siu bao\n- Soup dumplings\n- Pork & chives dumplings\n- Miso ramen or Dan Dan noodles\n- Congee\n- Black sesame taro milk latte / hojicha oat latte for drinks\n\nTips\n- Open Thu-Tue, 8am-6pm (closed Wednesday)\n- Self-bussing, cafe-style ordering \u2014 casual, not full-service sit-down\n- A few reviews note small portions for the price \u2014 go in with realistic expectations, it's a caf\u00e9 not a banquet",
+        "website": "https://www.google.com/maps/place/Lucky+Catskills/@41.9267,-74.0197,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0197,
+          41.9267
         ]
       }
     },
@@ -25752,7 +25812,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - description\n    sort:\n      - property: Rating\n        direction: DESC\n  - type: cards\n    name: View\n\n```"
       },
       "geometry": {
         "type": "Point",
