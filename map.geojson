@@ -435,6 +435,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Andre The Seal Statue",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Nina June, located at 24 Central St, is a restaurant offering artistic and creatively plated dishes. Prices range from $60 to $70. It is open for dinner starting at 5 PM and does not specify if it serves alcohol.",
+        "start_date_time": "",
+        "detail": "Nina June, located at 24 Central St, is a restaurant offering artistic and creatively plated dishes. Prices range from $60 to $70. It is open for dinner starting at 5 PM and does not specify if it serves alcohol.",
+        "website": "https://www.google.com/maps/place/Andre+The+Seal+Statue/@44.1862497,-69.0760483,912m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd74a9f6c68c7:0xc864ed8298abc7fd!8m2!3d44.1862136!4d-69.0737224!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgETaGlzdG9yaWNhbF9sYW5kbWFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSMWVWbERiVmwzRUFF4AEA-gEECAAQKQ!16s%2Fg%2F11g0g8pdyr?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Andries DuBois House Wallkill NY",
         "icon": "scroll",
         "color": "green",
@@ -1708,7 +1728,7 @@
         "icon": "beer",
         "color": "red",
         "vault_type": "Brewery",
-        "description": "\"A legendary Portland waterfront diner open since 4am, ranked #10 of 440 Portland restaurants on TripAdvisor with 2,725 reviews; famous for lobster rolls, chowder, Irish Benedict, and rooftop harbor views.\"",
+        "description": "A legendary Portland waterfront diner open since 4am, ranked #10 of 440 Portland restaurants on TripAdvisor with 2,725 reviews; famous for lobster rolls, chowder, Irish Benedict, and rooftop harbor views.",
         "start_date_time": "",
         "detail": "Becky's Diner\n\n\ud83d\udccd 390 Commercial Street, Portland, ME\n\nBecky's Diner is a Portland institution on the working waterfront at 390 Commercial Street. Open from 4am daily (open 363 days a year), it has fueled generations of fishermen, dock workers, and hungry visitors. It is ranked #10 of 440 Portland restaurants on TripAdvisor with over 2,725 reviews.\n\nMust Order\n- Lobster roll \u2014 classic, generously loaded, priced fairly for the waterfront\n- Clam chowder \u2014 briny, honest, and deeply satisfying\n- Irish Benedict \u2014 grilled muffin, crispy hash, perfectly poached eggs, tangy hollandaise; a lunch and brunch staple\n- Fried clams \u2014 a crowd favorite\n- Blueberry pie \u2014 Maine-made, worth saving room for\n\nTips\n- Ask for the rooftop patio in warm weather for harbor views\n- Open early \u2014 great for a late breakfast/early lunch before hitting the waterfront\n- Expect a wait on weekends; locals go early on weekdays\n- Cash and card accepted; fast, friendly counter-style service",
         "website": "https://www.google.com/maps/place/Becky's+Diner,+390+Commercial+St,+Portland,+ME"
@@ -2574,7 +2594,7 @@
         "description": "Bowdoin College is a private liberal arts college in Brunswick, Maine, with a historic New England campus open to visitors. On-campus dining is for students, but the grounds and architecture are worth a walk-through.",
         "start_date_time": "",
         "detail": "Bowdoin College is a private liberal arts college in Brunswick, Maine, with a historic New England campus open to visitors. On-campus dining is for students, but the grounds and architecture are worth a walk-through.",
-        "website": "\"https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D\""
+        "website": "https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
         "type": "Point",
@@ -3602,6 +3622,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Carriage House",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "**Carriage House** (Pizza Restaurant)- **Price Range:** $10\u201320- **Open for Dinner:** Yes, opens at 4 PM- **Alcohol:** Not specified in the description.",
+        "start_date_time": "",
+        "detail": "**Carriage House** (Pizza Restaurant)- **Price Range:** $10\u201320- **Open for Dinner:** Yes, opens at 4 PM- **Alcohol:** Not specified in the description.",
+        "website": "https://www.google.com/maps/place/Carriage+House/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf70650e3ec3:0xb35df794bbfaed85!8m2!3d44.0780383!4d-69.1845077!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEHBpenphX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBrVDA1V1FYZFNNSFJGWWtkemRGbFVZekJXYWs1d1lsVjRRbUZIWXhBQuABAPoBBQjfBBA3!16s%2Fg%2F11rxhzxnzc?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1845077,
+          44.0780383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Carriage Roads Acadia National Park ME",
         "icon": "footprints",
         "color": "purple",
@@ -4000,7 +4040,7 @@
         "icon": "coffee",
         "color": "red",
         "vault_type": "Restaurant",
-        "description": "\"**Type of food:** Thai cuisine  **Expected prices:** $20\u201330 per person  **Open for dinner or lunch:** Opens at 11:30 AM and closes at 9 PM, closed on Mondays  **Serves alcohol:** Not mentioned\"",
+        "description": "**Type of food:** Thai cuisine  **Expected prices:** $20\u201330 per person  **Open for dinner or lunch:** Opens at 11:30 AM and closes at 9 PM, closed on Mondays  **Serves alcohol:** Not mentioned",
         "start_date_time": "",
         "detail": "Overview\nType: Thai Cafe\n\nBest known for: Good food, friendly atmosphere.\n\nLocation context: Littleton, New Hampshire.\n\nPrice level: $20\u201330 per person.\n\nVisit timing: Not mentioned.\n\nTypical Customers\nDemographics: Locals, families.\n\nGroup types: Families, couples, small groups.\n\nCommon occasions: Casual dining, family meals.\n\nVibe & Setting\nAtmosphere: Casual, friendly.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating, cozy ambience.\n\nService style: Attentive and friendly service.\n\nRecommended Dishes\nOverall dish consensus  \nDiners frequently praise the Chicken Pad Thai and the Drunken Noodles. These dishes are highlighted for their flavor and satisfying portion sizes.\n\nHow \u201ctop dishes\u201d are determined  \nTop dishes are chosen based on mentions in reviews and the menu, considering popularity, frequency in photos, and consistent positive remarks from customers.\n\n| Rank | Dish                | Why it stands out                      | How often it\u2019s mentioned            | Ideal for                |\n|------|---------------------|---------------------------------------|----------------------------------|--------------------------|\n| 1    | Chicken Pad Thai    | Known for its flavor and generous portion. | Mentioned in many reviews.     | Sharing at the table     |\n| 2    | Drunken Noodles      | Liked for its spice level and flavor.   | Repeatedly called out as a favorite. | Hearty main             |\n| 3    | Beef Satay          | Well-prepared with great taste.       | Appears in numerous photos.    | Lighter option           |\n\nGood alternates / backup choices  \n- Fried Rice: Comforting option, often recommended.  \n- Tonkotsu Ramen: Praised for its rich flavor.  \n- Crab Rangoon: Notable appetizer for sharing.\n\nHighlights (non\u2011dish positives from reviews)\nQuality of service: Staff is consistently described as friendly and attentive.\n\nAtmosphere: Diners appreciate the pleasant ambience and cozy setting.\n\nCommon Issues (from reviews)\nBusy times: Not specifically mentioned, but popular during meal periods.\n\nPractical Notes\nReservation / wait: Walk-in friendly.\n\nAccessibility: Not mentioned.\n\nParking / transit: Street parking available.\n\nBest use case: Great for casual family dinners.",
         "website": "https://www.google.com/maps/place/Chang+Thai+Cafe/@44.3066146,-71.7779717,793m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb46f2d8d8d7741:0x655c417a30beacd!2sChang+Thai+Cafe!8m2!3d44.3066109!4d-71.7731008!16s%2Fg%2F1tg34trv!3m5!1s0x4cb46f2d8d8d7741:0x655c417a30beacd!8m2!3d44.3066109!4d-71.7731008!16s%2Fg%2F1tg34trv?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4050,6 +4090,26 @@
         "coordinates": [
           -70.2615,
           43.6574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlie's Sandwich Shoppe",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Charlie\u2019s Sandwich Shoppe is a diner known for its American breakfast and lunch fare, including pancakes, omelettes, and sandwiches. It ranges from $20\u201330 per person. It is primarily open for breakfast and lunch, does not serve dinner, and offers a casual dining experience.",
+        "start_date_time": "",
+        "detail": "Charlie\u2019s Sandwich Shoppe is a diner known for its American breakfast and lunch fare, including pancakes, omelettes, and sandwiches. It ranges from $20\u201330 per person. It is primarily open for breakfast and lunch, does not serve dinner, and offers a casual dining experience.",
+        "website": "https://www.google.com/maps/place/Charlie's+Sandwich+Shoppe/@42.3441271,-71.0803602,812m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e37a1249741473:0x11b65148ffe2e8f0!8m2!3d42.3441232!4d-71.0777799!16s%2Fm%2F026_571?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07776513117726,
+          42.34428992121242
         ]
       }
     },
@@ -7109,6 +7169,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fon's Kitchen",
+        "icon": "wine",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Fon's Kitchen is a Thai restaurant located in Belfast, offering dishes priced between $20 and $30. It serves lunch and dinner, and provides alcohol.",
+        "start_date_time": "",
+        "detail": "Fon's Kitchen is a Thai restaurant located in Belfast, offering dishes priced between $20 and $30. It serves lunch and dinner, and provides alcohol.",
+        "website": "https://www.google.com/maps/place/Fon's+Kitchen/@44.4221712,-69.0166066,2023m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6fb09fb27a6d:0x35aadff6fb8fef2a!8m2!3d44.425928!4d-69.0064951!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBD3RoYWlfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VONE4yVnRSbGhSRUFF4AEA-gEECBgQPg!16s%2Fg%2F11swtvm128?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00642422598621,
+          44.426242499262976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fore River Sanctuary Portland ME",
         "icon": "footprints",
         "color": "purple",
@@ -8268,9 +8348,9 @@
         "icon": "landmark",
         "color": "purple",
         "vault_type": "Attraction",
-        "description": "\"**Project Puffin Visitor Center**: A tourist attraction with free entrance (suggested donation $5). It does not serve food or alcohol, as it focuses on education about puffin conservation. Open from 10 AM.\"",
+        "description": "**Project Puffin Visitor Center**: A tourist attraction with free entrance (suggested donation $5). It does not serve food or alcohol, as it focuses on education about puffin conservation. Open from 10 AM.",
         "start_date_time": "",
-        "detail": "\"**Project Puffin Visitor Center**: A tourist attraction with free entrance (suggested donation $5). It does not serve food or alcohol, as it focuses on education about puffin conservation. Open from 10 AM.\"",
+        "detail": "**Project Puffin Visitor Center**: A tourist attraction with free entrance (suggested donation $5). It does not serve food or alcohol, as it focuses on education about puffin conservation. Open from 10 AM.",
         "website": "https://www.google.com/maps/place/Harbor+Park/@44.0995597,-69.1264774,2564m/data=!3m1!1e3!4m11!1m3!2m2!1sscenic+spot!6e1!3m6!1s0x4cadce2504eeebaf:0x56cd971919553f74!8m2!3d44.1010858!4d-69.1084041!15sCgtzY2VuaWMgc3BvdFoNIgtzY2VuaWMgc3BvdJIBBHBhcmuaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnN4YUdWVWFEWmhSVTB4VjBkT1psUnNXa1pTUm5CR1lsYzFTVmx1WXhBQuABAPoBBAgAED8!16s%2Fg%2F1tm8dl64?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -8812,6 +8892,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hey Sailor! Islesboro ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Hey+Sailor!/@44.4298505,-69.2017143,52506m/data=!3m1!1e3!4m11!1m3!2m2!1sRestaurants!6e5!3m6!1s0x4cae69a73a79306b:0x4fb062ecd2b94bb1!8m2!3d44.4583306!4d-68.9255819!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTktPSEoxUW5sM1JSQULgAQD6AQQIJRBB!16s%2Fg%2F11ppqkdp61?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.92562,
+          44.45831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hey Sailor! Searsport ME",
         "icon": "sandwich",
         "color": "purple",
@@ -9042,6 +9142,26 @@
         "coordinates": [
           -73.2133,
           44.4788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honey's Fried Chicken Palace",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Honey's Fried Chicken Palace is a casual restaurant that specializes in fried chicken and comfort food, with prices ranging from $10 to $20. It is open for lunch and dinner, offering no alcohol service.",
+        "start_date_time": "",
+        "detail": "Honey's Fried Chicken Palace is a casual restaurant that specializes in fried chicken and comfort food, with prices ranging from $10 to $20. It is open for lunch and dinner, offering no alcohol service.",
+        "website": "https://www.google.com/maps/place/Honey's+Fried+Chicken+Palace/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf7b5a13d003:0x42b6a5f6f52b135a!8m2!3d44.0915908!4d-69.1440061!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFLV1ZwSFRuVlhXRlo0VTBkM01tRldhelZqV0U1S1YydEdkRmRJWXhBQuABAPoBBAgAED0!16s%2Fg%2F11y33bjmdf?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.144006,
+          44.091591
         ]
       }
     },
@@ -9791,6 +9911,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johan's Joe Swedish Restaurant West Palm Beach FL",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Cafe\n\nBest known for: Friendly service and high-quality drinks and pastries.\n\nLocation context: Not mentioned.\n\nPrice level: $10\u201320 per person.\n\nVisit timing: Not mentioned.\n\nTypical Customers\nDemographics: Locals and tourists.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Brunch, casual meals.\n\nVibe & Setting\nAtmosphere: Casual and cozy.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating; a comfortable atmosphere ideal for conversations.\n\nService style: Attentive and friendly. \n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently praise the Smoked Salmon Croissant Sandwich and Swedish Pancakes for their quality and flavor. They are highlighted as must-try items.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are based on mentions in reviews, including items labeled as popular, frequently seen in photos, and repeatedly praised by customers.\n\n| Rank | Dish                          | Why it stands out                              | How often it\u2019s mentioned                     | Ideal for                  |\n|------|-------------------------------|------------------------------------------------|---------------------------------------------|-----------------------------|\n| 1    | Smoked Salmon Croissant Sandwich | Noted for its freshness and flavor, described as a standout item. | Mentioned in many reviews | Hearty main               |\n| 2    | Swedish Pancakes              | Praised for being delicious and authentic, often highlighted as a favorite. | Repeatedly called out as a favorite | Lighter option            |\n\nGood alternates / backup choices\n- Cappuccino: Mentioned for its top quality.\n- Oatmeal: Received positive remarks on being comforting.\n\nHighlights (non\u2011dish positives from reviews)\nFriendly service: Reviewers consistently note the warm and welcoming attitude of the staff.\n\nRelaxing atmosphere: Many comments describe the cafe as a great place for conversation, with pleasant music in the background.\n\nCommon Issues (from reviews)\nOccasional quality concerns: A customer expressed disappointment regarding stale pastries, though this was not a widespread issue.\n\nPractical Notes\nReservation / wait: Walk-in friendly.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Great for casual brunch with friends.",
+        "website": "https://www.google.com/maps/place/Johan's+Joe+Swedish+Restaurant/@26.7104598,-80.0591579,1166m/data=!3m1!1e3!4m14!1m7!3m6!1s0x88d8d7fb48bbaeb1:0x5f4b07a1cd861d58!2sFern!8m2!3d26.7105457!4d-80.0557448!16s%2Fg%2F11fkt5t8mj!3m5!1s0x88d8d661de89b7d5:0x651d8d477b47bb60!8m2!3d26.7101526!4d-80.0537299!16s%2Fg%2F11ggk0sgqq?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05370170696305,
+          26.710339878652917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "John A Lafevre House and School Gardiner NY",
         "icon": "scroll",
         "color": "green",
@@ -9984,6 +10124,26 @@
         "coordinates": [
           -68.947,
           44.452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ka Chai Thai Street Food",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Ka Chai Thai Street Food offers Thai cuisine with prices ranging from $20 to $30 per person. It is closed on Mondays and opens for lunch at 11:30 AM and for dinner on weekends, but not during the week. Alcohol service is not specified.",
+        "start_date_time": "",
+        "detail": "Ka Chai Thai Street Food offers Thai cuisine with prices ranging from $20 to $30 per person. It is closed on Mondays and opens for lunch at 11:30 AM and for dinner on weekends, but not during the week. Alcohol service is not specified.",
+        "website": "https://www.google.com/maps/place/Ka+Chai+Thai+Street+Food/@44.08514,-69.200832,18853m/data=!3m2!1e3!5s0x4cadce2592cee3cd:0xe4f6e8c1c23f2d8!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcfd0ae6caadb:0x4e06ead89f808e30!8m2!3d44.0773023!4d-69.1951177!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBD3RoYWlfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOb2NVbEhkM05SUlJBQuABAPoBBAgwED8!16s%2Fg%2F11s8k707v_?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1951177,
+          44.0773023
         ]
       }
     },
@@ -11177,9 +11337,9 @@
         "icon": "landmark",
         "color": "green",
         "vault_type": "Attraction",
-        "description": "\"**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.\"",
+        "description": "**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.",
         "start_date_time": "",
-        "detail": "\"**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.\"",
+        "detail": "**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.",
         "website": "https://www.google.com/maps/place/Long+Cove+Headwaters+Preserve/@44.4707433,-68.9663773,8069m/data=!3m1!1e3!4m13!1m5!2m4!1sattractions!5m1!4e9!6e1!3m6!1s0x4cae68550c046a7b:0x5b1d771ec3543b77!8m2!3d44.4988369!4d-68.9307424!15sCgthdHRyYWN0aW9uc1oNIgthdHRyYWN0aW9uc5IBD25hdHVyZV9wcmVzZXJ2ZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSV2RUUmlkbnBCUlJBQuABAPoBBAgAEBg!16s%2Fg%2F11h45sp__f?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -11506,6 +11666,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lynora's Italian Kitchen West Palm Beach FL",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Italian Restaurant\n\nBest known for: Delicious chicken parmigiana and handmade pizzas.\n\nLocation context: 3301 S Dixie Hwy, Lynora's location is convenient for local residents and visitors alike.\n\nPrice level: $20\u201370\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals\n\nGroup types: Couples, families, larger groups\n\nCommon occasions: Casual dinner, date night, quick bite\n\nVibe & Setting\nAtmosphere: Casual\n\nNoise level: Moderate\n\nDecor & setting: Indoor seating available, welcoming environment\n\nService style: Attentive and friendly staff based on multiple reviews.\n\nRecommended Dishes\nOverall dish consensus\nReviewers highly recommend the chicken parmigiana, noting generous portions and great flavor. Handmade pizzas also receive frequent praise for their quality.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are selected based on menu items that are frequently mentioned in reviews, highlighted as popular, and appear in customer photos with positive commentary.\n\n| Rank | Dish                            | Why it stands out                      | How often it's mentioned           | Ideal for                |\n|------|---------------------------------|--------------------------------------|--------------------------------|--------------------------|\n| 1    | Chicken Parmigiana              | Delicious and large portion size.    | Repeatedly called out as a favorite. | Hearty main              |\n| 2    | Handmade Pizzas                 | Fresh ingredients, crispy crust.     | Mentioned in many reviews.    | Sharing at the table     |\n| 3    | Lasagna Al Forno                | Comforting and satisfying flavor.    | Appears in numerous photos.     | Hearty main              |\n\nGood alternates / backup choices\n- Margherita Pizza: Praised for its authentic flavors and freshness.\n- Penne: Noted for being a comforting pasta option.\n- Baked Ziti: Known for its generous portion size and great flavor.\n\nHighlights (non-dish positives from reviews)\nService Quality: Reviewers consistently mention the attentive and friendly service from staff, contributing to a pleasant dining experience.\n\nConsistency: Many patrons appreciate that the restaurant maintains a high standard for food quality across visits.\n\nCommon Issues (from reviews)\nWait Times: Some guests note that there may be a wait for a table, especially during peak hours, but the experience is often worth it.\n\nParking Challenges: Street parking can occasionally be difficult, especially during busy times.\n\nPractical Notes\nReservation / wait: Walk-in friendly, but guests may encounter wait times during peak hours.\n\nAccessibility: Not mentioned\n\nParking / transit: Street parking available, but can be limited.\n\nBest use case: Great date-night spot, ideal for families looking for a casual dining experience.",
+        "website": "https://www.google.com/maps/place/Lynora's+Italian+Kitchen/@26.6596803,-80.4556054,10z/data=!4m10!1m2!2m1!1sLynora%E2%80%99s+Italian+Kitchen!3m6!1s0x88d8d7aab6759b67:0xe15331b72f146ebf!8m2!3d26.6824329!4d-80.0548575!15sChpMeW5vcmHigJlzIEl0YWxpYW4gS2l0Y2hlbiIDiAEBWhoiGGx5bm9yYSdzIGl0YWxpYW4ga2l0Y2hlbpIBEml0YWxpYW5fcmVzdGF1cmFudOABAA!16s%2Fg%2F11d_2bk445?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05708914825328,
+          26.707613983820835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "MDI Lobster & BBQ Southwest Harbor ME",
         "icon": "sandwich",
         "color": "red",
@@ -11795,6 +11975,26 @@
         "coordinates": [
           -69.10794907734113,
           44.10223902844371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine Lobster Club brand  Alaskan Captain brand",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Sub Somboon Street Food offers delicious street food with prices ranging from $10\u201320. It is open for lunch and dinner, with a positive review about its atmosphere and customer service, but it doesn't specifically mention serving alcohol.",
+        "start_date_time": "",
+        "detail": "Sub Somboon Street Food offers delicious street food with prices ranging from $10\u201320. It is open for lunch and dinner, with a positive review about its atmosphere and customer service, but it doesn't specifically mention serving alcohol.",
+        "website": "https://www.google.com/maps/place/Maine+Lobster+Club+brand+%2F+Alaskan+Captain+brand/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf32b809fa57:0x961bb3c20faa639f!8m2!3d44.1011962!4d-69.1255874!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2Rfd2hvbGVzYWxlcpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyMVNZVTFJVlhwVGFsWkxWRWRXTkZnd2RFTk9WVlpQWVZaQmRHRlZSUkFC4AEA-gEECAAQNQ!16s%2Fg%2F11fr57926d?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0952048,
+          44.1295764
         ]
       }
     },
@@ -12334,7 +12534,7 @@
         "icon": "leaf",
         "color": "green",
         "vault_type": "Park",
-        "description": "A 66-acre free nature park and garden sanctuary just south of downtown Camden, with display gardens (daylilies, herbs, roses, perennials) and an interpretive nature trail. Frequently described in reviews as a quiet \"hidden gem.\"",
+        "description": "A 66-acre free nature park and garden sanctuary just south of downtown Camden, with display gardens (daylilies, herbs, roses, perennials) and an interpretive nature trail. Frequently described in reviews as a quiet \"hidden gem.",
         "start_date_time": "",
         "detail": "Merryspring Nature Center\n\n\ud83d\udccd 30 Conway Road, Camden ME\n\nA 66-acre free nature park and garden sanctuary just south of downtown Camden, with display gardens (daylilies, herbs, roses, perennials) and an interpretive nature trail. Frequently described in reviews as a quiet \"hidden gem.\"\n\nTips\n- Free admission, open daily during daylight hours.\n- Flat and easy \u2014 a nice low-key break between hikes.\n- Coordinates above are an approximation (based on the general Conway Road area) \u2014 worth confirming against Google Maps before you go."
       },
@@ -12853,6 +13053,26 @@
         "coordinates": [
           -72.3051237,
           43.7003374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moon Dog Excursions",
+        "icon": "utensils",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Nina June is a restaurant located at 24 Central St, serving artistic dishes with a price range of $60\u201370. It is closed and opens at 5 PM, serving dinner only and does not specify if it serves alcohol.",
+        "start_date_time": "",
+        "detail": "Nina June is a restaurant located at 24 Central St, serving artistic dishes with a price range of $60\u201370. It is closed and opens at 5 PM, serving dinner only and does not specify if it serves alcohol.",
+        "website": "https://www.google.com/maps/place/Moon+Dog+Excursions/@44.1834243,-69.0818261,2626m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd717dd245f35:0x9061623888777c!8m2!3d44.185528!4d-69.0743781!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEQYm9hdF90b3VyX2FnZW5jeZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycGtNR0l6UVRCWmJFSktZbTVrTkZneFdrTlJhemxzVlVSR05rNUhZeEFC4AEA-gEFCIIBEEQ!16s%2Fg%2F11pz2dq6n5?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
         ]
       }
     },
@@ -13586,6 +13806,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "NICHOLSON MUIR Boynton Beach FL",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Restaurant\n\nBest known for: High quality food and ingredients; Impeccable atmosphere and service.\n\nLocation context: Not mentioned\n\nPrice level: $100+\n\nVisit timing: Slow on Fridays, reservations recommended.\n\nTypical Customers\nDemographics: Mix of locals and visitors, not distinctly mentioned.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Casual dinner, date night, special occasions.\n\nVibe & Setting\nAtmosphere: Cozy, reminiscent of a speakeasy.\n\nNoise level: Quiet to moderate.\n\nDecor & setting: Indoor seating with European-inspired decor.\n\nService style: Attentive and friendly.\n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently praise dishes such as Sea Bass and Wagyu Nigiri as must-order items for their high quality and flavor. The ambiance enhances the overall dining experience.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are chosen based solely on the Google Maps place page and its reviews, focusing on popular mentions, photo appearances, and strong praise from guests.\n\n| Rank | Dish                 | Why it stands out                                                                  | How often it\u2019s mentioned          | Ideal for             |\n|------|----------------------|----------------------------------------------------------------------------------|------------------------------------|-----------------------|\n| 1    | Sea Bass             | Known for its freshness and excellence in flavor.                               | Mentioned in many reviews          | Hearty main           |\n| 2    | Wagyu Nigiri         | Praised for its rich taste and quality; a standout for meat lovers.             | Appears in numerous photos         | Sharing at the table  |\n| 3    | Fewer clearly highlighted dishes in reviews | Not mentioned                  | Not mentioned         |\n\nGood alternates / backup choices\n- Not mentioned\n\nHighlights (non\u2011dish positives from reviews)\nAtmosphere: The ambiance is described as cozy and inviting, creating a warm dining experience.\n\nService: The staff is noted for being attentive, checking in frequently to ensure a good dining experience.\n\nCommon Issues (from reviews)\nTable change policy: Some guests expressed frustration over not being able to change tables despite availability. \n\nWait times: Not mentioned.\n\nPractical Notes\nReservation / wait: Reservations are recommended, especially during busy times.\n\nAccessibility: Not mentioned\n\nParking / transit: Not mentioned\n\nBest use case: Best for a cozy date night with quality dining experience.",
+        "website": "https://www.google.com/maps/place/NICHOLSON+MUIR/@26.526557,-80.0604795,592m/data=!3m1!1e3!4m14!1m7!3m6!1s0x88d8df951215afbb:0x7f93e498ea7545d4!2sPaloma+Mexican+Restaurant!8m2!3d26.5269824!4d-80.0585403!16s%2Fg%2F11lyc85vky!3m5!1s0x88d8df0796dac471:0xd0348cb9cc0f3d8f!8m2!3d26.5269803!4d-80.0596169!16s%2Fg%2F11spxsrfsv?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05951661903761,
+          26.527155414591622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Nannau Bar Harbor ME",
         "icon": "scroll",
         "color": "green",
@@ -13802,7 +14042,7 @@
         "icon": "beer",
         "color": "red",
         "vault_type": "Brewery",
-        "description": "German-themed downtown Bangor bar with an extensive local/national/international beer list; one reviewer calls it \"THE bar to know in Bangor.\"",
+        "description": "German-themed downtown Bangor bar with an extensive local/national/international beer list; one reviewer calls it \"THE bar to know in Bangor.",
         "start_date_time": "",
         "detail": "Nocturnem Draft Haus\n\n\ud83d\udccd 56 Main St, Bangor, ME 04401\n\nGerman-themed downtown Bangor bar, extensive beer list, described by one reviewer as \"THE bar to know in Bangor.\" Rated 4.4 on Tripadvisor (#16 of 124 Bangor restaurants), 4.41 on BeerAdvocate.\n\nTips\n- This week's hours 4-10pm \u2014 evening-focused, check current hours before planning around it."
       },
@@ -13851,6 +14091,26 @@
         "coordinates": [
           -73.9414,
           41.8598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Beacon Oyster",
+        "icon": "wine",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "North Beacon Oyster is an oyster bar restaurant that specializes in seafood dishes, with prices typically ranging from $40 to $50 per person. It is open for dinner starting at 11:30 AM but remains closed on Mondays and Tuesdays. The restaurant is casual and friendly, catering to seafood enthusiasts. They serve alcohol, featuring various wines to complement their menu.",
+        "start_date_time": "",
+        "detail": "North Beacon Oyster is an oyster bar restaurant that specializes in seafood dishes, with prices typically ranging from $40 to $50 per person. It is open for dinner starting at 11:30 AM but remains closed on Mondays and Tuesdays. The restaurant is casual and friendly, catering to seafood enthusiasts. They serve alcohol, featuring various wines to complement their menu.",
+        "website": "https://www.google.com/maps/place/North+Beacon+Oyster/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf7c4b9d4d23:0xf5f187e05c1b147c!8m2!3d44.1047836!4d-69.1090908!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFW95c3Rlcl9iYXJfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOd2QyVnFYMlpSRUFF4AEA-gEECAAQRg!16s%2Fg%2F11ghpydv8n?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1090908,
+          44.1047836
         ]
       }
     },
@@ -14701,6 +14961,66 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Papa Jack\u2019s",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Sub Somboon Street Food, located at 1084 Commercial St, offers delicious Southeast Asian street food with prices ranging from $10 to $20. It opens for lunch and dinner, but it's currently closed and reopens at 11:30 AM. It does not serve alcohol.",
+        "start_date_time": "",
+        "detail": "Sub Somboon Street Food, located at 1084 Commercial St, offers delicious Southeast Asian street food with prices ranging from $10 to $20. It opens for lunch and dinner, but it's currently closed and reopens at 11:30 AM. It does not serve alcohol.",
+        "website": "https://www.google.com/maps/place/Papa+Jack%E2%80%99s/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caddb6c743ce5d7:0x3b3bb0e7ca1531e2!8m2!3d44.1559802!4d-69.1846692!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBDW1lYWxfdGFrZWF3YXmaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjRhRTVRWjFKUkVBReABAPoBBAgAECE!16s%2Fg%2F11rwykph8w?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0952048,
+          44.1295764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parish Cafe & Bar",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Parish Caf\u00e9 & Bar serves American cuisine with a variety of unique sandwiches, burgers, and craft beers. Prices range from $20\u201330, and it is open for both lunch and dinner, serving alcohol.",
+        "start_date_time": "",
+        "detail": "Parish Caf\u00e9 & Bar serves American cuisine with a variety of unique sandwiches, burgers, and craft beers. Prices range from $20\u201330, and it is open for both lunch and dinner, serving alcohol.",
+        "website": "https://www.google.com/maps/place/Parish+Cafe+%26+Bar/@42.3502957,-71.0797847,3054m/data=!3m1!1e3!4m6!3m5!1s0x89e37a74e3c3b6d5:0xa365d79110179ce5!8m2!3d42.3518585!4d-71.0716663!16s%2Fg%2F11b6g9wgsz?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0715258771152,
+          42.35254874519427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pascal Hall",
+        "icon": "utensils",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Nina June is a restaurant located at 24 Central St, offering various dishes with prices ranging from $60 to $70. It is closed during lunch and opens for dinner at 5 PM; it does not specify if it serves alcohol.",
+        "start_date_time": "",
+        "detail": "Nina June is a restaurant located at 24 Central St, offering various dishes with prices ranging from $60 to $70. It is closed during lunch and opens for dinner at 5 PM; it does not specify if it serves alcohol.",
+        "website": "https://www.google.com/maps/place/Pascal+Hall/@44.1848602,-69.0837524,1225m/data=!3m1!1e3!4m10!1m3!2m2!1sThings+to+do!6e1!3m5!1s0x4cadd7d622a201ff:0x4fc701807f28fe19!8m2!3d44.18486!4d-69.0764101!16s%2Fg%2F11tjd556wx?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Paugus Bay Laconia NH",
         "icon": "waves",
         "color": "green",
@@ -14812,6 +15132,26 @@
         "coordinates": [
           -68.20375190030002,
           44.385952232312746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peekytoe Provisions",
+        "icon": "wine",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Dinner is an American restaurant located at 135 Cottage St, with prices ranging from $30 to $70. It is closed now and opens at 5 PM, and serves alcohol.",
+        "start_date_time": "",
+        "detail": "Dinner is an American restaurant located at 135 Cottage St, with prices ranging from $30 to $70. It is closed now and opens at 5 PM, and serves alcohol.",
+        "website": "https://www.google.com/maps/place/Peekytoe+Provisions/@44.3867007,-68.2234216,2242m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf64f35c1743:0xabb9bffcff5a72d2!8m2!3d44.3859521!4d-68.20366!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2RfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydFdSRlpWVVhoYWF6RjZaVzFLUWxaRVFUUlJWVVpNVkc1Q1RWRllZeEFC4AEA-gEFCM8BEDY!16s%2Fg%2F11b6gjwdtb?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20360956339401,
+          44.3863812025897
         ]
       }
     },
@@ -15223,6 +15563,26 @@
         "coordinates": [
           -73.9133,
           41.9267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaisted Preserve",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Hiking area, private location; not applicable for food or alcohol, primarily a nature spot for walking and enjoying the outdoors.",
+        "start_date_time": "",
+        "detail": "Hiking area, private location; not applicable for food or alcohol, primarily a nature spot for walking and enjoying the outdoors.",
+        "website": "https://www.google.com/maps/place/Plaisted+Preserve/@44.0739557,-69.0754495,7572a,35y,2.71t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadcddaa640a927:0x58c83f016c0a1f25!8m2!3d44.0848238!4d-69.0624918!16s%2Fg%2F11gl20bxlh?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.141,
+          44.095
         ]
       }
     },
@@ -16111,6 +16471,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ralston Gallery",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "**Nina June** (Restaurant) - Price range: $60\u201370. Cuisine: Artistic dishes with creative plating. Open for dinner (closes at 9 PM) but not for lunch. Serves alcohol.",
+        "start_date_time": "",
+        "detail": "**Nina June** (Restaurant) - Price range: $60\u201370. Cuisine: Artistic dishes with creative plating. Open for dinner (closes at 9 PM) but not for lunch. Serves alcohol.",
+        "website": "https://www.google.com/maps/place/Ralston+Gallery/@44.1834243,-69.0818261,2626m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd73007636b51:0xf92746392a300cf2!8m2!3d44.1876232!4d-69.0729398!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEMcGhvdG9ncmFwaGVymgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIxek5HTXpVWGRPUjJRMFRVYzFhbFpyTlUxTlJrNVRWMFYwUlZkdVl4QULgAQD6AQUIsQIQHw!16s%2Fg%2F1hc83xqqv?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ram & Bull Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -16443,6 +16823,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rice Thai & Asian Boynton Beach FL",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Thai restaurant\n\nBest known for: Generous portions, flavorful dishes\n\nLocation context: Not mentioned\n\nPrice level: $10\u201320 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals, families\n\nGroup types: Families, friends\n\nCommon occasions: Casual dinner\n\nVibe & Setting\nAtmosphere: Cozy and welcoming\n\nNoise level: Moderate\n\nDecor & setting: Comfortable indoor seating\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nReviewers recommend the Pad Thai and Shrimp Pad Thai, often praising their flavor and freshness. Many mentions highlight the excellent quality of the food.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are based on popularity indicated in reviews, including frequently praised items and those appearing in photos.\n\n| Rank | Dish               | Why it stands out                               | How often it\u2019s mentioned                | Ideal for                  |\n|------|--------------------|------------------------------------------------|---------------------------------------|----------------------------|\n| 1    | Pad Thai           | Flavorsome and well-balanced, highly praised.  | Mentioned in many reviews            | Sharing at the table       |\n| 2    | Shrimp Pad Thai    | Fresh and savory, a standout among diners.     | Repeatedly called out as a favorite | Hearty main               |\n| 3    | Green Curry        | Rich flavor, great for those who enjoy spice.  | Mentioned in several reviews         | Spice lovers               |\n\nGood alternates / backup choices\n- Chicken Soup: Notable for its comforting quality.\n- Fried Rice: Received praise for its generous portions.  \n\nHighlights (non\u2011dish positives from reviews)\nFriendly Service: Many reviews comment on the staff being super friendly and attentive.\n\nClean Atmosphere: Customers appreciate the cleanliness of the restaurant, enhancing their dining experience.\n\nCommon Issues (from reviews)\nLong Waits: Some reviewers noted longer wait times during busy hours.\n\nForgetfulness: A few guests mentioned that their requests sometimes get overlooked.\n\nPractical Notes\nReservation / wait: Walk-in friendly\n\nAccessibility: Not mentioned\n\nParking / transit: Not mentioned\n\nBest use case: Great for casual dinners with friends or family.",
+        "website": "https://www.google.com/maps/place/Rice+Thai+%26+Asian/@26.5288705,-80.0922324,17z/data=!3m1!4b1!4m6!3m5!1s0x88d8df1e984bba5b:0x2e4ec4abaaae6a75!8m2!3d26.5288657!4d-80.0896575!16s%2Fg%2F12630br01?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08957166465439,
+          26.52906723544749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rice&noodle thai restaurant",
+        "icon": "wine",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Dos Gatos Gastropub offers American cuisine with unique cocktails. Price range is $20\u201330 per person. It's open for dinner, starting at 4:30 PM.",
+        "start_date_time": "",
+        "detail": "Dos Gatos Gastropub offers American cuisine with unique cocktails. Price range is $20\u201330 per person. It's open for dinner, starting at 4:30 PM.",
+        "website": "https://www.google.com/maps/place/Rice%26noodle+thai+restaurant/@44.4195195,-69.0312101,11673m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6fc68da4871f:0x706fd9116288883d!8m2!3d44.4294246!4d-68.9779507!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBD3RoYWlfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOS09ISk1WMjFSUlJBQuABAPoBBAgAEDI!16s%2Fg%2F11ghfmr41y?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.97796193691404,
+          44.43167243957917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Richardson\u2019s Tavern 1 Woodstock VT",
         "icon": "utensils",
         "color": "red",
@@ -16516,6 +16936,26 @@
         "coordinates": [
           -73.93245712905892,
           41.74534690120115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivalries Sports Pub Boynton Beach FL",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Sports Pub\n\nBest known for: Great service and delicious pub food.\n\nLocation context: Boynton Beach\n\nPrice level: $10\u201320 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals\n\nGroup types: Friends, couples, larger groups\n\nCommon occasions: Casual dinner, social gatherings\n\nVibe & Setting\nAtmosphere: Casual and lively\n\nNoise level: Moderate\n\nDecor & setting: Indoor seating, bar area\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nReviewers recommend the nachos, tots, and hot dog, all praised for their flavors and quality.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are chosen based on items frequently mentioned in reviews and photos, particularly those labeled as favorites by users.\n\nTop dishes to order\n| Rank | Dish         | Why it stands out                                | How often it\u2019s mentioned                | Ideal for                 |\n|------|--------------|-------------------------------------------------|---------------------------------------|---------------------------|\n| 1    | Nachos      | Delicious and popular with many patrons.        | Mentioned in many reviews             | Sharing at the table      |\n| 2    | Tots        | Crispy and well-loved by visitors.              | Appears in numerous photos            | Hearty side               |\n| 3    | Hot Dog     | A crowd favorite for its unique flavor.         | Repeatedly called out as a favorite   | Quick bite                |\n\nGood alternates / backup choices\n- Meatballs: Known for great flavor.\n- Not mentioned: Fewer clearly highlighted dishes in reviews.\n\nHighlights (non-dish positives from reviews)\nGreat atmosphere: The pub has a refreshing vibe that attracts locals looking for a good time.\nFriendly service: Staff members are attentive and enhance the dining experience.\n\nCommon Issues (from reviews)\nNot mentioned: No specific issues noted in reviews.\n\nPractical Notes\nReservation / wait: Walk-in friendly\n\nAccessibility: Not mentioned\n\nParking / transit: Not mentioned\n\nBest use case: Great for casual gatherings with friends or family.",
+        "website": "https://www.google.com/maps/place/Rivalries+Sports+Pub/@26.5268015,-80.0593089,106m/data=!3m1!1e3!4m14!1m7!3m6!1s0x88d8df951215afbb:0x7f93e498ea7545d4!2sPaloma+Mexican+Restaurant!8m2!3d26.5269824!4d-80.0585403!16s%2Fg%2F11lyc85vky!3m5!1s0x88d8df5545460d8d:0xe5bc746c974be02c!8m2!3d26.5270021!4d-80.0592195!16s%2Fg%2F11z8gzzqrw?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05921383648432,
+          26.52703028645771
         ]
       }
     },
@@ -16833,6 +17273,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rockport Marine Park",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "18 Central Oyster Bar & Grill is a grill restaurant offering coastal cuisine with prices ranging from $50 to $100. It is open for dinner starting at 5 PM and serves alcohol.",
+        "start_date_time": "",
+        "detail": "18 Central Oyster Bar & Grill is a grill restaurant offering coastal cuisine with prices ranging from $50 to $100. It is open for dinner starting at 5 PM and serves alcohol.",
+        "website": "https://www.google.com/maps/place/Rockport+Marine+Park/@44.1834243,-69.0818261,2626m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd7805a766ead:0xef87115c1de3f64a!8m2!3d44.185528!4d-69.0743781!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOc01tRnBUV1YzRUFF4AEA-gEFCNABEDY!16s%2Fg%2F11j37c9_rd?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0722033,
+          44.1875205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rocky Glen Falls Woodstock VT",
         "icon": "footprints",
         "color": "green",
@@ -17015,7 +17475,7 @@
         "icon": "scroll",
         "color": "green",
         "vault_type": "Historical",
-        "description": "\"An 1831 homestead in Passaconaway \u2014 the only surviving early homestead in the Swift River valley \u2014 with a famous unsolved mystery: in 1891, owner Thomas Colbath told his wife Ruth he'd \\\"be back in a little while\\\" and was never seen again. She kept the light burning for him for the rest of her life. Listed on the National Register in 1987.\"",
+        "description": "An 1831 homestead in Passaconaway \u2014 the only surviving early homestead in the Swift River valley \u2014 with a famous unsolved mystery: in 1891, owner Thomas Colbath told his wife Ruth he'd \\\"be back in a little while\\\" and was never seen again. She kept the light burning for him for the rest of her life. Listed on the National Register in 1987.",
         "start_date_time": "",
         "detail": "Russell-Colbath House\n\n\ud83d\udccd Passaconaway, Albany, NH (Kancamagus Highway)\n\nBuilt around 1831 by Thomas Russell and his son Amzi, this is the only surviving early homestead in the Swift River valley. The property passed down through the family to Ruth Priscilla Colbath and her husband Thomas Alden Colbath; when the house became Passaconaway's post office in the 1890s, Ruth was its first postmistress. On a fall day in 1891, Thomas told Ruth he'd \"be back in a little while\" \u2014 and was never seen again. She reportedly kept a light burning in the window for him until her own death. The U.S. Forest Service bought the property in 1961 to preserve it; listed on the National Register of Historic Places in 1987.\n\nTips\n- Free to visit; staffed seasonally with rangers who tell the full story.\n- A quick, easy stop right off the highway \u2014 pairs well with a Rocky Gorge or Sabbaday Falls visit nearby.",
         "website": "https://www.google.com/maps/search/?api=1&query=43.9957%2C%20-71.3398"
@@ -17417,6 +17877,26 @@
         "coordinates": [
           -71.12821863528674,
           44.053196662728816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satori Belfast",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Satori Belfast is a Japanese restaurant with prices ranging from $40\u201350 per person. It serves dinner and is LGBTQ+ friendly, with a focus on creative cuisine and cocktails.",
+        "start_date_time": "",
+        "detail": "Satori Belfast is a Japanese restaurant with prices ranging from $40\u201350 per person. It serves dinner and is LGBTQ+ friendly, with a focus on creative cuisine and cocktails.",
+        "website": "https://www.google.com/maps/place/Satori+Belfast/@44.4221712,-69.0166066,2023m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6fac1d31f30b:0x169622179f6b6554!8m2!3d44.4256421!4d-69.0070103!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2phcGFuZXNlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkliRTlJT0VKUkVBReABAPoBBAgAEEg!16s%2Fg%2F11j7gxjsv4?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00706727729361,
+          44.426181049148454
         ]
       }
     },
@@ -19031,7 +19511,7 @@
         "icon": "landmark",
         "color": "purple",
         "vault_type": "Museum",
-        "description": "\"500 acres of rolling Hudson Valley farmland and forest installed with large-scale sculpture by the most significant artists of the 20th and 21st centuries: Alexander Calder's monumental stabiles, Mark di Suvero's soaring steel constructions, Isamu Noguchi's granite works, Maya Lin's earthwork Wave Field, and Richard Serra's massive curved Cor-Ten steel walls emerging from hillsides. You discover the works while walking through a landscape \u2014 a fundamentally different experience from any indoor museum.\"",
+        "description": "500 acres of rolling Hudson Valley farmland and forest installed with large-scale sculpture by the most significant artists of the 20th and 21st centuries: Alexander Calder's monumental stabiles, Mark di Suvero's soaring steel constructions, Isamu Noguchi's granite works, Maya Lin's earthwork Wave Field, and Richard Serra's massive curved Cor-Ten steel walls emerging from hillsides. You discover the works while walking through a landscape \u2014 a fundamentally different experience from any indoor museum.",
         "start_date_time": "",
         "detail": "Storm King Art Center\n\n\ud83d\udccd New Windsor NY\n\n500 acres of rolling Hudson Valley farmland and forest installed with large-scale sculpture by the most significant artists of the 20th and 21st centuries: Alexander Calder's monumental stabiles, Mark di Suvero's soaring steel constructions, Isamu Noguchi's granite works, Maya Lin's earthwork Wave Field, and Richard Serra's massive curved Cor-Ten steel walls emerging from hillsides. You discover the works while walking through a landscape \u2014 a fundamentally different experience from any indoor museum.\n\nTips\n- Open Apr\u2013Nov; closed Dec\u2013Mar.\n- The tram covers the full 500 acres \u2014 take it first to orient, then walk back to what interested you.\n- The Serra pieces on the hillside above the main meadow are among his finest outdoor works.\n- Allow 3\u20134 hours minimum; many people spend a full day.\n- Picnicking is permitted and encouraged \u2014 bring lunch and eat among the Calders."
       },
@@ -19070,7 +19550,7 @@
         "icon": "mountain",
         "color": "purple",
         "vault_type": "Scenic",
-        "description": "\"Challenging 3.3-mile out-and-back to an open summit with sweeping panoramic views \u2014 one of the most-reviewed trails in Vermont and #1 activity in Stowe.\"",
+        "description": "Challenging 3.3-mile out-and-back to an open summit with sweeping panoramic views \u2014 one of the most-reviewed trails in Vermont and #1 activity in Stowe.",
         "start_date_time": "",
         "detail": "Stowe Pinnacle Trail\n\n\ud83d\udccd Stowe VT\n\nChallenging 3.3-mile out-and-back to an open summit with sweeping panoramic views \u2014 one of the most-reviewed trails in Vermont and #1 activity in Stowe.\n\nTips\n- Allow 2.5\u20133 hours round trip.\n- The open meadow summit is the reward \u2014 clear days show Mount Mansfield and the Green Mountains."
       },
@@ -19444,7 +19924,7 @@
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
-        "description": "\"Type: RestaurantCuisine: American foodExpected prices: $10\u201330Open for dinner: Yes, closes at 5 PMOpen for lunch: Not mentionedServes alcohol: Not mentioned\"",
+        "description": "Type: RestaurantCuisine: American foodExpected prices: $10\u201330Open for dinner: Yes, closes at 5 PMOpen for lunch: Not mentionedServes alcohol: Not mentioned",
         "start_date_time": "",
         "detail": "Overview\nType: Restaurant\n\nBest known for: Exceptional food and service, cozy atmosphere.\n\nLocation context: Main Street\n\nPrice level: $10\u201330\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals and tourists\n\nGroup types: Couples, families, groups\n\nCommon occasions: Casual dining, date nights\n\nVibe & Setting\nAtmosphere: Casual and cozy\n\nNoise level: Moderate\n\nDecor & setting: Indoor seating with a warm ambiance\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently praise diverse menu options, especially the seafood and burger offerings.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are selected from dishes highlighted in reviews for consistency of positive feedback and popularity in photos.\n\n| Rank | Dish                     | Why it stands out                              | How often it\u2019s mentioned             | Ideal for              |\n|------|--------------------------|------------------------------------------------|-------------------------------------|------------------------|\n| 1    | Lobster Roll            | Extremely flavorful, perfect pairing with drinks.| Mentioned in many reviews           | Sharing at the table   |\n| 2    | Signature Burger        | Juicy and well-seasoned, a standout choice.     | Appears in numerous photos          | Hearty main            |\n| 3    | Fish Tacos              | Fresh and zesty, great for seafood lovers.      | Repeatedly called out as a favorite | Lighter option         |\n\nGood alternates / backup choices\n- Caesar Salad: Known for its generous portions and rich dressing.\n- Margarita Pizza: Praised for its crispy crust and fresh toppings.\n\nHighlights (non-dish positives from reviews)\nFriendly Service: Staff are consistently described as warm and attentive.\n\nGreat Atmosphere: Many find it inviting, making it a perfect place for casual dining.\n\nCommon Issues (from reviews)\nWait Times: Some reviewers noted longer waits during peak hours.\n\nPractical Notes\nReservation / wait: Walk-in friendly, reservations recommended on weekends.\n\nAccessibility: Not mentioned.\n\nParking / transit: Street parking available.\n\nBest use case: Great for casual dinners with friends.",
         "website": "https://www.google.com/maps/place/Sweet+Tomatoes+Pizza/@41.6814285,-69.9623304,757m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x405d7d631ff16add:0x9bed826678184414!8m2!3d41.6846672!4d-69.9654221!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEHBpenphX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnR3TTFscmJ6Sk9WekZZVjJ0V01WZHNSbkZVUjBwM1YyeEdVMVZYWXhBQuABAPoBBQjPARA4!16s%2Fg%2F1q6j3wrxw?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -20025,6 +20505,26 @@
         "coordinates": [
           -71.6837,
           44.1032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blind Monk West Palm Beach FL",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "",
+        "detail": "Overview\nType: Restaurant\n\nBest known for: Small plates, drinks, live music.\n\nLocation context: West Palm Beach, FL.\n\nPrice level: $20\u201380 per person.\n\nVisit timing: Typically open for dinner; hours are 5\u201310 PM, closed Sundays.\n\nTypical Customers\nDemographics: Locals and visitors.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Casual dinners, date nights.\n\nVibe & Setting\nAtmosphere: Quaint and welcoming.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor and outdoor seating available.\n\nService style: Friendly; some reviews mention variable service.\n\nRecommended Dishes\nOverall dish consensus  \nPopular items include the Charcuterie Board and Spaghetti, frequently praised for taste and presentation.\n\nHow \u201ctop dishes\u201d are determined  \nTop dishes were selected based on menu mentions, user reviews indicating favorites, and dishes appearing often in photos.\n\n| Rank | Dish                | Why it stands out                          | How often it\u2019s mentioned         | Ideal for                 |\n|------|---------------------|-------------------------------------------|---------------------------------|---------------------------|\n| 1    | Charcuterie Board   | Praised for variety and flavor combination.| Mentioned in numerous reviews. | Sharing at the table      |\n| 2    | Spaghetti           | Known for rich sauce and satisfying portion. | Repeatedly called out as a favorite. | Hearty main              |\n| 3    | Avocado Toast       | Liked for freshness and presentation.    | Mentioned multiple times.     | Lighter option            |\n\nGood alternates / backup choices  \n- Shakshouka: Noted for its comforting flavors.\n- Juice: Liked for being refreshing and a good accompaniment.\n\nHighlights (non-dish positives from reviews)\nLive music: The venue features live music, contributing to a lively atmosphere.\n\nOutdoor seating: Many reviewers appreciate the availability of outdoor seating, especially in good weather.\n\nCommon Issues (from reviews)\nInconsistent service: Some reviewers noted variability in service quality during busy times.\n\nFood quality: A few patrons have commented that certain dishes did not meet their expectations.\n\nPractical Notes\nReservation / wait: Walk-in friendly but reservations are recommended.\n\nAccessibility: Not mentioned.\n\nParking / transit: Street parking available; details not specified.\n\nBest use case: Great for casual dinners with friends or a date night.",
+        "website": "https://www.google.com/maps/place/The+Blind+Monk/@26.7073064,-80.0548012,17z/data=!3m1!4b1!4m6!3m5!1s0x88d8d661f1e50ca1:0x478246f106237670!8m2!3d26.7073064!4d-80.0522263!16s%2Fg%2F1thsb4bz?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05218338188946,
+          26.70745490835821
         ]
       }
     },
@@ -20794,6 +21294,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Old Homestead",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Owls Head Transportation Museum is an interactive museum focusing on transportation history with a casual atmosphere. It doesn't serve food but may have events in the evening. Alcohol is not mentioned as available.",
+        "start_date_time": "",
+        "detail": "Owls Head Transportation Museum is an interactive museum focusing on transportation history with a casual atmosphere. It doesn't serve food but may have events in the evening. Alcohol is not mentioned as available.",
+        "website": "https://www.google.com/maps/place/The+Old+Homestead/@44.0451488,-69.0889139,4733a,35y,2.73t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadcd9d4ca0830b:0x940358aee028e1fb!8m2!3d44.0511524!4d-69.0784021!16s%2Fg%2F11vbsszb72?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.034,
+          44.048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Pentagoet Inn & Restaurant Castine ME",
         "icon": "sandwich",
         "color": "red",
@@ -21112,7 +21632,7 @@
         "icon": "landmark",
         "color": "green",
         "vault_type": "Attraction",
-        "description": "A ~500-acre private event venue atop a hill in Franconia with panoramic Presidential Range views, hosting weddings and events since 2000. Local lore ties the property to Robert Frost's \"The Road Not Taken.\"",
+        "description": "A ~500-acre private event venue atop a hill in Franconia with panoramic Presidential Range views, hosting weddings and events since 2000. Local lore ties the property to Robert Frost's \"The Road Not Taken.",
         "start_date_time": "",
         "detail": "The Toad Hill Farm Venue\n\n\ud83d\udccd Franconia, NH\n\nA private event venue on nearly 600 acres of woodland and pasture in Franconia, hosting weddings and celebrations since 2000, with panoramic views of the Presidential Range from its hilltop Main House. Local lore claims the property inspired Robert Frost's \"The Road Not Taken.\"\n\nTips\n- A private event venue, not a general-public attraction \u2014 the view and grounds are the draw if you have a connection to an event here.",
         "website": "https://www.google.com/maps/search/?api=1&query=44.1995%2C%20-71.7684"
@@ -21226,6 +21746,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Zack Shack",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "The Zack Shack is a casual restaurant offering a variety of fast food options. The price range is $10\u201320 per person. It is open for lunch and closes at 6 PM.",
+        "start_date_time": "",
+        "detail": "The Zack Shack is a casual restaurant offering a variety of fast food options. The price range is $10\u201320 per person. It is open for lunch and closes at 6 PM.",
+        "website": "https://www.google.com/maps/place/The+Zack+Shack/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcfca3e924c45:0x49870a9578be459!8m2!3d44.0920359!4d-69.1431651!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVzVVUxdWNHOVRXRkp2VkRCS01GTkljRlpUTURGUlRtcEJNMDFyUlJBQuABAPoBBQjpARBL!16s%2Fg%2F11cn0s2kbk?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1431651,
+          44.0920359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Thomaston Cafe Thomaston ME",
         "icon": "coffee",
         "color": "red",
@@ -21239,6 +21779,46 @@
         "coordinates": [
           -69.1798,
           44.0742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomaston Cafe",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Thomaston Cafe is an American restaurant serving a variety of dishes. Expected prices range from $20 to $30 per person. It is open for lunch and dinner, with specific hours from 11 AM to 2 PM and 5 PM to 8 PM on select days. The restaurant does not explicitly mention alcohol service.",
+        "start_date_time": "",
+        "detail": "Thomaston Cafe is an American restaurant serving a variety of dishes. Expected prices range from $20 to $30 per person. It is open for lunch and dinner, with specific hours from 11 AM to 2 PM and 5 PM to 8 PM on select days. The restaurant does not explicitly mention alcohol service.",
+        "website": "https://www.google.com/maps/place/Thomaston+Cafe/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf70b8ce55d7:0x2e1959bee5c11040!8m2!3d44.078811!4d-69.182462!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUk9iMDlMV1hCUlJSQULgAQD6AQQIABBJ!16s%2Fg%2F1tfny5ky?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.182462,
+          44.078811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomaston Town Forest Multiuse Trail",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Hiking area providing trails for mountain biking and hiking. No specific food offerings or prices indicated. Likely open during daytime hours, but no specific mention of lunch or dinner service. Alcohol service is not mentioned.",
+        "start_date_time": "",
+        "detail": "Hiking area providing trails for mountain biking and hiking. No specific food offerings or prices indicated. Likely open during daytime hours, but no specific mention of lunch or dinner service. Alcohol service is not mentioned.",
+        "website": "https://www.google.com/maps/place/Thomaston+Town+Forest+Multiuse+Trail/@44.0744758,-69.1725469,17945a,35y,2.65t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadc55a50b09329:0xbb8956393fb2b645!8m2!3d44.0873138!4d-69.1951738!16s%2Fg%2F11gnr0mc0r?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.791,
+          43.925
         ]
       }
     },
@@ -22268,7 +22848,7 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Free 224-acre botanical garden with six miles of trails, cultivated gardens, and a peaceful pond loop\u2014described as \"a peaceful place for a walk and contemplation.\"",
+        "description": "Free 224-acre botanical garden with six miles of trails, cultivated gardens, and a peaceful pond loop\u2014described as \"a peaceful place for a walk and contemplation.",
         "start_date_time": "",
         "detail": "Viles Arboretum\n\n\ud83d\udccd Forest Avenue, Augusta, ME\n\nA free 224-acre botanical garden with six miles of trails, cultivated gardens, and a peaceful pond loop. Described by visitors as \"a peaceful place for a walk and contemplation\"\u2014perfect for a quiet nature break.\n\nTips\n- Free admission and parking\n- Six miles of trail network at your own pace\n- Cultivated gardens and native plantings\n- Pond loop walk is particularly scenic\n- Bring water and comfortable walking shoes\n- Good picnic spot if you brought food\n- Peaceful alternative to downtown crowds"
       },
@@ -22364,9 +22944,9 @@
         "icon": "wine",
         "color": "purple",
         "vault_type": "Restaurant",
-        "description": "\"**Vinolio** - Gourmet grocery store offering specialty foods. Prices range from **$10\u201330**. **Open until 4 PM**, serves a variety of gourmet items including sandwiches and wine.\"",
+        "description": "**Vinolio** - Gourmet grocery store offering specialty foods. Prices range from **$10\u201330**. **Open until 4 PM**, serves a variety of gourmet items including sandwiches and wine.",
         "start_date_time": "",
-        "detail": "\"**Vinolio** - Gourmet grocery store offering specialty foods. Prices range from **$10\u201330**. **Open until 4 PM**, serves a variety of gourmet items including sandwiches and wine.\"",
+        "detail": "**Vinolio** - Gourmet grocery store offering specialty foods. Prices range from **$10\u201330**. **Open until 4 PM**, serves a variety of gourmet items including sandwiches and wine.",
         "website": "https://www.google.com/maps/place/Vinolio/@44.422236,-69.0165379,1996m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6e5affda187f:0xe62f59b244cb6b73!8m2!3d44.4264526!4d-69.0063594!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFWdvdXJtZXRfZ3JvY2VyeV9zdG9yZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyNVNlR013YURST1JFNXRXRE53UmxZeWFFUk5hVEUxV2xkNGRWWnJSUkFC4AEA-gEECAAQRQ!16s%2Fg%2F1260ct89k?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -22394,6 +22974,25 @@
         "coordinates": [
           -69.06402223699664,
           44.209192500224276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visit with the Eatons",
+        "icon": "users",
+        "color": "teal",
+        "vault_type": "Commitment",
+        "description": "Invited by the Eatons \u2014 dinner, meeting at Dysart's Marina then Islesford dock.",
+        "start_date_time": "2026-08-16T17:15:00",
+        "detail": "Time: 2026-08-16T17:15:00\n\nInvited by the Eatons \u2014 dinner, meeting at Dysart's Marina then Islesford dock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3238096,
+          44.2749079
         ]
       }
     },
@@ -22650,6 +23249,26 @@
         "coordinates": [
           -73.576079,
           41.773988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasses Hot Dogs",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Wasses Hot Dogs is a casual hot dog restaurant located at 93 Lincolnville Ave. It offers affordable prices ranging from $1\u201310, primarily serving hot dogs for lunch. It is closed on Mondays and Sundays and opens for lunch only, not offering dinner.",
+        "start_date_time": "",
+        "detail": "Wasses Hot Dogs is a casual hot dog restaurant located at 93 Lincolnville Ave. It offers affordable prices ranging from $1\u201310, primarily serving hot dogs for lunch. It is closed on Mondays and Sundays and opens for lunch only, not offering dinner.",
+        "website": "https://www.google.com/maps/place/Wasses+Hot+Dogs/@44.4242103,-69.0343713,1968m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6e69a045af5d:0x586abe27df1b7363!8m2!3d44.4241498!4d-69.0224013!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEmhvdF9kb2dfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycENjMVpGTlcxVVZGWjJZVVY0UkU5SFduQldSMFozWWxocmVGTkdSUkFC4AEA-gEECAAQPA!16s%2Fg%2F11c51wfxc6?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02243695100015,
+          44.424544086355546
         ]
       }
     },
@@ -24843,7 +25462,7 @@
         "icon": "utensils",
         "color": "purple",
         "vault_type": "Restaurant",
-        "description": "\"A James Beard-nominated sushi counter on Middle Street named #6 Best Restaurant in the Country by Food & Wine, serving handrolls and crudo with hyper-local Maine bluefin and scallops.\"",
+        "description": "A James Beard-nominated sushi counter on Middle Street named #6 Best Restaurant in the Country by Food & Wine, serving handrolls and crudo with hyper-local Maine bluefin and scallops.",
         "start_date_time": "2026-08-04T12:00:00",
         "detail": "Time: 2026-08-04T12:00:00\n\nMr. Tuna\n\n\ud83d\udccd 83 Middle Street, Portland, ME\n\nMr. Tuna is one of Portland's most acclaimed restaurants, full stop. Chef Jordan Rubin is a James Beard Nominee for Best Chef: Northeast and a Food & Wine Best New Chef (2025). The restaurant was named #6 Best Restaurant in the Country by Food & Wine.\n\nMust Order\n- Tuna de Tigre \u2014 ceviche-style blend of Peruvian and Thai flavors; named one of the 26 best dishes in the USA by the NY Times (2024)\n- Tuna Tasting \u2014 a four-cut journey through local Maine bluefin\n- Torched halibut deluxe maki \u2014 pickled red onion, aji amarillo, avocado, acid-cured shishito, cilantro\n- Lunch bento box \u2014 the best value on the menu\n- Sushi burrito \u2014 a lunch-only crowd favorite\n\nTips\n- Open 11am\u20139:30pm daily; lunch bento specials run midday\n- Portions are small and prices reflect the quality \u2014 budget $30+ for a satisfying lunch\n- Honored with the Innovation Award from Gulf of Maine Research Institute for responsible sourcing\n- Steps from Eventide and Duckfat \u2014 do all three on the same afternoon",
         "website": "https://www.google.com/maps/place/Mr.+Tuna,+83+Middle+St,+Portland,+ME"
@@ -25301,7 +25920,7 @@
         "icon": "footprints",
         "color": "purple",
         "vault_type": "Footpath",
-        "description": "\"Acadia's most thrilling trail: a 1.6-mile round trip up the nearly vertical east face of Champlain Mountain on iron rungs, handholds, and narrow ledge traverses. The summit delivers the best view in the park \u2014 the Porcupine Islands, Frenchman Bay, Schoodic Peninsula, and the full sweep of the Maine coast. Often closed in spring for peregrine falcon nesting; check status before going.\"",
+        "description": "Acadia's most thrilling trail: a 1.6-mile round trip up the nearly vertical east face of Champlain Mountain on iron rungs, handholds, and narrow ledge traverses. The summit delivers the best view in the park \u2014 the Porcupine Islands, Frenchman Bay, Schoodic Peninsula, and the full sweep of the Maine coast. Often closed in spring for peregrine falcon nesting; check status before going.",
         "start_date_time": "",
         "detail": "Precipice Trail\n\n\ud83d\udccd Acadia National Park ME\n\nAcadia's most thrilling trail: a 1.6-mile round trip up the nearly vertical east face of Champlain Mountain on iron rungs, handholds, and narrow ledge traverses. The summit delivers the best view in the park \u2014 the Porcupine Islands, Frenchman Bay, Schoodic Peninsula, and the full sweep of the Maine coast. Often closed in spring for peregrine falcon nesting; check status before going.\n\nTips\n- Check the NPS website before going \u2014 closed annually Feb\u2013Aug for peregrine falcon nesting.\n- Not suitable for dogs or those uncomfortable with serious exposure.\n- The trailhead is on the Park Loop Road, 3 miles south of Bar Harbor.\n- Return via the North Face Trail for a loop rather than retracing the exposed route."
       },
@@ -26392,7 +27011,7 @@
         "icon": "route",
         "color": "orange",
         "vault_type": "destination",
-        "description": "\"Cornish is a small town in New Hampshire with covered bridges and a charming rural vibe. Dining options may include local American cuisine, with prices ranging from $10 to $40 per meal. Many establishments serve alcohol, and hours often vary, with dinner service being typical. \"",
+        "description": "Cornish is a small town in New Hampshire with covered bridges and a charming rural vibe. Dining options may include local American cuisine, with prices ranging from $10 to $40 per meal. Many establishments serve alcohol, and hours often vary, with dinner service being typical. ",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
         "website": "https://www.google.com/maps/place/Cornish,+NH/@43.4743192,-72.4771358,50753m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e1e7e614516f55:0x98a9d6c9973686e1!8m2!3d43.4645164!4d-72.3689794!16zL20vMHhrNzM?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
@@ -27536,6 +28155,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lenox, MA",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2854,
+          42.3565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Liberty & Lake St. George",
         "icon": "route",
         "color": "orange",
@@ -27693,7 +28331,7 @@
         "icon": "route",
         "color": "orange",
         "vault_type": "destination",
-        "description": "\"Every lighthouse on the National Register / Lighthouse Friends state list for Maine \u2014 from Kittery to the Canadian border. Waypoints link here via trail: and are also assigned to their real town's destination note where one exists; this hub is the fallback for remote islands and ledges with no town of their own.\"",
+        "description": "Every lighthouse on the National Register / Lighthouse Friends state list for Maine \u2014 from Kittery to the Canadian border. Waypoints link here via trail: and are also assigned to their real town's destination note where one exists; this hub is the fallback for remote islands and ledges with no town of their own.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
         "website": "https://www.lighthousefriends.com/pull-state.asp?state=ME&button=Go"
@@ -28858,6 +29496,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Saint Albans, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0832,
+          44.8112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Saint Johnsbury, VT",
         "icon": "route",
         "color": "orange",
@@ -29198,6 +29855,25 @@
         "coordinates": [
           -68.6659983,
           44.155676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stowe, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6874,
+          44.4654
         ]
       }
     },

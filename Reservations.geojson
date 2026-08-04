@@ -55,6 +55,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Visit with the Eatons",
+        "icon": "users",
+        "color": "teal",
+        "detail": "Dysart's Marina 5:15\nIslesford dock for dinner",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3238096,
+          44.2749079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "12 1st S St Bar Harbor ME",
         "icon": "hotel",
         "color": "blue",

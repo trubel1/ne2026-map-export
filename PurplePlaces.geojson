@@ -55,6 +55,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Andre The Seal Statue",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Andre+The+Seal+Statue/@44.1862497,-69.0760483,912m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd74a9f6c68c7:0xc864ed8298abc7fd!8m2!3d44.1862136!4d-69.0737224!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgETaGlzdG9yaWNhbF9sYW5kbWFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSMWVWbERiVmwzRUFF4AEA-gEECAAQKQ!16s%2Fg%2F11g0g8pdyr?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Aquinnah Cliffs & Gay Head Light Aquinnah MA",
         "icon": "anchor",
         "color": "purple",
@@ -399,7 +416,7 @@
         "icon": "landmark",
         "color": "purple",
         "detail": "",
-        "website": "\"https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D\""
+        "website": "https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
         "type": "Point",
@@ -1500,6 +1517,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fon's Kitchen",
+        "icon": "wine",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Fon's+Kitchen/@44.4221712,-69.0166066,2023m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6fb09fb27a6d:0x35aadff6fb8fef2a!8m2!3d44.425928!4d-69.0064951!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBD3RoYWlfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VONE4yVnRSbGhSRUFF4AEA-gEECBgQPg!16s%2Fg%2F11swtvm128?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00642422598621,
+          44.426242499262976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fore River Sanctuary Portland ME",
         "icon": "footprints",
         "color": "purple",
@@ -1783,6 +1817,23 @@
         "coordinates": [
           -68.32617999869822,
           44.28023788961982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hey Sailor! Islesboro ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Hey+Sailor!/@44.4298505,-69.2017143,52506m/data=!3m1!1e3!4m11!1m3!2m2!1sRestaurants!6e5!3m6!1s0x4cae69a73a79306b:0x4fb062ecd2b94bb1!8m2!3d44.4583306!4d-68.9255819!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTktPSEoxUW5sM1JSQULgAQD6AQQIJRBB!16s%2Fg%2F11ppqkdp61?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.92562,
+          44.45831
         ]
       }
     },
@@ -2928,6 +2979,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Plaisted Preserve",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Plaisted+Preserve/@44.0739557,-69.0754495,7572a,35y,2.71t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadcddaa640a927:0x58c83f016c0a1f25!8m2!3d44.0848238!4d-69.0624918!16s%2Fg%2F11gl20bxlh?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.141,
+          44.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pleasant Plains Presbyterian Church Clinton NY",
         "icon": "landmark",
         "color": "purple",
@@ -3098,6 +3166,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ralston Gallery",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Ralston+Gallery/@44.1834243,-69.0818261,2626m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd73007636b51:0xf92746392a300cf2!8m2!3d44.1876232!4d-69.0729398!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEMcGhvdG9ncmFwaGVymgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIxek5HTXpVWGRPUjJRMFRVYzFhbFpyTlUxTlJrNVRWMFYwUlZkdVl4QULgAQD6AQUIsQIQHw!16s%2Fg%2F1hc83xqqv?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0727936,
+          44.1873577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ram & Bull Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -3126,6 +3211,23 @@
         "coordinates": [
           -73.9137,
           41.9263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivalries Sports Pub Boynton Beach FL",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Overview\nType: Sports Pub\n\nBest known for: Great service and delicious pub food.\n\nLocation context: Boynton Beach\n\nPrice level: $10\u201320 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals\n\nGroup types: Friends, couples, larger groups\n\nCommon occasions: Casual dinner, social gatherings\n\nVibe & Setting\nAtmosphere: Casual and lively\n\nNoise level: Moderate\n\nDecor & setting: Indoor seating, bar area\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nReviewers recommend the nachos, tots, and hot dog, all praised for their flavors and quality.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are chosen based on items frequently mentioned in reviews and photos, particularly those labeled as favorites by users.\n\nTop dishes to order\n| Rank | Dish         | Why it stands out                                | How often it\u2019s mentioned                | Ideal for                 |\n|------|--------------|-------------------------------------------------|---------------------------------------|---------------------------|\n| 1    | Nachos      | Delicious and popular with many patrons.        | Mentioned in many reviews             | Sharing at the table      |\n| 2    | Tots        | Crispy and well-loved by visitors.              | Appears in numerous photos            | Hearty side               |\n| 3    | Hot Dog     | A crowd favorite for its unique flavor.         | Repeatedly called out as a favorite   | Quick bite                |\n\nGood alternates / backup choices\n- Meatballs: Known for great flavor.\n- Not mentioned: Fewer clearly highlighted dishes in reviews.\n\nHighlights (non-dish positives from reviews)\nGreat atmosphere: The pub has a refreshing vibe that attracts locals looking for a good time.\nFriendly service: Staff members are attentive and enhance the dining experience.\n\nCommon Issues (from reviews)\nNot mentioned: No specific issues noted in reviews.\n\nPractical Notes\nReservation / wait: Walk-in friendly\n\nAccessibility: Not mentioned\n\nParking / transit: Not mentioned\n\nBest use case: Great for casual gatherings with friends or family.",
+        "website": "https://www.google.com/maps/place/Rivalries+Sports+Pub/@26.5268015,-80.0593089,106m/data=!3m1!1e3!4m14!1m7!3m6!1s0x88d8df951215afbb:0x7f93e498ea7545d4!2sPaloma+Mexican+Restaurant!8m2!3d26.5269824!4d-80.0585403!16s%2Fg%2F11lyc85vky!3m5!1s0x88d8df5545460d8d:0xe5bc746c974be02c!8m2!3d26.5270021!4d-80.0592195!16s%2Fg%2F11z8gzzqrw?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05921383648432,
+          26.52703028645771
         ]
       }
     },
@@ -3194,6 +3296,23 @@
         "coordinates": [
           -69.1072097,
           44.0994847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockport Marine Park",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Rockport+Marine+Park/@44.1834243,-69.0818261,2626m/data=!3m1!1e3!4m11!1m3!2m2!1sThings+to+do!6e1!3m6!1s0x4cadd7805a766ead:0xef87115c1de3f64a!8m2!3d44.185528!4d-69.0743781!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOc01tRnBUV1YzRUFF4AEA-gEFCNABEDY!16s%2Fg%2F11j37c9_rd?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0722033,
+          44.1875205
         ]
       }
     },
@@ -3880,6 +3999,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Old Homestead",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/The+Old+Homestead/@44.0451488,-69.0889139,4733a,35y,2.73t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadcd9d4ca0830b:0x940358aee028e1fb!8m2!3d44.0511524!4d-69.0784021!16s%2Fg%2F11vbsszb72?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.034,
+          44.048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Restaurant & Bar at The Norumbega 1 Camden ME",
         "icon": "utensils",
         "color": "purple",
@@ -3908,6 +4044,23 @@
         "coordinates": [
           -68.20438903173077,
           44.38771757045523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomaston Town Forest Multiuse Trail",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Thomaston+Town+Forest+Multiuse+Trail/@44.0744758,-69.1725469,17945a,35y,2.65t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadcc4c5f4aa20d:0x7a26e129ee369379!2sOwls+Head,+ME!3b1!8m2!3d44.082303!4d-69.0572612!16zL20vMHRxaHA!3m5!1s0x4cadc55a50b09329:0xbb8956393fb2b645!8m2!3d44.0873138!4d-69.1951738!16s%2Fg%2F11gnr0mc0r?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.791,
+          43.925
         ]
       }
     },
@@ -4214,6 +4367,23 @@
         "coordinates": [
           -73.7879,
           42.2528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasses Hot Dogs",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/Wasses+Hot+Dogs/@44.4242103,-69.0343713,1968m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cae6e69a045af5d:0x586abe27df1b7363!8m2!3d44.4241498!4d-69.0224013!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEmhvdF9kb2dfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycENjMVpGTlcxVVZGWjJZVVY0UkU5SFduQldSMFozWWxocmVGTkdSUkFC4AEA-gEECAAQPA!16s%2Fg%2F11c51wfxc6?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02243695100015,
+          44.424544086355546
         ]
       }
     },
