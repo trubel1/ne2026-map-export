@@ -1455,15 +1455,15 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Quiet neighborhood-style park that locals flag as an under-the-radar spot rather than a tourist destination.",
+        "description": "10-acre public waterfront park on Lobster Cove with a small beach, gazebo, and picnic lawn \u2014 a genuine locals' park rather than a tourist stop.",
         "start_date_time": "",
-        "detail": "Barrett Park\n\n\ud83d\udccd Boothbay, ME\n\nA quiet neighborhood-style park that locals specifically flag as an under-the-radar spot rather than a tourist destination. A genuine local park without the harbor walk crowds.\n\nTips\n- Neighborhood park feel\n- Locals' spot, not touristy\n- Quiet, peaceful setting\n- Good for a peaceful break\n- Off the main Boothbay circuit"
+        "detail": "Barrett Park\n\n\ud83d\udccd 131 Lobster Cove Road, Boothbay Harbor, ME\n\nA 10-acre public waterfront park on Lewis Cove, in continuous use for community events since 1977 \u2014 reunions, weddings, and picnics still happen here under its gazebo. It's a genuine locals' park rather than a tourist stop: a small beach for swimming, wading, or launching a kayak, an expansive lawn for games, a memorial garden, granite benches, and shade trees along a rocky shoreline.\n\nTips\n- Open 6am\u20139pm daily.\n- Dog-friendly, with real beach access \u2014 a good option if you need a break from harbor crowds with a dog in tow.\n- Bring a kayak or paddleboard; the cove is calm and well-suited to launching directly from the beach.\n- No food/concessions on site \u2014 pack a picnic if you're staying a while."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6145995,
+          43.8522799
         ]
       }
     },
@@ -2457,7 +2457,7 @@
         "vault_type": "Restaurant",
         "description": "Tapas-and-fine-dining combo with a rooftop deck overlooking the harbor.",
         "start_date_time": "",
-        "detail": "Boathouse Bistro\n\n\ud83d\udccd Boothbay Harbor ME\n\nTapas-and-fine-dining combo with a rooftop deck overlooking the harbor.\n\nMust Order\n- Tapas plates\n- Rooftop deck seating\n\nTips\n- Request rooftop seating for harbor views."
+        "detail": "Boathouse Bistro\n\n\ud83d\udccd 12 By-Way, Boothbay Harbor, ME\n\nA three-story harborfront restaurant right in downtown Boothbay Harbor \u2014 a cozy first-floor dining room, a second-floor tavern, and a third-floor open-air deck with panoramic harbor views. The menu runs 80+ dishes across tapas-style small plates and full entr\u00e9es, blending Maine coastal traditions (locally caught seafood, organic meats, seasonal vegetables) with internationally inspired flavors, and covers vegan, vegetarian, and gluten-free well. Rated 4.4 on Tripadvisor, ranked around #9 of 46 Boothbay Harbor restaurants \u2014 one of the stronger reviewed spots in town.\n\nMust Order\n- Tapas plates \u2014 the menu's real strength; order several to share rather than a single entr\u00e9e\n- Haddock sandwich \u2014 repeatedly praised for its size and how well the fish is cooked\n- Fresh local seafood entr\u00e9es generally \u2014 reviewers consistently note perfectly prepared, fresh preparations\n\nTips\n- Request rooftop (3rd floor) seating for the best harbor views \u2014 go early or reserve ahead, it's the most requested spot in the building.\n- Prices are moderate for a harbor-view restaurant in this town \u2014 not the premium you'd expect given the setting.\n- Good option if part of your group wants a full dinner and part wants to graze tapas-style."
       },
       "geometry": {
         "type": "Point",
@@ -2574,13 +2574,13 @@
         "vault_type": "Shop",
         "description": "Recreated 1900s village with a narrow-gauge train ride and antique vehicle collection \u2014 great for families.",
         "start_date_time": "",
-        "detail": "Boothbay Railway Village\n\n\ud83d\udccd Boothbay Harbor ME\n\nRecreated 1900s village with a narrow-gauge train ride and antique vehicle collection \u2014 great for families.\n\nTips\n- Great option if traveling with kids.\n- A few miles north of the harbor itself."
+        "detail": "Boothbay Railway Village\n\n\ud83d\udccd 586 Wiscasset Road (Route 27), Boothbay, ME\n\nA recreated early-1900s Maine village spread across 35 acres, built from real historic structures relocated from around the region \u2014 shops, a schoolhouse, a homestead, and the 1912 Freeport Station depot. The centerpiece is a ride behind a 100-year-old vintage steam locomotive around the grounds; there's also an antique auto museum with 60+ vehicles spanning 1902\u20131962, and a detailed model railroad depicting 1950s\u201360s Maine railroading. The resident goats are a running highlight for younger visitors.\n\nTips\n- Train rides depart on the hour, 11am\u20134pm, Tuesday\u2013Sunday \u2014 call ahead ((207) 633-4727) to confirm the schedule since it can shift seasonally.\n- About 6 miles north of Boothbay Harbor proper on Route 27 \u2014 plan it as its own outing, not a quick add-on to a harbor walk.\n- Guided 1.5-hour tours include the train ride; worth it for real context on the buildings and autos rather than just wandering.\n- Great option if traveling with kids \u2014 hands-on, unhurried, and the goats alone are worth the stop.\n- Iron Horse Antiques & General Store on-site is worth a browse before or after."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.6334,
-          43.8838
+          -69.6208622,
+          43.9024999
         ]
       }
     },
@@ -2651,7 +2651,7 @@
         "vault_type": "Restaurant",
         "description": "Waterfront comfort food praised as one of Maine's best new restaurants by Downeast readers.",
         "start_date_time": "",
-        "detail": "Brady's\n\n\ud83d\udccd Boothbay Harbor ME\n\nWaterfront comfort food praised as one of Maine's best new restaurants by Downeast readers.\n\nMust Order\n- \n\nTips\n- Newer spot \u2014 book ahead during peak summer weekends."
+        "detail": "Brady's\n\n\ud83d\udccd 25 Union St, Boothbay Harbor, ME\n\nA newer arrival (opened in the current wave of Boothbay openings) that quickly earned a spot on Downeast readers' list of Maine's best new restaurants. The building is clean and spacious with nautical-rustic charm, a real harbor view, and outdoor seating \u2014 comfort food done well rather than fine dining. Rated 4.4 on Tripadvisor, ranked around #21 of 46 Boothbay Harbor restaurants.\n\nMust Order\n- Fish & chips \u2014 called out repeatedly for generous portions and quality\n- Lobster mac & cheese \u2014 a fan favorite on the menu\n- Massachusetts-style clam chowder \u2014 a distinct, thicker style worth trying alongside the classic New England chowders elsewhere on the harbor\n- Haddock BLT \u2014 a standout lunch pick, also served as haddock tacos\n\nTips\n- Newer spot \u2014 book ahead during peak summer weekends.\n- Open Tuesday\u2013Saturday 11:30am\u20138pm, Sunday 7:30am\u20134pm (brunch); closed Mondays.\n- Dinner runs $30\u201340/person, lunch $10\u201320 \u2014 solid value for the harbor.\n- Reach them directly at (207) 315-6555 or bradysboothbayharbor.com."
       },
       "geometry": {
         "type": "Point",
@@ -3022,7 +3022,7 @@
         "vault_type": "Lighthouse",
         "description": "Maine's ninth lighthouse (1821) and the second-oldest original lighthouse structure in the state, after Portland Head. A thirty-foot conical granite tower off Boothbay Harbor, automated in 1988 and now run as a \"Living Lighthouse\" educational site.",
         "start_date_time": "",
-        "detail": "Burnt Island Lighthouse\n\n\ud83d\udccd Burnt Island, Boothbay Harbor, ME\n\nCompleted in 1821 on a five-acre island purchased for $150, this thirty-foot conical granite tower is Maine's ninth lighthouse and the second-oldest original lighthouse structure in the state, after Portland Head (1791). Staffed until automation in 1988; today it operates as a \"Living Lighthouse\" for educational programs.\n\nTips\n- Viewable from shore off Route 27 south of Wiscasset.\n- Island landings and tours run through the Maine Lighthouse Museum and Cap'n Fish's boat services.\n- Grounds, dwelling, and tower open to visitors in July\u2013August."
+        "detail": "Burnt Island Lighthouse\n\n\ud83d\udccd Burnt Island, Boothbay Harbor, ME\n\nCompleted in 1821 on a five-acre island purchased for $150, this thirty-foot conical granite tower is Maine's ninth lighthouse and the second-oldest original lighthouse structure in the state, after Portland Head (1791). Staffed until automation in 1988; today the Maine Department of Marine Resources runs it as a \"Living Lighthouse,\" with costumed interpreters portraying the keeper's family and demonstrating 1950s-era lighthouse life.\n\nTips\n- Only reachable by boat \u2014 book the Burnt Island Living Lighthouse Tour through Balmy Days Cruises (balmydayscruises.com, (207) 633-2284), departing Pier 8 in Boothbay Harbor. Adults $34, children ages 3\u201311 $24.\n- Island open 10am\u20135pm daily, May 15\u2013October 15 \u2014 has to fall within that window to actually land and tour the grounds.\n- Adventurous paddlers do sometimes kayak out independently, but the boat tour is the practical way to actually go ashore.\n- If you don't book the boat tour, it's still viewable at a distance from shore."
       },
       "geometry": {
         "type": "Point",
@@ -4672,13 +4672,13 @@
         "vault_type": "Farm",
         "description": "300+ acre coastal gardens with themed plantings, sculptures including Thomas Dambo trolls, and waterfront trails \u2014 a must-see.",
         "start_date_time": "",
-        "detail": "Coastal Maine Botanical Gardens\n\n\ud83d\udccd Boothbay Harbor ME\n\n300+ acre coastal gardens with themed plantings, sculptures including Thomas Dambo trolls, and waterfront trails \u2014 a must-see.\n\nTips\n- Allow at least half a day \u2014 the grounds are extensive.\n- Look for the Thomas Dambo troll sculptures scattered through the grounds.\n- Combine with lunch in Boothbay Harbor proper."
+        "detail": "Coastal Maine Botanical Gardens\n\n\ud83d\udccd 105 Botanical Gardens Drive, Boothbay, ME\n\nOver 300 acres of coastal gardens and natural spaces \u2014 one of the largest botanical gardens in New England, and consistently the top-rated attraction in the Boothbay region. Highlights include the Bibby and Harold Alfond Children's Garden, the Giles Rhododendron and Perennial Garden, a Native Butterfly House, and waterfront trails along the tidal Back River. The grounds also host rotating large-scale art installations, including Thomas Dambo's giant recycled-wood troll sculptures tucked into the woods.\n\nTips\n- Allow at least half a day \u2014 the grounds are genuinely extensive, and it's easy to lose several hours just in the Children's Garden and rhododendron garden alone.\n- Open daily 9am\u20135pm; buy tickets online in advance during peak summer to skip the gate line.\n- Free wheelchairs and $15\u201318 electric scooter rentals are available if walking the full 300 acres isn't realistic \u2014 there's also a 90-minute accessible cart tour led by docents, for up to five people.\n- Bring sunscreen, bug spray, comfortable shoes, and a refillable water bottle \u2014 stations are placed throughout the grounds.\n- No pets allowed (service animals excepted) \u2014 plan around this if traveling with a dog.\n- Combine with lunch at the on-site Kitchen Garden Cafe (see The Cafe) so you don't have to leave and re-enter."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.6398,
-          43.8398
+          -69.6594742,
+          43.8720213
         ]
       }
     },
@@ -12417,7 +12417,7 @@
         "vault_type": "Restaurant",
         "description": "Lively harborfront spot famous for its lobster roll and award-winning clam chowder.",
         "start_date_time": "",
-        "detail": "McSeagull's Restaurant\n\n\ud83d\udccd Boothbay Harbor ME\n\nLively harborfront spot famous for its lobster roll and award-winning clam chowder.\n\nMust Order\n- Lobster roll\n- Award-winning clam chowder\n\nTips\n- Busy in peak season \u2014 expect a wait at lunch."
+        "detail": "McSeagull's Restaurant\n\n\ud83d\udccd 14 Wharf St, Boothbay Harbor, ME\n\nA pub-style harborfront institution built right over the water next to Boothbay Harbor's famous footbridge, with both indoor dining and a wraparound outdoor deck that's one of the best harbor-view seats in town. Ranked among the top 20 of 50+ Boothbay Harbor restaurants across hundreds of reviews, with a Tripadvisor Certificate of Excellence. The menu leans pub-casual \u2014 lobster dishes, fresh seafood, burgers, pizza, nachos \u2014 rather than fine dining, which is exactly the appeal after a day on the water.\n\nMust Order\n- Lobster roll \u2014 a generous portion of whole lobster meat, the dish most reviewers single out\n- Award-winning clam chowder \u2014 repeatedly called out as some of the best in New England; pair with the lobster bisque if you can't choose\n\nTips\n- Busy in peak season \u2014 expect a wait at lunch and prime dinner hours; outdoor deck seating goes first.\n- Price range runs roughly $12\u2013$40, wide enough to work for a casual lunch or a full seafood dinner.\n- Ask for a table on the deck side facing the footbridge \u2014 the view is the draw as much as the food."
       },
       "geometry": {
         "type": "Point",
@@ -14221,15 +14221,15 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Quiet coastal preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover.",
+        "description": "32-acre former saltwater farm on Hodgdon Cove \u2014 the last undeveloped one in Boothbay Harbor, now the Boothbay Region Land Trust's HQ, with an accessible shoreline trail, a 1-mile loop, kayak launch, and butterfly-heavy fields in summer.",
         "start_date_time": "",
-        "detail": "Oak Point Farm\n\n\ud83d\udccd Boothbay, ME\n\nA quiet coastal preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover. Part of the local network of secret nature spots.\n\nTips\n- On local \"hidden gems\" lists\n- Uncrowded, off-the-radar\n- Coastal preserve setting\n- Good for quiet exploration\n- Minimal tourist presence"
+        "detail": "Oak Point Farm\n\n\ud83d\udccd 60 Samoset Road, Boothbay Harbor, ME\n\nA 32-acre property with over 2,000 feet of coastline on Hodgdon Cove, described as the last remaining undeveloped saltwater farm in Boothbay Harbor \u2014 now the headquarters of the Boothbay Region Land Trust. It's the most amenity-rich of the BRLT preserves: a 0.6-mile accessible shoreline route suitable for wheelchairs and strollers, an easy 1-mile loop through fields and forest, a 2-acre freshwater pond for wildlife viewing, a deep-water dock with kayak launch, and three courtesy moorings. In summer the milkweed fields draw hundreds of monarch butterflies.\n\nTips\n- Open dawn to dusk, seven days a week; the visitor center/farmhouse itself is staffed weekdays 9:30am\u20134:30pm.\n- Preserve parking is on the left, with disability parking beside the farmhouse.\n- Public restrooms and a small Nature Center exhibit are on site \u2014 one of the few preserves with real facilities.\n- Good pick if the group includes anyone who needs the fully accessible route rather than a woods trail.\n- Winter brings cross-country skiing and snowshoeing on the maintained trails.\n- The mowed field is open for picnicking or a quick outdoor stretch/yoga break."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6563519,
+          43.8512419
         ]
       }
     },
@@ -14259,15 +14259,15 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Quiet coastal preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover.",
+        "description": "15-acre Boothbay Region Land Trust preserve in East Boothbay with two easy trails around Tibbetts Pond, a designated waterfowl habitat \u2014 birding and ice skating spot, off the scenic Route 96 drive to Ocean Point.",
         "start_date_time": "",
-        "detail": "Ocean Point Preserve\n\n\ud83d\udccd Boothbay, ME\n\nA quiet coastal preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover. A genuine secret among locals.\n\nTips\n- On local \"hidden gems\" lists\n- Coastal location\n- Quiet, uncrowded\n- Off-the-radar from tourists\n- Good for exploration"
+        "detail": "Ocean Point Preserve\n\n\ud83d\udccd Van Horn Road, East Boothbay, ME\n\nA 15-acre Boothbay Region Land Trust preserve within Linekin Neck's largest wetland, centered on Tibbetts Pond \u2014 designated by Maine's Department of Inland Fisheries and Wildlife as significant waterfowl habitat. Two easy trails: the white-blazed Norman Van Horn Trail (~0.9 mile loop) and the shorter blue-blazed Golden Crowned Kinglet Trail (~0.2 mile) to a wetland observation point. It sits right along the scenic Route 96 drive out to Ocean Point itself \u2014 a narrow coastal road winding past houses perched on the rocky shore, ending at a point established as a summer retreat back in 1876, overlooking several islands and lighthouses.\n\nTips\n- About a 7-mile, ~15-minute scenic drive southeast from downtown Boothbay Harbor via Route 96 \u2014 worth doing as a loop with the drive itself, not just the trail.\n- Small parking area on Van Horn Road, 0.3 miles off Route 96 \u2014 roadside parking isn't permitted, so use the lot.\n- Good birding in warmer months; the pond is used for ice skating in winter.\n- Combine with continuing to the end of Route 96 at Ocean Point for open water views and a look at nearby lighthouses."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6026702,
+          43.8166353
         ]
       }
     },
@@ -14673,7 +14673,7 @@
         "vault_type": "Park",
         "description": "5.6 miles of trails split into East and West sections along Back and Cross Rivers, with striking blue-green tidal colors and multiple parking areas to avoid crowding\u2014a real local favorite for solitude.",
         "start_date_time": "",
-        "detail": "Ovens Mouth Preserve\n\n\ud83d\udccd Boothbay, ME (East and West sections)\n\n5.6 miles of trails split into East and West sections along the Back and Cross Rivers, featuring striking blue-green tidal colors. Multiple parking areas allow you to avoid crowding at any single trailhead\u2014a real favorite among Boothbay locals for solitude and quiet nature.\n\nTips\n- 5.6 miles of trail network\n- East and West sections for variety\n- Striking tidal river colors\n- Multiple trailheads to spread crowds\n- Genuine local favorite\n- Excellent for avoiding Boothbay harbor crowds\n- Tide-dependent colors are best at tide changes"
+        "detail": "Ovens Mouth Preserve\n\n\ud83d\udccd Dover Road, Boothbay, ME (East and West sections)\n\nThe largest Boothbay Region Land Trust preserve \u2014 two peninsulas connected by a 93-foot pedestrian bridge, with over 5 miles of combined trail. The East section (60 acres) has an easier 1.1-mile loop plus a shorter 0.5-mile option, good for beginners; the West section (86 acres) is more demanding, with 3.6 miles of trail including a 1.75-mile loop. Both sides overlook tidal basins and salt marsh, with striking blue-green water color at tide changes \u2014 best viewed at low tide, when remnants of a historical dam are also visible.\n\nTips\n- East parking: from the Boothbay Center roundabout, Route 27 north 1.6 mi, left on Adams Pond Road (0.1 mi), right on Dover Road (1.9 mi), bear right onto Dover Extension \u2014 lot at the end.\n- West parking: same route to Dover Road but only 1.9 mi, then bear left onto Dover Cross Road \u2014 lot 0.2 mi on the right.\n- Time your visit around low tide for the dramatic tidal color and to see the old dam remnants.\n- Dogs must be leashed at all times.\n- Pick East if you want an easier walk, West if you want real mileage and more varied terrain.\n- Multiple trailheads mean you can spread out and avoid crowding even in peak season \u2014 a real local favorite for that reason."
       },
       "geometry": {
         "type": "Point",
@@ -15220,15 +15220,15 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Quiet lake preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover.",
+        "description": "29-acre Boothbay Region Land Trust preserve minutes from downtown Boothbay Harbor \u2014 a 0.5-mile loop through orchard and woodland around a freshwater wetland, popular for a quick walk, run, or dog-walk right in town.",
         "start_date_time": "",
-        "detail": "Penny Lake\n\n\ud83d\udccd Boothbay, ME\n\nA quiet lake preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover. A peaceful alternative to crowded harbor attractions.\n\nTips\n- On local \"hidden gems\" lists\n- Lake-focused nature area\n- Quiet, peaceful setting\n- Uncrowded from tourists\n- Good for nature walks"
+        "detail": "Penny Lake\n\n\ud83d\udccd Off Route 27/96, Boothbay Harbor, ME\n\nA 29-acre Boothbay Region Land Trust preserve (plus a 25-acre easement) that's unusually close to downtown \u2014 just off the Route 27/96 junction, right by the Chamber of Commerce and Flagship Inn. The main loop is an easy 0.5 miles between the trailhead kiosk and a wooden bridge with bench seating, passing through an apple orchard and woodland around a freshwater wetland. Watch for migratory and nesting birds, turtles, beaver, deer, and occasionally moose.\n\nTips\n- Parking: from the Route 27/96 traffic light, go north 0.1 mile, turn left between the Chamber of Commerce and the Flagship Inn, and continue past the Carousel Music Theater to the BRLT lot.\n- Genuinely convenient for a short walk without driving out of town \u2014 closer to the harbor than any other BRLT preserve.\n- Popular with locals for running, dog-walking, and general exercise, not just sightseeing \u2014 expect some foot traffic even though it's not a tourist spot.\n- All trails are easy, flat walking \u2014 a good option if you want nature without committing to a real hike."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6278332,
+          43.8617525
         ]
       }
     },
@@ -15826,15 +15826,15 @@
         "icon": "gem",
         "color": "green",
         "vault_type": "Park",
-        "description": "Quiet nature preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover.",
+        "description": "23-acre Boothbay Region Land Trust preserve on Barters Island \u2014 old-growth spruce/oak/pine forest, a small beach, seal-watching benches, and views over the Sheepscot River; one of the most-loved BRLT preserves.",
         "start_date_time": "",
-        "detail": "Porter Preserve\n\n\ud83d\udccd Boothbay, ME\n\nA quiet nature preserve appearing on locally sourced \"hidden gems\" lists as an uncrowded spot most Boothbay visitors never discover. Part of the local constellation of secret nature spots.\n\nTips\n- On local \"hidden gems\" lists\n- Quiet, nature-focused\n- Uncrowded trails\n- Off-the-radar from tourists\n- Good for solitude"
+        "detail": "Porter Preserve\n\n\ud83d\udccd Kimballtown Road, Barters Island, Boothbay, ME\n\nA 23-acre Boothbay Region Land Trust preserve out on Barters Island, described by BRLT itself as one of the most beloved in the region. An easy 1.1-mile path winds through heavily wooded old-growth spruce, oak, and pine, with several benches positioned for scenic Sheepscot River estuary views \u2014 seals are commonly spotted from shore at low tide. The preserve also includes a small beach, Roberts Wharf (a real working lobstering waterfront, not just scenery), and a Memorial Grove with rustic seating.\n\nTips\n- Getting there is part of the experience: from Route 27 at Boothbay Center, take Corey Lane (0.3 mi), right on Barters Island Road (2.2 mi, crossing two bridges), left on Kimballtown Road (0.5 mi), then left onto the dirt Porter Preserve Street (0.1 mi).\n- Primary parking is in a small lot past the cemetery; overflow parking is near the stacked lobster traps at the end of Kimballtown Road.\n- Dogs must stay leashed throughout.\n- Time it near low tide for the best chance of spotting seals from the overlook benches.\n- Combine with a stop at Roberts Wharf to see the island's actual working lobster fleet, not just a trail."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6732527,
+          43.9014841
         ]
       }
     },
@@ -20676,13 +20676,13 @@
         "vault_type": "Restaurant",
         "description": "4.4-rated garden-adjacent dining at Coastal Maine Botanical Gardens\u2014good option for lunch if you want to spend a full day in the gardens.",
         "start_date_time": "",
-        "detail": "The Cafe at Coastal Maine Botanical Gardens\n\n\ud83d\udccd Coastal Maine Botanical Gardens, Boothbay Harbor, ME\n\n4.4-rated garden-adjacent dining at Coastal Maine Botanical Gardens. A good option for lunch if you're spending a full day exploring the 323-acre gardens.\n\nTips\n- Inside the gardens, so full-day visits easy\n- Casual garden cafe atmosphere\n- Rated 4.4 from multiple reviews\n- Good for midday break during garden exploration\n- Allows you to stay in the gardens without leaving"
+        "detail": "The Cafe at Coastal Maine Botanical Gardens\n\n\ud83d\udccd 105 Botanical Gardens Drive, Boothbay, ME (inside the Gardens, near the Great Lawn)\n\nAlso known as the Kitchen Garden Cafe \u2014 a casual, farm-to-table spot built into the gardens themselves, using local and organic ingredients including produce grown in the on-site Kitchen Garden. Seating is available indoors or on a patio overlooking the Great Lawn. Rated 4.4 on Tripadvisor, ranked around #9 of 22 restaurants in Boothbay \u2014 strong for what's essentially an attraction-adjacent cafe rather than a destination restaurant in its own right.\n\nMust Order\n- Lobster BLT \u2014 the most frequently praised dish\n- Tarragon chicken salad sandwich\n- Beet burger \u2014 the standout vegetarian option\n- Salads generally \u2014 reviewers consistently note the crispness and use of edible flowers from the gardens\n\nTips\n- Seasonal hours only: open daily May 1\u2013October 19, matching the Gardens' regular season \u2014 closed the rest of the year.\n- Requires Gardens admission to access, since it's inside the grounds \u2014 budget it as your lunch stop mid-visit, not a standalone trip.\n- Gets crowded at peak lunch hours in summer \u2014 arrive early or plan lunch slightly off-peak.\n- Good vegetarian, gluten-free, and vegan coverage if the group has mixed dietary needs."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.626,
-          43.854
+          -69.6594742,
+          43.8720213
         ]
       }
     },

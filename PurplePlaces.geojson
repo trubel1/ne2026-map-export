@@ -942,14 +942,14 @@
         "name": "Coastal Maine Botanical Gardens Boothbay Harbor ME",
         "icon": "leaf",
         "color": "purple",
-        "detail": "Coastal Maine Botanical Gardens\n\n\ud83d\udccd Boothbay Harbor ME\n\n300+ acre coastal gardens with themed plantings, sculptures including Thomas Dambo trolls, and waterfront trails \u2014 a must-see.\n\nTips\n- Allow at least half a day \u2014 the grounds are extensive.\n- Look for the Thomas Dambo troll sculptures scattered through the grounds.\n- Combine with lunch in Boothbay Harbor proper.",
+        "detail": "Coastal Maine Botanical Gardens\n\n\ud83d\udccd 105 Botanical Gardens Drive, Boothbay, ME\n\nOver 300 acres of coastal gardens and natural spaces \u2014 one of the largest botanical gardens in New England, and consistently the top-rated attraction in the Boothbay region. Highlights include the Bibby and Harold Alfond Children's Garden, the Giles Rhododendron and Perennial Garden, a Native Butterfly House, and waterfront trails along the tidal Back River. The grounds also host rotating large-scale art installations, including Thomas Dambo's giant recycled-wood troll sculptures tucked into the woods.\n\nTips\n- Allow at least half a day \u2014 the grounds are genuinely extensive, and it's easy to lose several hours just in the Children's Garden and rhododendron garden alone.\n- Open daily 9am\u20135pm; buy tickets online in advance during peak summer to skip the gate line.\n- Free wheelchairs and $15\u201318 electric scooter rentals are available if walking the full 300 acres isn't realistic \u2014 there's also a 90-minute accessible cart tour led by docents, for up to five people.\n- Bring sunscreen, bug spray, comfortable shoes, and a refillable water bottle \u2014 stations are placed throughout the grounds.\n- No pets allowed (service animals excepted) \u2014 plan around this if traveling with a dog.\n- Combine with lunch at the on-site Kitchen Garden Cafe (see The Cafe) so you don't have to leave and re-enter.",
         "website": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.6398,
-          43.8398
+          -69.6594742,
+          43.8720213
         ]
       }
     },
