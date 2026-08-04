@@ -103,6 +103,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "727 Ocean Sunset Bar East Boothbay ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Cocktail bar at Smuggler's Cove Inn overlooking Linekin Bay \u2014 craft cocktails, small plates, and sunset views. Limited hours (Mon/Tue/Thu only).",
+        "start_date_time": "",
+        "detail": "727 Ocean Sunset Bar\n\n\ud83d\udccd At Smuggler's Cove Inn, 727 Ocean Point Rd, East Boothbay, ME\n\nA cocktail bar at Smuggler's Cove Inn with genuinely stunning Linekin Bay views \u2014 creative craft cocktails, local brews, and small plates: oysters, fish tacos, sliders, and a cheese/charcuterie board built on locally produced meats and cheeses. The setting is the main draw as much as the food.\n\nMust Order\n- Fried chicken wings \u2014 called out as large and crispy\n- Cheese/charcuterie board\n- Fish tacos\n\nTips\n- Very limited hours: Monday, Tuesday, and Thursday only, 3pm\u20138:30pm \u2014 closed Wednesday and (per available info) weekends, so this takes real planning to hit.\n- Go for sunset \u2014 that's the entire point of the location, right on Linekin Bay.\n- One review flagged a discrepancy between menu price and actual charge \u2014 worth confirming prices verbally if anything seems off.\n- On the way out toward Ocean Point / Ocean Point Preserve, so easy to combine with that stop.",
+        "website": "https://www.smugglerscoveinn.com/727-ocean-sunset-bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.590864,
+          43.8316214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "88 Charles St Restaurant Montgomery NY",
         "icon": "sandwich",
         "color": "red",
@@ -527,6 +547,26 @@
         "coordinates": [
           -72.4206525,
           43.6440549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ann's Book Bistro Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Upscale northern Spanish restaurant (paella, tapas) from a chef with El Bulli experience \u2014 doubles as a bookshop, with a curated lending library on-site. Cozy and charming, on the pricier side.",
+        "start_date_time": "",
+        "detail": "Ann's Book Bistro\n\n\ud83d\udccd 17 Back Meadow Rd, Damariscotta, ME\n\nFull name is Ann's Book Bistro \u2014 a northern Spanish restaurant built around authentic paella, run by Chef Chris Padil, who has El Bulli (Barcelona) experience. The space doubles as a bookshop, with a curated collection of books available to browse or borrow \u2014 a genuinely distinctive touch, not a gimmick. Menu runs comfort food alongside small plates, with Monday pasta nights (salad, soup, up to 5 pasta small plates for $19). Reviews are overwhelmingly positive on execution and atmosphere, with some flagging the cost as high relative to portion size.\n\nMust Order\n- Paella \u2014 the signature dish\n- Salmon crudo\n- Burrata\n- Seafood stew (Cazuela)\n- Argentinian Churrasco\n\nTips\n- Closed Sunday\u2013Tuesday; open Wednesday\u2013Saturday, 11am\u20132pm and 4pm\u20139pm. Happy hour Wed\u2013Fri, 4pm\u20136pm.\n- Monday pasta night ($19 for soup, salad, and multiple pasta small plates) is a genuinely different, cheaper way to experience the kitchen \u2014 but note it falls on a day the regular menu/hours above don't apply, so confirm this specifically.\n- Reservations recommended \u2014 small, popular room.\n- Budget for higher-than-average pricing relative to portions; go in expecting a special-occasion meal, not a bargain.",
+        "website": "https://annsbookbistro.me/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5064476,
+          44.0439639
         ]
       }
     },
@@ -1092,6 +1132,26 @@
         "coordinates": [
           -71.3558,
           45.0801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Back River Bistro Wiscasset ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Seasonal, locally sourced gastropub committed to local farms/fisheries/foragers \u2014 fresh oysters, inventive small plates, and crafted cocktails. $60-70/person.",
+        "start_date_time": "",
+        "detail": "Back River Bistro\n\n\ud83d\udccd 65 Gardiner Rd, Wiscasset, ME\n\nA gastropub built around supporting local farms, fisheries, and foragers, with a seasonal menu that shifts to match what's actually available. Known for fresh oysters on the half shell, calamari, mushroom toast, and heartier plates like pork schnitzel, duck, half chicken with delicata and apple cider glaze, and short rib with potato pav\u00e9 and gremolata. Crafted cocktails round out the menu. Rated 4.6 on Tripadvisor, ranked around #8 of 23 Wiscasset restaurants.\n\nMust Order\n- Oysters on the half shell\n- Calamari\n- Short rib with potato pav\u00e9, soubise, and potato chip gremolata\n- Half chicken with delicata, parsnip, and apple cider glaze\n\nTips\n- Open Tuesday\u2013Saturday, 4:30pm\u20139pm only \u2014 no lunch service, and closed Sunday/Monday.\n- Plan for $60\u201370/person \u2014 this is a real dinner-out price point, not a casual stop.\n- Menu is genuinely seasonal, so don't expect the same dishes twice across a trip.",
+        "website": "https://www.backriverbistro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.667902,
+          44.0092653
         ]
       }
     },
@@ -2722,6 +2782,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bred in the Bone Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Cozy Mediterranean-leaning small-plates spot on Main Street with exposed brick, deep colors, and an extensive wine list \u2014 a short, weekly-changing menu done with real attention to detail.",
+        "start_date_time": "",
+        "detail": "Bred in the Bone\n\n\ud83d\udccd 133 Main St, Damariscotta, ME\n\nA cozy Mediterranean-inspired restaurant with a deliberately short, weekly-changing menu \u2014 pappardelle, scallops, and tuna alongside dessert standouts like tiramisu, affogato, and olive cakes. The room leans into deep colors and exposed brick for a charming, thoughtful feel, backed by an extensive wine list. Google rates it 4.8; ranked around #7 of 33 restaurants in Damariscotta.\n\nMust Order\n- Pappardelle\n- Scallops\n- Tiramisu or affogato for dessert\n\nTips\n- Short menu by design \u2014 check what's currently running since it changes weekly, plus regular specials.\n- Reservations recommended given the small room and short menu (limited covers per night).\n- Good wine list \u2014 worth asking staff for a pairing if you're ordering the tasting-style small plates.",
+        "website": "https://www.bitbmaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5316638,
+          44.0326687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Brewery Loop west Woodstock VT",
         "icon": "beer",
         "color": "green",
@@ -3108,6 +3188,26 @@
         "coordinates": [
           -74.1268,
           42.0498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabbage Island Clambakes Boothbay Harbor ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A 3.5-hour narrated boat cruise out to a private island for a traditional Downeast clambake \u2014 chowder, two lobsters, steamers, corn, and blueberry cake. Rated 4.9, ranked among Boothbay Harbor's very best.",
+        "start_date_time": "",
+        "detail": "Cabbage Island Clambakes\n\n\ud83d\udccd Ticket booth: Pier 6, Fisherman's Wharf Inn, 22 Commercial St, Boothbay Harbor, ME\n\nNot a restaurant so much as a full excursion: board the Bennie Alice for a scenic narrated cruise of Boothbay Harbor, land on a 5.5-acre private island, and eat a traditional Downeast clambake cooked right there \u2014 fish chowder, two whole lobsters, a pound of steamer clams, corn on the cob, potato, onion, egg, and blueberry cake, with coffee/tea/water included. Round trip runs about 3.5 hours. Rated 4.9 on Tripadvisor, ranked around #12 of 46 Boothbay Harbor restaurants \u2014 reviewers consistently call it the best value excursion in the area.\n\nMust Order\n- Nothing to choose \u2014 the full clambake spread is the whole point, and it's included in the ticket price.\n\nTips\n- Book ahead; this sells out in peak season.\n- Arrive at the ticket booth (Pier 6, Fisherman's Wharf Inn) one hour before departure for check-in.\n- Cash or check only \u2014 they do not accept credit or debit cards, at the booth, on the boat, or on the island.\n- Price is tied to market lobster rates and can shift, so confirm current pricing before booking.\n- Budget the better part of an afternoon \u2014 this isn't a quick meal, it's a half-day activity.",
+        "website": "https://www.cabbageislandclambake.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6275249,
+          43.8503707
         ]
       }
     },
@@ -10011,6 +10111,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jolie Rogers Raw Bar Wiscasset ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Sleek, minimalist oyster bar on the Sheepscot River from two longtime friends \u2014 one a nationally competitive oyster shucker. Top-rated oyster bar in Maine, plus small plates and cocktails.",
+        "start_date_time": "",
+        "detail": "Jolie Rogers Raw Bar\n\n\ud83d\udccd 8 Railroad Ave, Wiscasset, ME\n\nAn oyster bar right on the Sheepscot River, opened by longtime friends Ryan Jolie and Andy Rogers \u2014 Rogers is one of the country's best oyster shuckers, with a competitive shucking background. Sleek, minimalist, hidden-gem feel tucked on a side street with river views. Menu changes seasonally; beyond oysters, expect tuna tartare, scallop ceviche, and other small plates. Also sells oysters and their signature sauces retail. Rated 5/5 on Restaurant Guru across dozens of reviews \u2014 widely considered one of the top oyster bars in Maine.\n\nMust Order\n- Fresh oysters \u2014 the entire reason to go, and the reviews back it up\n- Tuna tartare\n- Scallop ceviche\n\nTips\n- Small, easy-to-miss location on a side street off the main drag \u2014 worth seeking out deliberately, it's not a walk-by discovery.\n- Good pairing with Red's Eats or Panacea if you want lobster roll/chowder plus a proper raw bar course on the same Wiscasset stop.\n- Also sells oysters/sauces to take home if you want to bring some back to the base camp kitchen.",
+        "website": "https://www.jolierogersrawbar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6639508,
+          44.0027744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jordan Pond Acadia National Park ME",
         "icon": "waves",
         "color": "green",
@@ -14941,6 +15061,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Panacea Wiscasset ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Ocean-inspired chowder house and soupery from the former owner of Maine Booch, opened Feb 2025 right across from Red's Eats. Best-reviewed newcomer in Wiscasset.",
+        "start_date_time": "",
+        "detail": "Panacea\n\n\ud83d\udccd 100 Main St, Wiscasset, ME\n\nOpened February 2025 in the former Yonder sandwich shop space, directly across from Red's Eats \u2014 an ocean-inspired chowder house and soupery from Chauncey Erskine, formerly of Maine Booch in Damariscotta. Built around community as much as comfort food: nautical charts, sea captain figurines, and regular game nights fill out the room. Rated 5.0 on Tripadvisor from early reviews.\n\nMust Order\n- Maine clam chowder \u2014 reviewers call it the best they've had anywhere in the state\n- Knotty Buoy grilled cheese \u2014 cheddar, green apple, seaweed, and maple-miso spread\n- Lobster grilled cheese\n- Vegan chowder option, if that matters for your group\n\nTips\n- Small, casual spot \u2014 good for a quick, satisfying lunch rather than a sit-down dinner.\n- Right across the street from Red's Eats, so easy to pair with (or use as the less-crowded alternative to) Wiscasset's famous lobster roll line.\n- Portions are described as reasonable and reasonably priced \u2014 not a splurge stop.",
+        "website": "https://panaceamaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6652837,
+          44.0024345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Paolo's Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -17648,6 +17788,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Salt + Pepper Social Newcastle ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Elevated all-vegan restaurant, market, cafe, and bakery on the Damariscotta River in Newcastle \u2014 a beloved local gathering spot with a river-view deck.",
+        "start_date_time": "",
+        "detail": "Salt + Pepper Social\n\n\ud83d\udccd 67 Main St, Newcastle, ME\n\nAn elevated plant-based restaurant, gourmet vegan market, and cafe/bakery right on the Damariscotta River, established 2022. Fully seasonal menu \u2014 rotating breakfast, lunch, and dinner built around the freshest local and organic produce, plus in-house baked goods. Seating is on an enclosed river-view deck and shelled patio, or indoors at the bar and market space. Described as a beloved community gathering spot with nearly perfect reviews \u2014 not just \"good for vegan,\" genuinely well-regarded on its own terms.\n\nMust Order\n- Spinach artichoke dip with focaccia\n- Zucchini chocolate cake\n\nTips\n- Fully vegan \u2014 worth knowing going in if the group isn't plant-based by default, but reviews suggest it wins over non-vegans too.\n- The river-view deck seating is the draw when weather allows \u2014 ask for it.\n- Also functions as a market/bakery, so it's worth a stop even outside a full meal if you want provisions for the road.\n- Operates seasonally \u2014 confirm hours before planning around it.",
+        "website": "https://sp-foods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5361743,
+          44.0342085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Salt Point NY",
         "icon": "landmark",
         "color": "green",
@@ -18842,6 +19002,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Smashed Burgers & Brews Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "House-made smashed burgers, a standout Reuben, fish and chips, and a genuinely good happy hour \u2014 praised for generous portions and fair prices.",
+        "start_date_time": "",
+        "detail": "Smashed Burgers & Brews\n\n\ud83d\udccd 85 Parking Lot Lane, Damariscotta, ME\n\nA casual burger-and-brews spot known for its smashed-burger technique and house-made components \u2014 bacon jam, herb cheese, thick-cut house corned beef for the Reuben. Also does fish and chips, a Haddock Rachel, pizza, and wings. Reviewers consistently call out prompt, friendly, knowledgeable service and generous portions at reasonable prices, with a happy hour that makes an evening out especially affordable.\n\nMust Order\n- French Herb Burger \u2014 topped with bacon jam and herb cheese, both house-made\n- Reuben \u2014 thick-cut house-made corned beef\n- Haddock Rachel\n\nTips\n- Happy hour is worth timing your visit around if you're budget-conscious.\n- Good option if the group wants a casual, no-fuss meal after an active day rather than a sit-down dinner."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5324873,
+          44.0323507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Smoky Rock BBQ Red Hook, NY",
         "icon": "sandwich",
         "color": "red",
@@ -19755,6 +19934,26 @@
         "coordinates": [
           -68.05,
           44.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunnyside Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Weekend breakfast/brunch spot on Main Street from Barn Door Baking Co. \u2014 biscuits, quiche, and pastries done well, in a cozy setting.",
+        "start_date_time": "",
+        "detail": "Sunnyside\n\n\ud83d\udccd 212 Main St, Damariscotta, ME\n\nA breakfast-and-brunch spot from the team behind Barn Door Baking Co., open Friday through Monday only. Menu runs breakfast sandwiches, quiche, sausage, croissants, cinnamon rolls, biscuits, and savory hand pies similar to empanadas \u2014 real bakery craft applied to breakfast rather than a standard diner menu. Cozy atmosphere, friendly and well-trained staff.\n\nMust Order\n- Buttermilk biscuits \u2014 the most-praised item\n- Quiche\n- Savory hand pies, if available that day\n\nTips\n- Open Friday, Saturday, Sunday, and Monday only \u2014 closed Tuesday\u2013Thursday, so plan around that if you want to hit it.\n- Weekend mornings will draw a crowd given the reputation \u2014 go early.\n- Pair with a visit to Barn Door Baking Co. itself if you want more of their baked goods to go.",
+        "website": "https://www.barndoorbakingcompany.com/sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5301048,
+          44.032451
         ]
       }
     },
