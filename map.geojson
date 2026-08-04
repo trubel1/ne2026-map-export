@@ -3841,25 +3841,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cascade Falls Trail Boothbay ME",
-        "icon": "gem",
-        "color": "green",
-        "vault_type": "Footpath",
-        "description": "Local \"secret spot\" nomination featuring cascading falls, seeing a fraction of the foot traffic of Boothbay's main attractions.",
-        "start_date_time": "",
-        "detail": "Cascade Falls Trail\n\n\ud83d\udccd Boothbay, ME\n\nA local \"secret spot\" nomination featuring cascading falls along a hiking trail, seeing a fraction of the foot traffic of Boothbay's main attractions. A genuine hidden gem for waterfall lovers.\n\nTips\n- Waterfall views on trail\n- Far fewer visitors than main Boothbay spots\n- Local favorite\n- Good alternative to harbor attractions\n- Quiet nature experience"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.626,
-          43.854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Cascade Mountain Berlin NH",
         "icon": "mountain",
         "color": "green",
@@ -7755,25 +7736,6 @@
         "coordinates": [
           -69.1031238,
           44.1049567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Giant's Stairs Trail Boothbay ME",
-        "icon": "gem",
-        "color": "green",
-        "vault_type": "Footpath",
-        "description": "Local \"secret spot\" nomination that sees a fraction of the foot traffic of Boothbay's harbor walk.",
-        "start_date_time": "",
-        "detail": "Giant's Stairs Trail\n\n\ud83d\udccd Boothbay, ME\n\nA local \"secret spot\" nomination for hiking, seeing a fraction of the foot traffic of Boothbay's popular harbor walk. A genuinely uncrowded trail alternative to the main attractions.\n\nTips\n- Far fewer visitors than harbor attractions\n- Local favorite, minimal tourist presence\n- Good for avoiding crowds\n- Genuine trail experience\n- Away from commercialized areas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.626,
-          43.854
         ]
       }
     },
