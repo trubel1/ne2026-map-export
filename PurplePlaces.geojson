@@ -310,6 +310,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Big Top Delicatessen Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Big Top Delicatessen\n\n\ud83d\udccd 70 Maine St, Brunswick, ME\n\nA Brunswick institution \"crafting premium sandwiches since 1996\" \u2014 generous, affordable, made-to-order deli sandwiches and a strong breakfast menu at a small counter-service spot with a big local following.\n\nMust Order\n- Reuben \u2014 corned beef, sauerkraut, Swiss, 1000 Island, on rye\n- Philly Cheese Steak\n- Classic Italian \u2014 capicola, ham, salami, bologna, provolone\n- The Bailey \u2014 vegetarian, three cheeses, veggies, cucumber-dill dressing\n- Hand-formed 1/3 lb burgers, house bagels\n\nTips\n- Counter service, order at the register; outdoor seating available\n- Hours are inconsistent across sources (site says Tue-Sat 10am-4pm; other listings show earlier/later hours) \u2014 confirm day-of",
+        "website": "https://www.bigtopdeli.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96556,
+          43.91583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Birch Harbor The Anvil Buck Cove Scenic Drive Winter Harbor ME",
         "icon": "mountain",
         "color": "purple",
@@ -327,6 +344,40 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bizibuns Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Bizibuns\n\n\ud83d\udccd 170 Maine St, Brunswick, ME (address as of 2026 \u2014 some directories still show a stale \"156 Maine St\")\n\nStarted as a food truck (2023 Press Herald profile), now operating from a fixed Maine Street location \u2014 known for craveable fried chicken sandwiches with standout seasoning, plus a rotating globally-inspired menu of bowls and wraps.\n\nMust Order\n- Spicy fried chicken sandwich \u2014 brioche bun, slaw, hot honey\n- Classic fried chicken sandwich\n- Smoky lamb & rice bowl\n- Falafel wrap \u2014 crisp falafel, pickled red onion, dill pickle, salad, sauce\n- Tuna poke bowl\n\nTips\n- Counter/takeout service, limited hours (roughly Tue-Fri or Tue-Sat, 9/10am-3pm, closed Sun/Mon)\n- Thinnest, most inconsistent web footprint of this batch \u2014 confirm current address and hours by phone (617-678-0100) or Instagram @bizibuns before finalizing plans",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.964488,
+          43.913512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blarney Dogs Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Blarney Dogs\n\n\ud83d\udccd 16 Station Ave, Suite 102, Brunswick, ME (inside/adjacent to Byrnes Irish Pub, Brunswick Station complex)\n\nA hot-dog-centric concept from the well-regarded Byrnes Irish Pub \u2014 natural-casing dogs and red snappers loaded with pub toppings, served in a lively Irish-pub atmosphere near the Amtrak Downeaster station.\n\nMust Order\n- Whiskey Dog\n- Downtown Dog\n- Taco Dog\n\nTips\n- Dine-in only \u2014 reported no delivery/takeout\n- Hours and reservation policy weren't confirmed online \u2014 worth a call ahead, shared location with Byrnes Irish Pub",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9657,
+          43.9114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Blue Hill At Stone Barns Mount Pleasant NY",
         "icon": "utensils",
         "color": "purple",
@@ -338,6 +389,23 @@
         "coordinates": [
           -73.82854640684273,
           41.10421551822097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowdoin College",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "",
+        "website": "\"https://www.google.com/maps/place/Bowdoin+College/@43.9076929,-69.9687607,787m/data=!3m1!1e3!4m10!1m2!2m1!1sbowdoin+college!3m6!1s0x4cad873e343ba803:0xa9b08c7cc377609!8m2!3d43.9076929!4d-69.9639971!15sCg9ib3dkb2luIGNvbGxlZ2WSARJwcml2YXRlX3VuaXZlcnNpdHngAQA!16zL20vMDFjMzMz?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9640036063209,
+          43.907820291895064
         ]
       }
     },
@@ -372,6 +440,23 @@
         "coordinates": [
           -70.0775,
           41.7689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubble and Bite Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Bubble and Bite - Boba Tea & Asian Eats\n\n\ud83d\udccd 149 Maine St, Tontine Mall, Brunswick, ME (same building as Walter's Cafe)\n\nHand-crafted boba drinks and bold Asian street food flavors \u2014 a combination distinct from typical New England caf\u00e9 fare, convenient to Bowdoin College.\n\nMust Order\n- Boba flavors \u2014 Brown Sugar, Matcha Milk Tea, Classic Taro\n- Rice bowls, bao buns\n- Japanese-style fries, mochi waffles\n\nTips\n- Prefers pickup orders through their own site (bubblenbite.com); DoorDash also available\n- Hours: Sun 11:30am-5pm, Mon-Thu 11:30am-7pm, Fri-Sat 11:30am-8pm\n- Newer, smaller business with the thinnest web footprint of this batch \u2014 no independent press coverage found; worth a call-ahead confirmation before finalizing plans around it",
+        "website": "https://www.bubblenbite.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.964,
+          43.9148
         ]
       }
     },
@@ -423,6 +508,23 @@
         "coordinates": [
           -68.2274,
           44.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Dim Sum Burlington VT",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Cafe Dim Sum\n\n\ud83d\udccd 95 St Paul St, Burlington, VT\n\nA genuine, cart-style dim sum spot near Church Street downtown \u2014 nearly 40 items on the menu, described by reviewers as authentic with genuine warmth. Joe Coffee 4.5\u2605 (321 reviews); Sirved 4.7\u2605; Tripadvisor 5.0 (smaller review base).\n\nMust Order\n- Pork shumai\n- Wonton noodle soup\n- Mapo tofu\n- Scallion pancakes\n- Sesame noodles\n- Chicken feet, for the adventurous\n\nTips\n- Limited hours: open Friday-Sunday only, 11am-9pm \u2014 closed Mon-Thu, plan around this\n- About 35-40 min from Stowe \u2014 worth a dedicated trip if the dates line up with the open days",
+        "website": "https://www.google.com/maps/place/Cafe+Dim+Sum/@44.4778,-73.214,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214,
+          44.4778
         ]
       }
     },
@@ -1194,6 +1296,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Empire Chinese Kitchen Portland ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Empire Chinese Kitchen\n\n\ud83d\udccd 575 Congress St, Portland, ME\n\nMaine's first dedicated dim sum restaurant, established 2013. Reviewers consistently compare the Shanghai soup dumplings favorably to real Chinatown spots \u2014 a legitimate dim sum destination, not just a general Chinese restaurant with a few token items. Tripadvisor 4.5\u2605 (466 reviews, #6 of 511 Portland restaurants); Yelp 735 reviews; Restaurant Guru 4.8\u2605.\n\nMust Order\n- Shanghai soup dumplings \u2014 the standout, repeatedly singled out\n- Kung Pao chicken\n- Bacon fried rice\n- Garlic green beans\n- Gluten-free dumplings available\n\nTips\n- Specializes in dim sum, Cantonese stir-fry, and gluten-free options\n- Right on Congress St in the Arts District \u2014 easy to combine with other downtown Portland stops",
+        "website": "https://www.google.com/maps/place/Empire+Chinese+Kitchen/@43.6558,-70.2611,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2611,
+          43.6558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "F. H. Gillingham & Sons Woodstock VT",
         "icon": "shopping-bag",
         "color": "purple",
@@ -1256,6 +1375,23 @@
         "coordinates": [
           -69.1086,
           44.1037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fat Puppy Fusion Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Fat Puppy Fusion\n\n\ud83d\udccd 86 Union St, Brunswick, ME (at Brooks Feed & Farm)\n\nA gourmet hot dog truck doing genuinely inventive global riffs \u2014 house-made flatbread and toppings pulling from Persian, Welsh, Turkish, and Israeli traditions. The Portland Press Herald called it \"a rock concert of flavor.\" Strong vegetarian options too, unusual for a hot dog stand.\n\nMust Order\n- Chili Bandito \u2014 quarter-pound all-beef dog, house chili, cheddar, pickled jalape\u00f1os, chili-cheese Fritos, sour cream, on house flatbread\n- Persian Greyhound \u2014 their signature global-fusion dog\n\nTips\n- Seasonal \u2014 confirm it's currently open before planning around it (typically Tue-Fri, 11am-2:30pm in season)\n- Curbside/takeout only, no indoor seating\n- Call (207) 228-4208 for current hours/status",
+        "website": "https://www.fatpuppyfusion.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9682565,
+          43.9110048
         ]
       }
     },
@@ -1375,6 +1511,23 @@
         "coordinates": [
           -70.3156,
           43.6487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Williams Park Cape Elizabeth ME",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "Fort Williams Park\n\n\ud83d\udccd 1000 Shore Rd, Cape Elizabeth, ME\n\nA sprawling oceanfront park built on the grounds of a decommissioned Army post active through both World Wars \u2014 walkable concrete bunkers and gun emplacements sit alongside dramatic cliffs, open lawns, and Maine's most photographed lighthouse, Portland Head Light. Free to enter (parking fee applies), open sunrise to sunset.\n\nWhy go: Portland's most-photographed lighthouse plus walkable fort ruins on dramatic ocean cliffs \u2014 history and scenery in one stop.\n\nWho it's for: Everyone \u2014 families, dog owners, photographers, history buffs. Genuinely broad appeal.\n\nLikes: The lighthouse-and-cliffs view, ruins/bunkers kids can climb around, food trucks on-site, free entry.\n\nDislikes: Parking fills up fast in summer; can feel busy/touristy midday.\n\nTips\n- Walk the sea trail past the old armaments and overlooks \u2014 the ruins photograph especially well against the cliffs and crashing surf on a day with decent swell\n- Portland Head Light Museum & Gift Shop and the Cape Elizabeth Historical Society Museum are both on-site\n- Food trucks (including Bite Into Maine's lobster roll van) are regularly parked in the lot\n- Wheelchair accessible, dog-friendly (off-leash area available), good for kids \u2014 playgrounds, picnic tables, and a small beach at the lower park\n- Combine with Wharf Street or other Old Port stops \u2014 about a 15-20 min drive from downtown Portland",
+        "website": "https://www.google.com/maps/place/Fort+Williams+Park/@43.6225834,-70.2106029,15z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2106029,
+          43.6225834
         ]
       }
     },
@@ -2095,6 +2248,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lucky Catskills Kingston NY",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Lucky Catskills (Kingston)\n\n\ud83d\udccd 43 North Front St, Kingston, NY\n\nFrom Patty Wu and David Schneider (of Lucky Catskills and Tabla in Tannersville) \u2014 opened Oct 2025 in the former Kingston Bread + Bar space, uptown Kingston. Not a strict dim-sum-only restaurant, but genuinely brings real dim-sum-style dumplings and buns to the Hudson Valley \u2014 quickly become a popular local spot.\n\nMust Order\n- Steamed char siu bao\n- Soup dumplings\n- Pork & chives dumplings\n- Miso ramen or Dan Dan noodles\n- Congee\n- Black sesame taro milk latte / hojicha oat latte for drinks\n\nTips\n- Open Thu-Tue, 8am-6pm (closed Wednesday)\n- Self-bussing, cafe-style ordering \u2014 casual, not full-service sit-down\n- A few reviews note small portions for the price \u2014 go in with realistic expectations, it's a caf\u00e9 not a banquet",
+        "website": "https://www.google.com/maps/place/Lucky+Catskills/@41.9267,-74.0197,17z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0197,
+          41.9267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "MOMO GARDEN",
         "icon": "wine",
         "color": "purple",
@@ -2123,6 +2293,23 @@
         "coordinates": [
           -70.2321,
           43.7008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine Street Bistro Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Maine Street Bistro\n\n\ud83d\udccd 148 Maine Street, Brunswick, ME\n\nOpened May 2023 by Chef John Holm \u2014 an intimate, unpretentious French bistro praised in a 2023 Portland Press Herald \"Dine Out Maine\" review for getting French bistro classics right, using locally-sourced Maine ingredients.\n\nMust Order\n- Raw bar selections \u2014 oysters and shellfish\n- French bistro classics \u2014 check the current seasonal dinner menu\n\nTips\n- Reservations recommended via Resy \u2014 small, intimate space\n- Hours vary slightly by source (roughly Thu-Sat or Tue-Sat, 5-9pm) \u2014 confirm before going",
+        "website": "https://mainestreetbistro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9652799,
+          43.9147107
         ]
       }
     },
@@ -2327,6 +2514,23 @@
         "coordinates": [
           -72.3051237,
           43.7003374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morning Moose Coffee Topsham ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Morning Moose Coffee\n\n\ud83d\udccd 11 Main St, Topsham, ME (across the Androscoggin River from downtown Brunswick \u2014 essentially twin downtowns)\n\nStarted in 2021 as a single pink coffee trailer, now grown into a brick-and-mortar community favorite known for creative signature drinks and fresh made-to-order hot mini donuts. Distinctly local, not a chain.\n\nMust Order\n- Popham Palm \u2014 their most popular signature drink\n- Mocha Moose Cold Brew\n- Blueberry Bliss\n- Banana Bread Latte\n- Fresh hot mini donuts and bagels\n\nTips\n- Counter service only, no sit-down dining\n- Hours: Mon-Fri 6am-2pm, Sat 7am-3pm, closed Sunday\n- Weekly specials posted Mondays on Facebook\n- There's also an original trailer location in Richmond, ME, but that's further away and not walkable to Brunswick",
+        "website": "https://morningmooseco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.961833,
+          43.92667
         ]
       }
     },
@@ -2656,6 +2860,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Paolo's Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Paolo's\n\n\ud83d\udccd Fort Andross Mill building, Brunswick, ME (exact suite unconfirmed \u2014 large multi-tenant complex, double-check when booking)\n\nOpened summer 2026 by Jeremy and Marina Kratzer (who also run Dutchman's wood-fired bagels, co-located at the same site), named for Jeremy's late grandfather Paul Macher. Brings true New Jersey-style Italian-American cooking \u2014 not the more common New England Italian \u2014 with a wood-fired oven doing double duty on pizza and mains.\n\nMust Order\n- Neapolitan-style 12\" pizzas \u2014 margherita, carbonara, and a thin Roman-style Jersey clam pizza\n- House-made pasta \u2014 bucatini featured\n- Chicken Parmesan \u2014 vodka sauce or house marinara\n- Dry-aged bone-in NY strip steak\n- Charred broccolini with whipped ricotta; tiramisu, lemon pie, chocolate mousse, affogato martini\n\nTips\n- Very new and currently open Thursday-Sunday only, 5-9pm dinner, drinks/snacks from 4pm\n- No online reservation platform found \u2014 call ahead given limited days and newness\n- Confirm the exact suite within the Fort Andross complex before going",
+        "website": "https://paolos.me/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9669,
+          43.9192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Peacham Village Historic District Peacham VT",
         "icon": "scroll",
         "color": "purple",
@@ -2735,6 +2956,40 @@
         "coordinates": [
           -71.568,
           44.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pomelia Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Pomelia\n\n\ud83d\udccd 16 Station Ave, Brunswick, ME (Brunswick Station complex)\n\nFrom chef-owner Tony Bickford (previously of Wiscasset's Little Village Bistro) \u2014 genuinely distinctive modern Sicilian cooking, not standard red-sauce Italian, with roughly 70% of the menu meatless. Praised by the Portland Press Herald for making the most of Sicilian classics.\n\nMust Order\n- Arancini \u2014 saffron risotto balls, crunchy exterior, creamy interior\n- Marsala porcini pasta with pistachio\n- Panellichi \u2014 chickpea fritters on brioche slider buns\n- La Brontese focaccia pizza \u2014 pistachio, caciocavallo\n- Ragu di salsiccia \u2014 orecchiette, house-made sausage\n- Cannoli for dessert\n\nTips\n- Reservations via OpenTable or (207) 203-6593; groups of 6+ call or email mangia@pomelia.\n- Open Tue-Sat 11am-2pm and 4-8:30/9pm (closed Sun; hours vary slightly by source, confirm before going)\n- Good pre-show option for Maine State Music Theatre\n- Full bar/wine, gluten-free and vegan-friendly",
+        "website": "https://pomelia.restaurant/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9657,
+          43.9114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popham Beach State Park Phippsburg ME",
+        "icon": "waves",
+        "color": "purple",
+        "detail": "Popham Beach State Park\n\n\ud83d\udccd 10 Perkins Farm Ln, Phippsburg, ME\n\nConsistently ranked one of the best beaches in Maine and New England \u2014 wide, clean sand, relatively uncrowded compared to southern Maine beaches, with views of offshore islands and lighthouses. At low tide you can walk out to Fox Island. Flush toilets and showers on-site.\n\nWhy go: Repeatedly ranked one of the best beaches in Maine \u2014 wide clean sand, an island you can walk to at low tide, real lighthouse/island views.\n\nWho it's for: Beach days with kids, swimmers, anyone wanting classic Maine coastline without southern Maine's crowds.\n\nLikes: Cleanliness, space, scenery, a calmer crowd compared to York/Ogunquit.\n\nDislikes: Entrance fee; parking scarce on peak summer days.\n\nTips\n- Gets crowded and parking fills up on summer weekends \u2014 arrive early\n- There's a state park entrance fee (a season pass may be worth it if visiting more than once)\n- Pair with Fort Popham, right next door at the same beach\n- Good spot for surf fishing as well as swimming/walking",
+        "website": "https://www.google.com/maps/place/Popham+Beach+State+Park/@43.738436,-69.798309,15z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.798309,
+          43.738436
         ]
       }
     },
@@ -2837,6 +3092,23 @@
         "coordinates": [
           -74.3131,
           42.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ram & Bull Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Ram & Bull\n\n\ud83d\udccd 123 Maine St, Brunswick, ME\n\nOpened May 2025 by restaurateurs Khristine and Zac Leeman (of two previously successful Maine restaurants) \u2014 a large modern tavern the Portland Press Herald called \"off to a strong start,\" with a kitchen doing creative twists on classic tavern food.\n\nMust Order\n- Hand-breaded cheese curds with blueberry-sriracha BBQ sauce\n- Poutine with demi-glace\n- Bangs Island mussels in garlic butter\n- Jonah crab cakes with Cajun remoulade\n- Blackened Maine haddock (singled out by the Press Herald review)\n- The \"Juicy Lucy\" burger\n\nTips\n- Reservations via Toast; takeout also available\n- Open Mon/Wed/Thu 11:30am-8pm, Fri-Sat 11:30am-9pm, Sun 11:30am-8pm; closed Tuesday",
+        "website": "https://www.theramandbull.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96556,
+          43.91583
         ]
       }
     },
@@ -3353,6 +3625,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Taco the Town Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Taco the Town\n\n\ud83d\udccd 205 Maine St, at the Downtown Mall & Gazebo, Brunswick, ME\n\nA devoted local following (4.9 stars, 180+ reviews) for genuinely excellent, generous California-style Mexican street food parked right in Brunswick's downtown gazebo park.\n\nMust Order\n- Pescado Ensenada \u2014 grilled haddock burrito, crispy fish, well-balanced salsa, \"Nana's\" Mexican rice\n- Pollo Asado burrito \u2014 cumin-lime marinated chicken\n- Breakfast burrito \u2014 reviewers call it \"next level\"\n- Homemade horchata \u2014 cinnamon-forward, not too sweet\n- Vegan sweet potato taco\n\nTips\n- Counter/walk-up service, outdoor seating only, no reservations\n- Open Tue-Sat 9am-2pm; closed Sun/Mon; breakfast items from 9am\n- Call (207) 838-8226 to confirm hours day-of",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.964046,
+          43.913532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Taftsville village & covered bridge Woodstock VT",
         "icon": "scroll",
         "color": "purple",
@@ -3415,6 +3704,23 @@
         "coordinates": [
           -72.6186,
           44.5933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Abbey Craft Coffee & Cocktails Brunswick ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "The Abbey: Craft Coffee & Cocktails\n\n\ud83d\udccd 87 Maine St, Brunswick, ME\n\nOpened Dec 2023 by owners Connor Scott and Lainey Catalino as a deliberate \"third place\" \u2014 locally-roasted (Bard Coffee) coffee shop by day, craft cocktail bar by night. A 2025 James Beard Award semifinalist for Best New Bar in the United States, notable recognition for a small-town Maine spot.\n\nMust Order\n- Abbey Espresso Martini\n- Mimi's Creamery cocktail\n- Blueberry Cobbler Latte (and other specialty lattes)\n- Rotating small plates \u2014 popcorn, charcuterie boards, soups (change weekly)\n\nTips\n- No reservations \u2014 first-come, first-served; counter service by day, table service kicks in around 5pm\n- Sunday \"Jazzy Brunch\" with live jazz 11am-1pm; Monday \"Industry Night\" for hospitality workers\n- Hours: Mon/Wed-Sat 8am-11pm (kitchen closes 10pm), Sun 8am-3pm, closed Tuesday\n- Outdoor seating in summer, accessible via rear entrance",
+        "website": "https://theabbeymaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96556,
+          43.91583
         ]
       }
     },
@@ -3534,6 +3840,23 @@
         "coordinates": [
           -72.5071027,
           43.6263445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Inn on Park Row Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "The Inn on Park Row (BISTRO165 / PUB165)\n\n\ud83d\udccd 165 Park Row, Brunswick, ME\n\nA historic-inn dining room and evening pub, not just for inn guests \u2014 leans into partnerships with local Maine farms and purveyors. Cozy fireplace pub atmosphere in the evening, good for a relaxed dinner or cocktails.\n\nMust Order\n- Maine wild blueberry pancakes and farm-fresh eggs (breakfast)\n- Charcuterie board with Maine cheeses and house-made dips\n- Weekly chef specials (Fri/Sat nights)\n- Maine Beer Company and Banded Brewery on tap\n\nTips\n- Reservations not strictly required \u2014 open to the public, not just inn guests\n- Dinner service daily 4-9pm; breakfast served in the front parlors mornings\n- Phone (207) 729-4914",
+        "website": "https://www.onesixtyfivemaine.com/eat-drink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9632604,
+          43.9133386
         ]
       }
     },
@@ -3778,6 +4101,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Vessel & Vine Brunswick ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Vessel & Vine\n\n\ud83d\udccd 4 Pleasant St, Brunswick, ME\n\nPart wine bar, part small-plates restaurant, part gourmet retail market \u2014 a communal, shareable-plates spot with an expertly curated global wine list and knowledgeable staff for pairing suggestions. Also sells the cheese/charcuterie/wine to go.\n\nMust Order\n- Muhammara \u2014 Middle Eastern red pepper-walnut dip\n- Dolmas\n- Cheese and charcuterie boards (rotating local selections)\n- Seasonal cocktails \u2014 Hot Toddys noted as a winter standout\n\nTips\n- Reservations recommended, especially weekends \u2014 \"can get quite busy\"\n- Hours: Tue-Thu 11am-7/9pm, Fri-Sat 11am-8/10pm, Sun 12-6pm, closed Monday\n- Consider happy hour for deals\n- Phone (207) 721-3000",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9656275,
+          43.9146671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Victoria Mansion Portland ME",
         "icon": "scroll",
         "color": "purple",
@@ -3846,6 +4186,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Walter's Cafe Brunswick ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Walter's Cafe\n\n\ud83d\udccd 149 Maine St, Lower Level Unit 4 (Tontine Mall), Brunswick, ME\n\nOpened June 2024 by Maine restaurateur Walter Loeman and partner Dorian Lewis, emphasizing ingredients from local organic farms. A short walk from Bowdoin College, with reviewers specifically praising the personalized, friendly service.\n\nMust Order\n- Walter's #15 Classic Caesar \u2014 house dressing, grilled chicken\n- Carolina BBQ \u2014 roasted pork, grilled corn muffin\n- Beef Stroganoff\n- Shaved roast beef on ciabatta\n- Blueberry coffee cake; daily-changing soup\n\nTips\n- Counter service, casual; sandwiches can be griddled, gluten-free buns available (+$3)\n- Serves Rock City Coffee\n- Hours: Mon-Sat 8am-3pm, closed Sunday \u2014 breakfast/lunch only, no dinner",
+        "website": "https://www.originalwalterscafe.com/menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.964,
+          43.9148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Warren Street Hudson, NY",
         "icon": "shopping-bag",
         "color": "purple",
@@ -3891,6 +4248,23 @@
         "coordinates": [
           -71.5414,
           43.7508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildflours Gluten-Free Bakery Brunswick ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Wildflours Gluten-Free Bakery\n\n\ud83d\udccd 54 Cumberland St, Brunswick, ME\n\nA dedicated (not just gluten-free-friendly, fully gluten-free facility) bakery \u2014 rare and valuable for celiac/GF travelers \u2014 with extensive vegan/dairy-free crossover options (bread is always dairy-free too), serving multiple dietary-restriction needs at once.\n\nMust Order\n- Cherry coconut muffin and pumpkin chocolate chip muffin (customer favorites)\n- Pumpkin donuts \u2014 reviewers call them the best GF donuts they've had\n- Custom cakes and cheesecakes (6\"-10\")\n- Specialty bars \u2014 Caramel Chocolate Pretzel Bar, Grasshopper Brownie\n- Take-n-bake cinnamon buns\n\nTips\n- Custom cakes/cheesecakes/pies need 7 business days' notice\n- Grab-bags of day-old muffins available at a discount\n- Morning-only: Mon-Fri 7am-2pm, Sat 7am-12pm, closed Sunday\n- Cash-only status not confirmed \u2014 worth calling ahead if that matters",
+        "website": "https://www.wildfloursmaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9728,
+          43.9151
         ]
       }
     },

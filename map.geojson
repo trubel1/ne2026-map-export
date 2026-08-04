@@ -1254,6 +1254,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bar Harbor Eden Farmers Market Bar Harbor ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Sunday-morning market at the MDI YMCA, the main farmers' market for Bar Harbor and Mount Desert Island.",
+        "start_date_time": "",
+        "detail": "Bar Harbor's Eden Farmers' Market\n\n\ud83d\udccd Mount Desert Island YMCA, 21 Park Street, Bar Harbor, ME 04609\n\nMDI's main farmers' market, held in the YMCA parking lot at the south end of downtown Bar Harbor, just off Route 3. A broad range of locally produced vegetables, seafood, meats, baked goods, and prepared foods \u2014 an easy stop before heading into Acadia National Park.\n\nTips\n- Sundays 9 AM\u201312 PM, May 10 \u2013 October 25, 2026\n- Right off Route 3, easy to combine with an Acadia National Park morning\n- A smaller Northeast Harbor Farmers Market also runs Thursdays 9 AM\u201312 PM (June 18\u2013Aug 27) at Harbor Drive on the Town Green, if timing works better for a day trip to Northeast Harbor",
+        "website": "https://www.google.com/maps/search/Mount+Desert+Island+YMCA+21+Park+Street+Bar+Harbor+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2042,
+          44.3831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bar Harbor Historical Society La Rochelle ME",
         "icon": "landmark",
         "color": "green",
@@ -1757,6 +1777,26 @@
         "coordinates": [
           -69.0054412,
           44.4263399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast Farmers Market Belfast ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Friday market at the Waterfall Arts campus; Belfast also has a separate year-round Saturday indoor market, Maine's largest.",
+        "start_date_time": "",
+        "detail": "Belfast Farmers' Market\n\n\ud83d\udccd Waterfall Arts, 256 High Street, Belfast, ME 04915\n\nThe seasonal Belfast Farmers' Market runs Fridays at the Waterfall Arts campus. Belfast is also home to the United Farmers' Market of Maine, a separate year-round indoor market at 18 Spring Street with 70+ vendors, open Saturdays 9 AM\u20132 PM \u2014 worth knowing about as a rain-or-shine backup regardless of which day you're in town.\n\nTips\n- Friday market: 9 AM\u20131 PM, May through late October, at Waterfall Arts (confirmed via Maine Federation of Farmers' Markets)\n- Year-round Saturday alternative: United Farmers' Market of Maine, 18 Spring Street, 9 AM\u20132 PM, indoors\n- Both accept SNAP/EBT; combine with browsing Belfast's harborside downtown",
+        "website": "https://www.google.com/maps/search/Waterfall+Arts+256+High+Street+Belfast+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0138,
+          44.4298
         ]
       }
     },
@@ -2292,6 +2332,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Blue Hill Farmers Market Blue Hill ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "One of Maine's oldest farmers' markets, held Saturday mornings at the Blue Hill Fairgrounds.",
+        "start_date_time": "",
+        "detail": "Blue Hill Farmers' Market\n\n\ud83d\udccd Blue Hill Fairgrounds, 233 Ellsworth Road, Blue Hill, ME 04614\n\nOne of Maine's oldest farmers' markets, held at the Blue Hill Fairgrounds \u2014 the same grounds as the well-known Blue Hill Fair. During the Fair itself (late Aug\u2013mid Sept), the market temporarily relocates to the Down East Family YMCA before returning to the Fairgrounds for the rest of the fall.\n\nTips\n- Saturdays, 9\u201311:30 AM, year-round schedule broken into three stretches (confirmed directly via bluehillfarmersmarket.com): May 23\u2013Aug 22 at the Fairgrounds, Aug 29\u2013Sep 12 at the Down East Family YMCA (Lawrence Family Fitness Center) during the Blue Hill Fair, then Sep 19\u2013Oct 31 back at the Fairgrounds\n- Dogs (other than service animals) aren't allowed at the Fairgrounds location per facility policy\n- SNAP accepted\n- Combine with a stop in Blue Hill proper, or with Aldermere Farm-style farm visits elsewhere on the peninsula",
+        "website": "https://www.google.com/maps/search/Blue+Hill+Fairgrounds+233+Ellsworth+Road+Blue+Hill+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5752,
+          44.4304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Blue Hill Inn Restaurant Blue Hill ME",
         "icon": "sandwich",
         "color": "red",
@@ -2753,6 +2813,26 @@
         "coordinates": [
           -68.909496,
           44.111764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunswick Farmers Market Brunswick ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "A large, highly-regarded Saturday market on a working farm, recognized by Yankee and Down East magazines as one of Maine's best.",
+        "start_date_time": "",
+        "detail": "Brunswick-Topsham Land Trust Farmers' Market\n\n\ud83d\udccd 277 Pleasant Hill Road, Brunswick, ME 04011\n\nRun by the Brunswick-Topsham Land Trust on the conserved fields of Crystal Spring Farm, this is one of the larger and more polished markets on the Maine coast \u2014 over 40 vendors selling vegetables, fruit, dairy, meat, seafood, cut flowers, mushrooms, baked goods, and prepared foods, often with live music.\n\nTips\n- Saturdays, 8:30 AM\u201312:30 PM, first Saturday in May through the last Saturday in October\n- Large enough to make a full morning of it \u2014 bring cash for smaller vendors, though many take cards\n- On the way between Portland and midcoast Maine, so it pairs well with a stop in Bath\n- Not currently schedulable: the Portland base camp (Aug 3\u20135, Mon\u2013Wed) has no Saturday in it, so `day` is intentionally left blank rather than forced onto a non-market day. Left as a researched candidate \u2014 revisit if the itinerary ever adds a Saturday near Portland/Brunswick.",
+        "website": "https://www.google.com/maps/search/Crystal+Spring+Farm+277+Pleasant+Hill+Road+Brunswick+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9956,
+          43.891
         ]
       }
     },
@@ -3224,6 +3304,26 @@
         "coordinates": [
           -69.0585709,
           44.2028945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden Farmers Market Camden ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Running since 1974, Camden's own farmers' market offers produce, meats, cheeses, baked goods, and cut flowers right in the base-camp town.",
+        "start_date_time": "",
+        "detail": "Camden Farmers' Market\n\n\ud83d\udccd 116 Washington Street (Rt 105), Camden, ME 04843\n\nOne of the longest-running farmers' markets in Maine, operating continuously since 1974. Right in town, it's an easy walkable stop during the Camden base camp stretch \u2014 vegetables, fruit, meats, cheeses, tofu, mushrooms, maple syrup, baked goods, ice cream, wood-fired pizza, cut flowers, and handmade goods.\n\nTips\n- Saturdays 9 AM\u201312 PM, May through October\n- Also Wednesdays 3:30\u20136 PM, mid-June through September \u2014 a good second chance if Saturday doesn't work\n- Closest market to the Camden base camp itself \u2014 worth a recurring stop rather than a one-off",
+        "website": "https://www.google.com/maps/search/Camden+Farmers+Market+116+Washington+Street+Camden+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0769,
+          44.2154
         ]
       }
     },
@@ -5110,6 +5210,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Damariscotta Farmers Market Damariscotta ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Friday market on the Coastal Rivers Conservation Trust's Round Top Farm, overlooking the Damariscotta River.",
+        "start_date_time": "",
+        "detail": "Damariscotta Farmers' Market\n\n\ud83d\udccd Round Top Farm, Damariscotta, ME 04543\n\nHeld on the meadows of Round Top Farm, a former dairy farm now run by the Coastal Rivers Conservation Trust, overlooking the Damariscotta River. Vendors include Broad Arrow Farm, Dee's Teas, Goranson Farm, Hootenanny Bakery, and other regional farmers and makers selling vegetables, cheese, honey, meat, seafood, and baked goods. A smaller Monday market also runs in downtown Damariscotta.\n\nTips\n- Fridays 9 AM\u201312 PM, May 16 \u2013 October 31, rain or shine\n- Round Top Farm itself has walking trails and river views worth lingering for after shopping\n- Damariscotta is well known for oysters \u2014 worth combining with a raw bar stop given the market's seafood vendors",
+        "website": "https://www.google.com/maps/search/Round+Top+Farm+Damariscotta+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5119,
+          44.0384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Damariscotta River Grill Damariscotta ME",
         "icon": "sandwich",
         "color": "red",
@@ -6258,6 +6378,26 @@
         "coordinates": [
           -74.0194,
           41.9271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellsworth Farmers Market Ellsworth ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Saturday-morning market at Union River Park on the Ellsworth waterfront, a convenient stop on the drive between Bar Harbor and the mainland.",
+        "start_date_time": "",
+        "detail": "Ellsworth Farmers' Market\n\n\ud83d\udccd Union River Park, 415 Water Street, Ellsworth, ME 04605\n\nA waterfront market on the Union River, relocated to this site in 2026. Ellsworth sits on Route 1/3, the main road between Bar Harbor and the mainland, making this an easy add-on stop rather than a special trip.\n\nTips\n- Saturdays 9:30 AM\u201312:30 PM, May 4 \u2013 November 15, 2026 (per Maine Federation of Farmers' Markets)\n- Accepts credit/debit, EBT, and Harvest Bucks\n- Convenient to combine with any Ellsworth grocery/supply run during the Bar Harbor base camp stretch",
+        "website": "https://www.google.com/maps/search/Union+River+Park+415+Water+Street+Ellsworth+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4197,
+          44.5348
         ]
       }
     },
@@ -15400,6 +15540,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Portland Farmers Market Portland ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Maine's oldest and largest farmers' market, held twice weekly in Deering Oaks Park with exclusively Maine-grown and produced goods.",
+        "start_date_time": "",
+        "detail": "Portland Farmers' Market\n\n\ud83d\udccd Deering Oaks Park, Portland, ME 04101\n\nPortland's flagship farmers' market runs every Wednesday and Saturday in Deering Oaks Park, a short walk from the Old Port. Vendors sell exclusively Maine-grown and -produced goods \u2014 fresh produce, meats, dairy, baked goods, flowers, and artisan crafts \u2014 making it one of the most established markets in the state.\n\nTips\n- Wednesdays and Saturdays, 7 AM\u20131 PM (8 AM start once November hits); season runs April 18 \u2013 November 25, 2026\n- Cash and card both widely accepted; some vendors take EBT/Harvest Bucks\n- Combine with a walk around Deering Oaks Park's pond and rose garden, or continue on to Old Port",
+        "website": "https://www.google.com/maps/search/Portland+Farmers+Market+Deering+Oaks+Park+Portland+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2719,
+          43.6586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Portland Freedom Trail Portland ME",
         "icon": "scroll",
         "color": "green",
@@ -16551,6 +16711,26 @@
         "coordinates": [
           -69.0774748,
           44.1040544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockland Farmers Market Rockland ME",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Farm",
+        "description": "Thursday harborside market with local produce, seafood, meats, cheeses, and artisan goods, often with live music.",
+        "start_date_time": "",
+        "detail": "Rockland Farmers' Market\n\n\ud83d\udccd Harbor Park, 1 Pleasant Street, Rockland, ME 04841\n\nA waterfront market at Harbor Park, a short drive from Camden, with local produce, seafood, meats, cheeses, artisan goods, and regular live music. During the town's Lobsterfest the market temporarily relocates to Snow Marine Park.\n\nTips\n- Thursdays 9 AM\u20131 PM, May through October (winter version moves indoors to the Flanagan Community Center)\n- Pair with a walk along the harbor or a stop at the Rockland gallery district\n- Good seafood selection here specifically \u2014 worth checking against Graffam Bros in nearby Rockport",
+        "website": "https://www.google.com/maps/search/Rockland+Farmers+Market+Harbor+Park+1+Pleasant+Street+Rockland+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1093,
+          44.101
         ]
       }
     },
