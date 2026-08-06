@@ -1092,6 +1092,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Colonial Pemaquid State Historic Site ME",
+        "icon": "scroll",
+        "color": "purple",
+        "detail": "Colonial Pemaquid State Historic Site\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA state historic site preserving the archaeological remains of a 17th- and 18th-century colonial settlement on the Pemaquid River, with a small on-site museum displaying artifacts found here (musket balls, coins, pottery, early hardware). The reconstructed Fort William Henry stands nearby \u2014 see Fort William Henry.\n\nTips\n- Rating in question: listed at 4.8, but independently I could only confirm Tripadvisor's figure (4.4 over 154 reviews) \u2014 Google itself tends to run noticeably higher than Tripadvisor, so 4.8 on Google is plausible, just not independently confirmed here.\n- Combine with Fort William Henry and Pemaquid Point Lighthouse for a full New Harbor colonial-history loop.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.52128,
+          43.87789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cornish-Windsor Covered Bridge Woodstock VT",
         "icon": "scroll",
         "color": "purple",
@@ -1687,6 +1704,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fort William Henry Pemaquid ME",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "Fort William Henry\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA stone reconstruction (built 1907) of the original 1692 Fort William Henry \u2014 in its day the largest fort in New England \u2014 destroyed in the 1696 Siege of Pemaquid. Stands on the original foundation within Colonial Pemaquid State Historic Site.\n\nTips\n- Rating in question: listed at 4.8; the only independent figure I found was a thin Tripadvisor sample (4.0 over just 4 reviews) since most reviewers rate this as part of the broader Colonial Pemaquid site rather than separately \u2014 treat the number with real caution either way.\n- Climb the fort's tower for river and harbor views.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.52335,
+          43.87724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fort Williams Park Cape Elizabeth ME",
         "icon": "landmark",
         "color": "purple",
@@ -1936,6 +1970,23 @@
         "coordinates": [
           -71.4992,
           43.6538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbor Ice Cream New Harbor ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "detail": "Harbor Ice Cream\n\n\ud83d\udccd Route 130, New Harbor, ME\n\nA local institution on \"the Hill\" in New Harbor for over 30 years, serving Gifford's Maine ice cream (plus vanilla/chocolate soft serve, cold brew, and baked goods) just minutes from Pemaquid Point Lighthouse. Picnic tables outside.\n\nMust Order\n- Gifford's ice cream \u2014 Maine-themed flavors like Moose Tracks and Deer Tracks\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor independently shows 4.3 \u2014 a real but not huge gap, plausibly explained by Google running higher than Tripadvisor as it often does.\n- Coordinates are an approximate New Harbor village-center match \u2014 the exact Route 130 address didn't resolve via geocoding.\n- Good stop after Pemaquid Point Lighthouse.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5007384,
+          43.8734256
         ]
       }
     },
@@ -2293,6 +2344,23 @@
         "coordinates": [
           -74.2707132,
           41.7448092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Ro Market Round Pond ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "detail": "King Ro Market\n\n\ud83d\udccd 1414 Route 32, Round Pond, ME\n\nAn old-fashioned general store at the center of Round Pond village, selling groceries, beer, wine, pizza, deli sandwiches, and gas. Fresh donuts and pastries each morning, and live concerts on Monday evenings in season.\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor shows 4.2 \u2014 a real gap, though Google reviews for a beloved local general store like this one plausibly run higher.\n- Good stop for picnic supplies before a Round Pond harbor walk or a Pemaquid Point day.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4627134,
+          43.9466029
         ]
       }
     },
@@ -2684,6 +2752,23 @@
         "coordinates": [
           -68.20503646549625,
           44.390477602225644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mimi's on the Beach Pemaquid ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Mimi's on the Beach\n\n\ud83d\udccd Pemaquid Beach Park, New Harbor, Bristol, ME\n\nA family-owned restaurant right inside Pemaquid Beach Park, tracing back to a 1980s beach shack run by the founders' mother. Serves seafood, burgers, sandwiches, and a kids menu \u2014 casual, right off the sand.\n\nTips\n- Rating in question: shows 4.7 on Yelp, but from only 3 reviews \u2014 far too thin a sample to trust on its own, even though what's there is glowing.\n- Opening hours are weather-dependent \u2014 check their Facebook before counting on it being open.\n- Natural pairing with a beach day at Pemaquid Beach Park.",
+        "website": "https://pemaquidbeach.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5192313,
+          43.8708881
         ]
       }
     },
@@ -3234,6 +3319,40 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pemaquid Beach Park Bristol ME",
+        "icon": "waves",
+        "color": "purple",
+        "detail": "Pemaquid Beach Park\n\n\ud83d\udccd New Harbor, Bristol, ME\n\nA genuinely rare find on the Maine coast \u2014 a soft, white-sand crescent beach with gentle surf, run by the Bristol Parks and Recreation Department. Amenities include restrooms/changing rooms, outdoor showers, picnic tables, an ADA boardwalk to the sand, beach-gear rentals (chairs, boogie boards, umbrellas), and a seasonal restaurant on site (Mimi's on the Beach).\n\nTips\n- Rating in question: no hard numeric figure independently confirmed \u2014 but every review surfaced was strongly positive (\"rare white sand beach,\" \"gem of a beach\"), ranked #2 of 7 things to do in Bristol on Tripadvisor.\n- Parking fills up on warm summer days \u2014 arrive early.\n- Combine with Pemaquid Point Lighthouse and Colonial Pemaquid, both a short drive away.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5192313,
+          43.8708881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemaquid Point Lighthouse ME",
+        "icon": "anchor",
+        "color": "purple",
+        "detail": "Pemaquid Point Lighthouse\n\n\ud83d\udccd 3115 Bristol Rd, New Harbor, ME\n\nCommissioned in 1827 by John Quincy Adams, this is one of Maine's most photographed lighthouses \u2014 its image appears on Maine's state quarter. Set on dramatic open-ocean granite ledges, it draws roughly 100,000 visitors a year. The keeper's house holds the Fishermen's Museum, covering the region's working maritime history.\n\nTips\n- Rating is well-supported here \u2014 Tripadvisor alone shows 4.8 over 903 reviews, a large enough sample to trust.\n- $4/person park admission; $1 suggested donation to climb the tower. Open seasonally, mid-May through late October.\n- The granite ledges are dramatic but genuinely slippery \u2014 mind footing, especially with kids.\n- Pair with Colonial Pemaquid State Historic Site and Fort William Henry nearby.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.50592125123825,
+          43.83713116595049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Petey's Summertime Seafood Rye NH",
         "icon": "utensils",
         "color": "purple",
@@ -3438,6 +3557,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rachel Carson Salt Pond Preserve. New Harbor ME",
+        "icon": "landmark",
+        "color": "purple",
+        "detail": "Rachel Carson Salt Pond Preserve\n\n\ud83d\udccd Off Route 32, New Harbor, ME\n\nA Nature Conservancy-maintained tidal salt pond where pioneering marine biologist Rachel Carson conducted the research behind The Edge of the Sea. An easy 1.1-mile trail winds past tide pools stocked with lobster, shrimp, starfish, crabs, and hermit crabs.\n\nTips\n- Rating most in question of this batch: listed at 4.8, but Tripadvisor ranks it only #6 of 9 things to do in New Harbor with \"mixed but generally positive\" reviews \u2014 the biggest gap between claimed and independently-found signal in this whole set. Worth a fresh check before building an itinerary around it.\n- Check low tide before visiting \u2014 tide pools are the whole point.\n- Parking is very limited and there are no restrooms on site.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48387,
+          43.8798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rail Explorers Phoenicia Phoenicia, NY",
         "icon": "star",
         "color": "purple",
@@ -3619,6 +3755,23 @@
         "coordinates": [
           -69.0722033,
           44.1875205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Round Pond Coffee Round Pond ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Round Pond Coffee\n\n\ud83d\udccd 1440 Route 32, Round Pond, ME\n\nA specialty coffee shop and espresso bar in the small harbor village of Round Pond, open since 2016. Serves coffee, espresso drinks, smoothies, and pastries baked by Barn Door Baking Co. \u2014 enjoy indoors or on the harbor-view deck.\n\nTips\n- Rating in question: the source list paired this with a \"C.P. Rankins\" name I could find no evidence of anywhere \u2014 likely a fabricated or confused attribution. The real business is simply Round Pond Coffee; no independent numeric rating could be confirmed for it either, listed at 4.8 per source only.\n- Good stop combined with Round Pond's working harbor and lobster docks.",
+        "website": "http://rp-coffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.460836,
+          43.947806
         ]
       }
     },
@@ -4237,6 +4390,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Anchor Restaurant Round Pond ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "The Anchor Restaurant\n\n\ud83d\udccd Anchor Inn Rd, Round Pond, ME\n\nAn oceanside casual fine-dining restaurant and bar with views over Muscongus Bay on the Pemaquid Peninsula. Open seasonally, June through October.\n\nTips\n- Rating most in question among the restaurants in this batch: listed at 4.7, but independently I found Sirved at 3.9 and Tripadvisor at 4.1 (#2 of 6 in Round Pond) \u2014 a full point below the claimed figure, larger than the usual Google/Tripadvisor spread. Worth a fresh look before relying on this one.\n- Seasonal only \u2014 confirm it's open before making the drive.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.458267,
+          43.9459391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Aqueduct Trails Woodstock VT",
         "icon": "footprints",
         "color": "purple",
@@ -4333,6 +4503,23 @@
         "coordinates": [
           -68.28475632526933,
           44.29396819633489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Contented Sole Pemaquid ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "The Contented Sole\n\n\ud83d\udccd 32 Southside Rd, New Harbor, ME\n\nWharf-side seafood dining right next to Fort William Henry, with seating on a walkway directly over the harbor \u2014 some of the best views in the area, overlooking Pemaquid Harbor and John's Bay. Known for standout fish tacos, oysters, and fresh seafood, with non-seafood options too.\n\nMust Order\n- Fish tacos \u2014 repeatedly called out as among the best around\n- Fresh oysters\n\nTips\n- Rating in question: listed at 4.7; independently I only found Tripadvisor (4.0, ranked #5 of 10 in New Harbor over 244 reviews) and a secondary platform at 4.2 \u2014 a real gap versus the claimed figure, more than the usual Google/Tripadvisor spread.\n- Prices run a bit high and the menu isn't extensive, but the location is the draw.",
+        "website": "https://thecontentedsole.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.49654827486823,
+          43.87367115572306
         ]
       }
     },
