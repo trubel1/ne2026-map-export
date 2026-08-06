@@ -17,6 +17,7 @@ node {
     [icon=users]    { icon-image: "poi_community_centre.svg"; }
     [icon=scroll]   { icon-image: "poi_museum.svg"; }
     [icon=sandwich] { icon-image: "poi_fast_food.svg"; }
+    [icon=parking]  { icon-image: "poi_parking.svg"; }
 
     [color=red]    { icon-tint: red; }
     [color=blue]   { icon-tint: blue; }
@@ -25,4 +26,5 @@ node {
     [color=purple] { icon-tint: purple; }
     [color=yellow] { icon-tint: #E0C000; }
     [color=teal]   { icon-tint: teal; }
+    [color=gray]   { icon-tint: gray; }
 }

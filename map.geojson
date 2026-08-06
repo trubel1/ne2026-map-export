@@ -5467,6 +5467,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Damariscotta and Pemaquid Peninsula Day Trip",
+        "icon": "gem",
+        "color": "orange",
+        "vault_type": "day-trip",
+        "description": "Full-day loop from Camden through Damariscotta/Newcastle and out onto the Pemaquid Peninsula, sequenced to hit the one real crowd bottleneck (Pemaquid Point) before it fills, then work quieter villages and preserves through the afternoon.",
+        "start_date_time": "",
+        "detail": "Damariscotta & Pemaquid Peninsula Day Trip\n\n\ud83d\udccd Damariscotta/Newcastle & the Pemaquid Peninsula, ME (~40-55 min from Camden)\n\nA full-day loop covering both the Damariscotta \"Twin Villages\" area and the Pemaquid Peninsula (New Harbor, Pemaquid Point, Round Pond). The whole route has only one real crowd bottleneck \u2014 Pemaquid Point Lighthouse \u2014 so the entire itinerary is built around hitting that stop first, then spending the rest of the day in villages and preserves that stay quiet even in peak season.\n\nCrowd-Avoidance Strategy\n\n- Pemaquid Point Lighthouse is the only genuinely crowded stop on this whole route (~100,000 visitors/year through a small lot). Everything else \u2014 Round Pond, the nature preserves, even downtown Damariscotta \u2014 stays comfortably uncrowded by comparison.\n- Do the lighthouse first, before 9-10am, then work outward. By the time it's mobbed (usually mid-morning through mid-afternoon in summer), you'll already be somewhere quiet.\n- Parking notes are on the map for the three spots along this route where parking is worth planning for: Pemaquid Point Lighthouse, Downtown Damariscotta, and Round Pond Harbor (this last one mostly just to mark where the walkable center is \u2014 Round Pond itself is rarely crowded).\n\nItinerary\n\nEarly Morning: Pemaquid Point (8:30-10:00am)\nDrive straight to the tip of the peninsula (~55 min from Camden) and arrive at opening or as close to it as you can manage.\n\n- Pemaquid Point Lighthouse (4.8\u2605) \u2014 climb the tower, walk the granite ledges, visit the Fishermen's Museum in the keeper's house, before the lot fills and buses arrive. Park at the on-site lot.\n- Pemaquid Beach Park (4.8\u2605, 5 min away) \u2014 a short beach walk while it's still cool and quiet, before midday beachgoers show up.\n\nLate Morning: Colonial History (10:15-11:30am)\n- Colonial Pemaquid State Historic Site + Fort William Henry (4.8\u2605) \u2014 a reconstructed 1907 fort on its original 17th-century foundation, with a small artifacts museum. Stays quiet even at midday.\n- Rachel Carson Salt Pond Preserve \u2014 easy 1.1-mile trail past tide pools; check tide times before you go.\n\nMidday: New Harbor & Round Pond (11:45am-2:00pm)\n- Quick stop for Harbor Ice Cream or lunch at The Contented Sole (wharf-side seating over the harbor) in New Harbor.\n- Drive ~10-15 min north to Round Pond \u2014 a genuinely quiet working harbor village even in August. Lunch at Round Pond Lobster Co-op or Muscongus Bay Lobster (both right on the water), browse Granite Hall Store (4.9\u2605) for penny candy and gifts, and King Ro Market for a general-store browse. Park near the town landing \u2014 everything is a short walk.\n\nEarly Afternoon: Quiet Nature Detour (2:00-3:15pm)\nIf you still have energy, these are genuinely uncrowded and worth the short detours:\n- LaVerna Preserve (4.9\u2605) \u2014 coastal cliff trail near Round Pond.\n- Arch Bridge (5.0\u2605) \u2014 a pre-1800 stone bridge, one of Maine's oldest.\n- Todd Wildlife Sanctuary (5.0\u2605) \u2014 Audubon-run birding refuge.\n\nLate Afternoon: Damariscotta/Newcastle (3:30-5:30pm)\nDrive north into the Twin Villages (~20 min from Round Pond).\n\n- Whaleback Shell Midden \u2014 a quiet historic stop on the way in.\n- Downtown Damariscotta Main Street \u2014 browse Skidompha Secondhand Book Shop, coffee/pastry at Barn Door Baking Co or Ann's Book Bistro (4.7\u2605). Park at the First National Bank lot \u2014 everything's a short walk from there.\n- Optional wind-down: Oxbow Brewing Company \u2014 a low-key rural farmhouse brewpub, never crowded.\n\nReturn to Camden (~45 min)\n\nWhy This Route Works\n\n- One bottleneck, hit first: Pemaquid Point is the only stop on this whole loop with real crowd pressure \u2014 going there before 10am neutralizes the worst of it.\n- Round Pond over New Harbor for lunch: New Harbor's restaurant row (Contented Sole, Bradley Inn) gets busier at midday; Round Pond stays a working village even in peak season.\n- Nature preserves as a buffer: LaVerna, Rachel Carson, Arch Bridge, and Todd Wildlife Sanctuary are all essentially never crowded \u2014 good places to spend the busiest midday hours while Pemaquid Point and the beach fill up behind you.\n- Damariscotta saved for late afternoon: downtown has real parking capacity (60+ spaces at the First National Bank lot) and doesn't get the same morning rush as the peninsula.\n\nNotes\n\n- This is a full day if you do all of it \u2014 if that's too much, split it: Peninsula loop (Pemaquid Point through Round Pond) as one day, Damariscotta/Newcastle as a separate, shorter trip.\n- Best in shoulder season (fall) if crowd avoidance matters more than warm-beach weather \u2014 Pemaquid Point in particular thins out noticeably after Labor Day.\n- Check tide times before Rachel Carson Salt Pond Preserve \u2014 it's built around tide pools."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.51,
+          43.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Darby's Belfast ME",
         "icon": "utensils",
         "color": "red",
@@ -15408,6 +15427,63 @@
         "coordinates": [
           -71.0715258771152,
           42.35254874519427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking - Downtown Damariscotta ME",
+        "icon": "parking",
+        "color": "gray",
+        "vault_type": "Parking",
+        "description": "First National Bank's public lot behind Water St/Cross St \u2014 the largest central public parking near Main Street Damariscotta (~60 spaces), a short walk to shops and restaurants.",
+        "start_date_time": "",
+        "detail": "Parking \u2014 Downtown Damariscotta\n\n\ud83d\udccd Cross St / Water St, Damariscotta, ME (First National Bank lot)\n\nThe largest public lot near Main Street \u2014 about 60 spaces, a short walk to Main Street shops and restaurants. A smaller public lot also exists at Bangor Savings Bank (100 Main St, ~15 spaces) if this one is full.\n\nTips\n- Best central option for a Main Street walk \u2014 everything (Skidompha Bookshop, Ann's Book Bistro, Barn Door Baking Co, King Eider's Pub) is within a few blocks.\n- Damariscotta is far less crowded than Pemaquid Point \u2014 parking pressure here is mild except during the summer farmers market."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.530317,
+          44.0318737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking - Pemaquid Point Lighthouse ME",
+        "icon": "parking",
+        "color": "gray",
+        "vault_type": "Parking",
+        "description": "On-site parking lot at Pemaquid Point Lighthouse Park \u2014 the single busiest bottleneck on the Pemaquid Peninsula. Fills by mid-morning on sunny days.",
+        "start_date_time": "",
+        "detail": "Parking \u2014 Pemaquid Point Lighthouse\n\n\ud83d\udccd Pemaquid Point Lighthouse Park, New Harbor, ME\n\nThe park's own lot, right at the site. This is the most crowded single stop on the peninsula \u2014 ~100,000 visitors/year through a small lot.\n\nTips\n- Arrive before 10am, especially on sunny summer weekends \u2014 the lot fills and overflow options are limited.\n- $4/person park admission at the gate.\n- If the lot is full, there's no good nearby overflow \u2014 better to circle back later in the day (after 4-5pm) than wait."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.50592125123825,
+          43.83713116595049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking - Round Pond Harbor ME",
+        "icon": "parking",
+        "color": "gray",
+        "vault_type": "Parking",
+        "description": "Informal street/harborside parking near the Round Pond town landing and lobster docks \u2014 the village is tiny and fully walkable from here.",
+        "start_date_time": "",
+        "detail": "Parking \u2014 Round Pond Harbor\n\n\ud83d\udccd Near the town landing, Round Pond, ME\n\nRound Pond has no large formal lot \u2014 it's a small working harbor village, and street parking along the harbor near the lobster docks and general store is the norm. Everything (Round Pond Lobster Co-op, Muscongus Bay Lobster, King Ro Market, Granite Hall Store, Round Pond Coffee, The Anchor Restaurant) is within a couple minutes' walk from here.\n\nTips\n- Rarely a real problem \u2014 Round Pond stays quiet even in peak season compared to Pemaquid Point or Boothbay Harbor.\n- Don't block driveways or the working lobster co-op's loading areas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.458267,
+          43.9459391
         ]
       }
     },
