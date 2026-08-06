@@ -8406,6 +8406,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hamilton House South Berwick ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A grand 1785 Georgian mansion on a bluff over the Salmon Falls River, a National Historic Landmark for its maritime trade history and revival garden \u2014 operated by Historic New England.",
+        "start_date_time": "",
+        "detail": "Hamilton House\n\n\ud83d\udccd 40 Vaughan's Lane, South Berwick, ME\n\nA grand 1785 Georgian mansion set on a bluff over the Salmon Falls River, with 50 acres of grounds \u2014 a National Historic Landmark recognized for its maritime trade history and a notable revival garden. Owned and operated by Historic New England as a historic house museum.\n\nTips\n- Open June 1\u2013October 15, Friday\u2013Sunday, 11am\u20134pm; the grounds themselves are open year-round.\n- Admission is free for Historic New England members, $8 for non-members, with senior and group discounts.\n- Combine with Hamilton House's near neighbor, the Sarah Orne Jewett House, also in South Berwick and also Historic New England-operated.\n- A genuinely quiet, uncrowded stop compared to the more visited coastal Maine landmarks \u2014 worth it for the river-bluff setting alone."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8125612,
+          43.2149591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hamlet of Staatsburg NY",
         "icon": "landmark",
         "color": "green",
@@ -8558,6 +8577,25 @@
         "coordinates": [
           -72.4016586,
           43.512949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harpswell Meetinghouse Harpswell ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Maine's oldest surviving colonial meetinghouse, built 1757-59 to serve as both church and town hall \u2014 a National Historic Landmark still used for Harpswell town meetings today.",
+        "start_date_time": "",
+        "detail": "Harpswell Meetinghouse\n\n\ud83d\udccd Route 123, Harpswell Center, Harpswell, ME\n\nBuilt starting in the late 1750s (not fully completed until the mid-1770s), this is the oldest surviving colonial meetinghouse in Maine \u2014 a simple, clapboard-sided, two-story building with a pulpit facing a three-sided gallery, typical of New England meetinghouse design. It served as both church and town hall from 1757 until the parish built a separate church across the road in 1843; the town took ownership in 1856 and it's still used for town meetings today. Designated a National Historic Landmark in 1968.\n\nTips\n- The building itself is simple and unadorned \u2014 the significance is historical/architectural rather than a showpiece interior.\n- For guided tour information, contact the Harpswell Historical Society directly (harpshistory@gmail.com) \u2014 it's not a staffed daily-visit site.\n- Combine with the rest of Harpswell's historic sites; the Harpswell Historical Society maintains a broader list of the town's colonial-era locations.\n- A quiet, low-key stop \u2014 good for a short detour rather than a dedicated half-day visit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9870596,
+          43.7995097
         ]
       }
     },
@@ -12154,6 +12192,26 @@
         "coordinates": [
           -69.1089,
           44.1037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine Maritime Museum Bath ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A 20-acre waterfront museum campus built around the Percy & Small Shipyard, a National Historic Landmark and the only surviving U.S. shipyard that built large wooden sailing vessels \u2014 42 wooden schooners launched here between 1894 and 1920.",
+        "start_date_time": "",
+        "detail": "Maine Maritime Museum\n\n\ud83d\udccd 243 Washington St, Bath, ME\n\nA 20-acre waterfront campus centered on the Percy & Small Shipyard, designated a National Historic Landmark in 1994 as the only surviving U.S. shipyard that built large wooden sailing vessels \u2014 42 giant wooden schooners were launched here between 1894 and 1920, including the Wyoming (1909), the largest wooden sailing ship ever built in America. The broader museum covers Maine's shipbuilding and maritime history well beyond just the shipyard itself.\n\nMust See\n- Percy & Small Shipyard \u2014 guided tours daily at 11am and 1pm (mid-May through October), included with admission.\n- The Bath waterfront setting itself, on the Kennebec River where shipbuilding is still an active industry today (Bath Iron Works is nearby).\n\nTips\n- Open daily, 9:30am\u20135pm, year-round.\n- Admission is good for two days if you want to split the visit; kids 17 and under are free.\n- Combine with a look at the active Bath Iron Works shipyard nearby \u2014 Bath's shipbuilding history is very much a living industry, not just a museum piece.",
+        "website": "https://www.mainemaritimemuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8159294,
+          43.8938384
         ]
       }
     },
@@ -23318,9 +23376,9 @@
         "icon": "landmark",
         "color": "green",
         "vault_type": "Museum",
-        "description": "The childhood home of poet Henry Wadsworth Longfellow, built 1785\u20131786 as the first dwelling in Portland constructed entirely of brick; Maine's first house museum, open June\u2013October.",
+        "description": "The childhood home of poet Henry Wadsworth Longfellow, built 1785\u20131786 as the first dwelling in Portland constructed entirely of brick; Maine's first house museum, and a National Historic Landmark operated by the Maine Historical Society.",
         "start_date_time": "",
-        "detail": "Wadsworth-Longfellow House\n\n\ud83d\udccd 487 Congress Street, Portland, ME\n\nThe Wadsworth-Longfellow House at 487 Congress Street is the childhood home of celebrated poet and educator Henry Wadsworth Longfellow. Built in 1785\u20131786, it was the first dwelling in Portland constructed entirely of brick and holds the distinction of being Maine's first house museum open to the public.\n\nThe Maine Historical Society offers tours of this historic landmark from June through October.\n\nDon't miss the stunning Longfellow Garden located behind the house \u2014 a wonderful oasis in the heart of Portland's downtown.\n\nSee also: Longfellow House Garden Portland ME for garden details.",
+        "detail": "Wadsworth-Longfellow House\n\n\ud83d\udccd 487 Congress Street, Portland, ME\n\nThe Wadsworth-Longfellow House at 487 Congress Street is the childhood home of celebrated poet and educator Henry Wadsworth Longfellow. Built in 1785\u20131786, it was the first dwelling in Portland constructed entirely of brick and holds the distinction of being Maine's first house museum open to the public.\n\nDesignated a National Historic Landmark, and operated by the Maine Historical Society, which is headquartered on the same downtown site.\n\nDon't miss the stunning Longfellow Garden located behind the house \u2014 a wonderful oasis in the heart of Portland's downtown.\n\nSee also: Longfellow House Garden Portland ME for garden details.\n\nTips\n- Open May\u2013Oct, Mon\u2013Sat 10am\u20135pm and Sun noon\u20134pm (guided tours on the hour at noon and 1pm, self-guided otherwise via a smartphone app); Nov\u2013Apr Tues\u2013Sat 10am\u20135pm.\n- Admission ~$18 adults, $12 students, free for kids 5 and under; house ticket includes the exhibition gallery.\n- The garden is free and open May\u2013Oct during regular house hours \u2014 worth a stop even without paying for the house tour.",
         "website": "https://www.google.com/maps/place/Wadsworth-Longfellow+House/@43.6568,-70.2601,17z"
       },
       "geometry": {
@@ -23759,6 +23817,25 @@
         "coordinates": [
           -73.84216458922027,
           41.74869893850053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Street Historic District Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A residential historic district along Bar Harbor's north coast (Eden St to Billings Ave) with 17 preserved Gilded Age \"cottages\" built by wealthy summer families \u2014 a walkable, no-ticket-required stroll right off downtown.",
+        "start_date_time": "",
+        "detail": "West Street Historic District\n\n\ud83d\udccd West St, Bar Harbor, ME (Eden St to Billings Ave)\n\nA row of grand Gilded Age summer \"cottages\" \u2014 17 historic buildings, Late Victorian mansions and stylish inns \u2014 built along Frenchman Bay during Bar Harbor's heyday as a resort for America's wealthiest families in the late 19th and early 20th century. Most are now private homes or inns, viewed from the public street rather than toured individually.\n\nHighlights\n- La Rochelle \u2014 a 41-room red-brick French-ch\u00e2teau-style mansion, built for an heir to the Campbell Soup Company fortune, now home to the Bar Harbor Historical Society and open to the public seasonally.\n- Bar Harbor Club \u2014 a large 1929-30 Tudor Revival building, the district's principal non-residential property, once home to an elite social club.\n\nTips\n- Most properties are private homes \u2014 enjoy the architecture from the public sidewalks and tree-lined streets rather than expecting interior access.\n- Free, no ticket required \u2014 a good easy evening or morning stroll right off downtown Bar Harbor.\n- Check La Rochelle's seasonal open hours if you want an actual interior visit via the Historical Society.\n- Combine with a downtown Bar Harbor walk \u2014 it's directly adjacent to the main village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.204703,
+          44.3912293
         ]
       }
     },
@@ -24253,6 +24330,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Winslow Homer Studio Scarborough ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "The carriage-house studio on Prouts Neck where Winslow Homer lived and painted from 1884 until his death in 1910 \u2014 a National Historic Landmark, accessible only via guided tour from the Portland Museum of Art.",
+        "start_date_time": "",
+        "detail": "Winslow Homer Studio\n\n\ud83d\udccd Winslow Homer Road, Prouts Neck, Scarborough, ME\n\nThe carriage house Winslow Homer converted into his home and studio in 1884, where he lived and painted his famous marine and crashing-surf coastal landscapes until his death in 1910. Designated a National Historic Landmark in 1965, and now owned and managed by the Portland Museum of Art. Not independently accessible \u2014 the studio is preserved specifically to protect its integrity, and can only be seen on a guided tour.\n\nTips\n- Book through the Portland Museum of Art \u2014 tours are 2.5 hours, depart by van from the museum in downtown Portland, and require advance reservations. This is not a walk-up or drive-up site.\n- Tours include a stop at the museum to see Homer's 1894 painting Weatherbeaten before the van departs, plus a custom soundscape recreating how Homer lived and worked.\n- Budget the better part of a morning or afternoon for the full round trip from Portland.\n- Combine with the Portland Museum of Art itself, since you're departing from there anyway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3166951,
+          43.5287486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Winter Harbor Lighthouse Winter Harbor ME",
         "icon": "anchor",
         "color": "green",
@@ -24423,6 +24519,26 @@
         "coordinates": [
           -72.5213,
           43.6305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodlawn - The Black House Ellsworth ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A 180-acre estate built 1824-27 for lumber baron John Black, with Neo-Federal architecture, rare original furnishings, gardens, and walking trails \u2014 free grounds, ticketed house tours.",
+        "start_date_time": "",
+        "detail": "Woodlawn (The Black House)\n\n\ud83d\udccd 19 Black House Dr, Ellsworth, ME\n\nA 180-acre estate built 1824\u201327 for lumber merchant baron John Black, in a restrained Neo-Federal style with rare original furnishings still intact inside. The grounds include gardens and walking trails; the house itself is a ticketed, guided-tour museum.\n\nTips\n- Grounds open daily, dawn to dusk, year-round, and free \u2014 walking the trails and park costs nothing.\n- The seasonal house museum runs June\u2013September, Thursday\u2013Saturday, 9am\u20133pm, with guided tours on the hour (10am\u20133pm); there's a fee to tour the house or play croquet on the lawn.\n- Right on the way between Bar Harbor/Acadia and points west \u2014 an easy add-on stop rather than a special trip.\n- Audio tours are also available if guided-tour timing doesn't line up.",
+        "website": "https://www.woodlawnellsworth.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4333641,
+          44.5360801
         ]
       }
     },
@@ -29944,6 +30060,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Scarborough, ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3345509,
+          43.5895055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schoodic Peninsula, Winter Harbor, ME",
         "icon": "gem",
         "color": "orange",
@@ -30073,6 +30208,25 @@
         "coordinates": [
           -73.2567,
           44.3845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Berwick, ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7485677,
+          43.2409695
         ]
       }
     },
