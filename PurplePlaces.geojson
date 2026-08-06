@@ -259,6 +259,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bagaduce Lunch Penobscot ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Bagaduce Lunch\n\n\ud83d\udccd 145 Franks Flat Rd, Penobscot, ME\n\nA takeout stand at the outlet of the Bagaduce River, started in 1946 by Sydney and Berniece Snow and still family-run four generations later. Picnic tables sit on a grassy hill overlooking the water. Rated around 4.6 on Google and by the local Chamber of Commerce \u2014 note that individual review-platform scores vary wildly here (one aggregator shows a very low outlier that doesn't match the qualitative reviews at all), so trust the Google/Chamber figures over any single outlier.\n\nMust Order\n- Lobster roll\n- Shoestring onion rings \u2014 specifically and repeatedly called out as a highlight\n\nTips\n- On the Blue Hill peninsula, a genuine detour off the main coastal route \u2014 worth building into a day that also includes Blue Hill itself.\n- Simple, no-frills operation \u2014 go for the food and the river view, not amenities.\n- Fair prices and quick service per reviews, consistent with its long-running family-operation reputation.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7035429,
+          44.3981368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Baltic Kitchen Littleton NH",
         "icon": "sandwich",
         "color": "purple",
@@ -406,6 +423,23 @@
         "coordinates": [
           -68.0461,
           44.3496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bite Into Maine Cape Elizabeth ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Bite Into Maine\n\n\ud83d\udccd 1000 Shore Rd, Fort Williams Park, Cape Elizabeth, ME\n\nA food truck operating April\u2013November inside Fort Williams Park, with Portland Head Light as scenery \u2014 genuinely one of the best settings of any lobster roll in Maine. Serves six different styles of lobster roll, both traditional and inventive, made with lobster that's always fresh, never frozen. Named one of America's Greatest Lobster Rolls by Food & Wine, and featured on both the Food Network and Netflix. Rated 4.8 on Tripadvisor, #1 of 10 restaurants in Cape Elizabeth.\n\nMust Order\n- Maine roll \u2014 the classic, mayo and chives\n- Connecticut roll \u2014 served warm with hot butter, a real point of difference from the standard Maine style\n- Whoopie pies for dessert\n\nTips\n- Seasonal only (April\u2013November) \u2014 it's a food truck, not a year-round building.\n- Combine with a walk to Portland Head Light itself \u2014 it's right there in the same park.\n- Order and eat outdoors; there's no indoor seating, so check the weather.",
+        "website": "https://www.bringfido.com/restaurant/13410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2161915,
+          43.6225164
         ]
       }
     },
@@ -2418,6 +2452,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lobster Landing Clinton CT",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Lobster Landing\n\n\ud83d\udccd 152 Commerce St, Clinton, CT\n\nA rustic, weathered shack on the dock at Clinton Harbor, established in 1995 \u2014 the menu is deliberately tiny (lobster rolls, hot dogs, chowder, or sausage & peppers) and built entirely around one thing: a hot buttered lobster roll widely considered among the best in Connecticut. Seating is inside or outside among the boats and waterway. BYOB. Rated 4.5 on Google across 1,569 reviews, ranked #1 of 30 Clinton restaurants on Tripadvisor.\n\nMust Order\n- Hot buttered lobster roll \u2014 the entire reason to go; there isn't much else on the menu\n\nTips\n- BYOB \u2014 bring your own drinks and sides if you want them.\n- The menu is genuinely limited (four items) \u2014 know that going in rather than expecting variety.\n- Right on the Chatham \u2192 Hudson Valley transfer route \u2014 a natural stop for that drive.\n- Reviews are mixed on service speed at peak times; go a little outside the lunch rush if possible.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.528075,
+          41.2692084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lucky Catskills Kingston NY",
         "icon": "utensils",
         "color": "purple",
@@ -2582,6 +2633,23 @@
         "coordinates": [
           -71.13658637091791,
           44.05918848349405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McLoons Lobster Shack South Thomaston ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "McLoons Lobster Shack\n\n\ud83d\udccd 315 Island Rd, Spruce Head, South Thomaston, ME\n\nA small, red-shingled lobster shack right on a working wharf on Spruce Head Island, a few miles south of Rockland \u2014 picnic tables sit close enough to watch lobster boats unloading their catch while you eat. Rated 4.7 on Tripadvisor (#1 of 5 restaurants in South Thomaston), 4.6 on Restaurant Guru across nearly 4,000 reviews, and 4.8 on Sirved \u2014 consistently among the most-praised lobster rolls in the Midcoast.\n\nMust Order\n- Lobster roll \u2014 generously filled, repeatedly called the best reviewers have ever had\n- Blueberry bread pudding \u2014 a genuine standout dessert, best served warmed\n\nTips\n- Expect a line at peak lunch hours \u2014 it's a small operation and popular.\n- Lobster rolls run $15+; this isn't the cheapest option, but reviewers consistently say it's worth it.\n- The working-wharf setting is part of the appeal \u2014 arrive ready to watch the boats, not just eat.",
+        "website": "https://www.mcloonslobster.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1184019,
+          43.9953979
         ]
       }
     },
@@ -3115,6 +3183,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Petey's Summertime Seafood Rye NH",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Petey's Summertime Seafood\n\n\ud83d\udccd 1323 Ocean Blvd, Rye, NH\n\nA beachfront seafood restaurant right on Route 1A in Rye, on New Hampshire's short stretch of coastline between Massachusetts and Maine. Sells lobster, lobster rolls, fried clams, steamer clams, and the full range of New England seafood standards, with a real bar attached. Repeatedly recognized in state and local magazines. Rated 4.5 on Google across over 3,000 ratings (Restaurant Guru runs higher at 4.8, Tripadvisor lower at 4.2 \u2014 Google is the figure used here as the more broadly representative source).\n\nMust Order\n- Fried oysters\n- Steamed lobster\n- Steamed mussels\n\nTips\n- Right on the coastal drive between Massachusetts and Maine \u2014 a natural stop on the Boston\u2013Portland leg of the trip.\n- Full bar and sit-down service, more of a restaurant than a pure walk-up shack.\n- Fast service even when busy, per reviews \u2014 a reliable choice rather than a gamble.",
+        "website": "https://peteys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7338794,
+          43.0171522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pizzeria Posto Rhinebeck, NY",
         "icon": "sandwich",
         "color": "purple",
@@ -3489,6 +3574,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Roy Moore Lobster Co Rockport MA",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Roy Moore Lobster Co\n\n\ud83d\udccd 39 Bearskin Neck, Rockport, MA\n\nA weathered dockside lobster shack on Bearskin Neck, Rockport's historic fishing-village strip of shops and galleries \u2014 ranked #1 of 27 Rockport restaurants on Tripadvisor, and landed the 47th spot on Yelp's Top 100 Seafood Spots list. Rated 4.6 on both Tripadvisor (965 reviews) and Restaurant Guru (4,685 reviews) \u2014 a rare case where two independent sources agree closely, which is a good sign of a genuinely consistent kitchen.\n\nMust Order\n- Steamed lobster\n- Fresh oysters \u2014 specifically praised as huge and fresh\n- Fish cakes\n\nTips\n- Bearskin Neck itself is worth a slow walk \u2014 shops and galleries line the same strip.\n- Fair pricing per reviews, not a tourist markup despite the prime location.\n- A good pairing with a Cape Ann day that also includes Gloucester or the Rockport waterfront generally.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6157391,
+          42.6596391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Saint-Gaudens National Historical Park Woodstock VT",
         "icon": "scroll",
         "color": "purple",
@@ -3653,6 +3755,23 @@
         "coordinates": [
           -69.07101906786502,
           44.20576718511738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sesuit Harbor Cafe Dennis MA",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Sesuit Harbor Cafe\n\n\ud83d\udccd 357 Sesuit Neck Rd, East Dennis, Dennis, MA\n\nA counter-service seafood spot on Cape Cod's north side, with outdoor tables overlooking Northside Marina and Cape Cod Bay. Cash only, dog-friendly, and BYOB. Menu runs boiled lobster, fried clams, a full raw bar, Angus steak tips, grilled salmon, and baked stuffed cod \u2014 broader than a typical shack. Rated 4.5 on Google across nearly 1,900 reviews.\n\nMust Order\n- Lobster roll \u2014 shredded meat plus knuckle, specifically praised\n- Raw bar selections\n- Fried clams\n\nTips\n- Cash only \u2014 bring enough, there's no card option.\n- BYOB is allowed \u2014 bring your own drinks if you want them with the meal.\n- Open 7am\u20138:30pm daily \u2014 works for breakfast through dinner, unusual for a shack of this type.\n- Marina views make it a genuinely scenic stop, not just a food break.",
+        "website": "https://sesuit-harbor-cafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.152973,
+          41.7540627
         ]
       }
     },
