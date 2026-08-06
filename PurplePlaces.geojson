@@ -3115,23 +3115,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Peter Ott's on the Water Camden ME",
-        "icon": "sandwich",
-        "color": "purple",
-        "detail": "Peter Ott's on the Water\n\n\ud83d\udccd 16 Bayview Lndg, Camden, ME\n\nA Camden institution \u2014 over 40 years serving the harbor, with panoramic water views and a menu spanning American classics: steaks, pastas, and local seafood. Rated 4.8 on Restaurant Guru across 3,155 reviews, one of the most-reviewed restaurants in town. Some reports of inconsistency (a burnt burger, thin chowder here and there) don't dent the overall reputation.\n\nMust Order\n- Lobster fettuccine alfredo\n- Lobster roll\n- Haddock sandwich\n- Steamed clams or oysters on the half shell to start\n- Sweet potato fries\n\nTips\n- Open Mon\u2013Thu 11:30am\u20139pm, Fri\u2013Sat until 10pm, Sun until 9pm.\n- Reserve ahead, especially for a water-view table: use the online booking link or call directly.\n- A dependable, crowd-pleasing pick if the group can't agree on something more adventurous \u2014 broad menu, reliable execution, real harbor views.",
-        "website": "https://www.google.com/maps/place/Peter+Ott's+on+the+Water/@44.2087471,-69.064961,261m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c1ac04bc3:0xdd18fdf602b6d9e0!8m2!3d44.2094341!4d-69.0632552!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2RfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOd05qbHRVVEpCUlJBQuABAPoBBAgAEEo!16s%2Fg%2F1ttq1q2m?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.06324613117798,
-          44.20947070860424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Pizzeria Posto Rhinebeck, NY",
         "icon": "sandwich",
         "color": "purple",
