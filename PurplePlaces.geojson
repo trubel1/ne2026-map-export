@@ -582,6 +582,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Buttermilk Kitchen at Marriner's-Camden Maine Camden ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Buttermilk Kitchen at Marriner's\n\n\ud83d\udccd 35 Main St, Camden, ME\n\nA breakfast-and-lunch spot from chef Suzanne Vizethann, built around wholesome, scratch-made comfort food \u2014 the name is a nod to buttermilk, the byproduct of churning butter, and the kitchen's whole approach. Google-rated 4.8, a standout even among Camden's strong breakfast scene.\n\nMust Order\n- Chicken biscuit with red pepper jelly \u2014 the most-praised dish by a wide margin\n- Buttermilk drop biscuits\n- Pimento cheese grits\n- Blueberry pancakes and haddock chowder for a more classic Maine breakfast/lunch pick\n- Corned beef hash\n\nTips\n- Reasonable prices for the quality \u2014 reviewers consistently call it a good value.\n- Breakfast/lunch only \u2014 plan for morning or midday, not dinner.\n- (207) 236-4949 if you want to call ahead about wait times during peak season.",
+        "website": "https://www.google.com/maps/place/Buttermilk+Kitchen+at+Marriner's-Camden+Maine/@44.2104565,-69.0675468,516m/data=!3m2!1e3!5s0x4cadd70b8c340ce1:0xb941bb80d4b04e9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70065e5bba7:0xbe9364b64a2dd7da!8m2!3d44.2104565!4d-69.0645939!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnhvWVZkRmVFTlVNRTUzVm10NFJWcFZNWEJqTTJSSlZXMTRWVTFGUlJBQuABAPoBBAghEEg!16s%2Fg%2F11vk7q8s87?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06458213597075,
+          44.21055540007724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cabbage Island Clambakes Boothbay Harbor ME",
         "icon": "utensils",
         "color": "purple",
@@ -2622,6 +2639,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mixed Greens Camden ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Mixed Greens\n\n\ud83d\udccd 15 Main St, downtown Camden, ME\n\nA fast-casual salad spot built on fresh, local, organic ingredients \u2014 genuinely well-regarded, not just \"healthy but bland.\" Rated 4.8 on Restaurant Guru across 127 reviews. Big vegetarian/vegan selection alongside the salads.\n\nMust Order\n- Rainbow Salad \u2014 the most-praised item, called out for vibrant flavor and fresh vegetables\n- Super Greens Salad\n- Cobb Salad\n\nTips\n- Open Monday\u2013Saturday, 11am\u20133pm; closed Sundays \u2014 lunch-only, plan accordingly.\n- Portions are generous but prices run a bit higher than a typical quick-lunch spot \u2014 worth it per reviews, just budget for it.\n- Good pick if the group wants something lighter after a big breakfast or before a bigger dinner.",
+        "website": "https://www.google.com/maps/place/Mixed+Greens/@44.2104565,-69.0675468,516m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7cabd390b05:0xe8129bdb45be8913!8m2!3d44.210079!4d-69.064673!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnNhbGFkX3Nob3CaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk1jeTFmT1ZkUkVBReABAPoBBAgAECo!16s%2Fg%2F11q278n4q4?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06462626933204,
+          44.210180261744725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Moffat House Berlin NH",
         "icon": "landmark",
         "color": "purple",
@@ -3075,6 +3109,23 @@
         "coordinates": [
           -70.1897,
           43.6584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Ott's on the Water Camden ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Peter Ott's on the Water\n\n\ud83d\udccd 16 Bayview Lndg, Camden, ME\n\nA Camden institution \u2014 over 40 years serving the harbor, with panoramic water views and a menu spanning American classics: steaks, pastas, and local seafood. Rated 4.8 on Restaurant Guru across 3,155 reviews, one of the most-reviewed restaurants in town. Some reports of inconsistency (a burnt burger, thin chowder here and there) don't dent the overall reputation.\n\nMust Order\n- Lobster fettuccine alfredo\n- Lobster roll\n- Haddock sandwich\n- Steamed clams or oysters on the half shell to start\n- Sweet potato fries\n\nTips\n- Open Mon\u2013Thu 11:30am\u20139pm, Fri\u2013Sat until 10pm, Sun until 9pm.\n- Reserve ahead, especially for a water-view table: use the online booking link or call directly.\n- A dependable, crowd-pleasing pick if the group can't agree on something more adventurous \u2014 broad menu, reliable execution, real harbor views.",
+        "website": "https://www.google.com/maps/place/Peter+Ott's+on+the+Water/@44.2087471,-69.064961,261m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c1ac04bc3:0xdd18fdf602b6d9e0!8m2!3d44.2094341!4d-69.0632552!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2RfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOd05qbHRVVEpCUlJBQuABAPoBBAgAEEo!16s%2Fg%2F1ttq1q2m?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06324613117798,
+          44.20947070860424
         ]
       }
     },
