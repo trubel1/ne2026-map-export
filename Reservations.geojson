@@ -177,7 +177,7 @@
         "name": "Aster & Rose Restaurant Camden ME",
         "icon": "utensils",
         "color": "purple",
-        "detail": "",
+        "detail": "Aster & Rose\n\n\ud83d\udccd 581 Youngtown Rd, Lincolnville, ME (at the Youngtown Inn \u2014 a short drive from downtown Camden, not in Camden itself)\n\nThe top-rated restaurant in Lincolnville \u2014 4.8 on Restaurant Guru across 477 reviews, ranked #1 of 15 Lincolnville restaurants. Set in a beautiful old farmhouse at the historic Youngtown Inn, just minutes from downtown Camden but a genuinely different, quieter countryside setting with Camden Hills views. Locally sourced, seasonal, creatively prepared cuisine with attentive service and a strong wine/cocktail list \u2014 a cozy, romantic atmosphere.\n\nMust Order\n- Whatever's featured seasonally \u2014 the kitchen is built around what's fresh, not a fixed menu\n\nTips\n- Open Wednesday\u2013Saturday, dinner only, 5pm\u20139pm.\n- Book via Tock: exploretock.com/asterrose.\n- Worth the short drive from Camden proper \u2014 it reads as a special-occasion destination, not a quick stop.",
         "website": "https://www.google.com/maps/place/Aster+%26+Rose+Restaurant/@44.2691958,-69.1002327,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cae775eb918804b:0x6d07c0c2faed1ed4!8m2!3d44.269192!4d-69.0976578!16s%2Fg%2F11swk7hf2q?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -211,7 +211,7 @@
         "name": "Cafe Louis - Costa Media Camden ME",
         "icon": "coffee",
         "color": "purple",
-        "detail": "",
+        "detail": "Cafe Louis on the Costa Media\n\n\ud83d\udccd 50 Elm St, Camden, ME\n\nA small, family-owned restaurant inspired by chef Evan Richardson's grandparents, serving Costa Rican and Caribbean food \u2014 genuinely distinctive for Midcoast Maine, where this cuisine is otherwise hard to find. Reviewers single out the chicken as \"hands down the best chicken we have ever eaten,\" with smoky flavor and crispy skin.\n\nMust Order\n- Costa Rican-style chicken \u2014 the standout dish by a wide margin\n- Radicchio salad\n- Calamari\n- Mussels\n\nTips\n- Hours are irregular \u2014 Sun\u2013Tue 3pm\u20139pm, closed Wed\u2013Thu, open Fri; happy hour 3\u20135pm, dinner 5pm\u2013close. Confirm current hours before going, since this schedule is unusual.\n- Reservations recommended at (207) 230-8424.\n- A genuine change of pace from the seafood-heavy Camden dining scene.",
         "website": "https://www.google.com/maps/place/Cafe+Louis+-+Costa+Media/@44.2082064,-69.0698581,576m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7deb7ed5a19:0x6a4b739c53f5fdd2!8m2!3d44.2081533!4d-69.0666541!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXhibUZmYUdsQlJSQULgAQD6AQQIHhA9!16s%2Fg%2F11y1qxd_kp?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -245,7 +245,7 @@
         "name": "Franny's Bistro Aug 11 Camden ME",
         "icon": "utensils",
         "color": "purple",
-        "detail": "Reservation confirmation (Aug 11)",
+        "detail": "Franny's Bistro \u2014 Aug 11 visit\n\n\ud83d\udccd 55 Chestnut St, Camden, ME\n\nCamden's #1-ranked restaurant on Tripadvisor (4.7/5, out of 41) \u2014 a real distinction, not a marginal edge. Fresh, local-ingredient-driven menu: shrimp dumplings over cucumber noodles, standout mussels and halibut specials, and \"Kraken\" (balsamic calamari) as a regular favorite. Warm, attentive service in an inviting room.\n\nMust Order\n- Shrimp dumplings over cucumber noodles\n- Kraken (calamari in balsamic)\n- Mussels or halibut, whichever is featured as the day's special\n- Cr\u00e8me br\u00fbl\u00e9e for dessert\n\nTips\n- Open Wednesday\u2013Saturday, 5pm\u20138pm only.\n- Walk-ins accepted but rarely successful in peak season \u2014 this reservation is worth protecting.\n- See the main Franny's Bistro note for the fuller writeup; this note tracks the Aug 11 visit specifically.\n\nReservation confirmation (Aug 11)",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -262,7 +262,7 @@
         "name": "Franny's Bistro Camden ME",
         "icon": "utensils",
         "color": "purple",
-        "detail": "Day: `=dateformat(this.start-date-time, \"cccc\")`\n \n Day: `=dateformat(this.start-date-time, \"cccc\")`\nReservation confirmation (Aug 5)",
+        "detail": "Day: `=dateformat(this.start-date-time, \"cccc\")`\n \n Day: `=dateformat(this.start-date-time, \"cccc\")`\nReservation confirmation (Aug 5)\n\nFranny\u2019s Bistro \u2014 Camden, Maine\n\nA well-loved bistro at 55 Chestnut St, rated 4.6 from 238+ reviews. It\u2019s co-owned by Jennifer and Jack Neal, with food often described as American bistro with global influences. Expect a cozy, moody-lit space \u2014 great for date night \u2014 with reservations strongly recommended in summer.\n\nThe dish to order: Scallops & mussels over cheddar-bacon grits with creamed corn. This is the house signature \u2014 while the owners may debate their most famous dish, the consensus from customers leans toward the scallops and mussels. One diner specifically called out the combination as genius, pairing perfectly-cooked fish with creamed corn and bacon over cheddar grits.\n\nOther strong picks:\n\n- Roast chicken \u2014 tender, not dry, with a garlic-herb drizzle great for dunking focaccia, served with potatoes and broccoli rabe\n- Shrimp dumplings over cucumber noodles \u2014 a popular, fresh starter\n- Halibut special (when available) \u2014 topped with roasted peaches, fingerling potatoes, and grilled asparagus, called some of the best of a trip by one Tripadvisor reviewer\n- The Kraken (calamari in balsamic) \u2014 addictively good, a favorite among regulars\n- Steak frites \u2014 a reliable crowd-pleaser, kids and adults alike\n- Cr\u00e8me br\u00fbl\u00e9e \u2014 called a must-try for dessert\n\nGood to know: They also do a strong non-alcoholic cocktail and wine list if you\u2019re not drinking, and portions on the salads run a bit small for the price per some reviewers \u2014 better to lean into the entrees and shared apps.\n\nWant this pinned on your New England 2026 map alongside the other Midcoast spots?",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -772,7 +772,7 @@
         "name": "Natalie's Restaurant at Camden Harbour Inn, A Member of Small Luxury Hotels ME",
         "icon": "utensils",
         "color": "red",
-        "detail": "",
+        "detail": "Natalie's \u2014 Aug 7 visit\n\n\ud83d\udccd 83 Bayview St, Camden, ME (at Camden Harbour Inn)\n\nThe most decorated restaurant in Camden \u2014 the first and only Maine restaurant to win OpenTable's Diners' Choice Top 100 Best Restaurant in America award, plus AAA Four Diamond recognition, a Wine Spectator Award of Excellence, and Relais & Ch\u00e2teaux membership. French-leaning fine dining under executive chefs Chris Long and Shelby Stevens: \u00e0 la carte, or three-, seven-, or lobster-tasting menus (lobster prepared four ways). Rated 4.9 on Restaurant Guru across 2,920 reviews. A 200-label wine list with 25+ by the glass.\n\nMust Order\n- The lobster tasting menu, if you want the full experience \u2014 starts with Maine oysters, then lobster ceviche with avocado and peppers, a smoky lobster steam bun, and lobster risotto\n- Otherwise, the seven-course tasting menu for the fullest picture of the kitchen\n- Filet am\u00e9ricain or swordfish if going \u00e0 la carte\n\nTips\n- This is the splurge night of the trip \u2014 dress and budget accordingly.\n- Book well ahead; a restaurant with this reputation fills up fast in peak season.\n- Harbor-view setting inside Camden Harbour Inn \u2014 arrive a little early to enjoy the grounds.",
         "website": "https://www.google.com/maps/place/Natalie's+Restaurant+at+Camden+Harbour+Inn,+A+Member+of+Small+Luxury+Hotels/@44.2057117,-69.0626585,175m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70fb9257661:0x31ca8e1d87368211!8m2!3d44.2057774!4d-69.0616898!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFm5ld19lbmdsYW5kX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1vrq96_r?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -976,7 +976,7 @@
         "name": "Natalie's Restaurant 2 Camden ME",
         "icon": "hotel",
         "color": "blue",
-        "detail": "",
+        "detail": "\u274c Natalie's \u2014 Aug 13 visit (cancelled)\n\n\ud83d\udccd 83 Bayview St, Camden, ME (at Camden Harbour Inn)\n\nCamden's most decorated restaurant \u2014 see the Aug 7 visit note for the full writeup (OpenTable Diners' Choice Top 100, AAA Four Diamond, Relais & Ch\u00e2teaux). This second reservation was cancelled \u2014 kept here for the historical record per the vault's reservation-status convention.",
         "website": ""
       },
       "geometry": {

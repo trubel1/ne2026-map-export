@@ -1497,7 +1497,7 @@
         "vault_type": "Restaurant",
         "description": "This restaurant serves elevated casual American seafood and pub food, with a diverse menu including items like fish & chips and chicken wings. It is open for lunch and dinner, operating from 12 PM to 8 PM Wednesday through Sunday, and it serves alcohol.",
         "start_date_time": "",
-        "detail": "This restaurant serves elevated casual American seafood and pub food, with a diverse menu including items like fish & chips and chicken wings. It is open for lunch and dinner, operating from 12 PM to 8 PM Wednesday through Sunday, and it serves alcohol.",
+        "detail": "Barren's Distillery + Restaurant\n\n\ud83d\udccd Camden, ME (on the harbor)\n\nAn elevated casual American seafood and pub spot with its own on-site distillery \u2014 house-made small-batch gin, whiskey, and other spirits feed directly into the cocktail list. Panoramic harbor views from the dining room, Google-rated 4.4, open for lunch and dinner Wednesday\u2013Sunday, noon\u20138pm. Reviews are mixed on kitchen consistency even though the drinks and setting are consistently praised \u2014 go in for the view and cocktails first, food second.\n\nMust Order\n- Fresh oysters\n- Fish & chips\n- Cocktails made with house-distilled gin or vodka \u2014 blueberry-infused versions get specific praise\n- Lobster bruschetta or the homemade pretzels to start\n\nTips\n- One review specifically flagged the haddock chowder as a weak spot \u2014 if you want chowder in Camden, this may not be the place.\n- Closed Monday and Tuesday.\n- Ask for a table with a harbor view \u2014 that's the main draw alongside the cocktails.",
         "website": "https://www.google.com/maps/place/Barren's+Distillery+%2B+Restaurant/@44.2092724,-69.0610791,788m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cadd7a943d4d653:0xb94729f47d949a9f!2sBarren's+Distillery+%2B+Restaurant!8m2!3d44.2092724!4d-69.0610791!16s%2Fg%2F11t5m4w51s!3m5!1s0x4cadd7a943d4d653:0xb94729f47d949a9f!8m2!3d44.2092724!4d-69.0610791!16s%2Fg%2F11t5m4w51s?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -2690,9 +2690,9 @@
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
-        "description": "Camden fixture since 1893 (originally a pharmacy), serving no-frills, well-loved breakfast and lunch that locals rely on over trendier harbor-front spots.",
+        "description": "CLOSED \u2014 sold after 15 years; the old pharmacy-building space reportedly became a Bagel Cafe. Do not plan a visit around this name; verify what's actually at 30 Main St before going.",
         "start_date_time": "",
-        "detail": "Boynton-McKay Food Company\n\n\ud83d\udccd Downtown Camden, ME\n\nA Camden fixture since 1893 (originally a pharmacy), serving no-frills, well-loved breakfast and lunch that locals rely on over trendier harbor-front spots. A genuine local institution where townspeople actually eat.\n\nTips\n- 130+ years of local history\n- No-frills, authentic Camden character\n- Locals prefer it over tourist spots\n- Breakfast and lunch focus\n- Budget-friendly\n- True community gathering place"
+        "detail": "\u26a0\ufe0f Boynton-McKay Food Company \u2014 CLOSED\n\n\ud83d\udccd 30 Main St, Camden, ME (former location)\n\nThis restaurant has closed. It was a genuine Camden institution \u2014 the building was originally an 1890s pharmacy, and the restaurant itself operated there for roughly 15 years before selling. It was voted best breakfast in Maine by Food Network Magazine and known for chocolate chip pancakes and made-from-scratch comfort food. Reporting around the sale indicated a Bagel Cafe was expected to take over the same Main Street space \u2014 but that report is dated, so verify what's actually operating at 30 Main St before planning a visit, rather than assuming either name is currently open.\n\nTips\n- Do not build a breakfast plan around this name \u2014 confirm current status first.\n- If a bagel shop or other new tenant is now at 30 Main St, it may be worth a look on its own merits, but it isn't the same business this note originally described."
       },
       "geometry": {
         "type": "Point",
@@ -3160,7 +3160,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Buttermilk Kitchen at Marriner's\n\n\ud83d\udccd 35 Main St, Camden, ME\n\nA breakfast-and-lunch spot from chef Suzanne Vizethann, built around wholesome, scratch-made comfort food \u2014 the name is a nod to buttermilk, the byproduct of churning butter, and the kitchen's whole approach. Google-rated 4.8, a standout even among Camden's strong breakfast scene.\n\nMust Order\n- Chicken biscuit with red pepper jelly \u2014 the most-praised dish by a wide margin\n- Buttermilk drop biscuits\n- Pimento cheese grits\n- Blueberry pancakes and haddock chowder for a more classic Maine breakfast/lunch pick\n- Corned beef hash\n\nTips\n- Reasonable prices for the quality \u2014 reviewers consistently call it a good value.\n- Breakfast/lunch only \u2014 plan for morning or midday, not dinner.\n- (207) 236-4949 if you want to call ahead about wait times during peak season.",
         "website": "https://www.google.com/maps/place/Buttermilk+Kitchen+at+Marriner's-Camden+Maine/@44.2104565,-69.0675468,516m/data=!3m2!1e3!5s0x4cadd70b8c340ce1:0xb941bb80d4b04e9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70065e5bba7:0xbe9364b64a2dd7da!8m2!3d44.2104565!4d-69.0645939!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnhvWVZkRmVFTlVNRTUzVm10NFJWcFZNWEJqTTJSSlZXMTRWVTFGUlJBQuABAPoBBAghEEg!16s%2Fg%2F11vk7q8s87?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -3415,9 +3415,9 @@
         "icon": "landmark",
         "color": "purple",
         "vault_type": "Park",
-        "description": "A public park offering a natural setting for relaxation and outdoor activities.",
+        "description": "Officially Laite Memorial Beach \u2014 a small, low-key harbor beach on Bay View Street with a swimming platform, picnic tables, and grills, about a half-mile from downtown.",
         "start_date_time": "",
-        "detail": "Camden City Park\n\n\ud83d\udccd Camden, ME\n\nA public park offering a natural setting for relaxation and outdoor activities. Does not serve food or alcohol.\n\nTips\n- Well-maintained facilities and beautiful views."
+        "detail": "Camden City Park (Laite Memorial Beach)\n\n\ud83d\udccd Bay View Street, between Cedar and Chestnut Hill Streets, Camden, ME\n\nThe town's official name for this spot is Laite Memorial Beach \u2014 a small, low-key harbor beach easy to miss from the road (you'll mostly see swings and a few picnic tables). No fees, easy access to Camden Harbor's water, and a swimming platform anchored about 100 feet offshore in summer for anyone up for a brisk Atlantic swim. Restrooms, picnic tables, and grills on site.\n\nTips\n- Open 6am\u201310pm daily.\n- Dogs allowed May 1\u2013Oct 1, but only during set hours (6\u201310pm and 6\u20138am) and never on the beach itself May through September \u2014 check current signage before bringing one.\n- Water quality is tested weekly through the Maine Healthy Beaches program.\n- About a half-mile walk from downtown \u2014 an easy add-on rather than a special trip."
       },
       "geometry": {
         "type": "Point",
@@ -3475,7 +3475,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Camden House of Pizza\n\n\ud83d\udccd 12 Mechanic St, Camden, ME\n\nA family-owned Camden fixture for over two decades, serving pizza alongside Greek cuisine \u2014 gyros, pasta dinners, sandwiches, and salads. Consistently strong reviews across every platform (4.3\u20134.5 depending on the source), with reviewers specifically praising a crust that's light yet firm and generous, well-balanced sauce and cheese. Just off Main Street, warm and casual.\n\nMust Order\n- Pizza \u2014 the namesake dish, and the one most consistently praised for crust quality\n- Gyros\n- Greek-style pasta dinners if you want something beyond pizza\n\nTips\n- Good fast, casual option if you want a break from Camden's more upscale harbor dining.\n- Friendly service and quick turnaround \u2014 a solid choice for a low-key lunch or takeout dinner.\n- Takeout available.",
         "website": "https://www.google.com/maps/place/Camden+House+of+Pizza/@44.2098562,-69.0687574,513m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c74a9b407:0xda00b86044448fa!8m2!3d44.2099768!4d-69.065448!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEHBpenphX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTndlRFpVVXpOblJSQULgAQD6AQQIGhBB!16s%2Fg%2F1tk6_2j0?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -3495,7 +3495,7 @@
         "vault_type": "Garden",
         "description": "National Historic Landmark horseshoe garden theater designed by famed landscape architect Fletcher Steele and funded by Mary Louise Curtis Bok, featuring a bronze fawn statue and fountain\u2014locals use it for weddings and yoga, but most harbor-focused tourists walk right past.",
         "start_date_time": "",
-        "detail": "Camden Public Library Amphitheatre & Fawn's Garden\n\n\ud83d\udccd Camden Public Library, Camden, ME\n\nA National Historic Landmark horseshoe garden theater designed by famed landscape architect Fletcher Steele and funded by Mary Louise Curtis Bok. Features a bronze fawn statue and fountain at the center. Locals use it for weddings, yoga, and quiet contemplation, but most harbor-focused tourists walk right past.\n\nTips\n- Located at Camden Public Library\n- National Historic Landmark status\n- Designed by renowned landscape architect Fletcher Steele\n- Free access\n- Quiet, contemplative space\n- Often used for local events (weddings, yoga)\n- Rarely crowded"
+        "detail": "Camden Public Library Amphitheatre & Fawn's Garden\n\n\ud83d\udccd Camden Public Library, 55 Main St, Camden, ME\n\nA horseshoe-shaped stone amphitheatre built 1928\u20131931, designed by celebrated American landscape architect Fletcher Steele and funded by local arts patron Mary Louise Curtis Bok. Massive boulders, Camperdown elms, and stands of birches give it a naturalistic feel despite every element being deliberately planned. Sits right on the library grounds with a real view of Camden Harbor, and offers a genuinely quiet place to sit away from downtown traffic.\n\nTips\n- Free and open to the public year-round; the library itself is a National Historic Landmark.\n- Look for the large brass-ringed compass set into the ground near the Faun's Garden \u2014 its ring famously went missing for over 50 years before turning up in a nearby shed.\n- Used regularly for weddings, yoga, and community events \u2014 worth checking there's nothing scheduled if you want a quiet visit.\n- Benches are placed to catch the harbor view \u2014 a good spot to sit for 10\u201315 minutes between other stops rather than a destination in itself."
       },
       "geometry": {
         "type": "Point",
@@ -5240,7 +5240,7 @@
         "vault_type": "Lighthouse",
         "description": "An 1836 lighthouse at the entrance to Camden Harbor, on what was once called Negro Island before being renamed for publishing magnate Cyrus Curtis in 1934. Best seen from the water or from a marked viewpoint on Bay View Street.",
         "start_date_time": "",
-        "detail": "Curtis Island Lighthouse\n\n\ud83d\udccd Curtis Island, Camden Harbor, ME\n\nBuilt in 1836 on what was originally called Negro Island, renamed in 1934 for publishing magnate Cyrus Curtis. The original rubblestone tower cracked in an 1842 gale and was replaced by the current brick tower in 1896. Site of two notable rescues: keeper's daughter Louise Gilley saved two capsized boys in 1897, and keeper Francis McCarthy rescued a downed Air Force pilot in 1962.\n\nTips\n- Grounds are open, dwelling and tower closed \u2014 best seen from a Camden Harbor windjammer or excursion boat.\n- A distant shore view is marked along Bay View Street and Beacon Avenue."
+        "detail": "Curtis Island Lighthouse\n\n\ud83d\udccd Curtis Island, Camden Harbor, ME\n\nBuilt in 1836 on what was originally called Negro Island, renamed in 1934 for publishing magnate Cyrus Curtis. The original rubblestone tower cracked in an 1842 gale and was replaced by the current brick tower in 1896. Site of two notable rescues: keeper's daughter Louise Gilley saved two capsized boys in 1897, and keeper Francis McCarthy rescued a downed Air Force pilot in 1962.\n\nTips\n- Grounds are open, dwelling and tower closed. Reaching the island requires a boat \u2014 kayak, private boat, charter, or a rentable rowboat (about $40/day); it's roughly a half-hour row in calm conditions.\n- Easiest option: any Camden windjammer day sail (see Windjammer Cruises) passes right by the light heading out into Penobscot Bay.\n- For a land view without a boat: take Bay View Street toward Rockport, and at about 0.8 miles look for a small unmarked path across from Beacon Avenue \u2014 a short walk leads to a bench with one of the best on-land views of the island (see Curtis Island Overlook)."
       },
       "geometry": {
         "type": "Point",
@@ -8392,7 +8392,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Harbor Dogs\n\n\ud83d\udccd 1 Public Landing, Camden, ME (municipal parking lot, waterfront)\n\nA tiny red hot dog shack in Camden's municipal lot that takes hot dogs seriously and also nails fresh seafood \u2014 an unusual but well-executed combination. Rated 4.5 on Tripadvisor (#20 of 40 Camden restaurants), 4.4 on Google. Picnic tables right by the water, quick service, reasonable prices.\n\nMust Order\n- Harbor Dog \u2014 the traditional Maine red hot dog with apple chutney\n- BBQ dog or a Reuben dog (beef or veggie)\n- Lobster roll \u2014 regulars call it among the best in town, unusual for a hot dog shack\n- Fish tacos\n\nTips\n- Order at the window, eat at the picnic tables \u2014 casual, no-frills setup.\n- Good option for a quick waterfront lunch without a sit-down commitment.\n- Seafood here tastes genuinely fresh \u2014 reviewers note it \"came off the boat hours ago.\"",
         "website": "https://www.google.com/maps/place/Harbor+Dogs/@44.2087471,-69.064961,261m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c0855c367:0xc20e6ddf293e04d7!8m2!3d44.2094729!4d-69.0633712!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlBjbk5UVDFKQkVBReABAPoBBAguEDM!16s%2Fg%2F11btrsf361?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -9920,7 +9920,7 @@
         "vault_type": "Garden",
         "description": "Quiet contemplative garden space on Camden Public Library grounds, adjoining the Children's Garden\u2014rarely mentioned in guidebooks but designed as a peaceful memorial space.",
         "start_date_time": "",
-        "detail": "Jean S. Picker Memorial Garden & Children's Garden\n\n\ud83d\udccd Camden Public Library grounds, Camden, ME\n\nA quiet contemplative garden space on Camden Public Library grounds, adjoining a dedicated Children's Garden. Both are rarely mentioned in guidebooks but serve as peaceful, meditative spaces\u2014part of the library's hidden garden network.\n\nTips\n- Located at Camden Public Library\n- Free access\n- Quiet, contemplative design\n- Children's Garden adjoins\n- Rarely crowded\n- Part of library's garden system"
+        "detail": "Jean S. Picker Memorial Garden & Children's Garden\n\n\ud83d\udccd Camden Public Library grounds, Camden, ME\n\nA smaller, quieter garden space on the Camden Public Library grounds, adjoining a Children's Garden \u2014 part of the same library complex as the better-known Amphitheatre & Fawn's Garden (the Fletcher Steele-designed horseshoe theater), but a distinct, smaller corner of it. Worth noting: independent research on this specific garden by name is thin online \u2014 most sources reference the library's \"Jean Picker Room\" (an indoor space) rather than a standalone outdoor garden, so treat the exact scope here as approximate until seen in person.\n\nTips\n- Free access, same grounds as the Amphitheatre \u2014 easy to combine both in one stop.\n- If it turns out to be the same space as the Amphitheatre/Fawn's Garden rather than a distinct corner, that's fine \u2014 either way it's worth the short walk from Main Street.\n- Good for a quiet few minutes away from the harbor crowds."
       },
       "geometry": {
         "type": "Point",
@@ -11441,7 +11441,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Long Grain\n\n\ud83d\udccd 20 Washington St, Camden, ME\n\nA genuinely excellent Thai restaurant \u2014 reviewers specifically note it \"would be a success in a big city, let alone Camden.\" Handmade noodles, real curry and stir-fry technique, not a tourist-town approximation of Thai food. Rated 4.4 on Restaurant Guru across 1,800+ reviews \u2014 one of the most reviewed restaurants in Camden.\n\nMust Order\n- Crab fried rice\n- Street Chicken Wings\n- Wide Rice Noodles\n- Steamed Mussels in Spicy Coconut Lemongrass Broth\n- Pad Pak and Pad Kee Mao \u2014 both specifically praised for spice and flavor balance\n\nTips\n- Open Tuesday\u2013Saturday, 11:30am\u20132:30pm and 4:30pm\u20139pm; closed Sunday and Monday.\n- Reservations recommended for both lunch and dinner \u2014 this place draws a real crowd.\n- Good vegan/vegetarian coverage if needed.\n- Call ahead: (207) 236-9001 or (207) 230-8735.",
         "website": "https://www.google.com/maps/place/Long+Grain/@44.2089092,-69.0712165,620m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c6a6d7657:0xa7d1153fdd07ec09!8m2!3d44.2095556!4d-69.0662639!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBD3RoYWlfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOa2NVdDFRMjFSUlJBQuABAPoBBAgAED8!16s%2Fg%2F1tflm0gt?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -12538,7 +12538,7 @@
         "vault_type": "Restaurant",
         "description": "Megunticook Market offers a variety of foods including pizza and pre-made meals. It is open for lunch and dinner with prices generally expected to be moderate. Alcoholic beverages are also available.",
         "start_date_time": "",
-        "detail": "Megunticook Market offers a variety of foods including pizza and pre-made meals. It is open for lunch and dinner with prices generally expected to be moderate. Alcoholic beverages are also available.",
+        "detail": "Megunticook Market and Catering\n\n\ud83d\udccd 2 Gould St, Camden, ME\n\nA neighborhood market and deli that also runs a serious catering operation \u2014 good selection of meats, local produce, an eclectic sandwich menu, plus pizza and pre-made meals for a quick grab. Rated 4.4 on Restaurant Guru, #23 of 41 Camden restaurants on Tripadvisor. Reviews are genuinely mixed: strong on the deli/catering side, more inconsistent on the pre-made and online-order side.\n\nMust Order\n- Deli sandwiches, made to order\n- Wood-fired pizza\n- Locally sourced produce and meats if you're provisioning rather than eating on-site\n\nTips\n- Better bet for in-person ordering (sandwiches, deli counter) than pre-made grab-and-go or online orders, per reviews.\n- Useful as a grocery/provisions stop for the base camp, not just a sit-down meal.\n- Their catering service is well-regarded if you need something for a group.",
         "website": "https://www.google.com/maps/place/Megunticook+Market+and+Catering/@44.2169568,-69.0804957,787m/data=!3m3!1e3!4b1!5s0x4cadd777e4eedb83:0x1f7f830b36c25b33!4m6!3m5!1s0x4cadd777e1c84d67:0x818b02a6f6b90500!8m2!3d44.216953!4d-69.0779208!16s%2Fg%2F1tgp0d8w?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -12854,7 +12854,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Mixed Greens\n\n\ud83d\udccd 15 Main St, downtown Camden, ME\n\nA fast-casual salad spot built on fresh, local, organic ingredients \u2014 genuinely well-regarded, not just \"healthy but bland.\" Rated 4.8 on Restaurant Guru across 127 reviews. Big vegetarian/vegan selection alongside the salads.\n\nMust Order\n- Rainbow Salad \u2014 the most-praised item, called out for vibrant flavor and fresh vegetables\n- Super Greens Salad\n- Cobb Salad\n\nTips\n- Open Monday\u2013Saturday, 11am\u20133pm; closed Sundays \u2014 lunch-only, plan accordingly.\n- Portions are generous but prices run a bit higher than a typical quick-lunch spot \u2014 worth it per reviews, just budget for it.\n- Good pick if the group wants something lighter after a big breakfast or before a bigger dinner.",
         "website": "https://www.google.com/maps/place/Mixed+Greens/@44.2104565,-69.0675468,516m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7cabd390b05:0xe8129bdb45be8913!8m2!3d44.210079!4d-69.064673!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnNhbGFkX3Nob3CaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk1jeTFmT1ZkUkVBReABAPoBBAgAECo!16s%2Fg%2F11q278n4q4?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -13245,7 +13245,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Mosaic\n\n\ud83d\udccd 31 Elm St, Camden, ME\n\nA cozy Mexican/Mediterranean fusion spot decorated with locally made artwork \u2014 an unusual, well-executed combination rather than a straightforward taqueria. Rated 4.7 on Restaurant Guru (283 reviews) and 4.8 on Tripadvisor (#12 of 40 Camden restaurants). Service is consistently called excellent and friendly, prices reasonable.\n\nMust Order\n- Enchiladas\n- Fish tacos\n- Korean BBQ bowl \u2014 the fusion angle at its most distinctive\n\nTips\n- Open daily, 11:30am\u20139pm.\n- Good gluten-free coverage \u2014 burrito bowls, enchiladas, tacos, and dessert all have GF options.\n- Reserve ahead in peak season: (207) 230-8380.",
         "website": "https://www.google.com/maps/place/Mosaic+Restaurant/@44.2090611,-69.0674547,246m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd715e97c814b:0x8b79bf15f56e5eab!8m2!3d44.2090648!4d-69.065927!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjB4ZUdFeVpGbE9iV1EyVFRORk5WUlhkRlpWYkVveFdWVmtibHB1WXhBQuABAPoBBAgAEDU!16s%2Fg%2F11stpz7p2w?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -15420,7 +15420,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Peter Ott's on the Water\n\n\ud83d\udccd 16 Bayview Lndg, Camden, ME\n\nA Camden institution \u2014 over 40 years serving the harbor, with panoramic water views and a menu spanning American classics: steaks, pastas, and local seafood. Rated 4.8 on Restaurant Guru across 3,155 reviews, one of the most-reviewed restaurants in town. Some reports of inconsistency (a burnt burger, thin chowder here and there) don't dent the overall reputation.\n\nMust Order\n- Lobster fettuccine alfredo\n- Lobster roll\n- Haddock sandwich\n- Steamed clams or oysters on the half shell to start\n- Sweet potato fries\n\nTips\n- Open Mon\u2013Thu 11:30am\u20139pm, Fri\u2013Sat until 10pm, Sun until 9pm.\n- Reserve ahead, especially for a water-view table: use the online booking link or call directly.\n- A dependable, crowd-pleasing pick if the group can't agree on something more adventurous \u2014 broad menu, reliable execution, real harbor views.",
         "website": "https://www.google.com/maps/place/Peter+Ott's+on+the+Water/@44.2087471,-69.064961,261m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70c1ac04bc3:0xdd18fdf602b6d9e0!8m2!3d44.2094341!4d-69.0632552!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2RfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOd05qbHRVVEpCUlJBQuABAPoBBAgAEEo!16s%2Fg%2F1ttq1q2m?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -18405,7 +18405,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "Scott's Place is a casual dining spot best known for serving delicious burgers, lobster rolls, and fried foods in a convenient takeout setting. It typically attracts a diverse crowd, including families, locals, and tourists looking for quick, affordable meals. The overall vibe is relaxed and laid-back, suitable for a quick bite rather than a formal dining experience.\n\nPositives: 1) Tasty burgers and fries 2) Friendly staff 3) Reasonably priced portions 4) Quick service for takeout.\n\nDownsides: 1) Some reviews mention small portion sizes for the price 2) Mixed experiences with service speed during busy times.",
+        "detail": "Scott's Place\n\n\ud83d\udccd Reny's Plaza, Route 1, Camden, ME (just south of town center)\n\nA Camden takeout institution since 1974 \u2014 a wide-ranging lunch menu of hot and cold sandwiches, lobster rolls, cheeseburgers, hot dogs, wraps, onion rings, and fries, served from a stand in the Reny's parking lot. Rated 4.7. Cash only, open year-round with reduced winter hours. Picnic tables on site, plenty of free parking.\n\nMust Order\n- Lobster roll\n- Burgers \u2014 specifically praised alongside the lobster roll as the standout dishes\n\nTips\n- Cash only \u2014 no cards, plan accordingly.\n- Some reviews note portions run a bit small for the price \u2014 go in expecting a quick, affordable bite rather than a huge meal.\n- Good option to grab food and eat at the picnic tables rather than sit-down dining.",
         "website": "https://www.google.com/maps/place/Scott's+Place/@44.2054774,-69.081107,1704m/data=!3m2!1e3!5s0x4cadd71294e68da5:0xc50270c1eb079b5e!4m6!3m5!1s0x4cadd712e17a5063:0xf71f89cb5d1190ad!8m2!3d44.2054769!4d-69.0708896!16s%2Fg%2F1tm880cr?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -21364,7 +21364,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "The Munching Meeple\n\n\ud83d\udccd Camden, ME (in Camden's old mill building)\n\nA board-game caf\u00e9/bistro that opened in 2026 \u2014 over 450 board game titles (200+ from owners Greg and Kim Harrison's personal collection), with simple, fresh, well-executed pub food built to let you settle in for a couple of hours. Big windows, casual and whimsical, in Camden's historic old mill building. Locals say the town was missing exactly this.\n\nMust Order\n- Burgers and fries \u2014 the kitchen's straightforward, solid core menu\n\nTips\n- Come for a game, not just a quick bite \u2014 the whole design is built around lingering.\n- Good option for a rainy-day Camden afternoon or a low-key family evening.\n- Motto: \"put down the device, pick up the dice\" \u2014 leave time to actually play something.",
         "website": "https://www.google.com/maps/place/The+Munching+Meeple/@44.2090977,-69.0700049,444m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7c20995573f:0x7818563e1af47fcf!8m2!3d44.2099894!4d-69.0678395!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVzZUdSVk1WSmFWV2h4WkdzMU5WSldUalpaYlRGclkya3dlRkl5WXhBQuABAPoBBAgAEB0!16s%2Fg%2F11z217y4qz?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -21592,46 +21592,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Restaurant & Bar at The Norumbega 1 Camden ME",
-        "icon": "utensils",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "The Norumbega is a bar & grill serving American cuisine with an eclectic menu. Prices range from $20-$60, and it opens for dinner starting at 4:30 PM. Alcohol is served.",
-        "start_date_time": "",
-        "detail": "The Norumbega is a bar & grill serving American cuisine with an eclectic menu. Prices range from $20-$60, and it opens for dinner starting at 4:30 PM. Alcohol is served.",
-        "website": "https://www.google.com/maps/place/The+Restaurant+%26+Bar+at+The+Norumbega/@44.1973794,-69.0705796,8532m/data=!3m1!1e3!4m10!1m2!2m1!1srestaurants+with+reservations!3m6!1s0x4cadd7b5f0c2bb53:0xeb9a8947140cc7f2!8m2!3d44.2178603!4d-69.0566426!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaGiIYcmVzdGF1cmFudHMgcmVzZXJ2YXRpb25zkgENYmFyX2FuZF9ncmlsbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSeWJuWmhVMnhSUlJBQuABAPoBBAgjECU!16s%2Fg%2F11v3j_zdbc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.05632482453333,
-          44.21923424629046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "The Restaurant & Bar at The Norumbega Camden ME",
-        "icon": "utensils",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "",
-        "detail": "",
-        "website": "https://www.google.com/maps/place/The+Restaurant+%26+Bar+at+The+Norumbega/@44.2139263,-69.0832574,11912m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadd8093b8682c5:0x545acfe2a5130197!2sCamden,+ME!3b1!8m2!3d44.2097928!4d-69.0647838!16zL20vMDExeDIy!3m5!1s0x4cadd7b5f0c2bb53:0xeb9a8947140cc7f2!8m2!3d44.2178603!4d-69.0566426!16s%2Fg%2F11v3j_zdbc?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.05672762886391,
-          44.21803236252943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "The Rooftop at Pelham House Resort Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -21835,7 +21795,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "The View\n\n\ud83d\udccd 16 Bay View St, Camden, ME (rooftop of the 16 Bay View hotel)\n\nAn open-air rooftop bar and restaurant with over 2,000 sq ft of genuinely cinematic views over Camden Harbor and the Camden Hills \u2014 the setting is the main draw. Menu is a small-plates/shareable format built around fresh, locally sourced ingredients: ceviche, grilled broccolini, cauliflower steak. Rated 4.2 on Tripadvisor (#21 of 41 Camden restaurants) \u2014 reads more as a cocktail lounge with elevated food than a full dinner-house.\n\nMust Order\n- Grilled shrimp\n- Ceviche\n- A cocktail \u2014 the drinks list is a real focus here, not an afterthought\n\nTips\n- Seasonal only \u2014 reopens for the season around June 1; confirm it's open before planning around it.\n- Go for sunset \u2014 the view is the whole point.\n- Best treated as a drinks-and-shared-plates stop, not a full sit-down dinner.",
         "website": "https://www.google.com/maps/place/The+View/@44.2087599,-69.0653899,220m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd72658fd758b:0x53888135c362af34!8m2!3d44.2093407!4d-69.0639707!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUnlOMDkxYUZOQkVBReABAPoBBAhLEEc!16s%2Fg%2F11f7b3m32w?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -21855,7 +21815,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "The Waterfront Restaurant\n\n\ud83d\udccd 48 Bay View St, Camden, ME\n\nA long-established, high-volume harborfront restaurant \u2014 3,885 reviews on Restaurant Guru, 1,830 on Tripadvisor (4.1/5, #6 of 36 Camden restaurants), which for a town this size signals a real local institution rather than a passing trend. New England clam chowder made from a 45-year-old recipe, plus crab cakes, lobster rolls, and haddock tacos.\n\nMust Order\n- New England clam chowder (the 45-year-old house recipe)\n- Crab and artichoke fondue\n- Crab cakes\n- Key lime pie or the peachy lime pie for dessert\n\nTips\n- No reservations taken \u2014 walk in, and expect a wait at peak times given the volume of reviews/popularity.\n- Lunch 11:30am\u20134:30pm, dinner 5pm\u20138pm.\n- Good gluten-free, vegan, and vegetarian coverage.",
         "website": "https://www.google.com/maps/place/The+Waterfront+Restaurant/@44.2085492,-69.0648416,1144m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadd8093b8682c5:0x545acfe2a5130197!2sCamden,+ME!3b1!8m2!3d44.2097928!4d-69.0647838!16zL20vMDExeDIy!3m5!1s0x4cadd70e990224ad:0xbeee23d3285bc557!8m2!3d44.2085054!4d-69.0628735!16s%2Fg%2F1ty73w59?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -22540,15 +22500,15 @@
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
-        "description": "Easy-to-miss roadside stand just past Mt. Battie heading east with excellent lobster rolls and grilled shrimp\u2014specifically flagged as a hidden gem by longtime visitors.",
+        "description": "Roadside takeout stand on Belfast Road (Route 1) north of downtown Camden \u2014 fish and chips, fried clams, lobster rolls, and grilled shrimp; a small, lightly-reviewed but well-liked local spot.",
         "start_date_time": "",
-        "detail": "U.S. Route 1 Takeout\n\n\ud83d\udccd U.S. Route 1 (past Mt. Battie), Camden, ME\n\nAn easy-to-miss roadside stand just past Mt. Battie heading east, serving excellent lobster rolls and grilled shrimp. Specifically flagged by longtime visitors as a hidden gem for quality seafood without the tourist-trap pricing.\n\nTips\n- Easy to drive past\u2014watch for signage\n- Excellent lobster rolls\n- Grilled shrimp specialty\n- Quick, casual takeout service\n- Budget-friendly pricing\n- Locals' favorite for quick seafood"
+        "detail": "U.S. Route 1 Takeout\n\n\ud83d\udccd 254 Belfast Rd, Camden, ME\n\nA small roadside takeout stand on Belfast Road (Route 1) heading north out of town. Lightly reviewed (a handful of reviews, 3.8/5 on Tripadvisor) but the reviews that exist are genuinely enthusiastic \u2014 \"tasty food cooked fresh and served with a smile,\" fish and chips and fried clams singled out, lobster rolls and grilled shrimp called \"fantastic.\" Reads as an under-the-radar find rather than a well-known local favorite; worth trying with reasonable expectations given the small review sample.\n\nTips\n- Easy to drive past \u2014 watch for signage on Belfast Road.\n- Note the corrected coordinates above \u2014 this was previously mis-pinned several miles away.\n- Good option if you're heading toward Lincolnville/Belfast and want a quick seafood stop en route."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.0298,
-          44.2095
+          -69.048565,
+          44.2282641
         ]
       }
     },
@@ -23127,7 +23087,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Vintage Room\n\n\ud83d\udccd 16 Bay View St, Camden, ME (inside the 16 Bay View hotel)\n\nA moody, low-lit craft cocktail bar and eatery tucked inside the 16 Bay View hotel \u2014 equal parts cocktail bar, late-night lounge, and restaurant, easy to stumble past if you don't know it's there. The menu leans shareable: burgers, arancini, crab tostadas, and cheese boards, with global influences (Southeast Asian, Mediterranean) mixed into American classics. Rated 4.6 on Restaurant Guru (146 reviews).\n\nMust Order\n- \"Not Just a Burger\" \u2014 the standout dish reviewers keep talking about days later\n- Crab tostadas\n- Arancini\n- A cocktail \u2014 the list rotates quarterly, and even the zero-proof options are treated seriously\n\nTips\n- Happy hour is specifically called out as worth catching.\n- Good pick for a late-evening drink-and-small-plates stop rather than a full sit-down dinner.\n- Reserve ahead: (207) 706-7990 or 844-213-7990.",
         "website": "https://www.google.com/maps/place/Vintage+Room/@44.2087599,-69.0653899,220m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78fb131ad3d:0xe291f788e16eee74!8m2!3d44.2091541!4d-69.0640288!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUlVjV1JwYkRSM1JSQULgAQD6AQQIWhBM!16s%2Fg%2F11t78svj5y?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -24026,7 +23986,7 @@
         "vault_type": "Attraction",
         "description": "Camden Harbor is home to a fleet of historic windjammer schooners (Mary Day and others) offering everything from short afternoon sails to multi-night cruises around Penobscot Bay. One of the classic Camden experiences \u2014 the Windjammer Festival takes over the harbor every Labor Day weekend.",
         "start_date_time": "",
-        "detail": "Windjammer Cruises\n\n\ud83d\udccd Camden Harbor, Camden ME\n\nCamden Harbor is home to a fleet of historic windjammer schooners (Mary Day and others) offering everything from short afternoon sails to multi-night cruises around Penobscot Bay. One of the classic Camden experiences \u2014 the Windjammer Festival takes over the harbor every Labor Day weekend.\n\nTips\n- Options range from a 2-3 hour afternoon sail to multi-night cruises \u2014 worth deciding how much time you want to give it before booking.\n- Book ahead in peak season, especially for anything longer than a day sail.\n- A relaxed, non-strenuous way to see the coastline if you want a break from hiking."
+        "detail": "Windjammer Cruises\n\n\ud83d\udccd Bayview Landing, Camden Harbor, ME\n\nCamden Harbor is home to a fleet of historic windjammer schooners offering everything from 2-3 hour day sails to multi-night cruises around Penobscot Bay \u2014 considered one of the best cruising bays in the world, with uninhabited islands, wildlife, and coastal mountain views. Day sails typically depart Bayview Landing and pass right by Curtis Island Light on the way out. Reviews consistently call it one of the best things to do in Camden, with crews that welcome passengers helping raise sails or take a turn at the wheel. One of the classic Camden experiences \u2014 the Windjammer Festival takes over the harbor every Labor Day weekend.\n\nMust consider\n- Schooner Olad \u2014 a fully restored 1927 classic yacht, offers daily day sails plus custom half/full-day charters.\n- Schooner Appledore II \u2014 an 86-foot traditional windjammer running day sails, sunset sails, and snorkel sails.\n- Mary Day and other multi-night windjammers \u2014 for a longer, live-aboard Penobscot Bay experience.\n\nTips\n- Decide time commitment first: a 2-3 hour afternoon/sunset sail vs. a multi-night live-aboard cruise are very different trips \u2014 book accordingly.\n- Book ahead in peak season, especially for anything longer than a day sail.\n- Bring a water-resistant jacket \u2014 it's windy and cool on the water even on warm days.\n- A relaxed, non-strenuous way to see the coastline if you want a break from hiking."
       },
       "geometry": {
         "type": "Point",
@@ -24104,7 +24064,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Winona's\n\n\ud83d\udccd 31 Elm St, Camden, ME\n\nA tiny, 20-seat gem run by owners Hannah Adams (wine) and chef Devin Dearden (kitchen) \u2014 a bohemian-modern slow-food experience built around a tight, six-dish micro-seasonal menu that changes every two weeks. Earned 4 stars from the Portland Press Herald for \"marvelous micro-seasonal food.\" Rated 4.5 on Tripadvisor. Very close to Mosaic on the same street \u2014 easy to conflate, but a distinct, much smaller, more ambitious kitchen.\n\nMust Order\n- Whatever's currently on the six-dish seasonal menu \u2014 past standouts include halibut crudo with cherry-lime ponzu, sumac-cured salmon, and cod en papillote\n- The sea-salted fudge \u2014 the one fixed dessert on an otherwise fully rotating menu\n\nTips\n- Only 20 seats \u2014 reserve well ahead, this is not a walk-in spot.\n- The menu is genuinely different every two weeks, so don't go in expecting a specific dish to still be there.\n- Trust the wine pairings \u2014 Hannah's pairings are specifically called out as a highlight.\n- Reservation deadline noted at 2026-06-30 in this note's records \u2014 confirm current booking status.",
         "website": "https://www.google.com/maps/place/Winona's/@44.2090611,-69.0674547,246m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70079fe6581:0xa69955b2425ef962!8m2!3d44.2091229!4d-69.065945!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnRXZGs1RVFrSlZiSEJtV1ROR1lVeFdSbWhqVldNMFVtcGtlbVF3UlJBQuABAPoBBAgzEEs!16s%2Fg%2F11lmkkcw6v?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -24865,7 +24825,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-06T18:00:00",
-        "detail": "Time: 2026-08-06T18:00:00",
+        "detail": "Time: 2026-08-06T18:00:00\n\nAster & Rose\n\n\ud83d\udccd 581 Youngtown Rd, Lincolnville, ME (at the Youngtown Inn \u2014 a short drive from downtown Camden, not in Camden itself)\n\nThe top-rated restaurant in Lincolnville \u2014 4.8 on Restaurant Guru across 477 reviews, ranked #1 of 15 Lincolnville restaurants. Set in a beautiful old farmhouse at the historic Youngtown Inn, just minutes from downtown Camden but a genuinely different, quieter countryside setting with Camden Hills views. Locally sourced, seasonal, creatively prepared cuisine with attentive service and a strong wine/cocktail list \u2014 a cozy, romantic atmosphere.\n\nMust Order\n- Whatever's featured seasonally \u2014 the kitchen is built around what's fresh, not a fixed menu\n\nTips\n- Open Wednesday\u2013Saturday, dinner only, 5pm\u20139pm.\n- Book via Tock: exploretock.com/asterrose.\n- Worth the short drive from Camden proper \u2014 it reads as a special-occasion destination, not a quick stop.",
         "website": "https://www.google.com/maps/place/Aster+%26+Rose+Restaurant/@44.2691958,-69.1002327,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cae775eb918804b:0x6d07c0c2faed1ed4!8m2!3d44.269192!4d-69.0976578!16s%2Fg%2F11swk7hf2q?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -24905,7 +24865,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-10T18:30:00",
-        "detail": "Time: 2026-08-10T18:30:00",
+        "detail": "Time: 2026-08-10T18:30:00\n\nCafe Louis on the Costa Media\n\n\ud83d\udccd 50 Elm St, Camden, ME\n\nA small, family-owned restaurant inspired by chef Evan Richardson's grandparents, serving Costa Rican and Caribbean food \u2014 genuinely distinctive for Midcoast Maine, where this cuisine is otherwise hard to find. Reviewers single out the chicken as \"hands down the best chicken we have ever eaten,\" with smoky flavor and crispy skin.\n\nMust Order\n- Costa Rican-style chicken \u2014 the standout dish by a wide margin\n- Radicchio salad\n- Calamari\n- Mussels\n\nTips\n- Hours are irregular \u2014 Sun\u2013Tue 3pm\u20139pm, closed Wed\u2013Thu, open Fri; happy hour 3\u20135pm, dinner 5pm\u2013close. Confirm current hours before going, since this schedule is unusual.\n- Reservations recommended at (207) 230-8424.\n- A genuine change of pace from the seafood-heavy Camden dining scene.",
         "website": "https://www.google.com/maps/place/Cafe+Louis+-+Costa+Media/@44.2082064,-69.0698581,576m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd7deb7ed5a19:0x6a4b739c53f5fdd2!8m2!3d44.2081533!4d-69.0666541!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXhibUZmYUdsQlJSQULgAQD6AQQIHhA9!16s%2Fg%2F11y1qxd_kp?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -24945,7 +24905,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-11T19:00:00",
-        "detail": "Time: 2026-08-11T19:00:00",
+        "detail": "Time: 2026-08-11T19:00:00\n\nFranny's Bistro \u2014 Aug 11 visit\n\n\ud83d\udccd 55 Chestnut St, Camden, ME\n\nCamden's #1-ranked restaurant on Tripadvisor (4.7/5, out of 41) \u2014 a real distinction, not a marginal edge. Fresh, local-ingredient-driven menu: shrimp dumplings over cucumber noodles, standout mussels and halibut specials, and \"Kraken\" (balsamic calamari) as a regular favorite. Warm, attentive service in an inviting room.\n\nMust Order\n- Shrimp dumplings over cucumber noodles\n- Kraken (calamari in balsamic)\n- Mussels or halibut, whichever is featured as the day's special\n- Cr\u00e8me br\u00fbl\u00e9e for dessert\n\nTips\n- Open Wednesday\u2013Saturday, 5pm\u20138pm only.\n- Walk-ins accepted but rarely successful in peak season \u2014 this reservation is worth protecting.\n- See the main Franny's Bistro note for the fuller writeup; this note tracks the Aug 11 visit specifically.\n\nReservation confirmation (Aug 11)",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -24965,7 +24925,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-05T18:45:00",
-        "detail": "Time: 2026-08-05T18:45:00\n\nDay: `=dateformat(this.start-date-time, \"cccc\")`\n \n Day: `=dateformat(this.start-date-time, \"cccc\")`\nReservation confirmation (Aug 5)",
+        "detail": "Time: 2026-08-05T18:45:00\n\nDay: `=dateformat(this.start-date-time, \"cccc\")`\n \n Day: `=dateformat(this.start-date-time, \"cccc\")`\nReservation confirmation (Aug 5)\n\nFranny\u2019s Bistro \u2014 Camden, Maine\n\nA well-loved bistro at 55 Chestnut St, rated 4.6 from 238+ reviews. It\u2019s co-owned by Jennifer and Jack Neal, with food often described as American bistro with global influences. Expect a cozy, moody-lit space \u2014 great for date night \u2014 with reservations strongly recommended in summer.\n\nThe dish to order: Scallops & mussels over cheddar-bacon grits with creamed corn. This is the house signature \u2014 while the owners may debate their most famous dish, the consensus from customers leans toward the scallops and mussels. One diner specifically called out the combination as genius, pairing perfectly-cooked fish with creamed corn and bacon over cheddar grits.\n\nOther strong picks:\n\n- Roast chicken \u2014 tender, not dry, with a garlic-herb drizzle great for dunking focaccia, served with potatoes and broccoli rabe\n- Shrimp dumplings over cucumber noodles \u2014 a popular, fresh starter\n- Halibut special (when available) \u2014 topped with roasted peaches, fingerling potatoes, and grilled asparagus, called some of the best of a trip by one Tripadvisor reviewer\n- The Kraken (calamari in balsamic) \u2014 addictively good, a favorite among regulars\n- Steak frites \u2014 a reliable crowd-pleaser, kids and adults alike\n- Cr\u00e8me br\u00fbl\u00e9e \u2014 called a must-try for dessert\n\nGood to know: They also do a strong non-alcoholic cocktail and wine list if you\u2019re not drinking, and portions on the salads run a bit small for the price per some reviewers \u2014 better to lean into the entrees and shared apps.\n\nWant this pinned on your New England 2026 map alongside the other Midcoast spots?",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -25645,7 +25605,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-07T18:30:00",
-        "detail": "Time: 2026-08-07T18:30:00",
+        "detail": "Time: 2026-08-07T18:30:00\n\nNatalie's \u2014 Aug 7 visit\n\n\ud83d\udccd 83 Bayview St, Camden, ME (at Camden Harbour Inn)\n\nThe most decorated restaurant in Camden \u2014 the first and only Maine restaurant to win OpenTable's Diners' Choice Top 100 Best Restaurant in America award, plus AAA Four Diamond recognition, a Wine Spectator Award of Excellence, and Relais & Ch\u00e2teaux membership. French-leaning fine dining under executive chefs Chris Long and Shelby Stevens: \u00e0 la carte, or three-, seven-, or lobster-tasting menus (lobster prepared four ways). Rated 4.9 on Restaurant Guru across 2,920 reviews. A 200-label wine list with 25+ by the glass.\n\nMust Order\n- The lobster tasting menu, if you want the full experience \u2014 starts with Maine oysters, then lobster ceviche with avocado and peppers, a smoky lobster steam bun, and lobster risotto\n- Otherwise, the seven-course tasting menu for the fullest picture of the kitchen\n- Filet am\u00e9ricain or swordfish if going \u00e0 la carte\n\nTips\n- This is the splurge night of the trip \u2014 dress and budget accordingly.\n- Book well ahead; a restaurant with this reputation fills up fast in peak season.\n- Harbor-view setting inside Camden Harbour Inn \u2014 arrive a little early to enjoy the grounds.",
         "website": "https://www.google.com/maps/place/Natalie's+Restaurant+at+Camden+Harbour+Inn,+A+Member+of+Small+Luxury+Hotels/@44.2057117,-69.0626585,175m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd70fb9257661:0x31ca8e1d87368211!8m2!3d44.2057774!4d-69.0616898!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFm5ld19lbmdsYW5kX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1vrq96_r?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -25945,7 +25905,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-13T18:30:00",
-        "detail": "Time: 2026-08-13T18:30:00"
+        "detail": "Time: 2026-08-13T18:30:00\n\n\u274c Natalie's \u2014 Aug 13 visit (cancelled)\n\n\ud83d\udccd 83 Bayview St, Camden, ME (at Camden Harbour Inn)\n\nCamden's most decorated restaurant \u2014 see the Aug 7 visit note for the full writeup (OpenTable Diners' Choice Top 100, AAA Four Diamond, Relais & Ch\u00e2teaux). This second reservation was cancelled \u2014 kept here for the historical record per the vault's reservation-status convention."
       },
       "geometry": {
         "type": "Point",
@@ -26043,7 +26003,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-12T18:45:00",
-        "detail": "Time: 2026-08-12T18:45:00",
+        "detail": "Time: 2026-08-12T18:45:00\n\n\u274c Franny's Bistro \u2014 Aug 12 visit (cancelled)\n\n\ud83d\udccd 55 Chestnut St, Camden, ME\n\nCamden's #1-ranked restaurant on Tripadvisor (4.7/5). This particular reservation was cancelled \u2014 kept here for the historical record per the vault's reservation-status convention. See the main Franny's Bistro note for the full writeup, or the Aug 11 visit for the visit that's actually happening.\n\nReservation confirmation (Aug 12, cancelled)",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -26063,7 +26023,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-14T18:45:00",
-        "detail": "Time: 2026-08-14T18:45:00\n\ncancelled 07/15 \n\nReservation confirmation (Aug 14, cancelled)",
+        "detail": "Time: 2026-08-14T18:45:00\n\n\u274c Franny's Bistro \u2014 Aug 14 visit (cancelled)\n\n\ud83d\udccd 55 Chestnut St, Camden, ME\n\nCamden's #1-ranked restaurant on Tripadvisor (4.7/5). This reservation was cancelled 07/15 \u2014 kept here for the historical record per the vault's reservation-status convention. See the main Franny's Bistro note for the full writeup, or the Aug 11 visit for the visit that's actually happening.\n\ncancelled 07/15 \n\nReservation confirmation (Aug 14, cancelled)",
         "website": "https://www.google.com/maps/place/Franny's+Bistro/@44.206831,-69.0687992,831m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd78ea7eaef0b:0xb4b12681059b9564!8m2!3d44.2078696!4d-69.0640303!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVOTWxkWWNGbGFTR2hNWlZob2ExTXdSazlPVlRGc1VsZDRWbVJyUlJBQuABAPoBBAgAEEA!16s%2Fg%2F11hdnlgmjl?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
