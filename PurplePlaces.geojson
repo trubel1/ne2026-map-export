@@ -3064,6 +3064,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Owl & Turtle Bookshop Cafe Camden ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Owl & Turtle Bookshop Cafe\n\n\ud83d\udccd 33 Bay View St, Camden, ME\n\nA Camden institution since 1970 \u2014 an independent, carefully-curated bookstore that added a full caf\u00e9 under new ownership, pouring hand-brewed coffee, espresso, and chai alongside locally-baked pastries. It's also the retail home of Coffee On The Porch, a Camden-based micro-roaster that doesn't have its own walk-in shop \u2014 this is where to actually taste their beans in person. Rated 4.7 on Restaurant Guru (424 reviews), 4.8 by the local Chamber of Commerce (177 reviews), and 4.6 on Tripadvisor (#12 of 40 Camden restaurants) \u2014 consistent across all three.\n\nMust Order\n- Hand-poured coffee or espresso, specifically featuring Coffee On The Porch's Camden-roasted beans\n- Biscotti or muffins \u2014 repeatedly praised alongside the coffee\n\nTips\n- Worth stopping in even just to browse \u2014 it's a real, carefully-curated bookstore, not a coffee shop with books as decor.\n- A good rainy-day or slow-morning pick, right in the middle of downtown.\n- Friendly, unhurried service per reviews \u2014 not a grab-and-go spot.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0639736,
+          44.2088072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Owls Head General Store",
         "icon": "sandwich",
         "color": "purple",
@@ -4339,6 +4356,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Place Bakery Camden ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "The Place Bakery\n\n\ud83d\udccd 117 Elm St, Camden, ME\n\nA genuinely tiny neighborhood bakery, operating out of what used to be the owners' garage on Elm Street \u2014 small-batch, handmade baked goods built on local ingredients. Named to the New York Times' \"Best Bakeries Across the U.S. Right Now\" list, with a food reporter singling out its \"ethereally flaky croissant dough.\" Also covered by NBC Boston and the Portland Press Herald for the same recognition. Rated 4.8 on Restaurant Guru and Postcard, 5.0 on Tripadvisor.\n\nMust Order\n- Croissants \u2014 the specific dish that earned the NYT recognition\n- Cheese croissants\n- Cinnamon rolls\n- Blueberry buns\n\nTips\n- Go early \u2014 items genuinely sell out, and reviews consistently mention this.\n- Preordering online is worth checking if available, per social media tips from locals.\n- A small operation \u2014 don't expect a big seating area, this is a grab-and-go bakery.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0758644,
+          44.2021216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Salty Bite",
         "icon": "sandwich",
         "color": "purple",
@@ -4775,6 +4809,23 @@
         "coordinates": [
           -69.131394,
           44.0966822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoot Coffee Camden ME",
+        "icon": "coffee",
+        "color": "purple",
+        "detail": "Zoot Coffee\n\n\ud83d\udccd 5 Elm St, Camden, ME\n\nA cafe-roaster right downtown, roasting its own beans and preparing coffee and tea in-house. Reviewers describe a calm, welcoming atmosphere with genuine community spirit, and the cafe stands out for its dietary flexibility \u2014 almond, soy, and oat milk options plus several vegan baked treats, alongside solid gluten-free choices. Rated 4.5 on Google \u2014 Restaurant Guru shows a higher 4.8 and Tripadvisor a lower 4.2, so Google's figure is used here as the more broadly representative middle ground.\n\nMust Order\n- House-roasted coffee \u2014 the core draw\n- Ask about current gluten-free/vegan baked options, which rotate\n\nTips\n- Good option if the group has mixed dietary needs \u2014 genuinely broader accommodation than a typical coffee shop.\n- Some reviewers note prices run a bit high for coffee \u2014 go in expecting a slight premium for the quality.\n- Laid-back atmosphere suited to lingering, not just a quick grab-and-go.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0651637,
+          44.2097068
         ]
       }
     },
