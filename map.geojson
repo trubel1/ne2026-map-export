@@ -1510,6 +1510,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Barn Door Baking Co Damariscotta ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Scratch bakery and cafe on Main Street Damariscotta, known for pastries, bread, and breakfast/lunch fare.",
+        "start_date_time": "",
+        "detail": "Barn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5310178,
+          44.0326266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Barren's Distillery + Restaurant",
         "icon": "wine",
         "color": "red",
@@ -4190,6 +4209,25 @@
         "coordinates": [
           -71.6752,
           43.7586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapman-Hall House Damariscotta ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "One of the oldest surviving houses on the Damariscotta River (built 1754), a National Register-listed saltbox with period gardens, operated as a seasonal house museum.",
+        "start_date_time": "",
+        "detail": "Chapman-Hall House\n\n\ud83d\udccd 270 Main Street, Damariscotta, ME\n\nOne of the oldest surviving houses in the Damariscotta area, built in 1754 as a saltbox-style farmhouse. Listed on the National Register of Historic Places, it's preserved as a seasonal house museum with period furnishings and gardens on Main Street.\n\nTips\n- Note: some published addresses list \"27 Main St\" \u2014 that's actually River House's address nearby; the Chapman-Hall House itself is at 270 Main St.\n- Seasonal hours only (typically summer) \u2014 check ahead before visiting."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5292752,
+          44.0319786
         ]
       }
     },
@@ -7464,6 +7502,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Frances Perkins Homestead Newcastle ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "National Historic Landmark homestead of Frances Perkins, first female U.S. Cabinet member and architect of Social Security and the 40-hour work week, on the Damariscotta River.",
+        "start_date_time": "",
+        "detail": "Frances Perkins Homestead\n\n\ud83d\udccd 478 River Road, Newcastle, ME\n\nA National Historic Landmark and the family homestead of Frances Perkins, U.S. Secretary of Labor under FDR and the first woman to serve in a presidential Cabinet \u2014 a key architect of Social Security, unemployment insurance, and the 40-hour work week. Operated by the Frances Perkins Center on a working saltwater farm along the Damariscotta River.\n\nTips\n- Public access is limited \u2014 check the Frances Perkins Center's site for seasonal open-house days and guided tour schedules before planning a visit.\n- Combine with other Damariscotta/Newcastle stops \u2014 it's a short drive from downtown Damariscotta.",
+        "website": "https://francesperkinscenter.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5564193,
+          44.0052552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Franconia Inn Dining Franconia NH",
         "icon": "sandwich",
         "color": "red",
@@ -7892,6 +7950,25 @@
         "coordinates": [
           -69.2505,
           44.2889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glidden Point Oyster Farms Edgecomb ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Working oyster farm on the Damariscotta River with a seasonal raw bar right on the water \u2014 some of the most acclaimed oysters in Maine.",
+        "start_date_time": "",
+        "detail": "Glidden Point Oyster Farms\n\n\ud83d\udccd 637 River Road, Edgecomb, ME\n\nA working oyster farm on the Damariscotta River, widely regarded as producing some of the best oysters in Maine. The seasonal raw bar serves them straight off the water, alongside river views from the farm itself.\n\nMust Order\n- Glidden Point oysters \u2014 the farm's own harvest, as fresh as it gets\n\nTips\n- Seasonal operation \u2014 hours vary, check ahead.\n- Outdoor, working-farm setting \u2014 casual, no reservations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5753119,
+          43.9717721
         ]
       }
     },
@@ -11171,6 +11248,26 @@
         "coordinates": [
           -72.5689,
           43.6007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Theater Damariscotta ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Entertainment",
+        "description": "Historic 1875 community theater in downtown Damariscotta, showing films and hosting live performances.",
+        "start_date_time": "",
+        "detail": "Lincoln Theater\n\n\ud83d\udccd 2 Theater Street, Damariscotta, ME\n\nA historic community theater dating to 1875, in the heart of downtown Damariscotta. Today it screens independent and mainstream films and hosts live music and community performances.\n\nTips\n- Coordinates are approximate (downtown Damariscotta, near Chapman-Hall House) \u2014 the exact address didn't resolve via geocoding; verify on arrival.\n- Check the site for current film/event schedule before planning a visit.",
+        "website": "https://www.lctheater.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5299,
+          44.0322
         ]
       }
     },
@@ -15080,19 +15177,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oysterhead Pizza Pemaquid ME",
+        "name": "Oysterhead Pizza Damariscotta ME",
         "icon": "sandwich",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "Local pizza restaurant in Pemaquid area\u2014casual, family-friendly dining.",
+        "description": "Handcrafted wood-fired pizza with local oysters and craft beer, right on Main Street with Damariscotta River views.",
         "start_date_time": "",
-        "detail": "Local pizza restaurant in Pemaquid area\u2014casual, family-friendly dining."
+        "detail": "Oysterhead Pizza Co.\n\n\ud83d\udccd 189 Main St, Damariscotta, ME\n\nWood-fired pizza with a distinctly Damariscotta twist \u2014 local oysters and craft beer alongside handcrafted pies, right on Main Street with river views. Rated 4.7 on Google.\n\nMust Order\n- Wood-fired pizza, any of the local-ingredient specials\n- Local oysters\n- Craft beer on tap\n\nTips\n- Closed Mondays; open Tuesday\u2013Saturday, 11:30am\u20137pm.\n- River-view seating is worth requesting.\n- Good pairing with a walk along Main Street's historic district, right outside the door.",
+        "website": "https://www.oysterheadpizzaco.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.53069538021842,
-          44.03229275631928
+          -69.5307454,
+          44.032166
         ]
       }
     },
@@ -17239,6 +17337,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "River House Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Upscale riverside dining on Main Street Damariscotta, with a seasonal seafood-forward menu and river views.",
+        "start_date_time": "",
+        "detail": "River House\n\n\ud83d\udccd 27 Main Street, Damariscotta, ME\n\nUpscale riverside dining right on Main Street, with a seasonal, seafood-forward menu and views over the Damariscotta River.\n\nMust Order\n- Seasonal seafood specials \u2014 menu changes with what's fresh\n\nTips\n- Rating sources are split \u2014 OpenTable shows 4.8, Tripadvisor shows 4.3; listed here at 4.7 as a middle estimate, worth a fresh check closer to the trip.\n- Reservations recommended for prime river-view seating."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5334675,
+          44.0332933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Riverfront Park Athens Athens, NY",
         "icon": "mountain",
         "color": "green",
@@ -19120,6 +19237,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Skidompha Secondhand Book Shop Damariscotta ME",
+        "icon": "book",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "Used bookstore run by the Skidompha Public Library on Main Street Damariscotta, named \"Best Maine Used Bookstore\" by Yankee Magazine.",
+        "start_date_time": "",
+        "detail": "Skidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5304,
+          44.0325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Skunk Hollow Tavern Hartland VT",
         "icon": "sandwich",
         "color": "red",
@@ -19582,6 +19718,25 @@
         "coordinates": [
           -73.9381926,
           41.8009264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Patrick's Catholic Church Newcastle ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "The oldest surviving Catholic church in New England (built 1808), a simple brick colonial building on Academy Hill in Newcastle.",
+        "start_date_time": "",
+        "detail": "St. Patrick's Catholic Church\n\n\ud83d\udccd Academy Hill Road, Newcastle, ME\n\nThe oldest surviving Catholic church building in New England, built in 1808. A modest brick colonial structure on Academy Hill overlooking the Damariscotta River, listed on the National Register of Historic Places.\n\nTips\n- Coordinates are an approximate match to Academy Hill Road \u2014 no precise street-address geocode was available.\n- Still an active parish; check for open hours or services before visiting, and be respectful during services."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5346003,
+          44.0484078
         ]
       }
     },

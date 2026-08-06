@@ -1857,6 +1857,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Glidden Point Oyster Farms Edgecomb ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "Glidden Point Oyster Farms\n\n\ud83d\udccd 637 River Road, Edgecomb, ME\n\nA working oyster farm on the Damariscotta River, widely regarded as producing some of the best oysters in Maine. The seasonal raw bar serves them straight off the water, alongside river views from the farm itself.\n\nMust Order\n- Glidden Point oysters \u2014 the farm's own harvest, as fresh as it gets\n\nTips\n- Seasonal operation \u2014 hours vary, check ahead.\n- Outdoor, working-farm setting \u2014 casual, no reservations.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5753119,
+          43.9717721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Good Wolf Northeast Harbor ME",
         "icon": "sandwich",
         "color": "purple",
@@ -3132,6 +3149,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Oysterhead Pizza Damariscotta ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Oysterhead Pizza Co.\n\n\ud83d\udccd 189 Main St, Damariscotta, ME\n\nWood-fired pizza with a distinctly Damariscotta twist \u2014 local oysters and craft beer alongside handcrafted pies, right on Main Street with river views. Rated 4.7 on Google.\n\nMust Order\n- Wood-fired pizza, any of the local-ingredient specials\n- Local oysters\n- Craft beer on tap\n\nTips\n- Closed Mondays; open Tuesday\u2013Saturday, 11:30am\u20137pm.\n- River-view seating is worth requesting.\n- Good pairing with a walk along Main Street's historic district, right outside the door.",
+        "website": "https://www.oysterheadpizzaco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5307454,
+          44.032166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Panacea Wiscasset ME",
         "icon": "utensils",
         "color": "purple",
@@ -3483,6 +3517,23 @@
         "coordinates": [
           -80.05921383648432,
           26.52703028645771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River House Damariscotta ME",
+        "icon": "utensils",
+        "color": "purple",
+        "detail": "River House\n\n\ud83d\udccd 27 Main Street, Damariscotta, ME\n\nUpscale riverside dining right on Main Street, with a seasonal, seafood-forward menu and views over the Damariscotta River.\n\nMust Order\n- Seasonal seafood specials \u2014 menu changes with what's fresh\n\nTips\n- Rating sources are split \u2014 OpenTable shows 4.8, Tripadvisor shows 4.3; listed here at 4.7 as a middle estimate, worth a fresh check closer to the trip.\n- Reservations recommended for prime river-view seating.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5334675,
+          44.0332933
         ]
       }
     },
