@@ -558,8 +558,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Upscale northern Spanish restaurant (paella, tapas) from a chef with El Bulli experience \u2014 doubles as a bookshop, with a curated lending library on-site. Cozy and charming, on the pricier side.",
-        "start_date_time": "2026-08-07T16:00:00",
-        "detail": "Time: 2026-08-07T16:00:00\n\nAnn's Book Bistro\n\n\ud83d\udccd 17 Back Meadow Rd, Damariscotta, ME\n\nFull name is Ann's Book Bistro \u2014 a northern Spanish restaurant built around authentic paella, run by Chef Chris Padil, who has El Bulli (Barcelona) experience. The space doubles as a bookshop, with a curated collection of books available to browse or borrow \u2014 a genuinely distinctive touch, not a gimmick. Menu runs comfort food alongside small plates, with Monday pasta nights (salad, soup, up to 5 pasta small plates for $19). Reviews are overwhelmingly positive on execution and atmosphere, with some flagging the cost as high relative to portion size.\n\nMust Order\n- Paella \u2014 the signature dish\n- Salmon crudo\n- Burrata\n- Seafood stew (Cazuela)\n- Argentinian Churrasco\n\nTips\n- Closed Sunday\u2013Tuesday; open Wednesday\u2013Saturday, 11am\u20132pm and 4pm\u20139pm. Happy hour Wed\u2013Fri, 4pm\u20136pm.\n- Monday pasta night ($19 for soup, salad, and multiple pasta small plates) is a genuinely different, cheaper way to experience the kitchen \u2014 but note it falls on a day the regular menu/hours above don't apply, so confirm this specifically.\n- Reservations recommended \u2014 small, popular room.\n- Budget for higher-than-average pricing relative to portions; go in expecting a special-occasion meal, not a bargain.",
+        "start_date_time": "2026-08-10T16:00:00",
+        "detail": "Time: 2026-08-10T16:00:00\n\nAnn's Book Bistro\n\n\ud83d\udccd 17 Back Meadow Rd, Damariscotta, ME\n\nFull name is Ann's Book Bistro \u2014 a northern Spanish restaurant built around authentic paella, run by Chef Chris Padil, who has El Bulli (Barcelona) experience. The space doubles as a bookshop, with a curated collection of books available to browse or borrow \u2014 a genuinely distinctive touch, not a gimmick. Menu runs comfort food alongside small plates, with Monday pasta nights (salad, soup, up to 5 pasta small plates for $19). Reviews are overwhelmingly positive on execution and atmosphere, with some flagging the cost as high relative to portion size.\n\nMust Order\n- Paella \u2014 the signature dish\n- Salmon crudo\n- Burrata\n- Seafood stew (Cazuela)\n- Argentinian Churrasco\n\nTips\n- Closed Sunday\u2013Tuesday; open Wednesday\u2013Saturday, 11am\u20132pm and 4pm\u20139pm. Happy hour Wed\u2013Fri, 4pm\u20136pm.\n- Monday pasta night ($19 for soup, salad, and multiple pasta small plates) is a genuinely different, cheaper way to experience the kitchen \u2014 but note it falls on a day the regular menu/hours above don't apply, so confirm this specifically.\n- Reservations recommended \u2014 small, popular room.\n- Budget for higher-than-average pricing relative to portions; go in expecting a special-occasion meal, not a bargain.",
         "website": "https://annsbookbistro.me/"
       },
       "geometry": {
@@ -1515,8 +1515,8 @@
         "color": "red",
         "vault_type": "Restaurant",
         "description": "Scratch bakery and cafe on Main Street Damariscotta, known for pastries, bread, and breakfast/lunch fare.",
-        "start_date_time": "2026-08-07T16:00:00",
-        "detail": "Time: 2026-08-07T16:00:00\n\nBarn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
+        "start_date_time": "2026-08-10T16:00:00",
+        "detail": "Time: 2026-08-10T16:00:00\n\nBarn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
       },
       "geometry": {
         "type": "Point",
@@ -7980,8 +7980,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Working oyster farm on the Damariscotta River with a seasonal raw bar right on the water \u2014 some of the most acclaimed oysters in Maine.",
-        "start_date_time": "",
-        "detail": "Glidden Point Oyster Farms\n\n\ud83d\udccd 637 River Road, Edgecomb, ME\n\nA working oyster farm on the Damariscotta River, widely regarded as producing some of the best oysters in Maine. The seasonal raw bar serves them straight off the water, alongside river views from the farm itself.\n\nMust Order\n- Glidden Point oysters \u2014 the farm's own harvest, as fresh as it gets\n\nTips\n- Seasonal operation \u2014 hours vary, check ahead.\n- Outdoor, working-farm setting \u2014 casual, no reservations."
+        "start_date_time": "2026-08-10T13:30:00",
+        "detail": "Time: 2026-08-10T13:30:00\n\nGlidden Point Oyster Farms\n\n\ud83d\udccd 637 River Road, Edgecomb, ME\n\nA working oyster farm on the Damariscotta River, widely regarded as producing some of the best oysters in Maine. The seasonal raw bar serves them straight off the water, alongside river views from the farm itself.\n\nMust Order\n- Glidden Point oysters \u2014 the farm's own harvest, as fresh as it gets\n\nTips\n- Seasonal operation \u2014 hours vary, check ahead.\n- Outdoor, working-farm setting \u2014 casual, no reservations."
       },
       "geometry": {
         "type": "Point",
@@ -13418,8 +13418,8 @@
         "color": "green",
         "vault_type": "Museum",
         "description": "Reconstructed Federal-style mansion of Revolutionary War Gen. Henry Knox, with period tours.",
-        "start_date_time": "",
-        "detail": "Montpelier (Knox Mansion Museum)\n\n\ud83d\udccd Thomaston ME\n\nReconstructed Federal-style mansion of Revolutionary War Gen. Henry Knox, with period tours.\n\nTips\n- Guided tours run seasonally \u2014 check hours before visiting."
+        "start_date_time": "2026-08-10T10:00:00",
+        "detail": "Time: 2026-08-10T10:00:00\n\nMontpelier (Knox Mansion Museum)\n\n\ud83d\udccd Thomaston ME\n\nReconstructed Federal-style mansion of Revolutionary War Gen. Henry Knox, with period tours.\n\nTips\n- Guided tours run seasonally \u2014 check hours before visiting."
       },
       "geometry": {
         "type": "Point",
@@ -15240,8 +15240,8 @@
         "color": "red",
         "vault_type": "Brewery",
         "description": "Farmhouse tasting room down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating and Belgian-style farmhouse ales brewed on-site.",
-        "start_date_time": "2026-08-07T17:00:00",
-        "detail": "Time: 2026-08-07T17:00:00\n\nOxbow Brewing Company\n\n\ud83d\udccd Rural Newcastle, ME (dirt driveway location)\n\nA farmhouse tasting room tucked down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating. Brews Belgian-style farmhouse ales on-site\u2014a genuine farm brewery experience without the tourist polish.\n\nTips\n- Rural location, down dirt driveway\n- Farmhouse brewery atmosphere\n- Pond-side seating\n- Belgian-style farmhouse ales\n- Very low-key, locals' spot\n- Worth seeking out for authentic brewery experience"
+        "start_date_time": "2026-08-10T17:00:00",
+        "detail": "Time: 2026-08-10T17:00:00\n\nOxbow Brewing Company\n\n\ud83d\udccd Rural Newcastle, ME (dirt driveway location)\n\nA farmhouse tasting room tucked down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating. Brews Belgian-style farmhouse ales on-site\u2014a genuine farm brewery experience without the tourist polish.\n\nTips\n- Rural location, down dirt driveway\n- Farmhouse brewery atmosphere\n- Pond-side seating\n- Belgian-style farmhouse ales\n- Very low-key, locals' spot\n- Worth seeking out for authentic brewery experience"
       },
       "geometry": {
         "type": "Point",
@@ -15438,8 +15438,8 @@
         "color": "gray",
         "vault_type": "Parking",
         "description": "First National Bank's public lot behind Water St/Cross St \u2014 the largest central public parking near Main Street Damariscotta (~60 spaces), a short walk to shops and restaurants.",
-        "start_date_time": "2026-08-07T15:45:00",
-        "detail": "Time: 2026-08-07T15:45:00\n\nParking \u2014 Downtown Damariscotta\n\n\ud83d\udccd Cross St / Water St, Damariscotta, ME (First National Bank lot)\n\nThe largest public lot near Main Street \u2014 about 60 spaces, a short walk to Main Street shops and restaurants. A smaller public lot also exists at Bangor Savings Bank (100 Main St, ~15 spaces) if this one is full.\n\nTips\n- Best central option for a Main Street walk \u2014 everything (Skidompha Bookshop, Ann's Book Bistro, Barn Door Baking Co, King Eider's Pub) is within a few blocks.\n- Damariscotta is far less crowded than Pemaquid Point \u2014 parking pressure here is mild except during the summer farmers market."
+        "start_date_time": "2026-08-10T11:00:00",
+        "detail": "Time: 2026-08-10T11:00:00\n\nParking \u2014 Downtown Damariscotta\n\n\ud83d\udccd Cross St / Water St, Damariscotta, ME (First National Bank lot)\n\nThe largest public lot near Main Street \u2014 about 60 spaces, a short walk to Main Street shops and restaurants. A smaller public lot also exists at Bangor Savings Bank (100 Main St, ~15 spaces) if this one is full.\n\nTips\n- Best central option for a Main Street walk \u2014 everything (Skidompha Bookshop, Ann's Book Bistro, Barn Door Baking Co, King Eider's Pub) is within a few blocks.\n- Damariscotta is far less crowded than Pemaquid Point \u2014 parking pressure here is mild except during the summer farmers market."
       },
       "geometry": {
         "type": "Point",
@@ -15457,8 +15457,8 @@
         "color": "gray",
         "vault_type": "Parking",
         "description": "Free municipal lots on both sides of Main St/Route 1 \u2014 Railroad Ave (newer, paved, lit) coming from the north, Water St (right by Red's Eats) coming from the south.",
-        "start_date_time": "2026-08-05T11:00:00",
-        "detail": "Time: 2026-08-05T11:00:00\n\nParking \u2014 Downtown Wiscasset\n\n\ud83d\udccd Railroad Ave, Wiscasset, ME (primary) / Water St lot near Red's Eats (secondary)\n\nWiscasset is a classic Route 1 bottleneck in summer \u2014 Main Street itself is the highway, and the line for Red's Eats can back up traffic through town. Parking is free and more plentiful than the traffic makes it look; the town has multiple municipal lots on both sides of Main St, with signage pointing to each. Two practical anchors:\n\n- Coming from the north (Bath/Camden direction): turn onto Railroad Avenue \u2014 a newer, paved, lit municipal lot right on the water, with a short walk back along the waterfront into the village.\n- Coming from the south (Portland/Brunswick direction): turn onto Water Street \u2014 a lot plus plentiful on-street parking just past it, steps from Red's Eats and the Main St shops.\n- Additional municipal lots exist on Middle Street and at the Municipal Building if both of the above are full.\n\nTips\n- Don't try to street-park right on Main St/Route 1 during midday in summer \u2014 that's the traffic bottleneck itself, not a parking strategy. Use one of the side-street lots instead.\n- If Red's Eats is the main draw, the Water St lot is the shortest walk.\n- Overnight on-street parking is banned town-wide Nov 15\u2013Apr 15 \u2014 not relevant for an Aug/Sep visit, but worth knowing if plans shift into shoulder season."
+        "start_date_time": "2026-08-10T15:00:00",
+        "detail": "Time: 2026-08-10T15:00:00\n\nParking \u2014 Downtown Wiscasset\n\n\ud83d\udccd Railroad Ave, Wiscasset, ME (primary) / Water St lot near Red's Eats (secondary)\n\nWiscasset is a classic Route 1 bottleneck in summer \u2014 Main Street itself is the highway, and the line for Red's Eats can back up traffic through town. Parking is free and more plentiful than the traffic makes it look; the town has multiple municipal lots on both sides of Main St, with signage pointing to each. Two practical anchors:\n\n- Coming from the north (Bath/Camden direction): turn onto Railroad Avenue \u2014 a newer, paved, lit municipal lot right on the water, with a short walk back along the waterfront into the village.\n- Coming from the south (Portland/Brunswick direction): turn onto Water Street \u2014 a lot plus plentiful on-street parking just past it, steps from Red's Eats and the Main St shops.\n- Additional municipal lots exist on Middle Street and at the Municipal Building if both of the above are full.\n\nTips\n- Don't try to street-park right on Main St/Route 1 during midday in summer \u2014 that's the traffic bottleneck itself, not a parking strategy. Use one of the side-street lots instead.\n- If Red's Eats is the main draw, the Water St lot is the shortest walk.\n- Overnight on-street parking is banned town-wide Nov 15\u2013Apr 15 \u2014 not relevant for an Aug/Sep visit, but worth knowing if plans shift into shoulder season."
       },
       "geometry": {
         "type": "Point",
@@ -17689,8 +17689,8 @@
         "color": "purple",
         "vault_type": "Attraction",
         "description": "Walk 7/8 of a mile out into Rockland Harbor on a narrow granite block breakwater \u2014 completely exposed to the bay, with lobster boats and schooners passing on either side \u2014 to reach a 1902 lighthouse still in active service. One of the most distinctive walking experiences in coastal Maine. The return walk faces the Camden Hills.",
-        "start_date_time": "",
-        "detail": "Rockland Breakwater Lighthouse\n\n\ud83d\udccd Rockland ME\n\nWalk 7/8 of a mile out into Rockland Harbor on a narrow granite block breakwater \u2014 completely exposed to the bay, with lobster boats and schooners passing on either side \u2014 to reach a 1902 lighthouse still in active service. One of the most distinctive walking experiences in coastal Maine. The return walk faces the Camden Hills.\n\nTips\n- Allow 45\u201360 minutes for the round trip.\n- The breakwater is unprotected \u2014 wear layers even in August.\n- The lighthouse keeper's house is occasionally open for tours on weekend afternoons.\n- Park at Samoset Resort or Breakwater Park at the end of Samoset Road."
+        "start_date_time": "2026-08-10T09:00:00",
+        "detail": "Time: 2026-08-10T09:00:00\n\nRockland Breakwater Lighthouse\n\n\ud83d\udccd Rockland ME\n\nWalk 7/8 of a mile out into Rockland Harbor on a narrow granite block breakwater \u2014 completely exposed to the bay, with lobster boats and schooners passing on either side \u2014 to reach a 1902 lighthouse still in active service. One of the most distinctive walking experiences in coastal Maine. The return walk faces the Camden Hills.\n\nTips\n- Allow 45\u201360 minutes for the round trip.\n- The breakwater is unprotected \u2014 wear layers even in August.\n- The lighthouse keeper's house is occasionally open for tours on weekend afternoons.\n- Park at Samoset Resort or Breakwater Park at the end of Samoset Road."
       },
       "geometry": {
         "type": "Point",
@@ -19434,8 +19434,8 @@
         "color": "green",
         "vault_type": "Shop",
         "description": "Used bookstore run by the Skidompha Public Library on Main Street Damariscotta, named \"Best Maine Used Bookstore\" by Yankee Magazine.",
-        "start_date_time": "2026-08-07T16:00:00",
-        "detail": "Time: 2026-08-07T16:00:00\n\nSkidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
+        "start_date_time": "2026-08-10T16:00:00",
+        "detail": "Time: 2026-08-10T16:00:00\n\nSkidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
       },
       "geometry": {
         "type": "Point",
