@@ -86,10 +86,10 @@
         "name": "4Guys llc",
         "icon": "utensils",
         "color": "red",
-        "vault_type": "description:",
-        "description": "4Guys llc is a casual restaurant serving Mexican-inspired dishes like tacos, with a price range of $10\u201320. It is open for lunch and dinner, but does not serve alcohol.",
+        "vault_type": "\"description:",
+        "description": "",
         "start_date_time": "",
-        "detail": "4Guys llc is a casual restaurant serving Mexican-inspired dishes like tacos, with a price range of $10\u201320. It is open for lunch and dinner, but does not serve alcohol.",
+        "detail": "",
         "website": "https://www.google.com/maps/place/4Guys+llc/@44.0897852,-70.2452275,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b0dbf47cf49:0xfc59c0e575e4ba3b!8m2!3d44.1102197!4d-70.2258153!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVTU1dKWWFHdFZWRTVVVWtSS2Jsb3lVakJVZWxKaFlXeG9kMkpYWXhBQuABAPoBBQjTARA0!16s%2Fg%2F11z6pvxm0q?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -558,8 +558,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Upscale northern Spanish restaurant (paella, tapas) from a chef with El Bulli experience \u2014 doubles as a bookshop, with a curated lending library on-site. Cozy and charming, on the pricier side.",
-        "start_date_time": "",
-        "detail": "Ann's Book Bistro\n\n\ud83d\udccd 17 Back Meadow Rd, Damariscotta, ME\n\nFull name is Ann's Book Bistro \u2014 a northern Spanish restaurant built around authentic paella, run by Chef Chris Padil, who has El Bulli (Barcelona) experience. The space doubles as a bookshop, with a curated collection of books available to browse or borrow \u2014 a genuinely distinctive touch, not a gimmick. Menu runs comfort food alongside small plates, with Monday pasta nights (salad, soup, up to 5 pasta small plates for $19). Reviews are overwhelmingly positive on execution and atmosphere, with some flagging the cost as high relative to portion size.\n\nMust Order\n- Paella \u2014 the signature dish\n- Salmon crudo\n- Burrata\n- Seafood stew (Cazuela)\n- Argentinian Churrasco\n\nTips\n- Closed Sunday\u2013Tuesday; open Wednesday\u2013Saturday, 11am\u20132pm and 4pm\u20139pm. Happy hour Wed\u2013Fri, 4pm\u20136pm.\n- Monday pasta night ($19 for soup, salad, and multiple pasta small plates) is a genuinely different, cheaper way to experience the kitchen \u2014 but note it falls on a day the regular menu/hours above don't apply, so confirm this specifically.\n- Reservations recommended \u2014 small, popular room.\n- Budget for higher-than-average pricing relative to portions; go in expecting a special-occasion meal, not a bargain.",
+        "start_date_time": "2026-08-07T16:00:00",
+        "detail": "Time: 2026-08-07T16:00:00\n\nAnn's Book Bistro\n\n\ud83d\udccd 17 Back Meadow Rd, Damariscotta, ME\n\nFull name is Ann's Book Bistro \u2014 a northern Spanish restaurant built around authentic paella, run by Chef Chris Padil, who has El Bulli (Barcelona) experience. The space doubles as a bookshop, with a curated collection of books available to browse or borrow \u2014 a genuinely distinctive touch, not a gimmick. Menu runs comfort food alongside small plates, with Monday pasta nights (salad, soup, up to 5 pasta small plates for $19). Reviews are overwhelmingly positive on execution and atmosphere, with some flagging the cost as high relative to portion size.\n\nMust Order\n- Paella \u2014 the signature dish\n- Salmon crudo\n- Burrata\n- Seafood stew (Cazuela)\n- Argentinian Churrasco\n\nTips\n- Closed Sunday\u2013Tuesday; open Wednesday\u2013Saturday, 11am\u20132pm and 4pm\u20139pm. Happy hour Wed\u2013Fri, 4pm\u20136pm.\n- Monday pasta night ($19 for soup, salad, and multiple pasta small plates) is a genuinely different, cheaper way to experience the kitchen \u2014 but note it falls on a day the regular menu/hours above don't apply, so confirm this specifically.\n- Reservations recommended \u2014 small, popular room.\n- Budget for higher-than-average pricing relative to portions; go in expecting a special-occasion meal, not a bargain.",
         "website": "https://annsbookbistro.me/"
       },
       "geometry": {
@@ -732,8 +732,8 @@
         "color": "purple",
         "vault_type": "Historical",
         "description": "A stone arch bridge carrying Benner Road over the Pemaquid River near Bristol Mills \u2014 likely built by the Benner family sometime before 1800, making it one of Maine's oldest surviving stone bridges. Listed on the National Register of Historic Places in 2003.",
-        "start_date_time": "",
-        "detail": "Arch Bridge\n\n\ud83d\udccd Benner Road, Bristol Mills, Bristol, ME\n\nA small stone arch bridge carrying Benner Road over the Pemaquid River, built from field stone, roughly quarried stone, and river cobbles laid directly on bedrock. Its exact construction date is uncertain, but circumstantial evidence points to before 1800, likely built by the Benner family \u2014 making it one of Maine's oldest stone bridges. The span is just 14 feet with a total length of 21 feet, and it remains remarkably well-preserved, having needed only modest repairs since it was built. Listed on the National Register of Historic Places in 2003.\n\nTips\n- A quick, easy stop \u2014 pair with the lighthouse and harbor sights covered in Bristol, ME on a day trip from Base Camp 3 Camden."
+        "start_date_time": "2026-08-07T14:30:00",
+        "detail": "Time: 2026-08-07T14:30:00\n\nArch Bridge\n\n\ud83d\udccd Benner Road, Bristol Mills, Bristol, ME\n\nA small stone arch bridge carrying Benner Road over the Pemaquid River, built from field stone, roughly quarried stone, and river cobbles laid directly on bedrock. Its exact construction date is uncertain, but circumstantial evidence points to before 1800, likely built by the Benner family \u2014 making it one of Maine's oldest stone bridges. The span is just 14 feet with a total length of 21 feet, and it remains remarkably well-preserved, having needed only modest repairs since it was built. Listed on the National Register of Historic Places in 2003.\n\nTips\n- A quick, easy stop \u2014 pair with the lighthouse and harbor sights covered in Bristol, ME on a day trip from Base Camp 3 Camden."
       },
       "geometry": {
         "type": "Point",
@@ -1515,8 +1515,8 @@
         "color": "red",
         "vault_type": "Restaurant",
         "description": "Scratch bakery and cafe on Main Street Damariscotta, known for pastries, bread, and breakfast/lunch fare.",
-        "start_date_time": "",
-        "detail": "Barn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
+        "start_date_time": "2026-08-07T16:00:00",
+        "detail": "Time: 2026-08-07T16:00:00\n\nBarn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
       },
       "geometry": {
         "type": "Point",
@@ -4887,8 +4887,8 @@
         "color": "purple",
         "vault_type": "Historical",
         "description": "State historic site on the Pemaquid River with 17th-century archaeological remains, a small museum of artifacts, and the reconstructed Fort William Henry nearby.",
-        "start_date_time": "",
-        "detail": "Colonial Pemaquid State Historic Site\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA state historic site preserving the archaeological remains of a 17th- and 18th-century colonial settlement on the Pemaquid River, with a small on-site museum displaying artifacts found here (musket balls, coins, pottery, early hardware). The reconstructed Fort William Henry stands nearby \u2014 see Fort William Henry.\n\nTips\n- Rating in question: listed at 4.8, but independently I could only confirm Tripadvisor's figure (4.4 over 154 reviews) \u2014 Google itself tends to run noticeably higher than Tripadvisor, so 4.8 on Google is plausible, just not independently confirmed here.\n- Combine with Fort William Henry and Pemaquid Point Lighthouse for a full New Harbor colonial-history loop."
+        "start_date_time": "2026-08-07T10:15:00",
+        "detail": "Time: 2026-08-07T10:15:00\n\nColonial Pemaquid State Historic Site\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA state historic site preserving the archaeological remains of a 17th- and 18th-century colonial settlement on the Pemaquid River, with a small on-site museum displaying artifacts found here (musket balls, coins, pottery, early hardware). The reconstructed Fort William Henry stands nearby \u2014 see Fort William Henry.\n\nTips\n- Rating in question: listed at 4.8, but independently I could only confirm Tripadvisor's figure (4.4 over 154 reviews) \u2014 Google itself tends to run noticeably higher than Tripadvisor, so 4.8 on Google is plausible, just not independently confirmed here.\n- Combine with Fort William Henry and Pemaquid Point Lighthouse for a full New Harbor colonial-history loop."
       },
       "geometry": {
         "type": "Point",
@@ -7467,8 +7467,8 @@
         "color": "purple",
         "vault_type": "Attraction",
         "description": "A reconstructed 1907 replica of the 1692 stone fort, once the largest fortification in New England, standing on its original site within Colonial Pemaquid State Historic Site.",
-        "start_date_time": "",
-        "detail": "Fort William Henry\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA stone reconstruction (built 1907) of the original 1692 Fort William Henry \u2014 in its day the largest fort in New England \u2014 destroyed in the 1696 Siege of Pemaquid. Stands on the original foundation within Colonial Pemaquid State Historic Site.\n\nTips\n- Rating in question: listed at 4.8; the only independent figure I found was a thin Tripadvisor sample (4.0 over just 4 reviews) since most reviewers rate this as part of the broader Colonial Pemaquid site rather than separately \u2014 treat the number with real caution either way.\n- Climb the fort's tower for river and harbor views."
+        "start_date_time": "2026-08-07T10:15:00",
+        "detail": "Time: 2026-08-07T10:15:00\n\nFort William Henry\n\n\ud83d\udccd Colonial Pemaquid Rd, New Harbor, ME\n\nA stone reconstruction (built 1907) of the original 1692 Fort William Henry \u2014 in its day the largest fort in New England \u2014 destroyed in the 1696 Siege of Pemaquid. Stands on the original foundation within Colonial Pemaquid State Historic Site.\n\nTips\n- Rating in question: listed at 4.8; the only independent figure I found was a thin Tripadvisor sample (4.0 over just 4 reviews) since most reviewers rate this as part of the broader Colonial Pemaquid site rather than separately \u2014 treat the number with real caution either way.\n- Climb the fort's tower for river and harbor views."
       },
       "geometry": {
         "type": "Point",
@@ -8076,8 +8076,8 @@
         "color": "purple",
         "vault_type": "Shop",
         "description": "Gift shop offering penny candy, ice cream, and various gifts. Open daily 10 AM\u20139 PM.",
-        "start_date_time": "",
-        "detail": "Granite Hall Store\n\n\ud83d\udccd Round Pond, Bristol, ME\n\nGift shop offering penny candy, ice cream, and various gifts. Does not serve food for lunch or dinner, nor alcohol.\n\nTips\n- Combine with Round Pond Lobster, just steps away."
+        "start_date_time": "2026-08-07T13:00:00",
+        "detail": "Time: 2026-08-07T13:00:00\n\nGranite Hall Store\n\n\ud83d\udccd Round Pond, Bristol, ME\n\nGift shop offering penny candy, ice cream, and various gifts. Does not serve food for lunch or dinner, nor alcohol.\n\nTips\n- Combine with Round Pond Lobster, just steps away."
       },
       "geometry": {
         "type": "Point",
@@ -8565,8 +8565,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Gifford's ice cream stand on \"the Hill\" in New Harbor, serving the area for 30+ years, minutes from Pemaquid Point Lighthouse.",
-        "start_date_time": "",
-        "detail": "Harbor Ice Cream\n\n\ud83d\udccd Route 130, New Harbor, ME\n\nA local institution on \"the Hill\" in New Harbor for over 30 years, serving Gifford's Maine ice cream (plus vanilla/chocolate soft serve, cold brew, and baked goods) just minutes from Pemaquid Point Lighthouse. Picnic tables outside.\n\nMust Order\n- Gifford's ice cream \u2014 Maine-themed flavors like Moose Tracks and Deer Tracks\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor independently shows 4.3 \u2014 a real but not huge gap, plausibly explained by Google running higher than Tripadvisor as it often does.\n- Coordinates are an approximate New Harbor village-center match \u2014 the exact Route 130 address didn't resolve via geocoding.\n- Good stop after Pemaquid Point Lighthouse."
+        "start_date_time": "2026-08-07T11:45:00",
+        "detail": "Time: 2026-08-07T11:45:00\n\nHarbor Ice Cream\n\n\ud83d\udccd Route 130, New Harbor, ME\n\nA local institution on \"the Hill\" in New Harbor for over 30 years, serving Gifford's Maine ice cream (plus vanilla/chocolate soft serve, cold brew, and baked goods) just minutes from Pemaquid Point Lighthouse. Picnic tables outside.\n\nMust Order\n- Gifford's ice cream \u2014 Maine-themed flavors like Moose Tracks and Deer Tracks\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor independently shows 4.3 \u2014 a real but not huge gap, plausibly explained by Google running higher than Tripadvisor as it often does.\n- Coordinates are an approximate New Harbor village-center match \u2014 the exact Route 130 address didn't resolve via geocoding.\n- Good stop after Pemaquid Point Lighthouse."
       },
       "geometry": {
         "type": "Point",
@@ -9953,10 +9953,10 @@
         "name": "Islesford Dock Restaurant and Gallery",
         "icon": "utensils",
         "color": "red",
-        "vault_type": "description:",
-        "description": "Islesford Dock Restaurant serves seafood with a price range of $20\u201330 per person. It is open for dinner and has a full bar offering alcoholic beverages.",
+        "vault_type": "\"description:",
+        "description": "",
         "start_date_time": "",
-        "detail": "Islesford Dock Restaurant serves seafood with a price range of $20\u201330 per person. It is open for dinner and has a full bar offering alcoholic beverages.",
+        "detail": "",
         "website": "https://www.google.com/maps/place/Islesford+Dock+Restaurant+and+Gallery/@44.2607362,-68.2476227,14.39z/data=!4m6!3m5!1s0x4caebb5540bbf797:0x87c7d07c912b1d8a!8m2!3d44.2607755!4d-68.2398167!16s%2Fg%2F1x5f9z3t?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -10625,8 +10625,8 @@
         "color": "purple",
         "vault_type": "Shop",
         "description": "Historic general store in the heart of Round Pond village, serving pizza, deli sandwiches, groceries, and gas since long before it was a tourist stop \u2014 with live music Monday evenings.",
-        "start_date_time": "",
-        "detail": "King Ro Market\n\n\ud83d\udccd 1414 Route 32, Round Pond, ME\n\nAn old-fashioned general store at the center of Round Pond village, selling groceries, beer, wine, pizza, deli sandwiches, and gas. Fresh donuts and pastries each morning, and live concerts on Monday evenings in season.\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor shows 4.2 \u2014 a real gap, though Google reviews for a beloved local general store like this one plausibly run higher.\n- Good stop for picnic supplies before a Round Pond harbor walk or a Pemaquid Point day."
+        "start_date_time": "2026-08-07T13:00:00",
+        "detail": "Time: 2026-08-07T13:00:00\n\nKing Ro Market\n\n\ud83d\udccd 1414 Route 32, Round Pond, ME\n\nAn old-fashioned general store at the center of Round Pond village, selling groceries, beer, wine, pizza, deli sandwiches, and gas. Fresh donuts and pastries each morning, and live concerts on Monday evenings in season.\n\nTips\n- Rating in question: listed at 4.8, but Tripadvisor shows 4.2 \u2014 a real gap, though Google reviews for a beloved local general store like this one plausibly run higher.\n- Good stop for picnic supplies before a Round Pond harbor walk or a Pemaquid Point day."
       },
       "geometry": {
         "type": "Point",
@@ -10744,8 +10744,8 @@
         "color": "purple",
         "vault_type": "Footpath",
         "description": "Nature hiking area with scenic coastal views and trails near Pemaquid.",
-        "start_date_time": "",
-        "detail": "Nature hiking area with scenic coastal views and trails near Pemaquid.",
+        "start_date_time": "2026-08-07T14:00:00",
+        "detail": "Time: 2026-08-07T14:00:00\n\nNature hiking area with scenic coastal views and trails near Pemaquid.",
         "website": "https://www.google.com/maps/place/LaVerna+Preserve+-+Hiking+Area/@43.9022356,-69.4822524,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cadbc92089d5839:0x6bac846d67897afb!8m2!3d43.9022356!4d-69.4796775!16s%2Fg%2F11c57l8qrz?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -14144,8 +14144,8 @@
         "color": "red",
         "vault_type": "Restaurant",
         "description": "",
-        "start_date_time": "",
-        "detail": ""
+        "start_date_time": "2026-08-07T12:15:00",
+        "detail": "Time: 2026-08-07T12:15:00"
       },
       "geometry": {
         "type": "Point",
@@ -15240,8 +15240,8 @@
         "color": "red",
         "vault_type": "Brewery",
         "description": "Farmhouse tasting room down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating and Belgian-style farmhouse ales brewed on-site.",
-        "start_date_time": "",
-        "detail": "Oxbow Brewing Company\n\n\ud83d\udccd Rural Newcastle, ME (dirt driveway location)\n\nA farmhouse tasting room tucked down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating. Brews Belgian-style farmhouse ales on-site\u2014a genuine farm brewery experience without the tourist polish.\n\nTips\n- Rural location, down dirt driveway\n- Farmhouse brewery atmosphere\n- Pond-side seating\n- Belgian-style farmhouse ales\n- Very low-key, locals' spot\n- Worth seeking out for authentic brewery experience"
+        "start_date_time": "2026-08-07T17:00:00",
+        "detail": "Time: 2026-08-07T17:00:00\n\nOxbow Brewing Company\n\n\ud83d\udccd Rural Newcastle, ME (dirt driveway location)\n\nA farmhouse tasting room tucked down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating. Brews Belgian-style farmhouse ales on-site\u2014a genuine farm brewery experience without the tourist polish.\n\nTips\n- Rural location, down dirt driveway\n- Farmhouse brewery atmosphere\n- Pond-side seating\n- Belgian-style farmhouse ales\n- Very low-key, locals' spot\n- Worth seeking out for authentic brewery experience"
       },
       "geometry": {
         "type": "Point",
@@ -15438,8 +15438,8 @@
         "color": "gray",
         "vault_type": "Parking",
         "description": "First National Bank's public lot behind Water St/Cross St \u2014 the largest central public parking near Main Street Damariscotta (~60 spaces), a short walk to shops and restaurants.",
-        "start_date_time": "",
-        "detail": "Parking \u2014 Downtown Damariscotta\n\n\ud83d\udccd Cross St / Water St, Damariscotta, ME (First National Bank lot)\n\nThe largest public lot near Main Street \u2014 about 60 spaces, a short walk to Main Street shops and restaurants. A smaller public lot also exists at Bangor Savings Bank (100 Main St, ~15 spaces) if this one is full.\n\nTips\n- Best central option for a Main Street walk \u2014 everything (Skidompha Bookshop, Ann's Book Bistro, Barn Door Baking Co, King Eider's Pub) is within a few blocks.\n- Damariscotta is far less crowded than Pemaquid Point \u2014 parking pressure here is mild except during the summer farmers market."
+        "start_date_time": "2026-08-07T15:45:00",
+        "detail": "Time: 2026-08-07T15:45:00\n\nParking \u2014 Downtown Damariscotta\n\n\ud83d\udccd Cross St / Water St, Damariscotta, ME (First National Bank lot)\n\nThe largest public lot near Main Street \u2014 about 60 spaces, a short walk to Main Street shops and restaurants. A smaller public lot also exists at Bangor Savings Bank (100 Main St, ~15 spaces) if this one is full.\n\nTips\n- Best central option for a Main Street walk \u2014 everything (Skidompha Bookshop, Ann's Book Bistro, Barn Door Baking Co, King Eider's Pub) is within a few blocks.\n- Damariscotta is far less crowded than Pemaquid Point \u2014 parking pressure here is mild except during the summer farmers market."
       },
       "geometry": {
         "type": "Point",
@@ -15452,19 +15452,38 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Parking - Downtown Wiscasset ME",
+        "icon": "parking",
+        "color": "gray",
+        "vault_type": "Parking",
+        "description": "Free municipal lots on both sides of Main St/Route 1 \u2014 Railroad Ave (newer, paved, lit) coming from the north, Water St (right by Red's Eats) coming from the south.",
+        "start_date_time": "2026-08-05T11:00:00",
+        "detail": "Time: 2026-08-05T11:00:00\n\nParking \u2014 Downtown Wiscasset\n\n\ud83d\udccd Railroad Ave, Wiscasset, ME (primary) / Water St lot near Red's Eats (secondary)\n\nWiscasset is a classic Route 1 bottleneck in summer \u2014 Main Street itself is the highway, and the line for Red's Eats can back up traffic through town. Parking is free and more plentiful than the traffic makes it look; the town has multiple municipal lots on both sides of Main St, with signage pointing to each. Two practical anchors:\n\n- Coming from the north (Bath/Camden direction): turn onto Railroad Avenue \u2014 a newer, paved, lit municipal lot right on the water, with a short walk back along the waterfront into the village.\n- Coming from the south (Portland/Brunswick direction): turn onto Water Street \u2014 a lot plus plentiful on-street parking just past it, steps from Red's Eats and the Main St shops.\n- Additional municipal lots exist on Middle Street and at the Municipal Building if both of the above are full.\n\nTips\n- Don't try to street-park right on Main St/Route 1 during midday in summer \u2014 that's the traffic bottleneck itself, not a parking strategy. Use one of the side-street lots instead.\n- If Red's Eats is the main draw, the Water St lot is the shortest walk.\n- Overnight on-street parking is banned town-wide Nov 15\u2013Apr 15 \u2014 not relevant for an Aug/Sep visit, but worth knowing if plans shift into shoulder season."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6648,
+          44.0045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Parking - Pemaquid Point Lighthouse ME",
         "icon": "parking",
         "color": "gray",
         "vault_type": "Parking",
         "description": "On-site parking lot at Pemaquid Point Lighthouse Park \u2014 the single busiest bottleneck on the Pemaquid Peninsula. Fills by mid-morning on sunny days.",
-        "start_date_time": "",
-        "detail": "Parking \u2014 Pemaquid Point Lighthouse\n\n\ud83d\udccd Pemaquid Point Lighthouse Park, New Harbor, ME\n\nThe park's own lot, right at the site. This is the most crowded single stop on the peninsula \u2014 ~100,000 visitors/year through a small lot.\n\nTips\n- Arrive before 10am, especially on sunny summer weekends \u2014 the lot fills and overflow options are limited.\n- $4/person park admission at the gate.\n- If the lot is full, there's no good nearby overflow \u2014 better to circle back later in the day (after 4-5pm) than wait."
+        "start_date_time": "2026-08-07T08:15:00",
+        "detail": "Time: 2026-08-07T08:15:00\n\nParking \u2014 Pemaquid Point Lighthouse\n\n\ud83d\udccd Pemaquid Point Lighthouse Park, New Harbor, ME\n\nThe park's own lot, right at the site. This is the most crowded single stop on the peninsula \u2014 ~100,000 visitors/year through a small lot.\n\nTips\n- Arrive before 10am, especially on sunny summer weekends \u2014 the lot fills and overflow options are limited.\n- $4/person park admission at the gate.\n- If the lot is full, there's no good nearby overflow \u2014 better to circle back later in the day (after 4-5pm) than wait."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.50592125123825,
-          43.83713116595049
+          -69.5063,
+          43.8368
         ]
       }
     },
@@ -15476,8 +15495,8 @@
         "color": "gray",
         "vault_type": "Parking",
         "description": "Informal street/harborside parking near the Round Pond town landing and lobster docks \u2014 the village is tiny and fully walkable from here.",
-        "start_date_time": "",
-        "detail": "Parking \u2014 Round Pond Harbor\n\n\ud83d\udccd Near the town landing, Round Pond, ME\n\nRound Pond has no large formal lot \u2014 it's a small working harbor village, and street parking along the harbor near the lobster docks and general store is the norm. Everything (Round Pond Lobster Co-op, Muscongus Bay Lobster, King Ro Market, Granite Hall Store, Round Pond Coffee, The Anchor Restaurant) is within a couple minutes' walk from here.\n\nTips\n- Rarely a real problem \u2014 Round Pond stays quiet even in peak season compared to Pemaquid Point or Boothbay Harbor.\n- Don't block driveways or the working lobster co-op's loading areas."
+        "start_date_time": "2026-08-07T12:15:00",
+        "detail": "Time: 2026-08-07T12:15:00\n\nParking \u2014 Round Pond Harbor\n\n\ud83d\udccd Near the town landing, Round Pond, ME\n\nRound Pond has no large formal lot \u2014 it's a small working harbor village, and street parking along the harbor near the lobster docks and general store is the norm. Everything (Round Pond Lobster Co-op, Muscongus Bay Lobster, King Ro Market, Granite Hall Store, Round Pond Coffee, The Anchor Restaurant) is within a couple minutes' walk from here.\n\nTips\n- Rarely a real problem \u2014 Round Pond stays quiet even in peak season compared to Pemaquid Point or Boothbay Harbor.\n- Don't block driveways or the working lobster co-op's loading areas."
       },
       "geometry": {
         "type": "Point",
@@ -15652,8 +15671,8 @@
         "color": "purple",
         "vault_type": "Beach",
         "description": "A rare white-sand crescent beach on Maine's rocky coast, town-run with a boardwalk, changing rooms, and a seasonal snack bar.",
-        "start_date_time": "",
-        "detail": "Pemaquid Beach Park\n\n\ud83d\udccd New Harbor, Bristol, ME\n\nA genuinely rare find on the Maine coast \u2014 a soft, white-sand crescent beach with gentle surf, run by the Bristol Parks and Recreation Department. Amenities include restrooms/changing rooms, outdoor showers, picnic tables, an ADA boardwalk to the sand, beach-gear rentals (chairs, boogie boards, umbrellas), and a seasonal restaurant on site (Mimi's on the Beach).\n\nTips\n- Rating in question: no hard numeric figure independently confirmed \u2014 but every review surfaced was strongly positive (\"rare white sand beach,\" \"gem of a beach\"), ranked #2 of 7 things to do in Bristol on Tripadvisor.\n- Parking fills up on warm summer days \u2014 arrive early.\n- Combine with Pemaquid Point Lighthouse and Colonial Pemaquid, both a short drive away."
+        "start_date_time": "2026-08-07T09:15:00",
+        "detail": "Time: 2026-08-07T09:15:00\n\nPemaquid Beach Park\n\n\ud83d\udccd New Harbor, Bristol, ME\n\nA genuinely rare find on the Maine coast \u2014 a soft, white-sand crescent beach with gentle surf, run by the Bristol Parks and Recreation Department. Amenities include restrooms/changing rooms, outdoor showers, picnic tables, an ADA boardwalk to the sand, beach-gear rentals (chairs, boogie boards, umbrellas), and a seasonal restaurant on site (Mimi's on the Beach).\n\nTips\n- Rating in question: no hard numeric figure independently confirmed \u2014 but every review surfaced was strongly positive (\"rare white sand beach,\" \"gem of a beach\"), ranked #2 of 7 things to do in Bristol on Tripadvisor.\n- Parking fills up on warm summer days \u2014 arrive early.\n- Combine with Pemaquid Point Lighthouse and Colonial Pemaquid, both a short drive away."
       },
       "geometry": {
         "type": "Point",
@@ -15671,8 +15690,8 @@
         "color": "purple",
         "vault_type": "Lighthouse",
         "description": "Iconic 1827 lighthouse on dramatic granite ledges, the image on Maine's state quarter, with the Fishermen's Museum in the keeper's house.",
-        "start_date_time": "",
-        "detail": "Pemaquid Point Lighthouse\n\n\ud83d\udccd 3115 Bristol Rd, New Harbor, ME\n\nCommissioned in 1827 by John Quincy Adams, this is one of Maine's most photographed lighthouses \u2014 its image appears on Maine's state quarter. Set on dramatic open-ocean granite ledges, it draws roughly 100,000 visitors a year. The keeper's house holds the Fishermen's Museum, covering the region's working maritime history.\n\nTips\n- Rating is well-supported here \u2014 Tripadvisor alone shows 4.8 over 903 reviews, a large enough sample to trust.\n- $4/person park admission; $1 suggested donation to climb the tower. Open seasonally, mid-May through late October.\n- The granite ledges are dramatic but genuinely slippery \u2014 mind footing, especially with kids.\n- Pair with Colonial Pemaquid State Historic Site and Fort William Henry nearby."
+        "start_date_time": "2026-08-07T08:30:00",
+        "detail": "Time: 2026-08-07T08:30:00\n\nPemaquid Point Lighthouse\n\n\ud83d\udccd 3115 Bristol Rd, New Harbor, ME\n\nCommissioned in 1827 by John Quincy Adams, this is one of Maine's most photographed lighthouses \u2014 its image appears on Maine's state quarter. Set on dramatic open-ocean granite ledges, it draws roughly 100,000 visitors a year. The keeper's house holds the Fishermen's Museum, covering the region's working maritime history.\n\nTips\n- Rating is well-supported here \u2014 Tripadvisor alone shows 4.8 over 903 reviews, a large enough sample to trust.\n- $4/person park admission; $1 suggested donation to climb the tower. Open seasonally, mid-May through late October.\n- The granite ledges are dramatic but genuinely slippery \u2014 mind footing, especially with kids.\n- Pair with Colonial Pemaquid State Historic Site and Fort William Henry nearby."
       },
       "geometry": {
         "type": "Point",
@@ -16965,8 +16984,8 @@
         "color": "purple",
         "vault_type": "Attraction",
         "description": "Historic tidal salt pond off Route 32 where marine biologist Rachel Carson researched \"The Edge of the Sea\" \u2014 an easy 1.1-mile trail past tide pools full of crabs, starfish, and hermit crabs.",
-        "start_date_time": "",
-        "detail": "Rachel Carson Salt Pond Preserve\n\n\ud83d\udccd Off Route 32, New Harbor, ME\n\nA Nature Conservancy-maintained tidal salt pond where pioneering marine biologist Rachel Carson conducted the research behind The Edge of the Sea. An easy 1.1-mile trail winds past tide pools stocked with lobster, shrimp, starfish, crabs, and hermit crabs.\n\nTips\n- Rating most in question of this batch: listed at 4.8, but Tripadvisor ranks it only #6 of 9 things to do in New Harbor with \"mixed but generally positive\" reviews \u2014 the biggest gap between claimed and independently-found signal in this whole set. Worth a fresh check before building an itinerary around it.\n- Check low tide before visiting \u2014 tide pools are the whole point.\n- Parking is very limited and there are no restrooms on site."
+        "start_date_time": "2026-08-07T10:45:00",
+        "detail": "Time: 2026-08-07T10:45:00\n\nRachel Carson Salt Pond Preserve\n\n\ud83d\udccd Off Route 32, New Harbor, ME\n\nA Nature Conservancy-maintained tidal salt pond where pioneering marine biologist Rachel Carson conducted the research behind The Edge of the Sea. An easy 1.1-mile trail winds past tide pools stocked with lobster, shrimp, starfish, crabs, and hermit crabs.\n\nTips\n- Rating most in question of this batch: listed at 4.8, but Tripadvisor ranks it only #6 of 9 things to do in New Harbor with \"mixed but generally positive\" reviews \u2014 the biggest gap between claimed and independently-found signal in this whole set. Worth a fresh check before building an itinerary around it.\n- Check low tide before visiting \u2014 tide pools are the whole point.\n- Parking is very limited and there are no restrooms on site."
       },
       "geometry": {
         "type": "Point",
@@ -18004,8 +18023,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "A seafood restaurant offering fresh lobsters, clams, and beer, with meal deals around $34. Open for lunch and dinner until 7 PM.",
-        "start_date_time": "",
-        "detail": "Round Pond Lobster\n\n\ud83d\udccd Round Pond, Bristol, ME\n\nA seafood restaurant offering fresh lobsters, clams, and beer, with meal deals around $34. Open for lunch and dinner until 7 PM, and serves alcohol.\n\nTips\n- Expect long waits at peak times given the demand."
+        "start_date_time": "2026-08-07T12:15:00",
+        "detail": "Time: 2026-08-07T12:15:00\n\nRound Pond Lobster\n\n\ud83d\udccd Round Pond, Bristol, ME\n\nA seafood restaurant offering fresh lobsters, clams, and beer, with meal deals around $34. Open for lunch and dinner until 7 PM, and serves alcohol.\n\nTips\n- Expect long waits at peak times given the demand."
       },
       "geometry": {
         "type": "Point",
@@ -19415,8 +19434,8 @@
         "color": "green",
         "vault_type": "Shop",
         "description": "Used bookstore run by the Skidompha Public Library on Main Street Damariscotta, named \"Best Maine Used Bookstore\" by Yankee Magazine.",
-        "start_date_time": "",
-        "detail": "Skidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
+        "start_date_time": "2026-08-07T16:00:00",
+        "detail": "Time: 2026-08-07T16:00:00\n\nSkidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
       },
       "geometry": {
         "type": "Point",
@@ -20016,10 +20035,10 @@
         "name": "Station Grill Restaurant",
         "icon": "utensils",
         "color": "red",
-        "vault_type": "description:",
-        "description": "Station Grill Restaurant is an American diner-style eatery offering comfort food like breakfast items and seafood. Expected price range is $10\u201320, and it is open for lunch but closes at 3 PM, not serving dinner. Alcohol service is not specified.",
+        "vault_type": "\"description:",
+        "description": "",
         "start_date_time": "",
-        "detail": "Station Grill Restaurant is an American diner-style eatery offering comfort food like breakfast items and seafood. Expected price range is $10\u201320, and it is open for lunch but closes at 3 PM, not serving dinner. Alcohol service is not specified.",
+        "detail": "",
         "website": "https://www.google.com/maps/place/Station+Grill+Restaurant/@44.0938557,-70.2241485,670m/data=!3m1!1e3!4m11!1m3!2m2!1spet+friendly+Restaurants!6e5!3m6!1s0x4cb26b2ea521ae1b:0x9eda377fa9727250!8m2!3d44.0938556!4d-70.2201055!15sChhwZXQgZnJpZW5kbHkgUmVzdGF1cmFudHNaGiIYcGV0IGZyaWVuZGx5IHJlc3RhdXJhbnRzkgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ2JXUnRka1pCRUFF4AEA-gEFCOoBEAw!16s%2Fg%2F11j8wbcmbm?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -21475,8 +21494,8 @@
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Wharf-side seafood restaurant next to Fort William Henry, seating directly over the harbor with views of Pemaquid Harbor and John's Bay.",
-        "start_date_time": "",
-        "detail": "The Contented Sole\n\n\ud83d\udccd 32 Southside Rd, New Harbor, ME\n\nWharf-side seafood dining right next to Fort William Henry, with seating on a walkway directly over the harbor \u2014 some of the best views in the area, overlooking Pemaquid Harbor and John's Bay. Known for standout fish tacos, oysters, and fresh seafood, with non-seafood options too.\n\nMust Order\n- Fish tacos \u2014 repeatedly called out as among the best around\n- Fresh oysters\n\nTips\n- Rating in question: listed at 4.7; independently I only found Tripadvisor (4.0, ranked #5 of 10 in New Harbor over 244 reviews) and a secondary platform at 4.2 \u2014 a real gap versus the claimed figure, more than the usual Google/Tripadvisor spread.\n- Prices run a bit high and the menu isn't extensive, but the location is the draw.",
+        "start_date_time": "2026-08-07T11:45:00",
+        "detail": "Time: 2026-08-07T11:45:00\n\nThe Contented Sole\n\n\ud83d\udccd 32 Southside Rd, New Harbor, ME\n\nWharf-side seafood dining right next to Fort William Henry, with seating on a walkway directly over the harbor \u2014 some of the best views in the area, overlooking Pemaquid Harbor and John's Bay. Known for standout fish tacos, oysters, and fresh seafood, with non-seafood options too.\n\nMust Order\n- Fish tacos \u2014 repeatedly called out as among the best around\n- Fresh oysters\n\nTips\n- Rating in question: listed at 4.7; independently I only found Tripadvisor (4.0, ranked #5 of 10 in New Harbor over 244 reviews) and a secondary platform at 4.2 \u2014 a real gap versus the claimed figure, more than the usual Google/Tripadvisor spread.\n- Prices run a bit high and the menu isn't extensive, but the location is the draw.",
         "website": "https://thecontentedsole.com/"
       },
       "geometry": {
@@ -21846,10 +21865,10 @@
         "name": "The Lunch Table",
         "icon": "utensils",
         "color": "red",
-        "vault_type": "description:",
-        "description": "The Lunch Table is a restaurant offering sandwiches, soups, and salads with a price range of $10\u201320. It is open for lunch and closes at 2 PM but does not serve dinner. Alcohol availability is not mentioned.",
+        "vault_type": "\"description:",
+        "description": "",
         "start_date_time": "",
-        "detail": "The Lunch Table is a restaurant offering sandwiches, soups, and salads with a price range of $10\u201320. It is open for lunch and closes at 2 PM but does not serve dinner. Alcohol availability is not mentioned.",
+        "detail": "",
         "website": "https://www.google.com/maps/place/The+Lunch+Table/@44.0838596,-70.2564842,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b32058406f5:0x39c864acfd6aba1c!8m2!3d44.0838901!4d-70.2013888!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFHYTA5RlduWlNiVloxVGtNeGFHTlhiREZqUjA1WFVYcENTRlpWUlJBQuABAPoBBAgAEDY!16s%2Fg%2F11svgztb6x?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -22747,8 +22766,8 @@
         "color": "purple",
         "vault_type": "Attraction",
         "description": "A wildlife refuge on Audubon Rd. offering bird watching and outdoor exploration. Does not serve food or alcohol.",
-        "start_date_time": "",
-        "detail": "Todd Wildlife Sanctuary\n\n\ud83d\udccd Audubon Rd, Bristol, ME\n\nA wildlife refuge offering bird watching and outdoor exploration. Does not serve food or alcohol.\n\nTips\n- Watch for rocky terrain in places; sturdy footwear recommended."
+        "start_date_time": "2026-08-07T14:45:00",
+        "detail": "Time: 2026-08-07T14:45:00\n\nTodd Wildlife Sanctuary\n\n\ud83d\udccd Audubon Rd, Bristol, ME\n\nA wildlife refuge offering bird watching and outdoor exploration. Does not serve food or alcohol.\n\nTips\n- Watch for rocky terrain in places; sturdy footwear recommended."
       },
       "geometry": {
         "type": "Point",
@@ -24214,8 +24233,8 @@
         "color": "green",
         "vault_type": "Historical",
         "description": "11-acre park with half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit.",
-        "start_date_time": "",
-        "detail": "Whaleback Shell Midden State Historic Site\n\n\ud83d\udccd Damariscotta, ME\n\nAn 11-acre park with a half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit. A unique window into pre-European coastal history.\n\nTips\n- Half-mile easy loop trail\n- 2,200-year-old shell heap\n- River views along the trail\n- Virtually no tourist crowds\n- Educational historical site\n- Quiet, contemplative setting"
+        "start_date_time": "2026-08-07T15:30:00",
+        "detail": "Time: 2026-08-07T15:30:00\n\nWhaleback Shell Midden State Historic Site\n\n\ud83d\udccd Damariscotta, ME\n\nAn 11-acre park with a half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit. A unique window into pre-European coastal history.\n\nTips\n- Half-mile easy loop trail\n- 2,200-year-old shell heap\n- River views along the trail\n- Virtually no tourist crowds\n- Educational historical site\n- Quiet, contemplative setting"
       },
       "geometry": {
         "type": "Point",
@@ -24778,10 +24797,10 @@
         "name": "Wolf Cove Inn",
         "icon": "utensils",
         "color": "red",
-        "vault_type": "description:",
-        "description": "The Wolf Cove Inn is a serene B&B located by Tripp Lake, offering a free breakfast with a focus on local and seasonal ingredients. The expected price range for rooms is around $255 to $278 per night. It primarily serves breakfast and does not explicitly mention lunch or dinner service. Alcohol availability is not specified.",
+        "vault_type": "\"description:",
+        "description": "",
         "start_date_time": "",
-        "detail": "The Wolf Cove Inn is a serene B&B located by Tripp Lake, offering a free breakfast with a focus on local and seasonal ingredients. The expected price range for rooms is around $255 to $278 per night. It primarily serves breakfast and does not explicitly mention lunch or dinner service. Alcohol availability is not specified.",
+        "detail": "",
         "website": "https://www.google.com/maps/place/Wolf+Cove+Inn/@44.055054,-70.4367298,2352m/data=!3m1!1e3!4m20!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m10!1s0x4cb24359a2bcaaf1:0x76c548c57de800c!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.0584025!4d-70.4256829!16s%2Fg%2F1w111stp?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -31304,25 +31323,6 @@
         "coordinates": [
           -72.3865679,
           43.4799996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Wiscasset & Newcastle",
-        "icon": "route",
-        "color": "orange",
-        "vault_type": "destination",
-        "description": "",
-        "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.67376882166447,
-          44.01046575913936
         ]
       }
     },
