@@ -261,6 +261,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Aekeir Brewing Tasting Room Wiscasset ME",
+        "icon": "beer",
+        "color": "purple",
+        "vault_type": "Brewery",
+        "description": "Craft brewery tasting room on Main Street specializing in small-batch, kettle-soured beers.",
+        "start_date_time": "",
+        "detail": "Aekeir Brewing Tasting Room\n\n\ud83d\udccd 111 Main Street, Wiscasset, ME\n\nA craft brewery tasting room on Main Street, specializing in small-batch, kettle-soured beers.\n\nTips\n- Good late-afternoon stop before heading back to Camden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6652,
+          44.0023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Albrecht's Dairy Pleasant Valley NY",
         "icon": "landmark",
         "color": "green",
@@ -1516,13 +1535,13 @@
         "vault_type": "Restaurant",
         "description": "Scratch bakery and cafe on Main Street Damariscotta, known for pastries, bread, and breakfast/lunch fare.",
         "start_date_time": "2026-08-10T16:00:00",
-        "detail": "Time: 2026-08-10T16:00:00\n\nBarn Door Baking Co.\n\n\ud83d\udccd 162 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
+        "detail": "Time: 2026-08-10T16:00:00\n\nBarn Door Baking Co.\n\n\ud83d\udccd 212 Main Street, Damariscotta, ME\n\nA scratch bakery and cafe on Main Street known for fresh pastries, bread, and a solid breakfast/lunch menu.\n\nMust Order\n- Fresh-baked pastries and bread, made from scratch daily\n\nTips\n- Good breakfast/coffee stop before a day exploring downtown Damariscotta."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5310178,
-          44.0326266
+          -69.5303,
+          44.03204
         ]
       }
     },
@@ -1847,8 +1866,8 @@
         "color": "purple",
         "vault_type": "Attraction",
         "description": "Beech Hill Preserve is a nature preserve featuring scenic trails and elevated views, predominantly focused on outdoor experiences rather than food offerings. It does not serve meals or alcohol. It is open from 9 AM to 5 PM daily.",
-        "start_date_time": "",
-        "detail": "Beech Hill Preserve is a nature preserve featuring scenic trails and elevated views, predominantly focused on outdoor experiences rather than food offerings. It does not serve meals or alcohol. It is open from 9 AM to 5 PM daily.",
+        "start_date_time": "2026-08-10T09:45:00",
+        "detail": "Time: 2026-08-10T09:45:00\n\nBeech Hill Preserve\n\nSummit Road Trail \u2014 0.75 mi each way / 1.5 mi round trip, easy \u2014 climbs gently through blueberry barrens to \"Beech Nut,\" a historic 1913 sod-roof stone hut at the summit with panoramic views over Penobscot Bay. One of the best short, easy hikes on the whole Camden\u2013Wiscasset corridor.\n\nTips\n- Free admission, open 9am\u20135pm daily.\n- Longer option: Woods Loop Trail, ~1.9 mi, still easy, more elevation gain through forest.",
         "website": "https://www.google.com/maps/place/Beech+Hill+Preserve/@44.1659581,-69.2106881,18827m/data=!3m1!1e3!4m11!1m3!2m2!1sscenic+spot!6e1!3m6!1s0x4cadd0c19e11c51b:0x770a32480499b65a!8m2!3d44.1659581!4d-69.0978767!15sCgtzY2VuaWMgc3BvdFoNIgtzY2VuaWMgc3BvdJIBD25hdHVyZV9wcmVzZXJ2ZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSS056WlhTMkpCRUFF4AEA-gEECAAQQg!16s%2Fg%2F11clw07zjf?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -4863,6 +4882,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Colby & Gale Service Station Damariscotta ME",
+        "icon": "fuel",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "A local Main Street gas station/service stop known for unusually friendly, old-fashioned customer service.",
+        "start_date_time": "",
+        "detail": "Colby & Gale Service Station\n\n\ud83d\udccd 105 Main Street, Damariscotta, ME\n\nA local Main Street institution \u2014 not a sight to visit, but worth knowing about: an old-fashioned full-service gas station known for exceptional, friendly customer service.\n\nTips\n- Practical stop, not a destination \u2014 good option if the car needs gas while downtown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53215,
+          44.03277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colby Wildlife Preserve Edgecomb ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Very short, easy loop through forest to a sheltered cove on the Damariscotta River \u2014 good for any age, ~7 miles from Wiscasset village.",
+        "start_date_time": "2026-08-10T14:00:00",
+        "detail": "Time: 2026-08-10T14:00:00\n\nColby Wildlife Preserve\n\n\ud83d\udccd McKay Road, East Edgecomb, ME\n\nA 12-acre preserve on Salt Marsh Cove (Damariscotta River) \u2014 a short, easy loop (~0.5\u20130.7 mi total) through forest to a sheltered cove, suitable for any age. The shortest, easiest option of the day's hikes.\n\nGetting There\nFrom Wiscasset village: Route 1 across the Davey Bridge, right onto Route 27 toward Boothbay, left onto McKay Road just past Edgecomb Potters.\n\nTips\n- Free, open year-round.\n- Good \"stretch your legs\" stop near the end of the day, close to both Wiscasset and Glidden Point Oyster Farms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5825,
+          43.9915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cold Hollow Cider Mill Waterbury VT",
         "icon": "beer",
         "color": "green",
@@ -5992,6 +6049,25 @@
         "coordinates": [
           -71.2917,
           44.8625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dodge Point Preserve Newcastle ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "500-acre preserve on the Damariscotta River with 8,000 ft of river frontage \u2014 several short, easy trail options, right next to Newcastle/Damariscotta.",
+        "start_date_time": "2026-08-10T11:30:00",
+        "detail": "Time: 2026-08-10T11:30:00\n\nDodge Point Preserve\n\n\ud83d\udccd River Road, Newcastle, ME\n\nA 500-acre Public Reserved Land parcel on the Damariscotta River, with 8,000 feet of river frontage. Several short, easy trail options from the same trailhead \u2014 pick based on time available.\n\nTrail Options (pick one, don't need all)\n- Shore Trail \u2014 1.5 mi, easy, follows the riverbank\n- Ravine Trail \u2014 1.2 mi, easy, through a forested ravine\n- Timber Trail \u2014 0.8 mi, shortest option\n- Old Farm Road Loop \u2014 ~2 mi, still easy but longer than the \"under 2 mi out\" target\n\nTips\n- Right next to Damariscotta/Newcastle \u2014 easy to fit in before or after Main Street.\n- Total trail network is ~5 miles if combining multiple; no need to do more than one trail for a quick stop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5556,
+          44.0092
         ]
       }
     },
@@ -8209,6 +8285,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Great Salt Bay Farm Damariscotta ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "146-acre saltwater farm preserve right in Damariscotta/Newcastle \u2014 gentle loop trail through fields, salt marsh, and along Great Salt Bay.",
+        "start_date_time": "2026-08-10T11:15:00",
+        "detail": "Time: 2026-08-10T11:15:00\n\nGreat Salt Bay Farm\n\n\ud83d\udccd Belvedere Road, Damariscotta, ME\n\nA 146-acre wildlife preserve managed by the Coastal Rivers Conservation Trust \u2014 one of the few intact saltwater farms left in the Midcoast. The Bayside Trail + Blackstone Trail Loop is 1.6 mi, easy, ~32 min, circling open fields, salt marsh, and freshwater wetlands along Great Salt Bay and the Damariscotta River.\n\nTips\n- Closest hike option to downtown Damariscotta \u2014 easy to combine with Main Street.\n- Dogs welcome on leash."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5439,
+          44.0271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Greater Meredith Program Sculpture Walk Meredith NH",
         "icon": "landmark",
         "color": "purple",
@@ -9711,6 +9806,25 @@
         "coordinates": [
           -69.109049,
           44.10461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "In the Clover Wiscasset ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "High-end boutique on Main Street \u2014 luxury skincare, body care products, eco-friendly clothing, and accessories.",
+        "start_date_time": "",
+        "detail": "In the Clover\n\n\ud83d\udccd 85 Main Street, Wiscasset, ME\n\nA high-end boutique \u2014 luxury skincare, body care products, eco-friendly clothing, and accessories."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6656,
+          44.0028
         ]
       }
     },
@@ -17548,6 +17662,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Riverside Butcher Co Damariscotta ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Independent craft butcher on Main Street \u2014 premium meats, artisanal deli sandwiches, local cheeses, and a curated wine/beer selection.",
+        "start_date_time": "",
+        "detail": "Riverside Butcher Co.\n\n\ud83d\udccd 45 Main Street, Damariscotta, ME\n\nAn independent craft butcher shop on Main Street \u2014 premium cuts, artisanal deli sandwiches to go, local cheeses, and a curated wine/beer selection.\n\nTips\n- Good stop for picking up picnic/lodging-kitchen provisions, not just a sandwich counter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53319,
+          44.03318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Riverwalk Covered Bridge 1 Littleton NH",
         "icon": "landmark",
         "color": "purple",
@@ -17659,6 +17792,25 @@
         "coordinates": [
           -73.95247586083029,
           42.07763239328492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Paper Scissors Wiscasset ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Boutique stationer and gift shop on Main Street \u2014 fine paper goods, local artisan crafts, journals, and cards.",
+        "start_date_time": "",
+        "detail": "Rock Paper Scissors\n\n\ud83d\udccd 68 Main Street, Wiscasset, ME\n\nA boutique stationer and gift shop \u2014 fine paper goods, local artisan crafts, journals, and cards."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6659,
+          44.0031
         ]
       }
     },
@@ -18050,6 +18202,25 @@
         "coordinates": [
           -70.6157391,
           42.6596391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rue 77 Damariscotta ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Specialty espresso cafe on Main Street \u2014 Stumptown coffee, fresh-baked pastries, and gelato.",
+        "start_date_time": "",
+        "detail": "Rue 77\n\n\ud83d\udccd 77 Main Street, Damariscotta, ME\n\nSpecialty espresso drinks (Stumptown coffee), fresh-baked pastries, and gelato on Main Street.\n\nTips\n- Good mid-walk coffee/gelato break between the bookstores and the waterfront."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53264,
+          44.03296
         ]
       }
     },
@@ -19215,6 +19386,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sherman's Maine Coast Book Shop & Cafe Damariscotta ME",
+        "icon": "book",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Maine's oldest operating bookstore (since 1886), with an adjoining cafe serving coffee and baked goods alongside new books, gifts, and cards.",
+        "start_date_time": "",
+        "detail": "Sherman's Maine Coast Book Shop & Caf\u00e9\n\n\ud83d\udccd 158 Main Street, Damariscotta, ME\n\nMaine's oldest operating bookstore, open since 1886 \u2014 new books, gifts, and cards, with an adjoining caf\u00e9 for coffee and baked goods while you browse.\n\nTips\n- Distinct from Barn Door Baking Co.'s standalone breakfast/lunch restaurant further down Main St (212 Main St) \u2014 the caf\u00e9 here is the smaller in-store version.\n- Pet friendly.",
+        "website": "https://shermans.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53123,
+          44.03241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ship Harbor Nature Trail Acadia National Park ME",
         "icon": "footprints",
         "color": "green",
@@ -19332,6 +19523,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Simmons Seafood Market Damariscotta ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Fresh seafood market on Main Street selling local Maine lobster, oysters, fish, and prepared seafood dishes.",
+        "start_date_time": "",
+        "detail": "Simmons Seafood Market\n\n\ud83d\udccd 49 Main Street, Damariscotta, ME\n\nA fresh seafood market on Main Street \u2014 local Maine lobster, oysters, fish, and prepared seafood dishes to go.\n\nTips\n- Right next door to Riverside Butcher Co. \u2014 combine for a picnic/provisions stop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53312,
+          44.03315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Simon Pearce Quechee VT",
         "icon": "sandwich",
         "color": "red",
@@ -19431,11 +19641,11 @@
       "properties": {
         "name": "Skidompha Secondhand Book Shop Damariscotta ME",
         "icon": "book",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Shop",
         "description": "Used bookstore run by the Skidompha Public Library on Main Street Damariscotta, named \"Best Maine Used Bookstore\" by Yankee Magazine.",
         "start_date_time": "2026-08-10T16:00:00",
-        "detail": "Time: 2026-08-10T16:00:00\n\nSkidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine \u2014 a real editorial distinction, though online review counts are thin (under 15 across platforms, no reliable aggregate star rating), so `Rating` is intentionally left blank here rather than estimated.\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
+        "detail": "Time: 2026-08-10T16:00:00\n\nSkidompha Secondhand Book Shop\n\n\ud83d\udccd Main Street, Damariscotta, ME\n\nA used bookstore on Main Street run by the Skidompha Public Library, stocked with donated secondhand books. Named \"Best Maine Used Bookstore\" by Yankee Magazine. (Rating updated 2026-08-09 to 4.8 per Tom \u2014 the note previously left it blank since online review counts were thin.)\n\nTips\n- Proceeds support the Skidompha Public Library.\n- Coordinates are an approximate downtown-Main-Street match \u2014 no precise address geocode was available.\n- Easy pairing with other downtown Damariscotta Main Street stops."
       },
       "geometry": {
         "type": "Point",
@@ -20701,6 +20911,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sylvan Gallery Wiscasset ME",
+        "icon": "palette",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Contemporary fine art gallery on Main Street \u2014 oils, watercolors, pastels, sculpture, and photography by New England artists.",
+        "start_date_time": "",
+        "detail": "Sylvan Gallery\n\n\ud83d\udccd 60 Main Street, Wiscasset, ME\n\nFounded 2001 in Clinton, CT; relocated to Wiscasset in 2012. Represents a select group of fine contemporary New England artists \u2014 oils, watercolors, pastels, sculpture, and photography.\n\nTips\n- Distinct from Wiscasset Bay Gallery up the street (75 Main St) \u2014 this one is contemporary work, Wiscasset Bay skews historical/traditional.",
+        "website": "https://sylvangallery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.666,
+          44.0033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "T&M Viet House Palm Beach County FL",
         "icon": "sandwich",
         "color": "purple",
@@ -20715,6 +20945,25 @@
         "coordinates": [
           -80.1490974165183,
           26.588245894338268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TREATS Wiscasset ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Bakery, specialty food market, and coffee shop on Main Street \u2014 known for drop scones, artisan sandwiches, fine cheeses, and wine.",
+        "start_date_time": "",
+        "detail": "TREATS\n\n\ud83d\udccd 80 Main Street, Wiscasset, ME\n\nA local favorite \u2014 bakery, specialty food market, and coffee shop in one, known for drop scones, artisan sandwiches, and a well-curated cheese/wine selection.\n\nTips\n- Good picnic-provisioning stop before continuing on to Edgecomb/Damariscotta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6657,
+          44.0029
         ]
       }
     },
@@ -24462,6 +24711,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Widener Company Wiscasset ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Curated storefront on Main Street \u2014 vintage home decor, unique antiques, and handcrafted items.",
+        "start_date_time": "",
+        "detail": "Widener Company\n\n\ud83d\udccd 101 Main Street, Wiscasset, ME\n\nA curated storefront \u2014 vintage home decor, unique antiques, and handcrafted items."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6654,
+          44.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Widow Jane Mine Rosendale NY",
         "icon": "landmark",
         "color": "green",
@@ -24749,6 +25017,26 @@
         "coordinates": [
           -74.1361,
           41.8303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiscasset Bay Gallery Wiscasset ME",
+        "icon": "palette",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Fine art gallery established 1985 \u2014 19th-21st century American and European paintings, with an emphasis on Maine and Monhegan Island artists.",
+        "start_date_time": "",
+        "detail": "Wiscasset Bay Gallery\n\n\ud83d\udccd 75 Main Street, Wiscasset, ME (temporary location during repairs, per gallery's own site as of 2026-08)\n\nEstablished 1985 \u2014 two floors of 19th through 21st century American and European paintings, with an emphasis on Maine and Monhegan Island artists.\n\nTips\n- Distinct from Sylvan Gallery a few doors down (60 Main St) \u2014 this one skews historical/traditional, Sylvan skews contemporary.\n- Hours: Mon\u2013Sat 10am\u20135:30pm, Sun 11am\u20135pm (per gallery's site \u2014 verify before relying on it).",
+        "website": "https://wiscassetbaygallery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6658,
+          44.003
         ]
       }
     },
