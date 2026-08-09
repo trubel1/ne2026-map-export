@@ -6,37 +6,18 @@
       "properties": {
         "name": "18 Central Oyster Bar & Grill Rockport ME",
         "icon": "sandwich",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "",
+        "description": "High-end wood-fire grill and raw bar in the heart of Rockport Village, overlooking the harbor next to the Rockport Harbor Hotel.",
         "start_date_time": "",
-        "detail": "18 Central is a restaurant best known for its diverse seafood offerings, particularly oysters and mussels. It attracts a mixed crowd, including locals and tourists, often during casual dining occasions, especially on weekends. The overall vibe is relaxed and casual, with a friendly atmosphere, catering well to both individuals and small groups looking for a laid-back dining experience. \n\nPositives highlighted by patrons include the exceptional quality of the oysters, the flavorful mussels served with butter broth, and the good selection of cocktails. Additionally, the dessert, especially the bread pudding, receives positive mentions. \n\nCommon downsides noted include instances of slow service during busy times and occasional shortages of certain menu items, particularly oysters on weekends.",
+        "detail": "18 Central Oyster Bar & Grill\n\n\ud83d\udccd 18 Central Street, Rockport Village, ME (next to Rockport Harbor Hotel)\n\nA high-end wood-fire grill and raw bar in the heart of Rockport Village, drawing far fewer crowds than Camden's harbor restaurants despite excellent oysters and seafood.\n\nMust Order\n- Oysters\n- Mussels in butter broth\n- Bread pudding\n\nTips\n- Water views without Camden's wait times.\n- Reservations by phone only \u2014 (207) 466-9055.\n- Oysters can sell out by peak weekend hours.",
         "website": "https://www.google.com/maps/place/18+Central+Oyster+Bar+%26+Grill/@44.1876048,-69.0733086,256m/data=!3m1!1e3!4m6!3m5!1s0x4cadd72ff7f9d885:0x4209497031a90fdb!8m2!3d44.1875205!4d-69.0722033!16s%2Fg%2F11c45vm25d?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.07220528451393,
-          44.187603526301345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "18th Central Oyster Bar and Grill Rockport ME",
-        "icon": "utensils",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Genuine water-view restaurant next to Rockport Harbor Hotel drawing far fewer crowds than Camden's harbor restaurants despite excellent oysters and seafood.",
-        "start_date_time": "",
-        "detail": "18th Central Oyster Bar & Grill\n\n\ud83d\udccd Rockport Harbor, Rockport, ME (next to Rockport Harbor Hotel)\n\nA genuine water-view restaurant drawing far fewer crowds than Camden's harbor restaurants despite excellent oysters and seafood. Water-adjacent without the wait times of the bigger harbor spots.\n\nTips\n- Water views without Camden's crowds\n- Excellent oyster selection\n- Local seafood focus\n- Better wait times than Camden\n- Harbor-adjacent location"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.0994,
-          44.1776
+          -69.0722033,
+          44.1876048
         ]
       }
     },
@@ -255,6 +236,25 @@
         "coordinates": [
           -68.3196,
           44.3196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ada's Kitchen Rockland ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Popular Italian bistro on Main Street \u2014 fresh house-made pasta, wood-fired pizzas, and craft cocktails.",
+        "start_date_time": "",
+        "detail": "Ada's Kitchen\n\n\ud83d\udccd 449 Main Street, Rockland, ME\n\nA popular Italian bistro on Main Street \u2014 fresh house-made pasta, wood-fired pizzas, and craft cocktails."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1078,
+          44.105
         ]
       }
     },
@@ -980,6 +980,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Atlantic Baking Company Rockland ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Artisan bakery on Main Street known for sourdough breads, croissants, quiches, and crullers.",
+        "start_date_time": "",
+        "detail": "Atlantic Baking Company\n\n\ud83d\udccd 351 Main Street, Rockland, ME\n\nAn artisan bakery on Main Street known for sourdough breads, croissants, quiches, and crullers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1074,
+          44.1024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Atlantic Brewing Company Tasting Room Town Hill ME",
         "icon": "gem",
         "color": "red",
@@ -1542,6 +1561,25 @@
         "coordinates": [
           -69.5303,
           44.03204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barnswallow Books Rockport ME",
+        "icon": "book",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Highly rated independent bookstore in a historic restored barn, known for its outdoor garden seating and author talks.",
+        "start_date_time": "",
+        "detail": "Barnswallow Books\n\n\ud83d\udccd 166 Russell Avenue, Rockport, ME (near the Village)\n\nAn independent bookstore set in a historic restored barn \u2014 outdoor garden seating and regular author talks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0742,
+          44.1858
         ]
       }
     },
@@ -9438,13 +9476,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Home Kitchen Cafe",
+        "name": "Home Kitchen Bakery & Cafe Rockland ME",
         "icon": "sandwich",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "Home Kitchen Cafe is a breakfast restaurant offering American-style breakfast and lunch. Prices range from $20 to $30, and it is open for lunch until 3 PM but closed for dinner.",
+        "description": "Famous breakfast and lunch spot on Main Street, renowned for huge cinnamon rolls, sticky buns, huevos rancheros, and scratch pastries.",
         "start_date_time": "",
-        "detail": "Home Kitchen Cafe is a breakfast restaurant offering American-style breakfast and lunch. Prices range from $20 to $30, and it is open for lunch until 3 PM but closed for dinner.",
+        "detail": "Home Kitchen Bakery & Caf\u00e9\n\n\ud83d\udccd 606 Main Street, Rockland, ME\n\nFamous breakfast and lunch joint renowned for huge cinnamon rolls, sticky buns, huevos rancheros, and scratch pastries. Open for lunch until 3pm, closed for dinner.\n\nMust Order\n- Cinnamon rolls and sticky buns\n- Huevos rancheros",
         "website": "https://www.google.com/maps/place/Home+Kitchen+Cafe/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadd1d63e9160e1:0x3e5b1c9ad8dfce1f!8m2!3d44.1103452!4d-69.1093962!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBFGJyZWFrZmFzdF9yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJreGNFMUdhR3RpVjJoWVRtcG5kRkZyUlhkVU1VSlhUa1V4VUZOc1JSQULgAQD6AQQIJhBE!16s%2Fg%2F1wc30vcj?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -9777,29 +9815,9 @@
         "icon": "sandwich",
         "color": "purple",
         "vault_type": "Restaurant",
-        "description": "Intimate candlelit wine bar with an inventive small-plates menu and standout cocktail list.",
+        "description": "Long-standing upscale wine bar and tapas restaurant in a restored bank building, famous for daily curated menus.",
         "start_date_time": "",
-        "detail": "In Good Company\n\n\ud83d\udccd Rockland ME\n\nIntimate candlelit wine bar with an inventive small-plates menu and standout cocktail list.\n\nMust Order\n- Small plates for sharing\n- Seasonal cocktail menu\n\nTips\n- Reservations recommended on weekends.\n- Walking distance from Farnsworth Art Museum."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.1086,
-          44.1042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "In Good Company",
-        "icon": "utensils",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "In Good Company is a restaurant offering modern American cuisine with a price range of $40\u201350 per person. It is open for dinner starting at 4:30 PM.",
-        "start_date_time": "",
-        "detail": "In Good Company is a restaurant offering modern American cuisine with a price range of $40\u201350 per person. It is open for dinner starting at 4:30 PM.",
-        "website": "https://www.google.com/maps/place/In+Good+Company/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadce28bdeacc87:0x9d94c762ce7c4dde!8m2!3d44.10461!4d-69.109049!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnRTWmxwWGMzcE5Na1pOVjBNeFNXUnJhR3BPYmxreVVrWm9ZVkl3UlJBQuABAPoBBAhOEEM!16s%2Fg%2F1tgxhnp3?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "In Good Company\n\n\ud83d\udccd 415 Main Street, Rockland, ME\n\nAn upscale, long-standing wine bar and tapas restaurant housed in a restored bank building, known for daily curated menus, an inventive small-plates list, and a standout cocktail selection. Open for dinner starting at 4:30pm.\n\nMust Order\n- Small plates for sharing\n- Seasonal cocktail menu\n\nTips\n- Reservations recommended on weekends.\n- Walking distance from Farnsworth Art Museum."
       },
       "geometry": {
         "type": "Point",
@@ -12382,6 +12400,25 @@
         "coordinates": [
           -71.185,
           44.1599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maiden Cliff Trail Camden ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "One of Maine's most famous short hikes \u2014 an 800-ft sheer granite cliff marked by a giant white cross, with panoramic views over Lake Megunticook.",
+        "start_date_time": "",
+        "detail": "Maiden Cliff Trail\n\n\ud83d\udccd Trailhead on ME-52, ~2.8 mi from US-1/ME-52 junction, Camden, ME\n\n~1.9 mi round trip, moderate (a short uphill section, well under 3mi). One of the most famous short hikes in Maine \u2014 climbs to an 800-foot sheer granite cliff marked by a giant white cross, with staggering panoramic views over Lake Megunticook and the surrounding mountains.\n\nTips\n- Paved trailhead lot, no restrooms.\n- Right in Camden itself \u2014 no need to drive far from base camp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.08751,
+          44.24708
         ]
       }
     },
@@ -17759,6 +17796,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rock City Coffee Rockland ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Main Street's iconic independent coffee house and roaster, with a cozy bookstore feel.",
+        "start_date_time": "",
+        "detail": "Rock City Coffee\n\n\ud83d\udccd 316 Main Street, Rockland, ME\n\nMain Street's iconic independent coffee house and roaster \u2014 cozy, bookstore-like atmosphere."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.108,
+          44.1032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rock City Milan NY",
         "icon": "landmark",
         "color": "green",
@@ -17855,26 +17911,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rockland Breakwater Lighthouse",
-        "icon": "landmark",
-        "color": "purple",
-        "vault_type": "Attraction",
-        "description": "Rockland Breakwater Lighthouse is a scenic historic landmark with tours available. It does not serve food or alcohol and closes at 5 PM, making it unavailable for lunch or dinner.",
-        "start_date_time": "",
-        "detail": "Rockland Breakwater Lighthouse is a scenic historic landmark with tours available. It does not serve food or alcohol and closes at 5 PM, making it unavailable for lunch or dinner.",
-        "website": "https://www.google.com/maps/place/Rockland+Breakwater+Lighthouse/@44.0854401,-69.2008324,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sattractions!5m1!4e9!6e1!3m6!1s0x4cadd1fd0bc9cef3:0x87c69201b34f76b5!8m2!3d44.1040544!4d-69.0774748!15sCgthdHRyYWN0aW9uc1oNIgthdHRyYWN0aW9uc5IBEnRvdXJpc3RfYXR0cmFjdGlvbpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyMXdjRTFYVGpCT01uaExXVlU1VldOR1pFcFdWWEJWVFVaTk1GZFdSUkFC4AEA-gEECAAQMw!16s%2Fm%2F025_qmf?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.0774748,
-          44.1040544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Rockland Farmers Market Rockland ME",
         "icon": "shopping-basket",
         "color": "green",
@@ -17928,6 +17964,25 @@
         "coordinates": [
           -69.1072097,
           44.0994847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockport Coffee Company Rockport ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Boutique local coffee house near Rockport Village with freshly baked pastries and espresso.",
+        "start_date_time": "",
+        "detail": "Rockport Coffee Company\n\n\ud83d\udccd Main Street / Pascal Avenue, Rockport, ME\n\nA boutique local coffee house \u2014 freshly baked pastries and espresso, near the village center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0755,
+          44.1868
         ]
       }
     },
@@ -18502,13 +18557,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sammy's Deluxe",
+        "name": "Sammy's Deluxe Rockland ME",
         "icon": "utensils",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "Sammy's Deluxe is a restaurant in Rockland, Maine that offers farm-to-table cuisine with a focus on local ingredients. The price range is $40\u201350 per person, and it opens for dinner at 5 PM on Wednesdays and is closed on most other days. They likely serve alcohol, but this is not specified.",
+        "description": "Acclaimed, cozy bistro on Main Street serving creative, unpretentious, seasonal Maine comfort food and local seafood.",
         "start_date_time": "",
-        "detail": "Sammy's Deluxe is a restaurant in Rockland, Maine that offers farm-to-table cuisine with a focus on local ingredients. The price range is $40\u201350 per person, and it opens for dinner at 5 PM on Wednesdays and is closed on most other days. They likely serve alcohol, but this is not specified.",
+        "detail": "Sammy's Deluxe\n\n\ud83d\udccd 252 Main Street, Rockland, ME\n\nAn acclaimed, cozy bistro serving creative, unpretentious, seasonal Maine comfort food and local seafood \u2014 fun and funky, with great music.\n\nMust Order\n- Cod and crab toast\n\nTips\n- Reservations via Tock, dinner only.",
         "website": "https://www.google.com/maps/place/Sammy's+Deluxe/@44.10602,-69.1121499,17z/data=!3m1!4b1!4m6!3m5!1s0x4cadce28f1411477:0x8772e51cc7d5c29d!8m2!3d44.10602!4d-69.109575!16s%2Fg%2F11bzz4t52_?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -19145,6 +19200,25 @@
         "coordinates": [
           -69.0994,
           44.1776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seafolk Coffee Rockport ME",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Light-filled cafe with a back deck overlooking Rockport Harbor, serving specialty coffee and breakfast toasts.",
+        "start_date_time": "",
+        "detail": "Seafolk Coffee\n\n\ud83d\udccd 22 Central Street, Rockport, ME\n\nA light-filled cafe with a back deck overlooking Rockport Harbor \u2014 specialty coffee and breakfast toasts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0748,
+          44.1862
         ]
       }
     },
@@ -24219,6 +24293,25 @@
         "coordinates": [
           -73.576079,
           41.773988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasses Hot Dogs Rockland ME",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Iconic Maine food stand since 1972 \u2014 classic pan-fried hot dogs with grilled onions, fried in peanut oil.",
+        "start_date_time": "",
+        "detail": "Wasses Hot Dogs\n\n\ud83d\udccd 2 North Main Street, Rockland, ME\n\nAn iconic Maine food stand since 1972 \u2014 classic pan-fried hot dogs with grilled onions, cooked in peanut oil.\n\nTips\n- Quick, cheap, cash-and-carry \u2014 a Maine institution more than a sit-down meal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1088,
+          44.1046
         ]
       }
     },
