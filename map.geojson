@@ -3565,6 +3565,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Camden Harbor Cruises Camden ME",
+        "icon": "ship",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Narrated boat tours aboard the restored lobster yacht Lively Lady (also runs Periwinkle), touring Penobscot Bay and Camden's working waterfront from Public Landing.",
+        "start_date_time": "",
+        "detail": "Camden Harbor Cruises\n\n\ud83d\udccd 15 Public Landing, Camden, ME 04843\n\nNarrated boat tours aboard the restored lobster yacht Lively Lady (the operation also runs Periwinkle), departing Camden's Public Landing to explore Penobscot Bay and the town's working waterfront.\n\nTips\n- Roughly 1-hour trips, family-friendly with shaded seating\n- Departs right from Public Landing in downtown Camden \u2014 easy to combine with a walk around the harbor",
+        "website": "https://www.camdenharborcruises.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0633,
+          44.2098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Camden Hills State Park (Mount Battie) Camden ME",
         "icon": "mountain",
         "color": "purple",
@@ -3598,6 +3618,26 @@
         "coordinates": [
           -69.06542925704015,
           44.21008103134839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden Opera House Camden ME",
+        "icon": "ticket",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Multi-use performance venue and municipal building in downtown Camden hosting concerts, theater, and community events.",
+        "start_date_time": "",
+        "detail": "Camden Opera House\n\n\ud83d\udccd 29 Elm St, Camden, ME 04843\n\nMulti-use performance venue and municipal building in downtown Camden, hosting concerts, theater, and community events year-round.\n\nTips\n- Check the calendar ahead of the trip \u2014 worth building an evening around if something's on",
+        "website": "http://camdenoperahouse.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0657,
+          44.2092
         ]
       }
     },
@@ -3990,6 +4030,26 @@
         "coordinates": [
           -73.99447832650473,
           41.9110205935254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castle Tucker Wiscasset ME",
+        "icon": "scroll",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "1807 Georgian mansion above the Sheepscot River, run as a historic house museum by Historic New England \u2014 tells the story of the Tucker shipping family, 1858\u20132004. Open Jun 1\u2013Oct 15, Fri\u2013Sun, 11am\u20133pm.",
+        "start_date_time": "",
+        "detail": "Castle Tucker\n\n\ud83d\udccd 2 Lee St, Wiscasset, ME 04578\n\nAn 1807 Georgian mansion perched above the Sheepscot River, operated as a historic house museum by Historic New England. Tells the story of the Tucker shipping family, who lived there from 1858 to 2004.\n\nTips\n- Open June 1\u2013Oct 15, Friday\u2013Sunday, 11am\u20133pm only \u2014 plan around it\n- Pairs well with a walk through downtown Wiscasset",
+        "website": "https://www.historicnewengland.org/property/castle-tucker/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6706,
+          44.0027
         ]
       }
     },
@@ -4540,6 +4600,26 @@
         "coordinates": [
           -72.4049,
           42.9141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chewonki Campground Wiscasset ME",
+        "icon": "hotel",
+        "color": "green",
+        "vault_type": "Lodging",
+        "description": "Family campground on 50 acres along a saltwater inlet, run by the Brackett family since 1961 \u2014 47 sites, many overlooking the Montsweag River.",
+        "start_date_time": "",
+        "detail": "Chewonki Campground\n\n\ud83d\udccd 235 Chewonki Neck Rd, Wiscasset, ME 04578\n\nFamily campground on 50 acres along a saltwater inlet, operated by the Brackett family since 1961. 47 sites, many overlooking the Montsweag River.",
+        "website": "http://www.chewonkicampground.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7183,
+          43.9558
         ]
       }
     },
@@ -5563,6 +5643,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Damariscotta River Cruises Damariscotta ME",
+        "icon": "ship",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Narrated cruises on the Damariscotta River, known for oyster-farm and wildlife viewing (seals, eagles).",
+        "start_date_time": "",
+        "detail": "Damariscotta River Cruises\n\n\ud83d\udccd 47 Main St, Damariscotta, ME 04543\n\nNarrated boat cruises on the Damariscotta River, known especially for oyster-farm and wildlife viewing \u2014 seals and eagles are common sightings.\n\nTips\n- Good pairing with a stop at Sherman's or Ann's on Main Street before/after",
+        "website": "https://damariscottarivercruises.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5331,
+          44.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Damariscotta River Grill Damariscotta ME",
         "icon": "sandwich",
         "color": "red",
@@ -6190,6 +6290,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dolphin Mini Golf Boothbay ME",
+        "icon": "ticket",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Mini golf course open since 1991, daily noon\u20139pm.",
+        "start_date_time": "",
+        "detail": "Dolphin Mini Golf\n\n\ud83d\udccd 510 Wiscasset Rd, Boothbay, ME 04537\n\nMini golf course open since 1991, running daily from noon to 9pm \u2014 a straightforward family evening activity in the Boothbay area.\n\nTips\n- Easy add-on for an evening after a day on the water in Boothbay Harbor",
+        "website": "https://dolphinminigolf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6164,
+          43.9073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dos Gatos Gastropub",
         "icon": "wine",
         "color": "purple",
@@ -6339,6 +6459,26 @@
         "coordinates": [
           -70.02687267112421,
           41.67909806646334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duck Puddle Campgrounds Nobleboro ME",
+        "icon": "hotel",
+        "color": "green",
+        "vault_type": "Lodging",
+        "description": "Waterfront campground on Pemaquid Lake, 1.5 mi off coastal Route 1, ~5 mi from Damariscotta.",
+        "start_date_time": "",
+        "detail": "Duck Puddle Campgrounds\n\n\ud83d\udccd 60 Campground Rd, Nobleboro, ME 04555\n\nWaterfront campground on Pemaquid Lake, about 1.5 miles off coastal Route 1 and roughly 5 miles from Damariscotta.",
+        "website": "http://www.duckpuddlecampground.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4583,
+          44.0742
         ]
       }
     },
@@ -6809,6 +6949,26 @@
         "coordinates": [
           -70.2611,
           43.6558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinox Guiding Service Camden ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "AMGA-accredited rock/ice climbing guide service \u2014 the only one headquartered in Camden \u2014 leading guided climbs on Camden Hills terrain plus trips to Acadia and Katahdin.",
+        "start_date_time": "",
+        "detail": "Equinox Guiding Service\n\n\ud83d\udccd 20 Mechanic St, Camden, ME 04843\n\nAMGA-accredited rock and ice climbing guide service founded in 2017 \u2014 the only such outfit headquartered in Camden. Leads guided climbs and instruction on Camden Hills terrain (including Barrett's Cove Cliff) as well as trips further afield to Acadia and Katahdin, for all experience levels.\n\nTips\n- Good option if the trip wants one real adventure/adrenaline day mixed into an otherwise laid-back coastal itinerary\n- Book ahead \u2014 small guide operation",
+        "website": "https://equinoxguidingservice.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.066,
+          44.21
         ]
       }
     },
@@ -11009,6 +11169,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lake Pemaquid Camping Damariscotta ME",
+        "icon": "hotel",
+        "color": "green",
+        "vault_type": "Lodging",
+        "description": "Campground on 150 wooded acres with 200+ sites plus cabin/cottage rentals; pool, sauna, snack bar, camp store.",
+        "start_date_time": "",
+        "detail": "Lake Pemaquid Camping\n\n\ud83d\udccd 100 Twin Cove Ln, Damariscotta, ME 04543\n\nCampground on 150 wooded acres with 200+ sites plus cabin and cottage rentals. Amenities include a pool, sauna, snack bar, and camp store.",
+        "website": "http://lakepemaquid.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4598,
+          44.0312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lake Sonopee, New Hampshire Woodstock VT",
         "icon": "waves",
         "color": "green",
@@ -12582,6 +12762,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Maine Tasting Center Wiscasset ME",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Interactive education center exploring Maine's food and drink industries through exhibits, guided tastings, and classes.",
+        "start_date_time": "",
+        "detail": "Maine Tasting Center\n\n\ud83d\udccd 506 Old Bath Rd, Wiscasset, ME 04578\n\nInteractive education center exploring Maine's food and drink industries through exhibits, guided tastings, classes, and public events.\n\nTips\n- Good rainy-day option on the way in/out of Wiscasset on Route 1",
+        "website": "https://www.mainetastingcenter.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7055,
+          43.9796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Major Jacob Hasbrouck Jr House New Paltz NY",
         "icon": "scroll",
         "color": "green",
@@ -12993,6 +13193,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Megunticook Falls Camden ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Waterfall where the Megunticook River drops over a dam into Camden Harbor, viewable from a small park right behind Main Street's shops \u2014 easy, free, quick stop.",
+        "start_date_time": "",
+        "detail": "Megunticook Falls\n\n\ud83d\udccd Behind Main St shops, Camden, ME 04843\n\nA waterfall where the Megunticook River drops over a dam directly into Camden Harbor, viewable from a small park tucked right behind the Main Street shops. Free, quick, and easy to fold into a downtown Camden walk.\n\nTips\n- Look for the small access path behind the Main St shops near the harbor\n- Flow is more dramatic after rain / spring snowmelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0643,
+          44.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Megunticook Market and Catering",
         "icon": "sandwich",
         "color": "red",
@@ -13125,6 +13344,26 @@
         "coordinates": [
           -73.9391975,
           41.708808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midcoast Kayak Damariscotta ME",
+        "icon": "waves",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Sea kayak rentals, instruction, and guided eco-tours (incl. daily sunset tours) with Registered Maine Guides on Muscongus Bay / the Damariscotta River. Also rents paddleboards and canoes.",
+        "start_date_time": "",
+        "detail": "Midcoast Kayak\n\n\ud83d\udccd 47 Main St, Damariscotta, ME 04543 (retail; tours depart Muscongus Harbor, Bremen)\n\nSea kayak rentals, instruction, and full/half-day guided eco-tours \u2014 including daily sunset tours \u2014 with Registered Maine Guides, mainly on Muscongus Bay and the Damariscotta River. Also rents paddleboards and canoes.\n\nTips\n- Retail shop is on Main St, Damariscotta; guided tours actually depart from Muscongus Harbor in Bremen \u2014 confirm meeting point when booking",
+        "website": "https://midcoastkayak.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5331,
+          44.033
         ]
       }
     },
@@ -13539,6 +13778,25 @@
         "coordinates": [
           -69.32044,
           43.76341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkey C Monkey Do Wiscasset ME",
+        "icon": "ticket",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Aerial adventure/ropes course park with zipline elements, open daily 10am\u20135pm.",
+        "start_date_time": "",
+        "detail": "Monkey C Monkey Do\n\n\ud83d\udccd 698 Bath Rd, Wiscasset, ME 04578\n\nAerial adventure and ropes-course park with zipline elements, open daily 10am\u20135pm.\n\nTips\n- Good active/outdoor option if the trip wants something more physical than another museum stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7119,
+          43.9716
         ]
       }
     },
@@ -15204,6 +15462,26 @@
         "coordinates": [
           -68.189828,
           44.310803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otyokwa Cabins Bremen ME",
+        "icon": "hotel",
+        "color": "purple",
+        "vault_type": "Lodging",
+        "description": "Historic lakeside cabin retreat on Lake Pemaquid with private shoreline and preserved early-1900s camp buildings; also offers houseboat rentals.",
+        "start_date_time": "",
+        "detail": "Otyokwa Cabins\n\n\ud83d\udccd 244 Nobleboro Rd, Bremen, ME 04551\n\nHistoric lakeside cabin retreat on Lake Pemaquid with private shoreline and a cluster of preserved early-20th-century camp buildings. Also offers houseboat rentals.",
+        "website": "https://www.otyokwamaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4313,
+          44.0487
         ]
       }
     },
@@ -18617,6 +18895,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sammi's Family Entertainment Waldoboro ME",
+        "icon": "ticket",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Family entertainment center with candlepin bowling, arcade games, pool tables, and a small food/drink menu. ~13 mi from Damariscotta.",
+        "start_date_time": "",
+        "detail": "Sammi's Family Entertainment\n\n\ud83d\udccd 402 Friendship Rd, Waldoboro, ME 04572\n\nFamily entertainment center offering candlepin bowling, arcade games, pool tables, and a small food/drink menu, in Waldoboro (roughly 13 miles from Damariscotta).",
+        "website": "https://sammis-family-entertainment-center.square.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3742,
+          44.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sammy's Deluxe Rockland ME",
         "icon": "utensils",
         "color": "purple",
@@ -19168,6 +19466,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schooner Appledore II Camden ME",
+        "icon": "ship",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Classic two-masted wooden schooner offering day sails, sunset sails, and customizable private charters from Camden Harbor \u2014 by far the most-reviewed boat tour on this list (2,700+ reviews).",
+        "start_date_time": "",
+        "detail": "Schooner Appledore II\n\n\ud83d\udccd 18 Bayview Landing, Camden, ME 04843\n\nClassic two-masted wooden schooner offering day sails, sunset sails, and fully customizable private charters from Camden Harbor. By far the most-reviewed boat operator in the area (2,700+ reviews) \u2014 the vessel winters in Key West, FL and returns to Maine each summer.\n\nTips\n- Sunset sail is the standout option if only doing one Camden Harbor cruise\n- Books up \u2014 reserve ahead in peak season",
+        "website": "https://appledore2.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0637,
+          44.2092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schooner Head Overlook and Anemone Cave Acadia National Park ME",
         "icon": "mountain",
         "color": "purple",
@@ -19182,6 +19500,66 @@
         "coordinates": [
           -68.1761,
           44.3456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schooner Lazy Jack Camden ME",
+        "icon": "ship",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "58-foot schooner built 2004 \u2014 romantic 2-hour daysails and charters on Penobscot Bay from Camden's Public Landing, daily June\u2013October.",
+        "start_date_time": "",
+        "detail": "Schooner Lazy Jack\n\n\ud83d\udccd 15 Public Landing, Camden, ME 04843\n\n58-foot schooner Lazy Jack II, built by Captain Sean O'Connor in 2004. Offers relaxed, romantic 2-hour daysails and private charters on Penobscot Bay from Camden's Public Landing, running daily June through October.\n\nTips\n- Smaller and more intimate than the big windjammers \u2014 good for couples or small groups\n- Book ahead in peak summer",
+        "website": "https://schoonerlazyjack.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0633,
+          44.2098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schooner Olad & Cutter Owl Camden ME",
+        "icon": "ship",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Two vessels under one operation: the restored 1927 yacht Olad runs 2-hour public sails/charters for up to 22; the 1941 John Alden-designed Cutter Owl carries up to 6.",
+        "start_date_time": "",
+        "detail": "Schooner Olad & Cutter Owl\n\n\ud83d\udccd 1 Bayview Landing, Camden, ME 04843\n\nTwo vessels run under one operation out of Camden Harbor: the restored 1927 yacht Olad offers 2-hour public sails and charters for up to 22 passengers, while the 1941 John Alden\u2013designed Cutter Owl is a more intimate charter for up to 6 guests.\n\nTips\n- Olad for a bigger public sail, Cutter Owl for a small private group\n- Retail/booking office at 29 Main St, Camden",
+        "website": "https://www.maineschooners.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0637,
+          44.2092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schooner Surprise Camden ME",
+        "icon": "ship",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Two-masted schooner built 1917\u201318, one of few surviving vessels designed by naval architect Thomas F. McManus \u2014 2-hour public day sails and private charters for up to 18.",
+        "start_date_time": "",
+        "detail": "Schooner Surprise\n\n\ud83d\udccd 1 Bay View St, Camden Harbor, ME 04843\n\nTwo-masted schooner built 1917\u201318, one of the few surviving vessels designed by noted naval architect Thomas F. McManus. Runs relaxed 2-hour public day sails and private charters on Penobscot Bay for up to 18 passengers.\n\nTips\n- Historic vessel \u2014 the McManus pedigree is a real draw for sailing enthusiasts\n- Departs Camden Harbor",
+        "website": "https://www.schoonersurprise.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0633,
+          44.2106
         ]
       }
     },
@@ -21006,6 +21384,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sweetz & More Wiscasset ME",
+        "icon": "shopping-bag",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "Billed as New England's largest candy store, opened 2023 in the former Big Al's Super Store building on Route 1.",
+        "start_date_time": "",
+        "detail": "Sweetz & More\n\n\ud83d\udccd 298 US Route 1, Wiscasset, ME 04578\n\nBilled as New England's largest candy store, opened in 2023 in the former Big Al's Super Store building right on Route 1.\n\nTips\n- Easy stop for kids on the Route 1 drive through Wiscasset",
+        "website": "https://sweetzandmore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6875,
+          43.9931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Swift River Covered Bridge Albany NH",
         "icon": "scroll",
         "color": "green",
@@ -21235,6 +21633,26 @@
         "coordinates": [
           -71.77064351328127,
           44.306036484263146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tandem Glass Gallery & Studio Dresden ME",
+        "icon": "palette",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Contemporary blown-glass gallery and working studio, ~10 mi from Wiscasset \u2014 watch glassblowing in the adjacent active studio while browsing museum-quality pieces. Open daily 10am\u20135pm.",
+        "start_date_time": "",
+        "detail": "Tandem Glass Gallery & Studio\n\n\ud83d\udccd 6 Eagle Lodge Ln, Dresden, ME 04342\n\nContemporary blown-glass gallery and working studio in a 2,000 sq ft space, about 10 miles from Wiscasset. Visitors can watch glassblowing happening in the adjacent active studio while browsing museum-quality glass pieces.\n\nTips\n- Open daily 10am\u20135pm",
+        "website": "https://www.tandemglass.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7282,
+          44.1021
         ]
       }
     },
@@ -21516,6 +21934,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Art of Antiquing Round Pond ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Antiques and home-furnishings shop in Round Pond village. Seasonal May\u2013October; by appointment year-round.",
+        "start_date_time": "",
+        "detail": "The Art of Antiquing\n\n\ud83d\udccd 4 Back Shore Rd, Round Pond, ME 04564\n\nAntiques and home-furnishings shop in the small harbor village of Round Pond.\n\nTips\n- Open seasonally May\u2013October; by appointment the rest of the year \u2014 call (207) 529-5300\n- Pairs well with a stop at Walpole Barn",
+        "website": "https://theartofantiquing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4599,
+          43.9478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Aviary Kinderhook 1 NY",
         "icon": "sandwich",
         "color": "purple",
@@ -21629,6 +22067,26 @@
         "coordinates": [
           -71.6837,
           44.1032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Beach Plum Company Newcastle ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Gift shop on Newcastle's Main Street selling home goods, candles, and coastal-themed gifts.",
+        "start_date_time": "",
+        "detail": "The Beach Plum Company\n\n\ud83d\udccd 77 Main St, Suite B, Newcastle, ME 04553\n\nGift shop on Newcastle's Main Street, just across the river from Damariscotta, selling home goods, candles, and coastal-themed gifts.",
+        "website": "https://beachplumcompany.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5349,
+          44.0337
         ]
       }
     },
@@ -23203,6 +23661,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tops'l Farm Waldoboro ME",
+        "icon": "users",
+        "color": "purple",
+        "vault_type": "Venue",
+        "description": "83-acre working farm hosting multi-day retreat weddings/events \u2014 Farmhouse, Farm Cottage, 11 woodland cabins sleeping 34, sauna/cold-plunge Meadowhouse, farm-grown meals. Private event venue, not a drop-in stop.",
+        "start_date_time": "",
+        "detail": "Tops'l Farm\n\n\ud83d\udccd 365 Bremen Rd, Waldoboro, ME 04572\n\n83-acre working farm hosting multi-day retreat-style weddings and events: a Farmhouse, Farm Cottage, and 11 woodland cabins sleeping 34 total, plus a sauna/cold-plunge Meadowhouse and farm-grown meals.\n\nTips\n- Private-event venue, not a drop-in attraction \u2014 only relevant if attending or booking an event here",
+        "website": "https://www.topslfarm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3905,
+          44.086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Trackside Station Rockland ME",
         "icon": "utensils",
         "color": "red",
@@ -23236,6 +23714,26 @@
         "coordinates": [
           -74.2142,
           41.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trapt Escape Rooms Rockport ME",
+        "icon": "ticket",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Six themed escape rooms plus pool tables and a full arcade \u2014 Midcoast's main escape-room destination.",
+        "start_date_time": "",
+        "detail": "Trapt Escape Rooms\n\n\ud83d\udccd 461 Commercial St, Rockport, ME 04856\n\nSix themed escape rooms plus pool tables and a full arcade \u2014 the main escape-room destination in the Midcoast area. A good bailout option for a rainy afternoon or an evening activity with a group.\n\nTips\n- Book ahead \u2014 rooms fill up, especially weekends\n- Good rainy-day or evening bailout activity",
+        "website": "https://traptinmaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0811,
+          44.1703
         ]
       }
     },
@@ -24202,6 +24700,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Walpole Barn Walpole ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Retail shop specializing in fine wine, oysters, gifts, and home accessories, with wine-and-oyster service. Hours vary by day, closed Tuesdays.",
+        "start_date_time": "",
+        "detail": "Walpole Barn\n\n\ud83d\udccd 135 State Rt 129, Walpole, ME 04573\n\nRetail shop specializing in fine wine, oysters, gifts, and home accessories, with a recently added wine-and-oyster service counter.\n\nTips\n- Hours vary by day \u2014 closed Tuesdays, check before making a special trip\n- Near Round Pond / South Bristol \u2014 easy to combine with The Art of Antiquing",
+        "website": "https://walpolebarn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5426,
+          43.9855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Walter's Cafe Brunswick ME",
         "icon": "coffee",
         "color": "purple",
@@ -24235,6 +24753,26 @@
         "coordinates": [
           -69.5311,
           44.0324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanderwood Nobleboro ME",
+        "icon": "users",
+        "color": "purple",
+        "vault_type": "Venue",
+        "description": "Event venue and organic farm minutes from Damariscotta/Newcastle, hosting weddings and family gatherings with a sustainability focus. Private-event venue, not open for casual visits.",
+        "start_date_time": "",
+        "detail": "Wanderwood\n\n\ud83d\udccd 79 Sidelinger Rd, Nobleboro, ME 04555\n\nEvent venue and organic farm minutes from Damariscotta and Newcastle, hosting weddings, elopements, and family gatherings with an emphasis on sustainability.\n\nTips\n- Private-event venue \u2014 not open for casual drop-in visits, only relevant if attending or hosting an event here",
+        "website": "https://www.wanderwoodmaine.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4713,
+          44.0781
         ]
       }
     },
@@ -25195,6 +25733,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wiscasset Antiques Mall Wiscasset ME",
+        "icon": "shopping-bag",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "Three-floor group antiques mall with nearly 100 dealers.",
+        "start_date_time": "",
+        "detail": "Wiscasset Antiques Mall\n\n\ud83d\udccd 536 Bath Rd, Wiscasset, ME 04578\n\nThree-floor group antiques mall with nearly 100 dealers under one roof.",
+        "website": "http://www.wiscassetantiquesmallme.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7021,
+          43.9808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wiscasset Bay Gallery Wiscasset ME",
         "icon": "palette",
         "color": "purple",
@@ -25215,6 +25773,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wiscasset Community Playground Wiscasset ME",
+        "icon": "users",
+        "color": "green",
+        "vault_type": "Park",
+        "description": "Town-run community playground and recreation area.",
+        "start_date_time": "",
+        "detail": "Wiscasset Community Playground\n\n\ud83d\udccd 242 Gardiner Rd, Wiscasset, ME 04578\n\nTown-run community playground and recreation area \u2014 a practical stop if traveling with kids who need to burn energy.",
+        "website": "https://www.wiscasset.gov/191/Recreation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6722,
+          44.0206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wiscasset Old Jail & Museum Wiscasset ME",
         "icon": "landmark",
         "color": "green",
@@ -25228,6 +25806,46 @@
         "coordinates": [
           -69.6669,
           44.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiscasset Waterville & Farmington Railway Museum Alna ME",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Museum",
+        "description": "Volunteer-run museum and operating narrow-gauge steam railway preserving the historic WW&F line \u2014 train rides through the Sheepscot Valley on restored track. ~10 min north of Wiscasset village.",
+        "start_date_time": "",
+        "detail": "Wiscasset, Waterville & Farmington Railway Museum\n\n\ud83d\udccd 97 Cross Rd, Sheepscot Station, Alna, ME 04535\n\nVolunteer-run museum and operating narrow-gauge steam railway preserving the historic Wiscasset, Waterville & Farmington line. Offers train rides on restored track through the Sheepscot Valley \u2014 about 10 minutes north of Wiscasset village in Alna.\n\nTips\n- Check the seasonal operating schedule before visiting \u2014 not open daily\n- Good pairing with a Wiscasset Main Street stop",
+        "website": "https://wordpress.wwfry.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6228,
+          44.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiscasset Woods Lodge Wiscasset ME",
+        "icon": "hotel",
+        "color": "green",
+        "vault_type": "Lodging",
+        "description": "Bicycle- and pet-friendly hotel on Route 1 just south of Wiscasset village; breakfast included.",
+        "start_date_time": "",
+        "detail": "Wiscasset Woods Lodge\n\n\ud83d\udccd 596 Bath Rd, Wiscasset, ME 04578\n\nBicycle- and pet-friendly hotel on Route 1 just south of Wiscasset village, with breakfast included.",
+        "website": "http://www.wiscassetwoods.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7059,
+          43.9782
         ]
       }
     },
@@ -26262,7 +26880,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-09T18:30:00",
-        "detail": "Time: 2026-08-09T18:30:00\n\nSalt Wharf is a dining establishment known for its seafood, particularly dishes like mussels and lobster tortellini. It caters to a variety of customers, including couples celebrating special occasions and groups looking for a memorable dining experience. The overall vibe is a mix of casual and upscale, with a lively atmosphere, especially during happy hour.\n\nCustomers consistently praise the delicious food, stunning location, and excellent cocktails. Additionally, the service, although sometimes noted as feeling intimidated, is generally described as decent.\n\nSome common downsides include the need for reservations due to limited space, and the potential for close seating with other parties which may affect privacy during dining.\n\nReservation confirmation (Aug 9)",
+        "detail": "Time: 2026-08-09T18:30:00\n\nSalt Wharf is a dining establishment known for its seafood, particularly dishes like mussels and lobster tortellini. It caters to a variety of customers, including couples celebrating special occasions and groups looking for a memorable dining experience. The overall vibe is a mix of casual and upscale, with a lively atmosphere, especially during happy hour.\n\nCustomers consistently praise the delicious food, stunning location, and excellent cocktails. Additionally, the service, although sometimes noted as feeling intimidated, is generally described as decent.\n\nSome common downsides include the need for reservations due to limited space, and the potential for close seating with other parties which may affect privacy during dining.\n\nReservation confirmation (Aug 9)\n\nSalt Wharf Camden Maine: Best Dishes for Tonight\n\nMost Highly Rated Overall\n\nThe dishes that come up most often in current menu listings and diner praise are the Maine oysters, deviled eggs with caviar, seared scallops, lobster dishes, and several steak preparations. Recent review and menu evidence also points to the smash burger as a strong casual option on the rooftop side. [web:77][web:76][web:78][web:84][web:95]\n\nBest Bets If You Eat Meat Sometimes\n\nBecause you do enjoy meat periodically, the recommendations should include both seafood and a couple of standout meat options.\n\n- Fresh Maine oysters with black-lime mignonette; one of the most consistently praised and signature-feeling starters. [web:77][web:76]\n- Deviled eggs with caviar; a popular starter that shows up repeatedly in review mentions. [web:76][web:78]\n- Seared scallops; among the most commonly highlighted seafood mains in recent reviews. [web:77][web:76]\n- Maine-lobster fra diavolo or other lobster pasta dishes; a strong richer entr\u00e9e choice if you want something indulgent. [web:77][web:86]\n- Smash burger; specifically praised in recent Yelp review text and a good fit if you are in the mood for something more casual and satisfying. [web:76][web:86]\n- Steak frites or ribeye-style steak dishes; multiple recent mentions describe the steak as very good, and one post specifically called out \u201c2 fantastic steaks.\u201d [web:84][web:95][web:75]\n\nWhat I Would Order\n\nIf you want the most \u201cSalt Wharf\u201d dinner, start with oysters and deviled eggs, then choose scallops or lobster pasta for the main course. [web:77][web:76]\n\nIf you want to lean into your periodic meat preference, the best alternate path is oysters first, then either the smash burger if you want relaxed rooftop-bar energy, or the steak if you want a fuller dinner in the dining-room style. [web:76][web:79][web:84][web:95]\n\nBest Choice by Mood\n\n- For a classic Maine waterfront meal: oysters plus scallops. [web:77][web:76]\n- For something richer and more memorable: oysters plus lobster pasta. [web:77][web:86]\n- For your stated tastes specifically: oysters plus steak, or oysters plus the smash burger. [web:76][web:84][web:95]\n- For the most casual good-time order: burger, fries, and a drink on the rooftop. [web:79][web:86]\n\nPractical Note\n\nSalt Wharf\u2019s dining room is listed as open daily from 4:00 PM to 8:00 PM, while the rooftop is listed as open later and is described as the easiergoing side with lobster rolls, cold beer, and casual fare. That makes the rooftop the more natural place to aim for the burger, while the dining room is the better fit for scallops, halibut, lobster pasta, or steak. [web:79][web:77]",
         "website": "https://www.google.com/maps/place/Salt+Wharf/@44.2092873,-69.0624444,181m/data=!3m1!1e3!4m6!3m5!1s0x4cadd75917dd6427:0xa1440bf2564023cb!8m2!3d44.2091477!4d-69.060989!16s%2Fg%2F11rv9bpsgv?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -26802,7 +27420,7 @@
         "vault_type": "Restaurant",
         "description": "Ports of Italy is an Italian restaurant with a price range of $30\u2013$60 per person. It is open for dinner from 4:30 PM to 9 PM on weekdays and 12 PM to 8 PM on Sundays, and serves alcohol.",
         "start_date_time": "2026-08-12T18:30:00",
-        "detail": "Time: 2026-08-12T18:30:00\n\nPorts of Italy is an Italian restaurant with a price range of $30\u2013$60 per person. It is open for dinner from 4:30 PM to 9 PM on weekdays and 12 PM to 8 PM on Sundays, and serves alcohol.",
+        "detail": "Time: 2026-08-12T18:30:00\n\nPorts of Italy, Rockport: Best Dishes to Order\n\nWhat This Restaurant Does Best\n\nPorts of Italy is a traditional Italian restaurant centered on pasta, ravioli, bread, focaccia, and desserts made in-house daily. Its food is more authentic Italian than Italian-American: do not expect chicken Parmesan or spaghetti and meatballs; instead, expect fresh pasta, seafood, veal, porchetta, and seasonal specials. [web:109][web:107]\n\nMost Highly Regarded Dishes\n\n- Lobster ravioli; the restaurant\u2019s most frequently cited seasonal signature dish, with Maine lobster and local ricotta in a light prosecco-aurora sauce. [web:102][web:107][web:110]\n- Housemade tagliatelle or pasta with classic Bolognese; a strong choice when you want a true meat-centered pasta rather than seafood. [web:105][web:110][web:112]\n- Branzino; whole fish imported from Italy, roasted with rosemary and garlic, then deboned tableside. This is one of the restaurant\u2019s signature experiences. [web:109][web:114]\n- Grilled octopus; specifically praised by diners and a good starter if you want something savory and more distinctive than a standard salad. [web:103][web:105]\n- Caprese in a fried Parmigiano basket; an especially popular antipasto presentation. [web:105][web:107]\n- Squid-ink spaghetti or Chitarrucci Neri Frutti di Mare; good choices if you want a more seafood-forward pasta. [web:105]\n- Gnocchi; repeatedly recommended by diners, especially when you want a comforting pasta-forward entr\u00e9e. [web:102]\n\nBest Choices for Your Meat Preferences\n\nBecause you enjoy meat periodically, the Bolognese, porchetta, and veal dishes should be added to the shortlist rather than filtered out.\n\n- Pasta with classic Bolognese; likely the best first choice if you want a hearty but balanced meat entr\u00e9e. [web:110][web:112]\n- Porchetta; the restaurant calls its roasted suckling pig an in-house specialty. Choose it if it is available and you want an authentically Italian meat dish rather than a steak. [web:109][web:110][web:114]\n- Veal scallopini or veal ravioli; both have appeared in diner praise and catering/menu descriptions, making them good options if they are on the dinner menu or offered as specials. [web:102][web:105][web:110]\n- Braised beef or another rotating meat special; specials change regularly and are often where the kitchen gets more creative with seasonal ingredients. [web:107][web:116]\n\nBest Order by Mood\n\n- For the classic first visit: Caprese in the Parmigiano basket, then lobster ravioli. [web:105][web:107]\n- For your periodic meat craving: grilled octopus to start, followed by Bolognese, porchetta, or veal if available. [web:103][web:109][web:110]\n- For a seafood-forward Italian dinner: grilled octopus, followed by branzino or squid-ink seafood pasta. [web:103][web:109][web:105]\n- For a shared meal: Caprese, octopus, lobster ravioli, and one meat-centered pasta or entr\u00e9e. This gives you both the restaurant\u2019s Maine-seafood strength and its traditional Italian side. [web:102][web:103][web:109]\n\nWhat Not to Order It For\n\nPorts of Italy is not the right destination specifically for hamburgers or a conventional American steak. Go instead for handmade pasta, Italian seafood, Bolognese, porchetta, veal, and the seasonal specials; those are the choices most aligned with its stated cooking style and diner praise. [web:107][web:109][web:110]\n\nPractical Note\n\nPorts of Italy lists daily lunch and dinner service, with current stated hours of 11:30 AM to 9:00 PM. The restaurant is at 141 Commercial Street in Rockport, and its menu changes enough that asking about the nightly special is worthwhile\u2014particularly if you are hoping for a special meat or seasonal lobster dish. [web:109][web:107][web:116]",
         "website": "https://www.google.com/maps/place/Ports+of+Italy,+Rockport/@44.1906546,-69.0824852,784m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cadd7f58c73a11d:0xd0a50cc550173421!2sPorts+of+Italy,+Rockport!8m2!3d44.1906546!4d-69.0799103!16s%2Fg%2F11hpbwk0qb!3m5!1s0x4cadd7f58c73a11d:0xd0a50cc550173421!8m2!3d44.1906546!4d-69.0799103!16s%2Fg%2F11hpbwk0qb?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
