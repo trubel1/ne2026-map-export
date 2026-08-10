@@ -5543,6 +5543,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Damariscotta Mills Fish Ladder & Ice House Park Newcastle ME",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Historic 1807 stone fish ladder at Damariscotta Mills, plus Ice House Park \u2014 the actual spot locals swim. ~10 min north of downtown, off most tourist itineraries.",
+        "start_date_time": "2026-08-10T10:45:00",
+        "detail": "Time: 2026-08-10T10:45:00\n\nDamariscotta Mills Fish Ladder & Ice House Park\n\n\ud83d\udccd Newcastle, ME 04553 (Mills Rd / Route 215, ~1.5-1.6 mi north of Damariscotta)\n\nA stone fish ladder built in 1807 by the towns of Nobleboro and Newcastle to give alewives access to the freshwater falls at Damariscotta Mills \u2014 restored starting 2007, with clear signage explaining the fish spawning process. Ice House Park next to it is the actual spot locals swim in summer, not a place most tourists find.\n\nGetting There\nTwo parking options: a lot just past Austin Road on Route 215, or the Fish House parking lot (path leads behind the building to the ladder).\n\nTips\n- The famous alewife run itself is a May event, not relevant for an August visit \u2014 but the site, park, and swimming spot are worth seeing/using regardless of season.\n- Coordinates are an estimate \u2014 use the Google Maps link above for actual navigation, and check damariscottamills. for current directions/parking.",
+        "website": "https://damariscottamills.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5312,
+          44.0665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Damariscotta River Grill Damariscotta ME",
         "icon": "sandwich",
         "color": "red",
@@ -17600,6 +17620,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rising Tide Co-op Damariscotta ME",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Natural foods co-op/grocer on Main Street since 1978 \u2014 hot bar, prepared foods, organic/local groceries. The town's actual grocery store, not a tourist stop.",
+        "start_date_time": "",
+        "detail": "Rising Tide Co-op\n\n\ud83d\udccd 323 Main Street, Damariscotta, ME\n\nA natural foods co-op and grocer on Main Street since 1978 \u2014 hot bar, prepared foods, organic/local groceries, local beer and wine. This is the everyday grocery store locals actually shop at, not a tourist attraction, which is exactly the appeal.\n\nTips\n- Good stop for picnic provisions or a quick prepared-food lunch.\n- Coordinates are an estimate (no precise geocode found) \u2014 use the Google Maps link above for actual navigation.",
+        "website": "https://risingtide.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5284,
+          44.0313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ristorante Caterina de\u2019 Medici Hyde Park NY",
         "icon": "sandwich",
         "color": "red",
@@ -18238,6 +18278,26 @@
         "coordinates": [
           -69.45874893185821,
           43.94546530139437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Round Top Ice Cream Stand Damariscotta ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Homemade ice cream stand since 1924, 526 Main St \u2014 a genuine local institution, not on most tourist itineraries despite the quality.",
+        "start_date_time": "",
+        "detail": "Round Top Ice Cream Stand\n\n\ud83d\udccd 526 Main Street, Damariscotta, ME\n\nHomemade ice cream since 1924 \u2014 a genuine Damariscotta institution, generous portions, wide flavor variety. Further down Main St than the downtown core, so it doesn't get the same tourist foot traffic as the waterfront spots.\n\nTips\n- Coordinates are an estimate (no precise geocode found) \u2014 use the Google Maps link above for actual navigation.",
+        "website": "https://roundtopicecream.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5249,
+          44.0299
         ]
       }
     },
@@ -24156,6 +24216,25 @@
         "coordinates": [
           -69.964,
           43.9148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waltz's Soda Fountain Damariscotta ME",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "\u26a0\ufe0f Possibly closed \u2014 Yelp lists this as CLOSED (updated June 2026), verify before relying on it. Classic 1948 lunch counter/soda fountain on Main Street, same family since opening.",
+        "start_date_time": "",
+        "detail": "Waltz's Soda Fountain\n\n\ud83d\udccd 167 Main Street, Damariscotta, ME (next to the Post Office / inside Reny's Underground)\n\n\u26a0\ufe0f Possible closure \u2014 a Yelp listing dated June 2026 shows this as CLOSED, though every review and directory entry otherwise describes it as an active, ~75-year-old family-run soda fountain. Worth a quick check (call ahead or look for it in person) before making it a priority stop \u2014 this wasn't confirmed either way.\n\nA classic 1948 soda fountain and lunch counter, same local family since it opened \u2014 sandwiches, ice cream, fountain drinks (vanilla Coke, lime rickeys).\n\nTips\n- Coordinates are an estimate (no precise geocode found) \u2014 use the Google Maps link above for actual navigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5311,
+          44.0324
         ]
       }
     },
