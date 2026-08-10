@@ -144,6 +144,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Abandoned Ski Lift McFarland Mountain Acadia National Park ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Ruins of a decommissioned 1930s-40s ski slope on McFarland Mountain, reached via an unpaved road \u2014 essentially undocumented in mainstream guides.",
+        "start_date_time": "",
+        "detail": "Abandoned Ski Lift, McFarland Mountain\n\n\ud83d\udccd Off Route 233 near Eagle Lake, Acadia National Park, ME (coordinate is the Eagle Lake Boat Landing, nearest sourced landmark \u2014 not the ruins themselves)\n\nThe ruins of a decommissioned ski lift and slope from the 1930s-40s on McFarland Mountain, reached via an unpaved road and field off Route 233 near Eagle Lake. It's essentially unpromoted and undocumented in any mainstream park guide.\n\nTips\n- No confirmed coordinate exists for the ruins themselves \u2014 the pin here is the Eagle Lake Boat Landing on Route 233, the nearest sourced landmark; expect some additional searching on the ground\n- Bring a printed description or GPS track from a source blog before attempting to find it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.250634,
+          44.376513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Abel's Lobster Somesville ME",
         "icon": "sandwich",
         "color": "red",
@@ -293,6 +312,25 @@
         "coordinates": [
           -73.81513588760379,
           41.749032832638306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alder Path Trail Schoodic ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1.3-mile easy out-and-back through old farmland, well away from the Schoodic Point crowds \u2014 4.2\u2605 on AllTrails.",
+        "start_date_time": "",
+        "detail": "Alder Path Trail\n\n\ud83d\udccd Blueberry Hill parking area, Schoodic Peninsula, ME\n\nA 1.3-mile easy out-and-back trail through old farmland and alder bushes on the Schoodic Peninsula, starting from the Blueberry Hill parking area. Rated 4.2\u2605 on AllTrails, and well away from the crowds at Schoodic Point itself.\n\nTips\n- Starts at the Blueberry Hill parking area, same general area as the Little Moose Island tide walk\n- Grassy, gentle terrain \u2014 good easy stop on a Schoodic loop drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0461742,
+          44.3391124
         ]
       }
     },
@@ -1696,6 +1734,25 @@
         "coordinates": [
           -68.3373,
           44.2224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Harbor Marsh Bass Harbor ME",
+        "icon": "trees",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Tidal marsh mostly known to birders, far less trafficked than the main park attractions nearby.",
+        "start_date_time": "",
+        "detail": "Bass Harbor Marsh\n\n\ud83d\udccd Near the Hio Fire Road bridge, Bass Harbor, ME\n\nA tidal marsh near Bass Harbor, primarily a birding destination and noticeably less trafficked than the main park attractions on the eastern side of the island.\n\nTips\n- Bring binoculars \u2014 birding is the main draw here\n- Accessible via the Hio Fire Road bridge crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33957,
+          44.25383
         ]
       }
     },
@@ -4154,6 +4211,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Causeway Walk Norwood Cove Southwest Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A pedestrian causeway crossing Norwood Cove that \"few visitors to Mount Desert Island ever find.",
+        "start_date_time": "",
+        "detail": "Causeway Walk (Norwood Cove)\n\n\ud83d\udccd Off Fernald Point Rd, Southwest Harbor, ME\n\nA footbridge/causeway crossing Norwood Cove off Fernald Point Road, near Southwest Harbor. Local write-ups specifically call this out as a spot \"few visitors to Mount Desert Island ever find\" \u2014 genuinely off the tourist map.\n\nTips\n- No signage from the main road \u2014 look for the Fernald Point Rd turnoff\n- Short, easy walk \u2014 good for a quick stop rather than a dedicated outing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3222389,
+          44.2875801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cedar Pond Milan NH",
         "icon": "waves",
         "color": "green",
@@ -4385,6 +4461,25 @@
         "coordinates": [
           -71.07776513117726,
           42.34428992121242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte Rhoades Park and Butterfly Garden Southwest Harbor ME",
+        "icon": "leaf",
+        "color": "green",
+        "vault_type": "Garden",
+        "description": "Small waterfront pocket park with a butterfly garden in downtown Southwest Harbor \u2014 described as \"seldom busy.",
+        "start_date_time": "",
+        "detail": "Charlotte Rhoades Park and Butterfly Garden\n\n\ud83d\udccd 191 Main St, Southwest Harbor, ME 04679\n\nA small waterfront pocket park in downtown Southwest Harbor with a dedicated butterfly garden. Local write-ups describe it as consistently \"seldom busy,\" a nice quiet stop while walking the village.\n\nTips\n- Easy walk-in stop while exploring downtown Southwest Harbor \u2014 no real parking planning needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.329007,
+          44.289321
         ]
       }
     },
@@ -4659,6 +4754,25 @@
         "coordinates": [
           -74.0189,
           41.9265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circular Hanging Steps Acadia National Park ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Unmaintained historic stone-step trail feature near the Precipice \u2014 off the park's maintained trail list, and closed seasonally for peregrine falcon nesting.",
+        "start_date_time": "",
+        "detail": "Circular Hanging Steps\n\n\ud83d\udccd Orange and Black Path, near the Precipice parking lot, Acadia National Park, ME\n\nA historic stone-step trail feature on the Orange and Black Path, near the Precipice parking lot. It's no longer maintained by the park, which keeps it firmly off the beaten path \u2014 and like the nearby Precipice Trail, it's closed seasonally for peregrine falcon nesting.\n\nTips\n- Check peregrine falcon closure status before visiting \u2014 same seasonal restriction as the Precipice Trail\n- Not a maintained park trail \u2014 go prepared for rougher, unmarked conditions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1875,
+          44.34722
         ]
       }
     },
@@ -5800,6 +5914,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Day Mountain Trail Seal Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "2.1-mile easy out-and-back up one of Acadia's lesser-known peaks near Seal Harbor \u2014 4.6\u2605 on AllTrails, one hiker reported \"no hikers, just a few bikes.",
+        "start_date_time": "",
+        "detail": "Day Mountain Trail\n\n\ud83d\udccd Parking on Route 3/Champlain Rd, near Seal Harbor, ME (~0.8 mi from trail start)\n\nA 2.1-mile easy out-and-back trail up Day Mountain, near Seal Harbor \u2014 one of Acadia's lesser-known peaks despite genuinely good summit views. Rated 4.6\u2605 on AllTrails; one hiker reported seeing \"no hikers and just a few bikes\" during their visit.\n\nTips\n- Also a popular carriage-road biking summit \u2014 expect to share the trail with a few cyclists, if anyone\n- Parking is on Route 3/Champlain Rd, about 0.8 mi from the actual trail start"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22776,
+          44.29938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "De La Vergne Hill & Silo Ridge Country Club Amenia NY",
         "icon": "landmark",
         "color": "green",
@@ -6673,6 +6806,44 @@
         "coordinates": [
           -72.69606398191429,
           44.47404319014894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eben's Head Trail Isle au Haut ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1.4-mile easy out-and-back on Isle au Haut \u2014 the least-visited section of Acadia (~10,000 visitors/yr vs. millions on Mount Desert Island), reached only by mailboat from Stonington.",
+        "start_date_time": "",
+        "detail": "Eben's Head Trail\n\n\ud83d\udccd Duck Harbor, Isle au Haut, ME (mailboat access from Stonington)\n\nA 1.4-mile easy out-and-back trail on Isle au Haut, reviewed as \"short and sweet\" with \"absolutely stunning views.\" Isle au Haut is Acadia's least-visited district by a wide margin \u2014 roughly 10,000 visitors a year compared to millions on Mount Desert Island \u2014 and it's only reachable by mailboat from Stonington, which is exactly why it stays this quiet. Only 23 AllTrails reviews total, itself a reflection of how few people make the trip.\n\nTips\n- Reached only by mailboat from Stonington \u2014 check the Isle au Haut Boat Services schedule before planning a visit\n- Trailhead is at Duck Harbor, on the island's more remote (Acadia NP-managed) southern end\n- Because the whole island sees so few visitors, this is worth treating as a half/full-day commitment, not a quick stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65122,
+          44.03006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echo Lake Beach Somesville ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Beach",
+        "description": "Freshwater lake beach on the island's quiet side, warmer swimming than the ocean beaches and a genuine local alternative to Sand Beach.",
+        "start_date_time": "",
+        "detail": "Echo Lake Beach\n\n\ud83d\udccd Route 102, near Somesville, Mount Desert Island, ME\n\nA freshwater beach on Echo Lake, on Mount Desert Island's western \"quiet side\" near Somesville. The water is considerably warmer than the ocean at Sand Beach, and it draws far fewer tourists despite being one of the better swimming spots on the island.\n\nTips\n- Lifeguarded in summer season \u2014 good family swimming option\n- Echo Lake also has a boat launch and is popular with rock climbers (Beech Cliff) nearby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.325914,
+          44.279767
         ]
       }
     },
@@ -9577,6 +9748,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hio Fire Road and Big Heath Seawall ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Gated fire road through a glacial peat bog \u2014 gating at both ends keeps vehicle traffic (and crowds) out.",
+        "start_date_time": "",
+        "detail": "Hio Fire Road & Big Heath Bog\n\n\ud83d\udccd Near Seawall, western Mount Desert Island, ME\n\nA gated fire road near Seawall on the western side of Mount Desert Island, skirting the Big Heath \u2014 a glacial peat bog \u2014 through spruce and pine woods. The gates at both ends of the road keep vehicle traffic out entirely, which is a big part of why it stays quiet.\n\nTips\n- Gated at both ends \u2014 foot/bike access only\n- Good for birding and a genuinely solitary walk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33957,
+          44.25383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hodgdon's Seafood Southwest Harbor ME",
         "icon": "sandwich",
         "color": "purple",
@@ -10477,6 +10667,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jesup Path and Hemlock Path Loop Acadia National Park ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1.6-mile easy boardwalk loop through birch/hemlock wetland at Sieur de Monts \u2014 4.6\u2605 on AllTrails, called \"one of the most underrated day hikes in Acadia.",
+        "start_date_time": "",
+        "detail": "Jesup Path and Hemlock Path Loop\n\n\ud83d\udccd 2 Sieur de Monts Rd, Bar Harbor, ME 04609\n\nA 1.6-mile easy loop through birch and hemlock wetland at Sieur de Monts, largely on boardwalk. Rated 4.6\u2605 on AllTrails across 1,500+ reviews, and described as \"one of the most underrated day hikes in Acadia\" \u2014 genuinely easy walking with real scenic payoff.\n\nTips\n- Boardwalk sections mean it's stroller/wheelchair-friendlier than most Acadia trails\n- Pairs naturally with Wild Gardens of Acadia, right next door at Sieur de Monts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20783,
+          44.362097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Johan's Joe Swedish Restaurant West Palm Beach FL",
         "icon": "sandwich",
         "color": "red",
@@ -10591,6 +10800,25 @@
         "coordinates": [
           -69.6639508,
           44.0027744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Cliffs Trail Acadia National Park ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A cliffside trail overshadowed by the adjacent, far more famous Jordan Pond Path and the Bubbles \u2014 called \"incredibly underrated.",
+        "start_date_time": "",
+        "detail": "Jordan Cliffs Trail\n\n\ud83d\udccd Trailhead near Jordan Pond North Lot, Acadia National Park, ME\n\nA cliffside trail near Jordan Pond, completely overshadowed by the adjacent and far more famous Jordan Pond Path and the Bubbles. One write-up calls it \"incredibly underrated\" \u2014 same neighborhood as Acadia's most popular spot, a fraction of the foot traffic.\n\nTips\n- Involves iron rungs/ladders on exposed cliff sections \u2014 not a casual flat walk despite being near Jordan Pond\n- Access via the Jordan Pond North Lot / Spring Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.251892,
+          44.321547
         ]
       }
     },
@@ -11780,6 +12008,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Little Long Pond & Rockefeller Boathouse Seal Harbor ME",
+        "icon": "trees",
+        "color": "green",
+        "vault_type": "Park",
+        "description": "Former Rockefeller estate pond, part of the Land & Garden Preserve \u2014 accessible only by foot or horseback (no bikes), which keeps it consistently quiet even in peak season.",
+        "start_date_time": "",
+        "detail": "Little Long Pond & Rockefeller Boathouse\n\n\ud83d\udccd Main Gate, Route 3 at Bracy Cove, Seal Harbor, ME\n\nA former Rockefeller family estate pond, now part of the Mount Desert Land & Garden Preserve, reached via carriage road from the Main Gate on Route 3 at Bracy Cove. No bicycles are allowed on this stretch of carriage road \u2014 only foot and horse traffic \u2014 which is a big part of why it stays so quiet compared to the Rockefeller carriage roads inside Acadia proper.\n\nTips\n- No bikes allowed on this section of carriage road \u2014 foot/horse only\n- Pairs well with a Day Mountain Trail or Seal Harbor Beach stop nearby\n- Coordinate given is the pond itself; parking is at the Main Gate on Route 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.256511,
+          44.29932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Little Moose Island Tide Walk Schoodic ME",
         "icon": "gem",
         "color": "green",
@@ -12037,6 +12284,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Long Pond Fire Road Mount Desert ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "The island's largest freshwater lake, often overlooked in favor of neighboring Echo Lake \u2014 genuinely quiet even in summer.",
+        "start_date_time": "",
+        "detail": "Long Pond & Long Pond Fire Road\n\n\ud83d\udccd Pretty Marsh Rd, western Mount Desert Island, ME\n\nMount Desert Island's largest freshwater lake, on the western side of the island. It sits in the shadow of its more popular neighbor, Echo Lake, and as a result stays noticeably quiet \u2014 one write-up notes \"you won't come across many people\" along its fire road.\n\nTips\n- Good for a quiet paddle or lakeside walk without Echo Lake's crowds\n- Coordinate given is the pond centroid \u2014 no single trailhead pin was confirmable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.35833,
+          44.32361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Long Trail Brewing Company Bridgewater VT",
         "icon": "beer",
         "color": "red",
@@ -12189,6 +12455,44 @@
         "coordinates": [
           -68.2558,
           44.3859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Hadlock Pond Loop Trail Northeast Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1.6-mile easy loop west of the park's busy core \u2014 4.6\u2605 on AllTrails, one reviewer reported seeing \"only one other family\" on the trail.",
+        "start_date_time": "",
+        "detail": "Lower Hadlock Pond Loop Trail\n\n\ud83d\udccd Parkman Mountain / Norumbega parking area, Route 198, near Northeast Harbor, ME\n\nA 1.6-mile easy loop around Lower Hadlock Pond, further west than the busier core of the park near Northeast Harbor. Rated 4.6\u2605 on AllTrails across 800+ reviews; one reviewer specifically noted seeing \"only one other family\" during their visit.\n\nTips\n- Access via the Parkman Mountain/Norumbega parking area on Route 198\n- Good easy add-on if visiting Asticou or Thuya Gardens nearby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.291147,
+          44.325833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Harbor Trail Schoodic ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "2.4-mile easy out-and-back \"mellow coastal path\" from Schoodic Woods Campground, rocky coastline views toward Norris and Sargent Islands \u2014 4.5\u2605 on AllTrails.",
+        "start_date_time": "",
+        "detail": "Lower Harbor Trail\n\n\ud83d\udccd Schoodic Woods Campground, 54 Farview Dr, Winter Harbor, ME\n\nA 2.4-mile easy out-and-back trail from Schoodic Woods Campground, described as a \"mellow coastal path\" with rocky coastline views toward Norris and Sargent Islands. Rated 4.5\u2605 on AllTrails.\n\nTips\n- Starts right from Schoodic Woods Campground \u2014 easy to combine with a Schoodic Bike Path Network ride\n- Coordinate given is the campground entrance, not a separate trailhead pin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0665937996,
+          44.3800630005
         ]
       }
     },
@@ -13562,6 +13866,25 @@
         "coordinates": [
           -73.90029701746076,
           41.69278640993935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitchell Cove Bass Harbor ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Beach",
+        "description": "Unsigned beach access near Lopaus Point \u2014 no signage leads visitors to it, which is exactly why it stays quiet.",
+        "start_date_time": "",
+        "detail": "Mitchell Cove\n\n\ud83d\udccd Off Lopaus Point Rd (unmarked dirt turnoff), near Bass Harbor, ME\n\nA specific, unsigned beach access point off Lopaus Point Road near Bass Harbor, distinct from the main Lopaus Point overlook. There are homes in the area but genuinely no signs pointing visitors to the beach itself.\n\nTips\n- Coordinate is approximate \u2014 the original source explicitly notes it's \"not precise, but it will get you in the area\"\n- Combine with the Bass Harbor Head Lighthouse / Lopaus Point stop nearby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.351569,
+          44.242125
         ]
       }
     },
@@ -16798,6 +17121,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Porcupine Islands Bar Harbor ME",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "The chain of islands visible from Bar Harbor town, visited far less than the rest of the park since reaching them requires a sea-kayak tour.",
+        "start_date_time": "",
+        "detail": "Porcupine Islands\n\n\ud83d\udccd Offshore from Bar Harbor, ME (coordinate is the Bar Harbor Town Pier, the typical kayak/tour launch point)\n\nThe chain of islands (Bald, Sheep, Burnt, Long, and Rum Key Porcupine) visible right from Bar Harbor's waterfront. Despite being constantly in view from town, they're visited far less frequently than the rest of the park \u2014 actually reaching them requires a sea-kayak tour.\n\nTips\n- Book a sea-kayak tour out of the Bar Harbor Town Pier to actually visit \u2014 no casual walk-up access\n- Great subject for photos from the Shore Path even without a boat trip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.204052,
+          44.392087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Port Clyde ME",
         "icon": "ship",
         "color": "green",
@@ -17166,6 +17508,25 @@
         "coordinates": [
           -70.2562044,
           43.6587489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pretty Marsh Picnic Area Mount Desert ME",
+        "icon": "trees",
+        "color": "green",
+        "vault_type": "Park",
+        "description": "One of the least-visited picnic areas in the park, overlooking Pretty Marsh Harbor and Bartlett/Hardwood Islands.",
+        "start_date_time": "",
+        "detail": "Pretty Marsh Picnic Area\n\n\ud83d\udccd Route 102, western Mount Desert Island, ME\n\nA quiet picnic spot on the western side of Mount Desert Island, overlooking Pretty Marsh Harbor with views toward Bartlett, Folly, and Hardwood Islands. Consistently flagged in local write-ups as one of the least-visited picnic areas in the entire park.\n\nTips\n- Good sunset spot \u2014 faces west over the harbor\n- Combine with Long Pond or the Hio Fire Road area, both nearby on the quiet side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.406846,
+          44.333169
         ]
       }
     },
@@ -19663,6 +20024,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Seal Harbor Beach Seal Harbor ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Beach",
+        "description": "Small ocean beach off Park Loop Road, well off the shuttle route \u2014 a genuinely uncrowded alternative to Sand Beach, though less dramatic scenically.",
+        "start_date_time": "",
+        "detail": "Seal Harbor Beach\n\n\ud83d\udccd Route 3, Seal Harbor, ME\n\nA small ocean beach in the village of Seal Harbor, off the main Park Loop Road shuttle route. Blogs describe it as \"nowhere near as crowded\" as Sand Beach, though also \"not as scenic\" \u2014 a real trade-off for anyone who wants beach time without the crowds.\n\nTips\n- Limited parking right in the village \u2014 arrive early or plan to walk in\n- Good pairing with Little Long Pond or Day Mountain Trail, both nearby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.239346,
+          44.296609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sears Island Searsport ME",
         "icon": "footprints",
         "color": "green",
@@ -20867,6 +21247,25 @@
         "coordinates": [
           -74.0197,
           41.9267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stone Barn Northeast Harbor ME",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Unmarked old stone barn with a trail behind it leading to a lupine field \u2014 obscure enough that it sees very little visitor traffic.",
+        "start_date_time": "",
+        "detail": "Stone Barn\n\n\ud83d\udccd Corner of Norway Dr & Crooked Rd, near Northeast Harbor, ME\n\nAn unmarked historic stone barn at the corner of Norway Drive and Crooked Road, with a hiking trail behind it leading to a lupine field. Genuinely obscure \u2014 it's not signed as an attraction, so it doesn't get much visitor traffic.\n\nTips\n- No official signage \u2014 look for the stone barn itself at the Norway Dr/Crooked Rd corner\n- Best in lupine bloom season (typically June)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30167,
+          44.4175
         ]
       }
     },
