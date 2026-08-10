@@ -1,0 +1,1926 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abandoned Ski Lift McFarland Mountain Acadia National Park ME",
+        "icon": "scroll",
+        "color": "green",
+        "detail": "Abandoned Ski Lift, McFarland Mountain\n\n\ud83d\udccd Off Route 233 near Eagle Lake, Acadia National Park, ME (coordinate is the Eagle Lake Boat Landing, nearest sourced landmark \u2014 not the ruins themselves)\n\nThe ruins of a decommissioned ski lift and slope from the 1930s-40s on McFarland Mountain, reached via an unpaved road and field off Route 233 near Eagle Lake. It's essentially unpromoted and undocumented in any mainstream park guide.\n\nTips\n- No confirmed coordinate exists for the ruins themselves \u2014 the pin here is the Eagle Lake Boat Landing on Route 233, the nearest sourced landmark; expect some additional searching on the ground\n- Bring a printed description or GPS track from a source blog before attempting to find it",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.250634,
+          44.376513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abel's Lobster Somesville ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Abel's Lobster\n\n\ud83d\udccd Somesville, Mount Desert Island, ME (Somes Sound shores)\n\nTucked away on the shores of Somes Sound, Abel's offers classic lobster bakes and casual seafood dining in a forested, waterside setting that feels far removed from the main tourist routes despite being on Mount Desert Island.\n\nTips\n- Located on the scenic fjord side of the island\n- Casual, waterfront dining experience\n- Classic New England lobster bake setting\n- Quieter alternative to downtown Bar Harbor restaurants",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3344021,
+          44.3622978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alder Path Trail Schoodic ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Alder Path Trail\n\n\ud83d\udccd Blueberry Hill parking area, Schoodic Peninsula, ME\n\nA 1.3-mile easy out-and-back trail through old farmland and alder bushes on the Schoodic Peninsula, starting from the Blueberry Hill parking area. Rated 4.2\u2605 on AllTrails, and well away from the crowds at Schoodic Point itself.\n\nTips\n- Starts at the Blueberry Hill parking area, same general area as the Little Moose Island tide walk\n- Grassy, gentle terrain \u2014 good easy stop on a Schoodic loop drive",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0461742,
+          44.3391124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anvil Trail and Raven's Nest Schoodic ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Anvil Trail & Raven's Nest\n\n\ud83d\udccd Schoodic Peninsula, Acadia National Park, ME\n\nA moderate 2-mile out-and-back hike combining the Alder, Schoodic Head, and Anvil trails that climbs 440 feet to the highest point on the Schoodic Peninsula. Far less trafficked than comparable hikes on Mount Desert Island, with sweeping 360-degree views across Frenchman Bay to Cadillac Mountain, Bar Harbor, and two visible lighthouses (Mark Island Light and Egg Rock Light).\n\nRaven's Nest Detour\n\nOn the return, detour to Raven's Nest, a cliff-top sunset and photography spot featuring isolated coves that most day-trippers skip entirely. This is a genuine hidden gem for solitude and dramatic views.\n\nTips\n- Start early (before 9 a.m.) to avoid afternoon crowds\n- Park at the small lot 1.6 miles past the unofficial trailhead to avoid tickets\n- The summit is excellent for sunset and golden-hour photography\n- Trail is well-marked but somewhat steep; good boots recommended\n- Water and snacks important; limited services nearby\n- Very low crowding compared to Jordan Pond or Jordan Cliffs on Mount Desert Island",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.053,
+          44.3507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Archer's on the Pier Rockland ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "Archer's on the Pier\n\n\ud83d\udccd Rockland ME\n\nWaterfront dining with classic Maine lobster dinners and harbor views.\n\nMust Order\n- The King of Clubs lobster club sandwich\n\nTips\n- Sit outside on the deck for harbor views if weather allows.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1058,
+          44.1067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Archie's Lobster Southwest Harbor ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Archie's Lobster is a casual seafood restaurant known for its delicious lobster rolls and lobster dinners. It typically attracts families and visitors, especially those exploring Acadia National Park. The overall vibe is relaxed and friendly, fitting for a budget-conscious dining experience. Customers consistently praise the tasty food, good value for the price, and the friendly service. Some common downsides mentioned include average flavor in some dishes and the potential for differing hours on holidays.",
+        "website": "https://www.google.com/maps/place/Archie's+Lobster/@44.2792746,-68.3409427,9129m/data=!3m1!1e3!4m6!3m5!1s0x4caea35183a4f1d7:0xd9f29b8b74250d1d!8m2!3d44.2511988!4d-68.3480153!16s%2Fg%2F11nnzq37cg?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.34725267533653,
+          44.2533533650745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asticou Azalea Garden Northeast Harbor ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Asticou Azalea Garden\n\n\ud83d\udccd Northeast Harbor, Mount Desert Island, ME\n\nLocated adjacent to Thuya Garden, the Asticou Azalea Garden is a botanical gem featuring carefully curated collections of native azaleas and other woodland plants. The garden provides a peaceful contrast to the busier parts of Mount Desert Island.\n\nTips\n- Right next to Thuya Garden\u2014visit both in one trip\n- Best bloom times are May through early June\n- Wheelchair accessible pathways through much of the garden\n- Stone walls and winding paths create intimate spaces\n- Shaded woodland setting keeps it cool even on warm days\n- Very few tourists find this hidden gem",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2830654,
+          44.3047254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic Brewing Company Tasting Room Town Hill ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "Atlantic Brewing Company Tasting Room\n\n\ud83d\udccd 15 Knox Road, Town Hill, Bar Harbor, ME\n\nA local brewery tasting room located in Town Hill, west of downtown Bar Harbor. This is a popular bailout spot for avoiding downtown crowds during peak August.\n\nTips\n- West of downtown on Route 3\n- Casual brewery atmosphere\n- Good for a break or afternoon visit\n- Less crowded than downtown dining\n- Local craft beer selection",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3336355,
+          44.3996245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augusta and Hallowell Day Trip",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "Augusta & Hallowell Day Trip\n\n\ud83d\udccd Augusta & Hallowell, ME (~41 miles, 54\u201357 minutes from Camden via Route 17)\n\nA full day combining state history, a free botanical garden, and one of Maine's most charming small downtowns for dining and antiquing. Offers a distinct experience from coastal destinations\u2014more inland character and local focus.\n\nItinerary\n\nLate Morning: Maine State House (10:00 a.m.\u201311:15 a.m.)\nStart at the Maine State House, a working capitol built from granite quarried in nearby Hallowell. Tour is free and self-guided (about one hour) through the historic Hall of Flags and up to a rooftop veranda overlooking the Kennebec River. The adjacent Maine State Museum is mid-renovation (not fully open until October 2026), but the Blaine House (governor's residence) still offers tours if interested.\n\nMid-Morning: Viles Arboretum (11:30 a.m.\u201312:30 p.m.)\nWalk or drive five minutes to Viles Arboretum, a free 224-acre botanical garden with six miles of trails, cultivated gardens, and a peaceful pond loop. Described by visitors as \"a peaceful place for a walk and contemplation\"\u2014a quiet nature break before heading to Hallowell.\n\nLunch: Hallowell (1:00\u20132:00 p.m.)\nDrive ten minutes south to Hallowell, a National Historic District along Water Street packed with antique shops, galleries, and restaurants that draw locals rather than tour buses. Have lunch at:\n- Slate's Restaurant & Bakery \u2014 25-plus-year local institution\n- Or Liberal Cup for brewpub casual dining\n\nAfternoon: Antiques & Galleries (2:00\u20134:00 p.m.)\nBrowse Hallowell's Water Street antique and gallery scene:\n- Hallowell Antique Mall \u2014 80 dealers with wide variety\n- The Rusticator's Emporium \u2014 curated vintage finds\n- Additional galleries and shops along Water Street\n\nLate Afternoon: Optional Rail Trail Walk (4:00\u20135:00 p.m.)\nIf timing allows, walk a stretch of the Kennebec River Rail Trail, which runs from Augusta's waterfront through Hallowell to Gardiner. Perfect for a quiet walk along the Kennebec River before heading back to Camden.\n\nWhy This Trip Works\n\n- Drive time: 54\u201357 minutes from Camden\u2014comfortably under the one-hour limit\n- Theme: State capital history and gardens, distinct from coastal trips\n- Local focus: Drawn locals rather than cruise-ship tourists\n- Free attractions: State House tour and Viles Arboretum are both free\n- Variety: Mix of civic/historical, nature, and downtown browsing\n- No overlap: Heads inland on Route 17, not competing with Bar Harbor-bound routes\n\nNotes\n\n- Dress for walking and browsing\u2014good shoes recommended\n- Viles Arboretum is free but allows donations\n- Hallowell is particularly good for antique collectors and vintage shoppers\n- The area has strong local restaurant character vs. touristy chains\n- Best for a full-day outing rather than a quick stop",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902799,
+          44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Harbor Lobster Bakes Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "What it is:\u00a0Upscale seafood restaurant specializing in lobster bakes, lobster bisque, steamed mussels, and fresh Maine seafood.\n\nCustomers:\u00a0Families and tourists on Maine trips; groups celebrating special occasions; people seeking memorable dining experiences.\n\nVibe:\u00a0Casual-upscale with outdoor waterfront seating; welcoming, warm atmosphere.\n\nStrongest positives:\n\n- Exceptional food quality across all dishes; consistently praised as \"best food and service in the Bar Harbor area\"\n- Friendly, attentive service; staff described as making guests \"feel like family\"\n- Amazing water views and outdoor seating (mentioned in 14+ reviews)\n- Signature blueberry cake (mentioned in 54 reviews\u2014standout dessert)\n- Accommodating to dietary restrictions (shellfish allergies handled well)\n\nDownsides:\n\n- None consistently mentioned across multiple reviews",
+        "website": "https://www.google.com/maps/place/Bar+Harbor+Lobster+Bakes/@44.4147557,-68.2618057,3167m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caeb94c9524a0df:0x129f1e1505857740!8m2!3d44.4147408!4d-68.251506!16s%2Fg%2F1thhk2_l?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2516592324296,
+          44.4150173599849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrett Park Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Barrett Park\n\n\ud83d\udccd 131 Lobster Cove Road, Boothbay Harbor, ME\n\nA 10-acre public waterfront park on Lewis Cove, in continuous use for community events since 1977 \u2014 reunions, weddings, and picnics still happen here under its gazebo. It's a genuine locals' park rather than a tourist stop: a small beach for swimming, wading, or launching a kayak, an expansive lawn for games, a memorial garden, granite benches, and shade trees along a rocky shoreline.\n\nTips\n- Open 6am\u20139pm daily.\n- Dog-friendly, with real beach access \u2014 a good option if you need a break from harbor crowds with a dog in tow.\n- Bring a kayak or paddleboard; the cove is calm and well-suited to launching directly from the beach.\n- No food/concessions on site \u2014 pack a picnic if you're staying a while.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6145995,
+          43.8522799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Harbor Head Light and Lopaus Point Mount Desert ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Bass Harbor Head Light & Lopaus Point\n\n\ud83d\udccd Southwest tip, Mount Desert Island, ME\n\nOn the southwest tip of Mount Desert Island, the Bass Harbor Head Light is a popular photo spot\u2014but the real hidden gem is nearby. Explore the dirt tracks leading toward Lopaus Point and Mitchell Cove for peaceful beachcombing and coastal exploration away from the lighthouse photo lines.\n\nTips\n- Lighthouse is picturesque but crowded during peak season\n- Head beyond the main viewpoint for quieter explorations\n- Dirt tracks and paths explore the rocky coast\n- Tide pools and shells to discover\n- Dramatic pink granite formations like elsewhere on the island\n- Sunset views are particularly stunning\n- Bring sturdy shoes for rocky terrain",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3372182,
+          44.2219669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Harbor Marsh Bass Harbor ME",
+        "icon": "trees",
+        "color": "green",
+        "detail": "Bass Harbor Marsh\n\n\ud83d\udccd Near the Hio Fire Road bridge, Bass Harbor, ME\n\nA tidal marsh near Bass Harbor, primarily a birding destination and noticeably less trafficked than the main park attractions on the eastern side of the island.\n\nTips\n- Bring binoculars \u2014 birding is the main draw here\n- Accessible via the Hio Fire Road bridge crossing",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33957,
+          44.25383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beal's Lobster Pier Southwest Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Beal's Lobster is a well-regarded seafood restaurant located in Bar Harbor, known primarily for its lobster dishes, including boiled lobster and lobster rolls. The establishment attracts a diverse clientele, including families, tourists, and seafood enthusiasts who visit for casual dining experiences. The overall vibe is casual and welcoming, making it suitable for family outings and relaxed meals. Positive feedback commonly highlights the high quality of the food, the friendly service, and the pleasant atmosphere. However, some diners have noted a delay in service during busy periods as a common issue.",
+        "website": "https://www.google.com/maps/place/Beal's+Lobster+Pier/@44.2778525,-68.3278887,1570m/data=!3m1!1e3!4m6!3m5!1s0x4caebd2245f481a1:0x465999439c937e3e!8m2!3d44.2753704!4d-68.3129377!16s%2Fg%2F1thlz0wn?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.31283240969235,
+          44.27556229109828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beech Hill Preserve",
+        "icon": "gem",
+        "color": "purple",
+        "detail": "Beech Hill Preserve\n\nSummit Road Trail \u2014 0.75 mi each way / 1.5 mi round trip, easy \u2014 climbs gently through blueberry barrens to \"Beech Nut,\" a historic 1913 sod-roof stone hut at the summit with panoramic views over Penobscot Bay. One of the best short, easy hikes on the whole Camden\u2013Wiscasset corridor.\n\nTips\n- Free admission, open 9am\u20135pm daily.\n- Longer option: Woods Loop Trail, ~1.9 mi, still easy, more elevation gain through forest.",
+        "website": "https://www.google.com/maps/place/Beech+Hill+Preserve/@44.1659581,-69.2106881,18827m/data=!3m1!1e3!4m11!1m3!2m2!1sscenic+spot!6e1!3m6!1s0x4cadd0c19e11c51b:0x770a32480499b65a!8m2!3d44.1659581!4d-69.0978767!15sCgtzY2VuaWMgc3BvdFoNIgtzY2VuaWMgc3BvdJIBD25hdHVyZV9wcmVzZXJ2ZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSS056WlhTMkpCRUFF4AEA-gEECAAQQg!16s%2Fg%2F11clw07zjf?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0978767,
+          44.1659581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast and Searsport Day Trip",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "Belfast & Searsport Day Trip\n\n\ud83d\udccd Belfast & Searsport, ME (Belfast: ~18 miles, 25 min from Camden; Searsport: ~10 min farther north)\n\nA full day exploring maritime history, antiques, and authentic small-town waterfront character. Both towns draw locals rather than cruise-ship tourists, offering genuine Maine character distinct from the busier coastal alternatives. Pairs perfectly with your Augusta/Hallowell trip to offer two completely different day experiences from Camden base.\n\nItinerary\n\nLate Morning: Belfast Waterfront Exploration (10:00 a.m.\u201311:30 a.m.)\nStart in downtown Belfast, exploring the working waterfront with its historic brick storefronts, locally run shops, and caf\u00e9s. Frequently described as having more authentic character than busier coastal stops.\n\nPoints of interest:\n- Working waterfront docks and views\n- Historic Main Street brick architecture\n- Local independent shops and galleries\n- Casual caf\u00e9s and coffee shops\n- No cruise-ship tour buses (unlike Bar Harbor)\n\nLate Morning/Midday: Penobscot Marine Museum (11:45 a.m.\u20131:15 p.m.)\nContinue about ten minutes north to Searsport and spend time at the Penobscot Marine Museum, one of the oldest maritime museums in the country. Showcases Maine's shipbuilding and seafaring history through ship models, paintings, and artifacts from the age of sail\u2014a deep dive into maritime heritage that connects to the working waterfront you saw in Belfast.\n\nMuseum highlights:\n- Historic ship models and paintings\n- Age of sail artifacts and documents\n- Shipbuilding history exhibitions\n- Campus-based with multiple buildings\n- Plan 1\u20132 hours for a full visit\n\nAfternoon: Searsport Antiques (1:30\u20133:00 p.m.)\nBrowse Searsport's Route 1 corridor, regionally known as an antiques destination with several shops worth a slow browse. Connects to maritime history theme\u2014many shops feature nautical and vintage maritime items.\n\nLate Afternoon: Return to Belfast Dining (3:30\u20135:00 p.m.)\nReturn to Belfast for a relaxed lobster or seafood lunch before the short 25-minute drive back to Camden. Waterfront dining with views, local seafood focus, and genuine small-town character.\n\nWhy This Trip Works\n\n- Drive time: Belfast is only 25 minutes from Camden\u2014practically a warm-up drive\n- Theme differentiation: Maritime heritage and small-town character, completely distinct from Augusta/Hallowell's state capital focus\n- Authenticity: Both towns frequently described as having more authentic local character than touristy alternatives\n- No overlap: Routes south/southwest on Route 1, not competing with Bar Harbor routes\n- Variety: Mix of working waterfront, museum history, antiques, and casual waterfront dining\n- Proximity: Both towns are close together, making for an efficient full-day outing\n- No crowds: Locals rather than cruise-ship tourists, genuine Maine character\n\nNotes\n\n- Both towns draw primarily local and regional visitors, not cruise-ship traffic\n- Penobscot Marine Museum requires admission (check hours)\n- Waterfront dining is the highlight of the afternoon\u2014take your time with the scenic views\n- Good for history lovers and antique collectors\n- The working waterfront vibe is the key distinguishing feature vs. more developed tourist destinations\n- Best as a full-day outing to appreciate both towns and the maritime museum",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0065207,
+          44.4261759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boynton-McKay Food Company Camden ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "\u26a0\ufe0f Boynton-McKay Food Company \u2014 CLOSED\n\n\ud83d\udccd 30 Main St, Camden, ME (former location)\n\nThis restaurant has closed. It was a genuine Camden institution \u2014 the building was originally an 1890s pharmacy, and the restaurant itself operated there for roughly 15 years before selling. It was voted best breakfast in Maine by Food Network Magazine and known for chocolate chip pancakes and made-from-scratch comfort food. Reporting around the sale indicated a Bagel Cafe was expected to take over the same Main Street space \u2014 but that report is dated, so verify what's actually operating at 30 Main St before planning a visit, rather than assuming either name is currently open.\n\nTips\n- Do not build a breakfast plan around this name \u2014 confirm current status first.\n- If a bagel shop or other new tenant is now at 30 Main St, it may be worth a look on its own merits, but it isn't the same business this note originally described.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0465,
+          44.2067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burning Tree Restaurant Otter Creek ME",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "Burning Tree Restaurant\n\n\ud83d\udccd Otter Creek, Bar Harbor, ME\n\nA restaurant located in Otter Creek, south of downtown Bar Harbor. Part of the local pattern of moving south and west out of town for dinner when central Bar Harbor is at peak capacity.\n\nTips\n- South of downtown on Route 3\n- Off the main tourist strip\n- Good bailout option for avoiding downtown evening crowds\n- Locals recommend heading this direction for dinner in August",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2130963,
+          44.3364348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden Public Library Amphitheatre and Fawn's Garden Camden ME",
+        "icon": "leaf",
+        "color": "green",
+        "detail": "Camden Public Library Amphitheatre & Fawn's Garden\n\n\ud83d\udccd Camden Public Library, 55 Main St, Camden, ME\n\nA horseshoe-shaped stone amphitheatre built 1928\u20131931, designed by celebrated American landscape architect Fletcher Steele and funded by local arts patron Mary Louise Curtis Bok. Massive boulders, Camperdown elms, and stands of birches give it a naturalistic feel despite every element being deliberately planned. Sits right on the library grounds with a real view of Camden Harbor, and offers a genuinely quiet place to sit away from downtown traffic.\n\nTips\n- Free and open to the public year-round; the library itself is a National Historic Landmark.\n- Look for the large brass-ringed compass set into the ground near the Faun's Garden \u2014 its ring famously went missing for over 50 years before turning up in a nearby shed.\n- Used regularly for weddings, yoga, and community events \u2014 worth checking there's nothing scheduled if you want a quiet visit.\n- Benches are placed to catch the harbor view \u2014 a good spot to sit for 10\u201315 minutes between other stops rather than a destination in itself.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0465,
+          44.2067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Pier Chowder House Cape Porpoise ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Cape Pier Chowder House\n\n\ud83d\udccd Cape Porpoise, ME\n\nLonger season with indoor seating and views to Goat Island Light. Extended-season operation with indoor comfort.\n\nTips\n- Longer operating season (indoor seating advantage)\n- Goat Island Light views\n- Weather-proof indoor seating\n- Extended season for shoulder months",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3667,
+          43.3833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Causeway Walk Norwood Cove Southwest Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Causeway Walk (Norwood Cove)\n\n\ud83d\udccd Off Fernald Point Rd, Southwest Harbor, ME\n\nA footbridge/causeway crossing Norwood Cove off Fernald Point Road, near Southwest Harbor. Local write-ups specifically call this out as a spot \"few visitors to Mount Desert Island ever find\" \u2014 genuinely off the tourist map.\n\nTips\n- No signage from the main road \u2014 look for the Fernald Point Rd turnoff\n- Short, easy walk \u2014 good for a quick stop rather than a dedicated outing",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3222389,
+          44.2875801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte Rhoades Park and Butterfly Garden Southwest Harbor ME",
+        "icon": "leaf",
+        "color": "green",
+        "detail": "Charlotte Rhoades Park and Butterfly Garden\n\n\ud83d\udccd 191 Main St, Southwest Harbor, ME 04679\n\nA small waterfront pocket park in downtown Southwest Harbor with a dedicated butterfly garden. Local write-ups describe it as consistently \"seldom busy,\" a nice quiet stop while walking the village.\n\nTips\n- Easy walk-in stop while exploring downtown Southwest Harbor \u2014 no real parking planning needed",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.329007,
+          44.289321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte's Legendary Lobster Pound Southwest Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Charlotte's Legendary Lobsters is a seafood establishment best known for its fresh lobster rolls and clam chowder. It attracts a casual crowd of seafood lovers, families, and outdoor diners, often visiting for a laid-back meal after activities like hiking. The vibe is relaxed and friendly, with a focus on outdoor dining and picnic table seating. \n\nThe strongest positives consistently praised by customers include the freshness of the food, particularly the lobster roll and fried scallop roll, the friendly and efficient service, and the enjoyable outdoor atmosphere. Common downsides noted include the limited hours of operation, as it's closed on Wednesdays and Thursdays, and the potential for wait times due to the food truck model of service.",
+        "website": "https://www.google.com/maps/place/Charlotte's+Legendary+Lobster+Pound/@44.2514225,-68.334502,9150m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4caea349426b9ac1:0x3ca9ed3a9d2836e0!2sCharlotte's+Legendary+Lobster+Pound!8m2!3d44.2446861!4d-68.2986522!16s%2Fg%2F1q6n2glpy!3m5!1s0x4caea349426b9ac1:0x3ca9ed3a9d2836e0!8m2!3d44.2446861!4d-68.2986522!16s%2Fg%2F1q6n2glpy?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2982666594881,
+          44.24596841345262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chauncey Creek Lobster Pier Kittery Point ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Chauncey Creek Lobster Pier\n\n\ud83d\udccd Kittery Point, ME\n\nOperating since 1948 with a distinctive floats-on-the-water feel at high tide. A historic Maine lobster experience with character built over generations.\n\nTips\n- Operating since 1948 (75+ years)\n- Floats-on-water experience at high tide\n- Historic Maine lobster setting\n- Time your visit around high tide for the full experience",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7383,
+          43.0867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chipman's Wharf Milbridge ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Chipman's Wharf\n\n\ud83d\udccd Milbridge, ME\n\nFourth-generation family wharf with trap-to-table transparency. Direct sourcing from working wharf to your plate.\n\nTips\n- Fourth-generation family business\n- Trap-to-table sourcing\n- Working wharf setting\n- Direct boat-to-plate experience",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8667,
+          44.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circular Hanging Steps Acadia National Park ME",
+        "icon": "scroll",
+        "color": "green",
+        "detail": "Circular Hanging Steps\n\n\ud83d\udccd Orange and Black Path, near the Precipice parking lot, Acadia National Park, ME\n\nA historic stone-step trail feature on the Orange and Black Path, near the Precipice parking lot. It's no longer maintained by the park, which keeps it firmly off the beaten path \u2014 and like the nearby Precipice Trail, it's closed seasonally for peregrine falcon nesting.\n\nTips\n- Check peregrine falcon closure status before visiting \u2014 same seasonal restriction as the Precipice Trail\n- Not a maintained park trail \u2014 go prepared for rougher, unmarked conditions",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1875,
+          44.34722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curtis Island Overlook Camden ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Curtis Island Overlook\n\n\ud83d\udccd Bayview Street, Camden, ME\n\nA small, easy-to-miss shoreline viewing spot on Bayview Street offering one of the best land-based views of the historic Curtis Island Lighthouse. Rarely draws a crowd since most harbor visitors stick to the main harbor walk or the known lighthouse parking areas.\n\nTips\n- Located on Bayview Street, easy to drive past\n- Excellent lighthouse views without the crowds\n- Small parking area, intimate setting\n- Good for sunrise or sunset photos\n- Locals' secret spot for lighthouse appreciation",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0452,
+          44.2078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Day Mountain Trail Seal Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Day Mountain Trail\n\n\ud83d\udccd Parking on Route 3/Champlain Rd, near Seal Harbor, ME (~0.8 mi from trail start)\n\nA 2.1-mile easy out-and-back trail up Day Mountain, near Seal Harbor \u2014 one of Acadia's lesser-known peaks despite genuinely good summit views. Rated 4.6\u2605 on AllTrails; one hiker reported seeing \"no hikers and just a few bikes\" during their visit.\n\nTips\n- Also a popular carriage-road biking summit \u2014 expect to share the trail with a few cyclists, if anyone\n- Parking is on Route 3/Champlain Rd, about 0.8 mi from the actual trail start",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22776,
+          44.29938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downeast Windjammer Ferry Bar Harbor ME",
+        "icon": "ship",
+        "color": "green",
+        "detail": "Downeast Windjammer Ferry\n\n\ud83d\udccd Bar Harbor Terminal \u2192 Winter Harbor, ME\n\nA scenic 45-minute ferry crossing from Bar Harbor to Winter Harbor that avoids road congestion around Ellsworth entirely. The ferry journey itself is part of the Schoodic Peninsula experience\u2014arriving by water is more atmospheric than driving.\n\nTips\n- Departs from Bar Harbor waterfront\n- Check schedule in advance; ferries may be seasonal\n- 45-minute crossing provides scenic views of Frenchman Bay\n- Arrive at terminal 15-30 minutes before departure\n- Ferry dock is right at Winter Harbor, walking distance to amenities\n- Return ferry available for evening departure back to Bar Harbor\n- Saves significant drive time vs. routing through Ellsworth\n- A memorable and scenic way to start your Schoodic day",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2,
+          44.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eben's Head Trail Isle au Haut ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Eben's Head Trail\n\n\ud83d\udccd Duck Harbor, Isle au Haut, ME (mailboat access from Stonington)\n\nA 1.4-mile easy out-and-back trail on Isle au Haut, reviewed as \"short and sweet\" with \"absolutely stunning views.\" Isle au Haut is Acadia's least-visited district by a wide margin \u2014 roughly 10,000 visitors a year compared to millions on Mount Desert Island \u2014 and it's only reachable by mailboat from Stonington, which is exactly why it stays this quiet. Only 23 AllTrails reviews total, itself a reflection of how few people make the trip.\n\nTips\n- Reached only by mailboat from Stonington \u2014 check the Isle au Haut Boat Services schedule before planning a visit\n- Trailhead is at Duck Harbor, on the island's more remote (Acadia NP-managed) southern end\n- Because the whole island sees so few visitors, this is worth treating as a half/full-day commitment, not a quick stop",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65122,
+          44.03006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echo Lake Beach Somesville ME",
+        "icon": "waves",
+        "color": "green",
+        "detail": "Echo Lake Beach\n\n\ud83d\udccd Route 102, near Somesville, Mount Desert Island, ME\n\nA freshwater beach on Echo Lake, on Mount Desert Island's western \"quiet side\" near Somesville. The water is considerably warmer than the ocean at Sand Beach, and it draws far fewer tourists despite being one of the better swimming spots on the island.\n\nTips\n- Lifeguarded in summer season \u2014 good family swimming option\n- Echo Lake also has a boat launch and is popular with rock climbers (Beech Cliff) nearby",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.325914,
+          44.279767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erica's Seafood South Harpswell ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Erica's Seafood\n\n\ud83d\udccd South Harpswell, ME\n\nFamily-run seafood with low prices and Casco Bay views. Cash only, genuine local favorite.\n\nTips\n- Family-run operation\n- Budget-friendly pricing\n- Casco Bay views\n- Cash only\n- Local favorite",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9833,
+          43.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Five Islands Lobster Co Georgetown ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Five Islands Lobster Co.\n\n\ud83d\udccd Georgetown, ME\n\nIsland-studded harbor views with 4.82-rated casual lobster dining. One of the highest-rated lobster pounds on the Maine coast with consistent top reviews across platforms (2,368+ reviews).\n\nTips\n- Island-studded harbor setting\n- Consistently high ratings (4.82 across sources)\n- Casual waterfront dining\n- Popular and worth the visit",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55,
+          43.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frazer Point Picnic Area Schoodic ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Frazer Point Picnic Area\n\n\ud83d\udccd Schoodic Peninsula, Acadia National Park, ME\n\nA waterfront picnic area with access to docks and rocky shoreline along Frenchman Bay. Best visited early in the morning (before 9 a.m.) to enjoy the docks and coastal views without crowds.\n\nTips\n- Arrive before 9 a.m. for solitude\n- Excellent for early coffee and contemplation\n- Waterfront access for photos and exploring tide pools\n- Part of the Schoodic Loop but rarely crowded at dawn/early morning\n- Good starting point for cycling or walking the Schoodic Bike Path",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frenchman Bay Lobster Rolls Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Overview  \nFrenchman Bay Lobster Rolls is a small takeout seafood establishment located on Main Street in Bar Harbor, Maine. The restaurant is known for its buttery lobster rolls served with generous portions and quality ingredients.\n\nTypical Clientele  \nVisitors and cruise passengers passing through Bar Harbor seeking authentic Maine lobster rolls. Both locals and tourists frequent the spot, particularly those looking for casual, quick seafood dining with waterfront access.\n\nVibe  \nCasual, no-frills takeout operation. Customers can order at the counter and eat across the street while enjoying harbor views. Unpretentious, fast-paced, and focused on the food rather than ambiance. Family-friendly and accessible for travelers.\n\nWhat People Praise\n\n- Quality lobster rolls\u00a0\u2014 Generous portions with buttery, perfectly heated butter that complements the lobster meat\n- Speed and efficiency\u00a0\u2014 Fast service with minimal fuss from order to delivery\n- Harbor views\u00a0\u2014 Seating across the street offers scenic waterfront vistas while eating\n- Small, focused menu\u00a0\u2014 Specializes in lobster rolls and classic Maine seafood items (clam chowder, lobster bisque)\n\nCommon Downsides\n\n- Inconsistent flavor quality\u00a0\u2014 Some visitors found their lobster rolls lacked flavor compared to other stops\n- Limited dining experience\u00a0\u2014 Takeout-only format means no formal dining amenities; outdoor seating is weather-dependent\n- Menu repetition fatigue\u00a0\u2014 For those eating multiple lobster rolls across Maine, this stop ranked lower in comparison",
+        "website": "https://www.google.com/maps/place/Frenchman+Bay+Lobster+Rolls/@44.3909182,-68.2076997,1584m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4caebfb63cd9e005:0x7d5efcee0599eeea!2sFrenchman+Bay+Lobster+Rolls!8m2!3d44.3909144!4d-68.2051248!16s%2Fg%2F11y4b12cn1!3m5!1s0x4caebfb63cd9e005:0x7d5efcee0599eeea!8m2!3d44.3909144!4d-68.2051248!16s%2Fg%2F11y4b12cn1?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20522449539732,
+          44.391233476186144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graffam Bros Seafood Market Rockport ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Graffam Bros Seafood Market\n\n\ud83d\udccd Rockport, ME\n\nA genuine local favorite seafood market founded in 1946, offering fresh catch sourced and frequented by locals rather than operating as a tourist fish shack. A true working market with authentic local clientele.\n\nTips\n- 75+ year history\n- Local working market, not a tourist trap\n- Fresh catch from local sources\n- Authentic local feel\n- Good for picking up fresh seafood",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0994,
+          44.1776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallowell Antique Mall Hallowell ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Hallowell Antique Mall\n\n\ud83d\udccd Water Street, Hallowell, ME\n\nAn antique mall featuring 80 dealers with a wide variety of vintage and antique items. A major browsing destination along Hallowell's Water Street.\n\nTips\n- 80 dealer booths means variety\n- Large enough for extended browsing\n- Located on historic Water Street\n- Good for collectors and casual browsers\n- Pair with other Water Street shops and dining",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902799,
+          44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harraseeket Lunch and Lobster South Freeport ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Harraseeket Lunch & Lobster\n\n\ud83d\udccd South Freeport, ME\n\nExtensive menu with working-harbor setting near L.L.Bean. More menu variety than typical lobster shacks, casual waterfront dining.\n\nTips\n- Extensive menu options\n- Working-harbor setting\n- Near L.L.Bean shopping (if interested)\n- Casual waterfront dining",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1333,
+          43.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hio Fire Road and Big Heath Seawall ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Hio Fire Road & Big Heath Bog\n\n\ud83d\udccd Near Seawall, western Mount Desert Island, ME\n\nA gated fire road near Seawall on the western side of Mount Desert Island, skirting the Big Heath \u2014 a glacial peat bog \u2014 through spruce and pine woods. The gates at both ends of the road keep vehicle traffic out entirely, which is a big part of why it stays quiet.\n\nTips\n- Gated at both ends \u2014 foot/bike access only\n- Good for birding and a genuinely solitary walk",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33957,
+          44.25383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holbrook's Lobster Grill Cundy's Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Holbrook's Lobster Grill\n\n\ud83d\udccd Cundy's Harbor, ME\n\nCommunity-run operation with an elevated menu beyond the basics. A step up from typical lobster shacks while maintaining casual character.\n\nTips\n- Community-run establishment\n- Menu options beyond basics\n- Elevated casual dining\n- Local favorite",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9667,
+          43.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islesford Dock Restaurant Little Cranberry Island ME",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "Islesford Dock Restaurant\n\n\ud83d\udccd Little Cranberry Island (Islesford), ME\n\nReached by mail boat or water taxi from Northeast Harbor, this restaurant sits right on the working pier with panoramic views back toward Acadia's mountains. The journey itself is part of the experience\u2014a quiet escape from downtown Bar Harbor crowds.\n\nTips\n- Hop on the mail boat or water taxi from Northeast Harbor\n- Call ahead to confirm operating hours and ferry schedules\n- Local seafood prepared fresh\n- The pier setting offers stunning mountain and water views",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2352272,
+          44.2619065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean S. Picker Memorial Garden Camden ME",
+        "icon": "leaf",
+        "color": "green",
+        "detail": "Jean S. Picker Memorial Garden & Children's Garden\n\n\ud83d\udccd Camden Public Library grounds, Camden, ME\n\nA smaller, quieter garden space on the Camden Public Library grounds, adjoining a Children's Garden \u2014 part of the same library complex as the better-known Amphitheatre & Fawn's Garden (the Fletcher Steele-designed horseshoe theater), but a distinct, smaller corner of it. Worth noting: independent research on this specific garden by name is thin online \u2014 most sources reference the library's \"Jean Picker Room\" (an indoor space) rather than a standalone outdoor garden, so treat the exact scope here as approximate until seen in person.\n\nTips\n- Free access, same grounds as the Amphitheatre \u2014 easy to combine both in one stop.\n- If it turns out to be the same space as the Amphitheatre/Fawn's Garden rather than a distinct corner, that's fine \u2014 either way it's worth the short walk from Main Street.\n- Good for a quiet few minutes away from the harbor crowds.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0465,
+          44.2067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jesup Path and Hemlock Path Loop Acadia National Park ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Jesup Path and Hemlock Path Loop\n\n\ud83d\udccd 2 Sieur de Monts Rd, Bar Harbor, ME 04609\n\nA 1.6-mile easy loop through birch and hemlock wetland at Sieur de Monts, largely on boardwalk. Rated 4.6\u2605 on AllTrails across 1,500+ reviews, and described as \"one of the most underrated day hikes in Acadia\" \u2014 genuinely easy walking with real scenic payoff.\n\nTips\n- Boardwalk sections mean it's stroller/wheelchair-friendlier than most Acadia trails\n- Pairs naturally with Wild Gardens of Acadia, right next door at Sieur de Monts",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20783,
+          44.362097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Cliffs Trail Acadia National Park ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Jordan Cliffs Trail\n\n\ud83d\udccd Trailhead near Jordan Pond North Lot, Acadia National Park, ME\n\nA cliffside trail near Jordan Pond, completely overshadowed by the adjacent and far more famous Jordan Pond Path and the Bubbles. One write-up calls it \"incredibly underrated\" \u2014 same neighborhood as Acadia's most popular spot, a fraction of the foot traffic.\n\nTips\n- Involves iron rungs/ladders on exposed cliff sections \u2014 not a casual flat walk despite being near Jordan Pond\n- Access via the Jordan Pond North Lot / Spring Trail",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.251892,
+          44.321547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan's Restaurant - Breakfast - Lobster Rolls - Burgers - Pancakes - Sandwiches 1 Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Open in Google Maps\n\nWhat It Is & What It's Best Known For\n\nJordan's Restaurant is a casual breakfast and lunch diner on Cottage Street in Bar Harbor, Maine. It is unpretentious and long known for its wild Maine blueberry pancakes. The menu includes lobster rolls, omelets (Maine delight, lobster cheese, western), quiche, waffles, home fries, bacon, and clam chowder. The restaurant celebrates its 50th anniversary in 2026.\n\nTypical Customers\n\nThe restaurant attracts tourists (especially those visiting Cadillac Mountain for sunrise), families with children, locals who view it as \"the heart of this town,\" and travelers seeking affordable, no-frills breakfast experiences.\n\nOverall Vibe\n\nCasual and bustling with a \"small-town feel\" and \"old school vibe.\" The atmosphere is informal and fast-paced\u2014customers are told to \"sit wherever you like.\" The energy is lively with staff \"hustling and enjoying their work.\" Decidedly budget-friendly and unpretentious, described as \"no frills, no foam art, just real food.\"\n\nStrongest Positives (from reviews)\n\n1. Wild Maine blueberry pancakes are exceptional\u00a0\u2013 Mentioned in 393 reviews, guests consistently praise them as \"delicious\" and \"exceptional.\" The wild Maine blueberries are \"tiny but so flavorful.\" Blueberry muffins and waffles are similarly praised as \"loaded with blueberries.\"\n    \n2. Outstanding value and affordability\u00a0\u2013 Reviewers call it \"the best and probably cheapest breakfast\" in town. At $10\u201320 per person, the generous portions deliver excellent value. One reviewer noted it as \"the best and probably cheapest breakfast we had while in town.\"\n    \n3. Genuinely friendly staff and welcoming local character\u00a0\u2013 Staff are described as \"very kind,\" \"super friendly,\" and helpful with local tips. The owner and crew are viewed as a \"family\" that treats both locals and visitors with warmth. One local called it \"definitely this gem\" and \"the heart of this town.\"\n    \n4. Excellent omelets and diverse menu beyond blueberries\u00a0\u2013 Omelets (Maine delight, lobster cheese, lobster mushroom) are consistently praised as \"delicious.\" Quiche, lobster rolls, home fries, bacon, and clam chowder receive positive mentions for quality and portion size.\n    \n\nMost Common Issues or Downsides (from reviews)\n\n1. High-volume service creates pressure and inconsistency\u00a0\u2013 One reviewer with a young child reported \"bad\" service and felt \"pressured to be quick and get out as soon as possible.\" Another noted the place is \"so busy that we felt pressured to be quick.\" The owner acknowledged poor service \"is not the norm,\" but the volume operation can affect the dining pace.\n    \n2. Some menu items fall short\u00a0\u2013 Haddock chowder was described as \"way too watery and quite disappointing.\" One reviewer found blueberry pancakes \"way overhyped\" and \"ok\" rather than exceptional, noting they \"are not sweet.\"\n    \n3. Popularity creates crowds and waits\u00a0\u2013 The restaurant is extremely busy during peak times, which contributes to the rushed atmosphere despite the casual seating policy.",
+        "website": "https://www.google.com/maps/place/Jordan's+Restaurant+-+Breakfast+-+Lobster+Rolls+-+Burgers+-+Pancakes+-+Sandwiches/@44.3887812,-68.2110299,595m/data=!3m2!1e3!5s0x4caebf79398c221d:0x760efaa8d0294f9f!4m21!1m7!3m6!1s0x4caebf005b379c81:0xc72ad7b501a68b23!2sDinner!8m2!3d44.3886633!4d-68.2140236!16s%2Fg%2F11vxy0p6s6!3m12!1s0x4caebf7c6dc34add:0xa44453f85df41378!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.3888274!4d-68.2100349!9m1!1b1!16s%2Fg%2F1tdpr7xc?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2140236,
+          44.3886633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kennebec River Rail Trail Augusta ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Kennebec River Rail Trail\n\n\ud83d\udccd Augusta waterfront \u2192 Hallowell \u2192 Gardiner, ME\n\nA paved rail trail connecting Augusta's waterfront through Hallowell to Gardiner. Perfect for a walk or bike ride between towns, offering Kennebec River views and a flat, easy route.\n\nTips\n- Paved surface suitable for walking or biking\n- Connects Augusta, Hallowell, and Gardiner\n- Flat, easy trail\n- Excellent for a casual waterfront walk\n- Good alternative to or complement to downtown shopping\n- Access points in Augusta, Hallowell, Gardiner",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7775889,
+          44.3014495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Eider's Pub Damariscotta ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "King Eider's Pub\n\n\ud83d\udccd Damariscotta ME\n\nCasual American pub well known for fresh local oysters and a lively bar scene.\n\nMust Order\n- Fresh local oysters\n\nTips\n- Lively bar atmosphere \u2014 good for an evening drink and apps.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5101,
+          44.0337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberal Cup Brewpub Hallowell ME",
+        "icon": "beer",
+        "color": "red",
+        "detail": "Liberal Cup Brewpub\n\n\ud83d\udccd 115 Water Street, Hallowell, ME\n\nA brewpub in Hallowell's historic Water Street district, combining local craft beer and casual dining. Part of the local character that makes Hallowell distinct from touristy alternatives.\n\nTips\n- Located on Water Street antique district\n- Craft beer selection\n- Casual brewpub atmosphere\n- Good for afternoon or evening visit\n- Historic building setting",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902858,
+          44.2863271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Hunter's Beach Acadia ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Little Hunter's Beach\n\n\ud83d\udccd Acadia National Park Loop, southeastern edge, Mount Desert Island, ME\n\nWhile tourists flock to Sand Beach, locals head to this hidden, cobblestone-covered cove nestled along the southeastern edge of the island. It's quiet, framed by spruce trees, and rarely crowded.\n\nTips\n- Located off the main Loop Road; requires a bit of searching to find\n- Cobblestone beach is unique and photogenic\n- Bring water shoes; the stones can be rough\n- Early morning or late afternoon is best for avoiding crowds\n- Part of Acadia National Park, so no entry fee required",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19,
+          44.295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Long Pond & Rockefeller Boathouse Seal Harbor ME",
+        "icon": "trees",
+        "color": "green",
+        "detail": "Little Long Pond & Rockefeller Boathouse\n\n\ud83d\udccd Main Gate, Route 3 at Bracy Cove, Seal Harbor, ME\n\nA former Rockefeller family estate pond, now part of the Mount Desert Land & Garden Preserve, reached via carriage road from the Main Gate on Route 3 at Bracy Cove. No bicycles are allowed on this stretch of carriage road \u2014 only foot and horse traffic \u2014 which is a big part of why it stays so quiet compared to the Rockefeller carriage roads inside Acadia proper.\n\nTips\n- No bikes allowed on this section of carriage road \u2014 foot/horse only\n- Pairs well with a Day Mountain Trail or Seal Harbor Beach stop nearby\n- Coordinate given is the pond itself; parking is at the Main Gate on Route 3",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.256511,
+          44.29932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Moose Island Tide Walk Schoodic ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Little Moose Island Tide Walk\n\n\ud83d\udccd Blueberry Hill area, Schoodic Peninsula, ME\n\nA unique tide-dependent excursion walking out from Blueberry Hill toward Little Moose Island at low tide. This is an unusual exploratory walk that most visitors never attempt\u2014timing is critical and adds an element of adventure to the Schoodic experience.\n\nTips\n- CRITICAL: Time this around low tide only. Check tide charts before planning.\n- Depart Blueberry Hill parking area at or near low tide window\n- Plan for muddy/rocky terrain; sturdy waterproof boots essential\n- Return well before incoming tide\u2014this is not a place to get trapped\n- Unique wildlife and geologic exploration opportunity\n- Brings a genuine sense of discovery and local knowledge\n- Very few tourists ever experience this; highly unique to Schoodic\n- Check weather before attempting; rough conditions dangerous at tide transitions",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Pond Fire Road Mount Desert ME",
+        "icon": "waves",
+        "color": "green",
+        "detail": "Long Pond & Long Pond Fire Road\n\n\ud83d\udccd Pretty Marsh Rd, western Mount Desert Island, ME\n\nMount Desert Island's largest freshwater lake, on the western side of the island. It sits in the shadow of its more popular neighbor, Echo Lake, and as a result stays noticeably quiet \u2014 one write-up notes \"you won't come across many people\" along its fire road.\n\nTips\n- Good for a quiet paddle or lakeside walk without Echo Lake's crowds\n- Coordinate given is the pond centroid \u2014 no single trailhead pin was confirmable",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.35833,
+          44.32361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Look Lobster Quoddy Bay Eastport ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Look Lobster Quoddy Bay\n\n\ud83d\udccd Eastport, ME\n\nEasternmost lobster shack in the U.S. with Passamaquoddy Bay views. The geographic endpoint and definition of Downeast Maine.\n\nTips\n- Easternmost lobster shack in continental U.S.\n- Passamaquoddy Bay views\n- True Downeast Maine experience\n- Geographic destination in itself",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9833,
+          44.8156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Hadlock Pond Loop Trail Northeast Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Lower Hadlock Pond Loop Trail\n\n\ud83d\udccd Parkman Mountain / Norumbega parking area, Route 198, near Northeast Harbor, ME\n\nA 1.6-mile easy loop around Lower Hadlock Pond, further west than the busier core of the park near Northeast Harbor. Rated 4.6\u2605 on AllTrails across 800+ reviews; one reviewer specifically noted seeing \"only one other family\" during their visit.\n\nTips\n- Access via the Parkman Mountain/Norumbega parking area on Route 198\n- Good easy add-on if visiting Asticou or Thuya Gardens nearby",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.291147,
+          44.325833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Harbor Trail Schoodic ME",
+        "icon": "footprints",
+        "color": "green",
+        "detail": "Lower Harbor Trail\n\n\ud83d\udccd Schoodic Woods Campground, 54 Farview Dr, Winter Harbor, ME\n\nA 2.4-mile easy out-and-back trail from Schoodic Woods Campground, described as a \"mellow coastal path\" with rocky coastline views toward Norris and Sargent Islands. Rated 4.5\u2605 on AllTrails.\n\nTips\n- Starts right from Schoodic Woods Campground \u2014 easy to combine with a Schoodic Bike Path Network ride\n- Coordinate given is the campground entrance, not a separate trailhead pin",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0665937996,
+          44.3800630005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunch on the Wharf Corea ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Lunch on the Wharf\n\n\ud83d\udccd Corea, ME\n\nSixth-generation lobsterman-run operation in a historic working harbor. Authentic Maine tradition embodied\u2014family business spanning generations.\n\nTips\n- Sixth-generation family business\n- Historic working harbor setting\n- Genuine local operation\n- Authentic Maine experience",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.975,
+          44.4009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunt's Dockside Deli Frenchboro Island ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Lunt's Dockside Deli\n\n\ud83d\udccd Frenchboro Island, ME (ferry-access)\n\nRemote ferry-access wharf on a working-boat harbor. Extreme isolation that rewards with authenticity\u2014a genuine off-the-grid Maine experience.\n\nTips\n- Ferry-access only (extreme remoteness)\n- Working-boat harbor setting\n- Genuine isolation experience\n- Effort required, authentic reward",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5,
+          43.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MDI Lobster & BBQ Southwest Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "MDI Lobster & BBQ is a seafood and barbecue restaurant located near the water, well-known for its lobster dishes and variety of menu options. It attracts families and casual diners looking for a laid-back dining experience. The vibe is casual and friendly, with outdoor seating available. Patrons consistently praise the generous portions, friendly service, and great food quality, especially the lobster and ribs. Some common issues include infrequent reports of average side dishes, like potato salad, and the fact that the restaurant is currently temporarily closed.",
+        "website": "https://www.google.com/maps/place/MDI+Lobster+%26+BBQ/@44.2783185,-68.3208779,707m/data=!3m1!1e3!4m6!3m5!1s0x4caebd0691b4f6d3:0x486c24fae53b6732!8m2!3d44.2773208!4d-68.3162384!16s%2Fg%2F11jv1pbrj5?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.31619280731911,
+          44.27745261865207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine State House Augusta ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Maine State House\n\n\ud83d\udccd State Street, Augusta, ME\n\nMaine's working capitol building, constructed from granite quarried nearby in Hallowell. The free self-guided tour (about an hour) takes you through the historic Hall of Flags and up to a rooftop veranda with views over the Kennebec River.\n\nTips\n- Free admission and self-guided tour\n- About one hour to explore thoroughly\n- Historic granite construction\n- Rooftop veranda offers river views\n- Combine with nearby Viles Arboretum and Hallowell antiques",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7817568,
+          44.3071917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Point Lighthouse Gardens Port Clyde ME",
+        "icon": "leaf",
+        "color": "green",
+        "detail": "Marshall Point Lighthouse Grounds\n\n\ud83d\udccd Port Clyde, ME\n\nFree, open sunrise to sunset year-round. Wheelchair- and stroller-friendly grounds framed by informal coastal plantings and wildflowers around the keeper's quarters. Genuinely uncrowded compared to Pemaquid or Portland Head lighthouses\u2014the grounds have a natural garden feel with native coastal plants.\n\nTips\n- Free admission and parking\n- Open sunrise to sunset year-round\n- Wheelchair and stroller accessible\n- Informal coastal plantings\n- Wildflower gardens\n- Uncrowded compared to famous Maine lighthouses\n- Good photo opportunity with lighthouse backdrop",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2638,
+          43.9578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McLoon's Lobster Shack Spruce Head ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "McLoon's Lobster Shack\n\n\ud83d\udccd Spruce Head, ME\n\nOff-the-beaten-path lobster shack with spruce-island views and house-made desserts. Specifically noted as rewarding the extra driving effort with far fewer crowds than marquee names.\n\nTips\n- Off-the-beaten-path location\n- Spruce-island views\n- House-made desserts (distinction from typical shacks)\n- Worth the extra drive for solitude",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1833,
+          43.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitchell Cove Bass Harbor ME",
+        "icon": "waves",
+        "color": "green",
+        "detail": "Mitchell Cove\n\n\ud83d\udccd Off Lopaus Point Rd (unmarked dirt turnoff), near Bass Harbor, ME\n\nA specific, unsigned beach access point off Lopaus Point Road near Bass Harbor, distinct from the main Lopaus Point overlook. There are homes in the area but genuinely no signs pointing visitors to the beach itself.\n\nTips\n- Coordinate is approximate \u2014 the original source explicitly notes it's \"not precise, but it will get you in the area\"\n- Combine with the Bass Harbor Head Lighthouse / Lopaus Point stop nearby",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.351569,
+          44.242125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscongus Bay Lobster New Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.45799846585264,
+          43.945497620019445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle Publick House Damariscotta ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "Newcastle Publick House\n\n\ud83d\udccd Damariscotta ME\n\nHistoric brick-building pub serving comfort food and multiple preparations of fresh local oysters.\n\nMust Order\n- Local oysters, several preparations\n\nTips\n- Sit at the bar for a more casual, faster meal.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5219,
+          44.0339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Point Farm Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Oak Point Farm\n\n\ud83d\udccd 60 Samoset Road, Boothbay Harbor, ME\n\nA 32-acre property with over 2,000 feet of coastline on Hodgdon Cove, described as the last remaining undeveloped saltwater farm in Boothbay Harbor \u2014 now the headquarters of the Boothbay Region Land Trust. It's the most amenity-rich of the BRLT preserves: a 0.6-mile accessible shoreline route suitable for wheelchairs and strollers, an easy 1-mile loop through fields and forest, a 2-acre freshwater pond for wildlife viewing, a deep-water dock with kayak launch, and three courtesy moorings. In summer the milkweed fields draw hundreds of monarch butterflies.\n\nTips\n- Open dawn to dusk, seven days a week; the visitor center/farmhouse itself is staffed weekdays 9:30am\u20134:30pm.\n- Preserve parking is on the left, with disability parking beside the farmhouse.\n- Public restrooms and a small Nature Center exhibit are on site \u2014 one of the few preserves with real facilities.\n- Good pick if the group includes anyone who needs the fully accessible route rather than a woods trail.\n- Winter brings cross-country skiing and snowshoeing on the maintained trails.\n- The mowed field is open for picnicking or a quick outdoor stretch/yoga break.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6563519,
+          43.8512419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Point Preserve Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Ocean Point Preserve\n\n\ud83d\udccd Van Horn Road, East Boothbay, ME\n\nA 15-acre Boothbay Region Land Trust preserve within Linekin Neck's largest wetland, centered on Tibbetts Pond \u2014 designated by Maine's Department of Inland Fisheries and Wildlife as significant waterfowl habitat. Two easy trails: the white-blazed Norman Van Horn Trail (~0.9 mile loop) and the shorter blue-blazed Golden Crowned Kinglet Trail (~0.2 mile) to a wetland observation point. It sits right along the scenic Route 96 drive out to Ocean Point itself \u2014 a narrow coastal road winding past houses perched on the rocky shore, ending at a point established as a summer retreat back in 1876, overlooking several islands and lighthouses.\n\nTips\n- About a 7-mile, ~15-minute scenic drive southeast from downtown Boothbay Harbor via Route 96 \u2014 worth doing as a loop with the drive itself, not just the trail.\n- Small parking area on Van Horn Road, 0.3 miles off Route 96 \u2014 roadside parking isn't permitted, so use the lot.\n- Good birding in warmer months; the pond is used for ice skating in winter.\n- Combine with continuing to the end of Route 96 at Ocean Point for open water views and a look at nearby lighthouses.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6026702,
+          43.8166353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovens Mouth Preserve Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Ovens Mouth Preserve\n\n\ud83d\udccd Dover Road, Boothbay, ME (East and West sections)\n\nThe largest Boothbay Region Land Trust preserve \u2014 two peninsulas connected by a 93-foot pedestrian bridge, with over 5 miles of combined trail. The East section (60 acres) has an easier 1.1-mile loop plus a shorter 0.5-mile option, good for beginners; the West section (86 acres) is more demanding, with 3.6 miles of trail including a 1.75-mile loop. Both sides overlook tidal basins and salt marsh, with striking blue-green water color at tide changes \u2014 best viewed at low tide, when remnants of a historical dam are also visible.\n\nTips\n- East parking: from the Boothbay Center roundabout, Route 27 north 1.6 mi, left on Adams Pond Road (0.1 mi), right on Dover Road (1.9 mi), bear right onto Dover Extension \u2014 lot at the end.\n- West parking: same route to Dover Road but only 1.9 mi, then bear left onto Dover Cross Road \u2014 lot 0.2 mi on the right.\n- Time your visit around low tide for the dramatic tidal color and to see the old dam remnants.\n- Dogs must be leashed at all times.\n- Pick East if you want an easier walk, West if you want real mileage and more varied terrain.\n- Multiple trailheads mean you can spread out and avoid crowding even in peak season \u2014 a real local favorite for that reason.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6443185,
+          43.9292138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxbow Brewing Company Newcastle ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "Oxbow Brewing Company\n\n\ud83d\udccd Rural Newcastle, ME (dirt driveway location)\n\nA farmhouse tasting room tucked down a dirt driveway in rural Newcastle, described as a \"low-key rural brewpub\" with pond-side outdoor seating. Brews Belgian-style farmhouse ales on-site\u2014a genuine farm brewery experience without the tourist polish.\n\nTips\n- Rural location, down dirt driveway\n- Farmhouse brewery atmosphere\n- Pond-side seating\n- Belgian-style farmhouse ales\n- Very low-key, locals' spot\n- Worth seeking out for authentic brewery experience",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5640499,
+          44.083165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penny Lake Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Penny Lake\n\n\ud83d\udccd Off Route 27/96, Boothbay Harbor, ME\n\nA 29-acre Boothbay Region Land Trust preserve (plus a 25-acre easement) that's unusually close to downtown \u2014 just off the Route 27/96 junction, right by the Chamber of Commerce and Flagship Inn. The main loop is an easy 0.5 miles between the trailhead kiosk and a wooden bridge with bench seating, passing through an apple orchard and woodland around a freshwater wetland. Watch for migratory and nesting birds, turtles, beaver, deer, and occasionally moose.\n\nTips\n- Parking: from the Route 27/96 traffic light, go north 0.1 mile, turn left between the Chamber of Commerce and the Flagship Inn, and continue past the Carousel Music Theater to the BRLT lot.\n- Genuinely convenient for a short walk without driving out of town \u2014 closer to the harbor than any other BRLT preserve.\n- Popular with locals for running, dog-walking, and general exercise, not just sightseeing \u2014 expect some foot traffic even though it's not a tourist spot.\n- All trails are easy, flat walking \u2014 a good option if you want nature without committing to a real hike.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6278332,
+          43.8617525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perry's Lobster Shack Surry ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Perry's Lobster Shack\n\n\ud83d\udccd Surry, ME\n\nRemote location with waitstaff-served dining and views to Mount Desert Island's peaks. Off-the-beaten-path reward for extra driving effort.\n\nTips\n- Remote location, off main tourist routes\n- Waitstaff service (more formal than typical shacks)\n- Mount Desert Island peak views\n- Worth the drive for solitude and scenery",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4333,
+          44.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porcupine Islands Bar Harbor ME",
+        "icon": "landmark",
+        "color": "green",
+        "detail": "Porcupine Islands\n\n\ud83d\udccd Offshore from Bar Harbor, ME (coordinate is the Bar Harbor Town Pier, the typical kayak/tour launch point)\n\nThe chain of islands (Bald, Sheep, Burnt, Long, and Rum Key Porcupine) visible right from Bar Harbor's waterfront. Despite being constantly in view from town, they're visited far less frequently than the rest of the park \u2014 actually reaching them requires a sea-kayak tour.\n\nTips\n- Book a sea-kayak tour out of the Bar Harbor Town Pier to actually visit \u2014 no casual walk-up access\n- Great subject for photos from the Shore Path even without a boat trip",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.204052,
+          44.392087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porter Preserve Boothbay ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Porter Preserve\n\n\ud83d\udccd Kimballtown Road, Barters Island, Boothbay, ME\n\nA 23-acre Boothbay Region Land Trust preserve out on Barters Island, described by BRLT itself as one of the most beloved in the region. An easy 1.1-mile path winds through heavily wooded old-growth spruce, oak, and pine, with several benches positioned for scenic Sheepscot River estuary views \u2014 seals are commonly spotted from shore at low tide. The preserve also includes a small beach, Roberts Wharf (a real working lobstering waterfront, not just scenery), and a Memorial Grove with rustic seating.\n\nTips\n- Getting there is part of the experience: from Route 27 at Boothbay Center, take Corey Lane (0.3 mi), right on Barters Island Road (2.2 mi, crossing two bridges), left on Kimballtown Road (0.5 mi), then left onto the dirt Porter Preserve Street (0.1 mi).\n- Primary parking is in a small lot past the cemetery; overflow parking is near the stacked lobster traps at the end of Kimballtown Road.\n- Dogs must stay leashed throughout.\n- Time it near low tide for the best chance of spotting seals from the overlook benches.\n- Combine with a stop at Roberts Wharf to see the island's actual working lobster fleet, not just a trail.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6732527,
+          43.9014841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pretty Marsh Picnic Area Mount Desert ME",
+        "icon": "trees",
+        "color": "green",
+        "detail": "Pretty Marsh Picnic Area\n\n\ud83d\udccd Route 102, western Mount Desert Island, ME\n\nA quiet picnic spot on the western side of Mount Desert Island, overlooking Pretty Marsh Harbor with views toward Bartlett, Folly, and Hardwood Islands. Consistently flagged in local write-ups as one of the least-visited picnic areas in the entire park.\n\nTips\n- Good sunset spot \u2014 faces west over the harbor\n- Combine with Long Pond or the Hio Fire Road area, both nearby on the quiet side",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.406846,
+          44.333169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockport Garden Club Public Gardens Network Rockport ME",
+        "icon": "leaf",
+        "color": "green",
+        "detail": "Rockport Garden Club Public Gardens Network\n\n\ud83d\udccd Throughout Rockport, ME\n\n13 distinct public garden sites maintained by the Rockport Garden Club, distributed throughout town including:\n- Rockport Opera House gardens\n- Rockport Post Office gardens\n- West Rockport Post Office gardens\n- Aldermere Farm gardens\n- Goose River Bridge plantings\n- And 8 additional sites\n\nA scattered network of beautifully tended small gardens that almost no visitor treats as a cohesive destination\u2014you discover them while walking the town.\n\nTips\n- 13 sites spread throughout Rockport\n- All maintained by local Garden Club volunteers\n- Free to visit\n- Discover while walking town\n- Seasonally beautiful plantings\n- Community-driven gardens\n- Perfect for a walking tour combining multiple sites",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0994,
+          44.1776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockport Harbor Limestone Kilns Rockport ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Rockport Harbor Limestone Kilns\n\n\ud83d\udccd Rockport Harbor, Rockport, ME\n\nA little-visited remnant of Rockport's 19th-century lime-and-ice industry, tucked right along the walkable village loop. A historic industrial site most visitors overlook while focusing on the harbor itself\u2014good for understanding Rockport's maritime heritage.\n\nTips\n- Part of the village loop walk\n- Historic lime industry evidence\n- 19th-century industrial heritage\n- Easy to miss if not looking for it\n- Educational local history",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0994,
+          44.1776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Round Pond Lobster Bristol ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Round Pond Lobster\n\n\ud83d\udccd Round Pond, Bristol, ME\n\nA seafood restaurant offering fresh lobsters, clams, and beer, with meal deals around $34. Open for lunch and dinner until 7 PM, and serves alcohol.\n\nTips\n- Expect long waits at peak times given the demand.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.45874893185821,
+          43.94546530139437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samovar Tea Shop and Tasting Room Damariscotta ME",
+        "icon": "coffee",
+        "color": "red",
+        "detail": "Samovar Tea Shop & Tasting Room\n\n\ud83d\udccd Damariscotta, ME\n\nA local tea shop and tasting room in Damariscotta that stays well below the Boothbay-level tourist traffic. A quiet spot for tea and snacks without the crowding of busier coastal destinations.\n\nTips\n- Quiet tea shop atmosphere\n- Local favorite, minimal tourist traffic\n- Tasting room offerings\n- Good alternative to busier spots\n- Calm, meditative setting",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5182,
+          44.0368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Bike Path Network Schoodic ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Schoodic Bike Path Network\n\n\ud83d\udccd Schoodic Peninsula, Acadia National Park, ME\n\nAn 8.3-mile network of gravel trails connecting Frazer Point, Wonsqueak Harbor, Bunker Harbor, and Birch Harbor Mountain. Far quieter than the popular auto-only Schoodic Loop Road, this system is ideal for biking or walking and sees only a fraction of the traffic of the main park attractions.\n\nTips\n- Start from Schoodic Woods Campground ranger station lot for easy access\n- Gravel surface suitable for hybrid or mountain bikes; also walkable\n- Connects multiple scenic harbor viewpoints\n- Excellent for avoiding peak-hour congestion\n- Water access and tide-pool opportunities at various points\n- Wildlife viewing (seals, birds) is frequent and uncrowded\n- Less crowded than any trail on Mount Desert Island",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Head Gouldsboro ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Schoodic Head\n\n\ud83d\udccd Schoodic Peninsula, Acadia National Park, ME\n\nAt 440 feet, the highest point in the Schoodic section of Acadia. A moderate loop combining the Alder, Schoodic Head, and Anvil trails (about 2.5 miles, ~375 ft gain) climbs through varied forest to a summit with sweeping views: Frenchman Bay and its islands to the west, Mount Desert Island and Cadillac Mountain across the water, and two lighthouses visible \u2014 Mark Island Light nearby and Egg Rock Light farther off toward MDI.\n\nTips\n- Start from the small Blueberry Hill parking area, about half a mile past the loop road's junction with Schoodic Point Road.\n- A good half-day hike if you want more elevation than the flat coastal walks nearby.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.3507%2C%20-68.0530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.053,
+          44.3507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Institute Winter Harbor ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Schoodic Institute\n\n\ud83d\udccd Schoodic Peninsula, Acadia National Park, ME\n\nA research and education institute based on Schoodic Peninsula that offers free ranger programs, guided nature walks, and specialized activities like birding walks. These programs provide insider-style access to the peninsula with limited capacity and minimal crowd overlap with typical park day-trippers.\n\nTips\n- Check the daily program schedule when you arrive\n- Free ranger programs often fill up early\n- Excellent for learning about local ecology and wildlife\n- Birding walks if you're interested in ornithology\n- Access to the Sundew Trail and other quiet shoreline areas\n- The institute itself is a quiet, educational hub\n- Much fewer visitors than main Acadia attractions",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Peninsula Day 1 Park Loop Trails Points",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "Schoodic Peninsula: Day 1 \u2014 Park Loop, Trails & Points\n\nA full day exploring the core Schoodic Peninsula experience: the scenic loop road, moderate hikes with big views, and coastal access, all while dodging peak crowds.\n\nItinerary\n\nMorning: Arrive via Ferry (8:30\u20139:00 a.m.)\nTake the Downeast Windjammer Ferry from Bar Harbor (45-minute scenic crossing that avoids Ellsworth road congestion). Arrive at Winter Harbor by 9:00 a.m.\n\nEarly Morning: Frazer Point (9:00\u20139:45 a.m.)\nStart at Frazer Point Picnic Area to enjoy the docks and rocky shoreline before crowds arrive. Coffee, photos, tide pool exploration.\n\nMid-Morning: Schoodic Loop Road (9:45 a.m.\u201312:30 p.m.)\nBike or drive the one-way Schoodic Loop Road, stopping at pull-offs for lighthouse and island views. Skip the main lots; use pullouts instead.\n\nKey stops:\n- Schoodic Point scenic viewpoints\n- Lighthouse and coastal overlooks\n- Island views across Frenchman Bay\n\nLate Morning into Early Afternoon: Anvil Trail & Raven's Nest Hike (12:30\u20132:30 p.m.)\nHike Anvil Trail to Schoodic Head (2 miles out-and-back, moderate climb to 440 feet). Sweeping 360-degree views of Frenchman Bay, Cadillac Mountain, Bar Harbor, and two lighthouses. Detour to Raven's Nest cliff-top viewpoint on return for sunset photography spot.\n\nLunch (2:30\u20133:15 p.m.)\nThe Pickled Wrinkle in Birch Harbor \u2014 local favorite seafood, well below Bar Harbor wait times and prices.\n\nLate Afternoon: Schoodic Point & Tide Pooling (3:15\u20135:00 p.m.)\nReturn to Schoodic Point itself for late-afternoon tide pooling (low tide window) or wave-watching at high tide. Avoid midday when lots fill; this window is optimal for solitude and wildlife.\n\nEvening: Return to Bar Harbor\nEvening ferry back to Bar Harbor (or drive via the scenic byway if time permits).\n\nNotes\n- Timing: The early start and ferry arrival avoid peak midday congestion\n- Parking: Use pullouts rather than main lots on the Schoodic Loop Road\n- Crowds: Schoodic receives only ~8% of Acadia's total visitors; expect far fewer people than Mount Desert Island trails\n- Weather: Pack layers; the peninsula is windier and cooler than Bar Harbor\n- Food: The Pickled Wrinkle is genuinely quieter than downtown; no need to rush back to Bar Harbor for dinner",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0610631,
+          44.3323041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Peninsula Day 2 Villages Byway Water",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "Schoodic Peninsula: Day 2 \u2014 Villages, Byway & Water\n\nA full day exploring the lesser-known side of Schoodic: the 29-mile National Scenic Byway beyond the park, genuine working fishing villages, gravel trail networks, and tide-dependent water explorations.\n\nItinerary\n\nMorning: Winter Harbor & Coffee (8:30\u20139:15 a.m.)\nStart in Winter Harbor, ME (assuming you stayed overnight or arrived early via ferry). Grab coffee and explore the 5&10 general store\u2014quintessential Maine village experience.\n\nLate Morning: Schoodic National Scenic Byway Drive (9:15 a.m.\u201311:00 a.m.)\nDrive the Schoodic National Scenic Byway (extends 29 miles beyond the park loop and is almost entirely ignored by tourists who only do the 6-mile park section). \n\nKey stops:\n- Corea \u2014 genuine working lobster village with zero tourist infrastructure, authentic Maine fishing community\n- U.S. Bell on the way \u2014 working bell foundry, casual visits welcome, genuinely unique artisan stop\n\nMid-Morning into Midday: Schoodic Bike Path Network (11:00 a.m.\u20131:30 p.m.)\nBike or walk the Schoodic Bike Path Network (8.3-mile gravel trail system connecting Frazer Point, Wonsqueak Harbor, Bunker Harbor, Birch Harbor Mountain). Sees a fraction of the traffic of the auto loop. Start from Schoodic Woods Campground ranger station lot.\n\nTrail segments:\n- Frazer Point to Wonsqueak Harbor\n- Bunker Harbor connection\n- Birch Harbor Mountain views\n\nLunch (1:30\u20132:15 p.m.)\nThe Pickled Wrinkle in Birch Harbor (or bring a picnic if you prefer eating on the trail).\n\nEarly Afternoon: Sundew Trail Nature Walk (2:15\u20133:00 p.m.)\nWalk the flat, easy Sundew Trail from the Schoodic Institute to private rocky shoreline (0.7 miles). Often completely empty. Excellent for birding and quiet nature observation.\n\nAfternoon: Tide-Dependent Little Moose Island Exploration (timing depends on tides)\nCRITICAL: Time this around low tide. Check tide charts before starting.\n\nWalk from Blueberry Hill out toward Little Moose Island at low tide (unique tidal excursion most visitors never attempt). Requires sturdy boots, tide awareness, and good timing\u2014but rewards with genuine exploration feeling and unique coastal geology.\n\nLate Afternoon: Optional Ranger Program (if available)\nIf the Schoodic Institute is running a free birding walk or other ranger program that day, join it for insider-style activity with limited capacity and almost no crowd overlap with Day 1.\n\nEvening: Dinner in Winter Harbor or Birch Harbor\nWrap up dinner back in Winter Harbor or Birch Harbor rather than backtracking toward Bar Harbor. Local restaurants stay quieter and less touristy than downtown.\n\nNotes\n- Timing: The Schoodic Byway is genuinely ignored; expect almost no crowds outside the park loop\n- Biking: Hybrid or mountain bike recommended for gravel trails; walking is also fine\n- Tide Planning: Little Moose Island walk is only possible within ~2-3 hours of low tide. Check tide charts and plan your afternoon accordingly.\n- Weather: Bring layers; the byway is windier than Bar Harbor\n- Food: Staying in the Schoodic area for dinner means you skip the evening rush back to downtown Bar Harbor\n- Unique Experiences: This itinerary includes things almost no other tourists do on a Bar Harbor visit (Corea, the bell foundry, the bike paths, the tide walk)",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0610631,
+          44.3323041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Peninsula Winter Harbor ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Schoodic Peninsula\n\n\ud83d\udccd Schoodic Point, Winter Harbor, ME\n\nIf you want Acadia's dramatic pink granite coastline without the Tour Bus traffic, the Schoodic Peninsula is your answer. It's technically part of Acadia National Park, but feels worlds away from the crowded main Loop Road.\n\nTips\n- Drive or take the ferry across the bay from Bar Harbor (ferry option is scenic in itself)\n- The Schoodic Loop Road offers stunning coastal views\n- Less crowded than the main Park Loop Road on Mount Desert Island\n- Pink granite formations create dramatic photo opportunities\n- Various pullouts and short walks along the peninsula\n- Bring a jacket; it's often windier than the main island",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0610631,
+          44.3323041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Hag Cider Co Rockport ME",
+        "icon": "gem",
+        "color": "red",
+        "detail": "Sea Hag Cider Co.\n\n\ud83d\udccd Rockport, ME\n\nSmall-batch hard cider tasting room in a low-key setting that stays well under the radar compared to better-known brewery spots. A genuinely under-the-radar artisan cider experience.\n\nTips\n- Small-batch, artisan focus\n- Low-key tasting room\n- Off the main tourist radar\n- Local craft cider\n- Casual, unpretentious atmosphere",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0994,
+          44.1776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal Harbor Beach Seal Harbor ME",
+        "icon": "waves",
+        "color": "green",
+        "detail": "Seal Harbor Beach\n\n\ud83d\udccd Route 3, Seal Harbor, ME\n\nA small ocean beach in the village of Seal Harbor, off the main Park Loop Road shuttle route. Blogs describe it as \"nowhere near as crowded\" as Sand Beach, though also \"not as scenic\" \u2014 a real trade-off for anyone who wants beach time without the crowds.\n\nTips\n- Limited parking right in the village \u2014 arrive early or plan to walk in\n- Good pairing with Little Long Pond or Day Mountain Trail, both nearby",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.239346,
+          44.296609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slate's Restaurant and Bakery Hallowell ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Slate's Restaurant & Bakery\n\n\ud83d\udccd Water Street, Hallowell, ME\n\nA 25-plus-year local institution serving lunch and bakery items in the heart of Hallowell's antique district. A dining anchor for the Water Street browsing experience.\n\nTips\n- Center of Hallowell's downtown antique/gallery scene\n- Casual lunch spot with bakery items\n- Local favorite, not touristy\n- Good base for exploring Water Street shops",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902799,
+          44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stone Barn Northeast Harbor ME",
+        "icon": "landmark",
+        "color": "green",
+        "detail": "Stone Barn\n\n\ud83d\udccd Corner of Norway Dr & Crooked Rd, near Northeast Harbor, ME\n\nAn unmarked historic stone barn at the corner of Norway Drive and Crooked Road, with a hiking trail behind it leading to a lupine field. Genuinely obscure \u2014 it's not signed as an attraction, so it doesn't get much visitor traffic.\n\nTips\n- No official signage \u2014 look for the stone barn itself at the Norway Dr/Crooked Rd corner\n- Best in lupine bloom season (typically June)",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30167,
+          44.4175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundew Trail Schoodic ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Sundew Trail\n\n\ud83d\udccd Schoodic Institute, Schoodic Peninsula, ME\n\nA flat, easy 0.7-mile nature trail departing from the Schoodic Institute that leads to a private rocky shoreline often completely empty of other visitors. Ideal for a low-key nature break, birding, or photography without the crowding of main park attractions.\n\nTips\n- Accessible from Schoodic Institute parking area\n- Completely flat, family-friendly\n- Often overlooked by park visitors\u2014genuinely quiet\n- Good for early morning walks or afternoon breaks\n- Bring binoculars if you're a birder; wildlife viewing is excellent\n- Rocky shore access available; tide pools at lower tide",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sweet Pea's Cafe Salisbury Cove ME",
+        "icon": "utensils",
+        "color": "red",
+        "detail": "Sweet Pea's Cafe\n\n\ud83d\udccd Salisbury Cove, ME (north of Bar Harbor)\n\nSituated slightly north of downtown Bar Harbor, this farm-to-table favorite serves wood-fired pizzas, fresh pasta, and local wines in a garden setting\u2014a quieter spot with a strong local food focus.\n\nTips\n- North of town, so less crowded than downtown venues\n- Garden seating available\n- Farm-to-table approach with seasonal ingredients\n- Local wine selection",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4931362,
+          44.7032467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Abbe Museum Bar Harbor ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "The Abbe Museum\n\n\ud83d\udccd 26 Mount Desert Street, Bar Harbor, ME\n\nTucked right in town, this Smithsonian Affiliate offers a deep dive into the history, art, and culture of Maine's Native Wabanaki nations. It's a thoughtful, less-touristy break from the souvenir shops on Main Street.\n\nTips\n- Provides essential cultural context for the land you're visiting\n- Smithsonian Affiliate standards for quality\n- Smaller and more intimate than major museums\n- Located on Main Street but often overlooked by cruise ship tourists\n- Gift shop has thoughtfully curated items",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2060057,
+          44.3868694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bucking Lobster Northeast Harbor ME",
+        "icon": "gem",
+        "color": "purple",
+        "detail": "The place is a popular food truck in Maine best known for its delicious lobster rolls and innovative dishes like the banh mi lobster roll. It attracts a diverse clientele, including locals and tourists, often seeking casual dining experiences. The vibe is casual and friendly, with picnic tables available near a marina, creating a relaxed atmosphere. Reviewers consistently praise the exceptional staff, amazing service, and the food's quality, particularly the unique lobster dishes and chowder. Common downsides mentioned include limited hours of operation and the food truck's closing at the end of the season.",
+        "website": "https://www.google.com/maps/place/The+Bucking+Lobster/@44.29184,-68.2899484,1355m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cae97a048849b31:0x6bc7708886a47493!2sSeal+Cove+Auto+Museum!8m2!3d44.3053532!4d-68.4045448!16s%2Fg%2F1tkjkt8t!3m5!1s0x4caebd02c149f26d:0xa86d1c88032b9be4!8m2!3d44.2936804!4d-68.2847188!16s%2Fg%2F11kj_ndp1m?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.28475632526933,
+          44.29396819633489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Chart Room Hulls Cove ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "The Chart Room\n\n\ud83d\udccd 565 Eden Street, Hulls Cove, ME\n\nA waterfront restaurant located in Hulls Cove, just outside the downtown Bar Harbor corridor. This is one of the recommended bailout options when central Bar Harbor is at peak summer capacity.\n\nTips\n- Located northwest of downtown Bar Harbor\n- Waterfront setting\n- Less crowded than downtown establishments during peak August\n- Good alternative when parking/wait times in Bar Harbor get ugly",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2507598,
+          44.4138875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lobster Shack Cape Elizabeth ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "The Lobster Shack\n\n\ud83d\udccd Cape Elizabeth, ME\n\nClassic establishment since the 1920s with dramatic ocean and lighthouse views. Over 100 years of Maine lobster tradition.\n\nTips\n- Operating since the 1920s (100+ years)\n- Dramatic ocean views\n- Lighthouse backdrop photography\n- Historic Maine institution",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2,
+          43.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Nor' Easter Lobster Pound Northeast Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "The Nor' Easter Lobster Pound\n\n\ud83d\udccd Northeast Harbor, Mount Desert Island, ME\n\nA casual lobster pound in Northeast Harbor, cited by locals as one of the bailout dining spots when downtown Bar Harbor is jammed during peak season.\n\nTips\n- Northeast Harbor location keeps you off the main downtown strip\n- Casual lobster pound atmosphere\n- Local recommendation for August crowds\n- Classic Maine lobster dining experience",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2890678,
+          44.2937483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pickled Wrinkle Birch Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "The Pickled Wrinkle\n\n\ud83d\udccd Birch Harbor, Schoodic Peninsula, ME\n\nA local favorite restaurant in Birch Harbor known for seafood. Stays well below Bar Harbor's wait times and prices, making it an ideal lunch stop during a Schoodic day trip without the downtown crowds.\n\nTips\n- Located in quiet Birch Harbor, away from main tourist corridor\n- Casual atmosphere, local clientele\n- Good lunch option during Day 1 of Schoodic exploration\n- Less crowded than downtown Bar Harbor restaurants\n- Call ahead to confirm hours during shoulder season",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0401729,
+          44.3888219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rusticator's Emporium Hallowell ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "The Rusticator's Emporium\n\n\ud83d\udccd Water Street, Hallowell, ME\n\nA curated vintage and artisan shop on Water Street offering thoughtfully selected pieces\u2014a more selective alternative to the larger antique mall for specific finds.\n\nTips\n- Curated selection vs. large dealer mall\n- Artisan and vintage focus\n- Located on Water Street browsing circuit\n- Smaller, more intimate browsing experience\n- Good for specific or unique finds",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902799,
+          44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thurston's Lobster Pound Southwest Harbor ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "detail": "Thurston's Lobster Pound is a seafood restaurant famous for its lobster rolls and a variety of other seafood dishes. It attracts families and groups looking for a casual dining experience, especially those visiting the coastal Maine area. The vibe is relaxed and casual, with options for outdoor seating overlooking the bay, making it a great spot for leisurely meals. \n\nCustomers consistently praise the efficiency of the service, the quality of the seafood, and the friendliness of the staff. However, some have noted that the prices for drinks can be steep, and there may be a wait during peak hours.",
+        "website": "https://www.google.com/maps/place/Thurston's+Lobster+Pound/@44.2514225,-68.334502,9150m/data=!3m1!1e3!4m6!3m5!1s0x4caea2effe931ad5:0x4ffc316939a68015!8m2!3d44.2391987!4d-68.352689!16s%2Fg%2F124t00wzx?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.35243914687443,
+          44.24100780778412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuya Garden Northeast Harbor ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Thuya Garden\n\n\ud83d\udccd Northeast Harbor, Mount Desert Island, ME\n\nHigh on a hill overlooking Northeast Harbor, Thuya Garden blends English flower beds with native Maine woodlands. It requires a short climb up historic stone stairs (or a quick drive up the back road) and is rarely crowded.\n\nTips\n- Parking available at the base; stone stairs climb to the main garden\n- English cottage garden aesthetic meets Maine forest\n- Seasonal flowering; spring and summer are optimal\n- Benches throughout for quiet contemplation\n- Views down to Northeast Harbor below\n- Much quieter than downtown attractions",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2765722,
+          44.300259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tidal Falls Preserve Hancock ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Tidal Falls Preserve\n\n\ud83d\udccd Tidal Falls Rd, Hancock, ME\n\nA small, roughly 4-acre preserve managed by the Frenchman Bay Conservancy, built around a genuine reversing-falls phenomenon: strong tidal shifts through the narrow channel between Hancock and Sullivan create rapids and whirlpools that run one direction, slack, then reverse. Wildlife is a regular feature too \u2014 seals, osprey, kingfishers, and eagles are commonly spotted.\n\nTips\n- Time it right: arrive about an hour before the tide is due to change and stay an hour after, to see the falls run both directions.\n- The loop trail is short and wheelchair-accessible \u2014 an easy, low-effort stop.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.5195%2C%20-68.2217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2217,
+          44.5195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U.S. Route 1 Takeout Camden ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "U.S. Route 1 Takeout\n\n\ud83d\udccd 254 Belfast Rd, Camden, ME\n\nA small roadside takeout stand on Belfast Road (Route 1) heading north out of town. Lightly reviewed (a handful of reviews, 3.8/5 on Tripadvisor) but the reviews that exist are genuinely enthusiastic \u2014 \"tasty food cooked fresh and served with a smile,\" fish and chips and fried clams singled out, lobster rolls and grilled shrimp called \"fantastic.\" Reads as an under-the-radar find rather than a well-known local favorite; worth trying with reasonable expectations given the small review sample.\n\nTips\n- Easy to drive past \u2014 watch for signage on Belfast Road.\n- Note the corrected coordinates above \u2014 this was previously mis-pinned several miles away.\n- Good option if you're heading toward Lincolnville/Belfast and want a quick seafood stop en route.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.048565,
+          44.2282641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Bell Bell Foundry Downeast Maine",
+        "icon": "gem",
+        "color": "green",
+        "detail": "U.S. Bell \u2014 Bell Foundry\n\n\ud83d\udccd Downeast Maine, near Schoodic Peninsula, ME\n\nA working bell foundry open for casual visits along the Schoodic National Scenic Byway. This is a genuinely unique artisan stop that most tourists never discover\u2014a chance to see traditional bell-casting in action.\n\nTips\n- Located between Winter Harbor and Corea on the byway\n- Working foundry; hours may vary\n- Unique artisan experience away from typical tourist attractions\n- Call ahead to confirm they're open before visiting\n- A memorable and unusual stop for a full Schoodic day",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05,
+          44.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley Cove and Somes Sound Mount Desert ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Valley Cove & Somes Sound\n\n\ud83d\udccd Mount Desert Island, ME (along Somes Sound fjord)\n\nLocated along the fjord splitting Mount Desert Island, Valley Cove offers striking vertical cliffs meeting calm waters, providing a serene backdrop for a stroll. The combination of dramatic geology and peaceful waters makes it a hidden gem.\n\nTips\n- Accessible by the Valley Cove Trail\n- The fjord-like setting is rare for Maine\n- Excellent for photography with dramatic cliff views\n- Less crowded than the Loop Road\n- Best visited during calm weather for water reflections",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3102941,
+          44.3331352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vesper Hill Children's Chapel Rockport ME",
+        "icon": "leaf",
+        "color": "purple",
+        "detail": "Vesper Hill Children's Chapel\n\n\ud83d\udccd Rockport ME\n\nA hidden open-air stone chapel on a hillside above Rockport, built in 1936 with carved wooden pews arranged in a semicircle facing an altar, a meadow that drops through birch trees to a panorama of Penobscot Bay and its islands. No roof. Flower gardens on three sides. One of the most quietly beautiful spots in Maine \u2014 known mostly to locals and largely absent from guidebooks.\n\nTips\n- Take Route 1 to Rockport, then Calderwood Lane to Vesper Hill Road \u2014 no signs.\n- The chapel is always open and free.\n- Late August wildflowers in the surrounding garden are at their peak.\n- Visit in the early morning or evening \u2014 the light on the bay is extraordinary.",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0803,
+          44.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viles Arboretum Augusta ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Viles Arboretum\n\n\ud83d\udccd Forest Avenue, Augusta, ME\n\nA free 224-acre botanical garden with six miles of trails, cultivated gardens, and a peaceful pond loop. Described by visitors as \"a peaceful place for a walk and contemplation\"\u2014perfect for a quiet nature break.\n\nTips\n- Free admission and parking\n- Six miles of trail network at your own pace\n- Cultivated gardens and native plantings\n- Pond loop walk is particularly scenic\n- Bring water and comfortable walking shoes\n- Good picnic spot if you brought food\n- Peaceful alternative to downtown crowds",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7569487,
+          44.2978869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whaleback Shell Midden State Historic Site Damariscotta ME",
+        "icon": "gem",
+        "color": "green",
+        "detail": "Whaleback Shell Midden State Historic Site\n\n\ud83d\udccd Damariscotta, ME\n\nAn 11-acre park with a half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit. A unique window into pre-European coastal history.\n\nTips\n- Half-mile easy loop trail\n- 2,200-year-old shell heap\n- River views along the trail\n- Virtually no tourist crowds\n- Educational historical site\n- Quiet, contemplative setting",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5125131,
+          44.0422712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Young's Lobster Pound Belfast ME",
+        "icon": "sandwich",
+        "color": "red",
+        "detail": "Young's Lobster Pound\n\n\ud83d\udccd 2 Fairview St, Belfast, ME 04915\n\nBYOB waterfront lobster pound \u2014 pick your own lobster, steamed fresh, picnic tables with Penobscot Bay views. Rated 4.4 on Google (986 ratings), 4.3 Tripadvisor (#2 of 34 Belfast restaurants).\n\nTips\n- Open daily, Mon-Sat 9am-8pm, Sun 9am-7pm.\n- Reddit's specific tip: bring your own beer/snacks, sit outside for sunset if weather allows.\n- Touristy and can have long waits during peak season \u2014 go early evening for the sunset, per Reddit.",
+        "website": "https://www.facebook.com/youngslobsterpound/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9965537,
+          44.4301253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the travelin lobster Bar Harbor ME",
+        "icon": "gem",
+        "color": "purple",
+        "detail": "",
+        "website": "https://www.google.com/maps/place/the+travelin+lobster/@44.3904776,-68.2064091,213m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf0053fcd91f:0xac7fac2e21269b65!8m2!3d44.3909144!4d-68.2051248!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEnNlYWZvb2RfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeHNXbVJFVG05amEzQlNUbTFhVkZWNmJFZE1WR1JxWVVoU2NWbFlZeEFC4AEA-gEECAAQMA!16s%2Fg%2F11ydqxfh5c?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20509361130145,
+          44.390949608072525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 14\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0065207,
+          44.4261759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corea ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 13\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9750023,
+          44.4009135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallowell ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 14\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7902799,
+          44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hancock Point ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2308477,
+          44.4695226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Peninsula, Winter Harbor, ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "Schoodic Peninsula \u2014 Complete Guide\n\n\ud83d\udccd Acadia National Park, Eastern Maine (~1 hour from Bar Harbor by road; ~45 min by ferry)\n\nSchoodic Peninsula is Acadia's clearest \"escape hatch\" from August crowds. The peninsula receives only about 8% of Acadia's total visitor traffic\u2014everyone else clusters on Mount Desert Island. You get the same dramatic pink granite coastline, moderate hikes with sweeping views, and coastal Maine authenticity, but with noticeably fewer people.\n\nFull-Day Itineraries\n\nTwo distinct itineraries split to avoid retracing ground:\n\n- Day 1: Park Loop, Trails & Points \u2014 Core park experience: ferry arrival, Frazer Point, Schoodic Loop Road, Anvil Trail/Raven's Nest hike, Schoodic Point tide pooling\n- Day 2: Villages, Byway & Water \u2014 Beyond-the-park experience: Corea fishing village, 29-mile Schoodic National Scenic Byway, gravel bike trail network, Sundew Trail, tide-dependent Little Moose Island walk\n\nKey Trails & Activities\n\nHiking:\n- Anvil Trail to Schoodic Head \u2014 2-mile moderate hike, 440-foot summit, far less crowded than Jordan Pond or Jordan Cliffs\n- Sundew Trail \u2014 Easy 0.7-mile flat walk to private rocky shoreline, often empty\n- Little Moose Island tide walk \u2014 Unique low-tide coastal exploration\n\nBiking & Walking:\n- Schoodic Bike Path Network \u2014 8.3-mile gravel trail system, connects multiple quiet harbors\n\nScenic & Stops:\n- Frazer Point Picnic Area \u2014 Waterfront, docks, early morning quiet\n- Schoodic Institute \u2014 Free ranger programs, birding walks, limited crowds\n\nGetting There\n\n- By road: ~1 hour from Bar Harbor via Ellsworth (route crowds around the town)\n- By ferry: Downeast Windjammer Ferry \u2014 45-minute scenic crossing from Bar Harbor, lands directly in Winter Harbor, avoids Ellsworth entirely (recommended for Day 1)\n\nDining\n\n- The Pickled Wrinkle \u2014 Local favorite in Birch Harbor, well below Bar Harbor wait times and prices\n- Winter Harbor and Birch Harbor have casual local options; no need to rush back downtown\n\nUnique Stops (Beyond the Park)\n\n- Corea \u2014 Genuine working lobster village, zero tourist infrastructure\n- U.S. Bell \u2014 Working bell foundry, casual visits welcome\n\nWhy Schoodic\n\n- Crowds: ~8% of Acadia's traffic vs. 92% on Mount Desert Island\n- Scenery: Same dramatic pink granite coastline and Frenchman Bay views\n- Authenticity: Fewer cruise-ship tourists, more local feel\n- Water access: Ferry option, tide-dependent walks, harbor explorations\n- Flexibility: Two full days of distinct experiences without repeating attractions\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0580611,
+          44.3667471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Searsport ME",
+        "icon": "gem",
+        "color": "orange",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 14\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9253126,
+          44.4586711
+        ]
+      }
+    }
+  ]
+}
