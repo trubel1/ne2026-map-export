@@ -6350,15 +6350,15 @@
         "icon": "footprints",
         "color": "green",
         "vault_type": "Footpath",
-        "description": "500-acre preserve on the Damariscotta River with 8,000 ft of river frontage \u2014 several short, easy trail options, right next to Newcastle/Damariscotta.",
+        "description": "500+ acre Public Reserved Land on the Damariscotta River with 8,000+ ft of shoreline \u2014 wide, mostly flat trails (Levels 1-2, ~269 ft cumulative gain), sandy/pebble beaches, right next to Newcastle/Damariscotta.",
         "start_date_time": "2026-08-10T11:30:00",
-        "detail": "Time: 2026-08-10T11:30:00\n\nDodge Point Preserve\n\n\ud83d\udccd River Road, Newcastle, ME\n\nA 500-acre Public Reserved Land parcel on the Damariscotta River, with 8,000 feet of river frontage. Several short, easy trail options from the same trailhead \u2014 pick based on time available.\n\nTrail Options (pick one, don't need all)\n- Shore Trail \u2014 1.5 mi, easy, follows the riverbank\n- Ravine Trail \u2014 1.2 mi, easy, through a forested ravine\n- Timber Trail \u2014 0.8 mi, shortest option\n- Old Farm Road Loop \u2014 ~2 mi, still easy but longer than the \"under 2 mi out\" target\n\nTips\n- Right next to Damariscotta/Newcastle \u2014 easy to fit in before or after Main Street.\n- Total trail network is ~5 miles if combining multiple; no need to do more than one trail for a quick stop."
+        "detail": "Time: 2026-08-10T11:30:00\n\nDodge Point Preserve\n\n\ud83d\udccd River Road, Newcastle, ME (main parking lot ~2.5 mi from US-1 on River Road, left side)\n\nA 500+ acre Public Reserved Land parcel on the Damariscotta River, with over 8,000 feet of river frontage \u2014 forest, old stone walls, ponds, and both sandy and pebble beaches. Trails are generally wide, well marked, and mostly flat to gently rolling.\n\nRecommended route\nOld Farm Road Trail \u2192 Shore Trail, out and back \u2014 an easy ~3.3-mile loop, roughly 1h45m at a relaxed pace, with trail maps posted at major intersections. For a shorter outing, walk the Old Farm Road out to the Shore Trail, spend time at one of the small beaches, then turn back whenever.\n\nTrail Options\n- Old Farm Road Trail \u2014 2 mi loop, easy, wide former farm/logging road, gentle grades, woods and stone walls\n- Shore Trail \u2014 1.5 mi, easy, the prettiest option \u2014 follows the river to sandy and pebble beaches\n- Timber Trail \u2014 0.8 mi, easy, short woodland connector through mixed forest and stone walls\n- Ravine Trail \u2014 1.2 mi, moderate (steeper and more uneven than the rest) \u2014 skip this one if you want an entirely gentle walk\n\nTips\n- Use the main Dodge Point parking lot on River Road, not the River-Link lot \u2014 the connector from River-Link is steep and rocky\n- Dogs allowed, leashed required weekends 9am-4pm\n- Can be muddy after rain \u2014 hiking shoes useful, though not a heavy-boot hike\n- Right next to Damariscotta/Newcastle \u2014 easy to fit in before or after Main Street"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5556,
-          44.0092
+          -69.565,
+          43.9903
         ]
       }
     },
