@@ -18923,6 +18923,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Round Top Farm Damariscotta ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1.8 miles of gentle trails on former dairy fields along the upper Damariscotta River, including a 0.6-mile universally accessible trail \u2014 one of Coastal Rivers Conservation Trust's easiest, most scenic options right at the edge of town.",
+        "start_date_time": "",
+        "detail": "Round Top Farm\n\n\ud83d\udccd 3 Round Top Lane, Damariscotta, ME (less than 1.5 mi north of downtown on Main St/Business Route 1, opposite Great Salt Bay School)\n\n1.8 miles of trails on former dairy fields along the upper Damariscotta River, managed by Coastal Rivers Conservation Trust and the Maine Bureau of Parks and Lands. Multiple mown trails of varying lengths loop the perimeters of hayfields, following hedgerows and the river shoreline \u2014 gentle terrain, upper-river views, and a good sunset spot. Includes the Rhoda and Lee Cohen River Trail, a 0.6-mile universally accessible trail (8 ft wide, gentle grade \u2014 wheelchair, stroller, and bike friendly) that also connects directly to Whaleback Shell Midden via a 0.3-mile accessible link trail.\n\nTips\n- Handicap parking available at both the Round Top Farm and Whaleback Shell Midden trailheads\n- The 0.3-mile accessible trail to Whaleback Shell Midden makes this a natural pairing \u2014 history plus river views in one stop\n- Coordinate is an estimate based on the property's described location (opposite Great Salt Bay School) \u2014 no exact trailhead coordinate was independently confirmed, worth double-checking on the ground or via Coastal Rivers' own trail map",
+        "website": "https://www.coastalrivers.org/trails/round-top-farm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5188,
+          44.0453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Round Top Ice Cream Stand Damariscotta ME",
         "icon": "utensils",
         "color": "red",
@@ -25592,7 +25612,7 @@
         "vault_type": "Historical",
         "description": "11-acre park with half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit.",
         "start_date_time": "2026-08-07T15:30:00",
-        "detail": "Time: 2026-08-07T15:30:00\n\nWhaleback Shell Midden State Historic Site\n\n\ud83d\udccd Damariscotta, ME\n\nAn 11-acre park with a half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit. A unique window into pre-European coastal history.\n\nTips\n- Half-mile easy loop trail\n- 2,200-year-old shell heap\n- River views along the trail\n- Virtually no tourist crowds\n- Educational historical site\n- Quiet, contemplative setting"
+        "detail": "Time: 2026-08-07T15:30:00\n\nWhaleback Shell Midden State Historic Site\n\n\ud83d\udccd Damariscotta, ME\n\nAn 11-acre park with a half-mile loop trail through the remains of a 2,200-year-old Native American oyster shell heap\u2014a genuinely obscure archaeological site with river views that almost no coastal tourists visit. A unique window into pre-European coastal history.\n\nTips\n- Half-mile easy loop trail\n- 2,200-year-old shell heap\n- River views along the trail\n- Virtually no tourist crowds\n- Educational historical site\n- Quiet, contemplative setting\n- Connects directly to Round Top Farm via a 0.3-mile universally accessible trail \u2014 easy to combine both stops in one visit"
       },
       "geometry": {
         "type": "Point",
