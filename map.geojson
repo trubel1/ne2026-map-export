@@ -1799,6 +1799,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bay Road Overlook Camden ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A hilltop pull-off with beautiful views \u2014 quiet, uncrowded, minimal reviews mean minimal foot traffic.",
+        "start_date_time": "",
+        "detail": "Bay Road Overlook\n\n\ud83d\udccd 1-9 Bay Rd, Camden, ME\n\nA hilltop pull-off with beautiful views \u2014 quiet, uncrowded, minimal reviews mean minimal foot traffic. (4.9\u2605, 8 reviews on Google Maps)\n\nTips\n- Low-traffic spot \u2014 good if the more famous overlooks feel crowded"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.060348,
+          44.2064207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Beach House Grill Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -1970,6 +1989,25 @@
         "coordinates": [
           -69.0978767,
           44.1659581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast Armistice Bridge Belfast ME",
+        "icon": "scroll",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "A pedestrian footbridge across the Passagassawakeag River in Belfast, with benches for sitting and a cool waterfront breeze \u2014 a genuinely local, unpolished stop.",
+        "start_date_time": "",
+        "detail": "Belfast Armistice Bridge\n\n\ud83d\udccd 6 Footbridge Rd, Belfast, ME\n\nA pedestrian footbridge across the Passagassawakeag River in Belfast, with benches for sitting and a cool waterfront breeze \u2014 a genuinely local, unpolished stop. (4.8\u2605, 246 reviews on Google Maps)\n\nTips\n- Good pairing with a walk along Belfast's working waterfront\n- Benches make it a nice rest stop, not just a photo op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0082626,
+          44.4321159
         ]
       }
     },
@@ -3131,6 +3169,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bubble Rock Acadia National Park ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A glacial erratic boulder perched on the edge of South Bubble, with a classic view down onto Jordan Pond \u2014 one of Acadia's most photographed hiking rewards.",
+        "start_date_time": "",
+        "detail": "Bubble Rock\n\n\ud83d\udccd Park Loop Rd, Acadia National Park, ME\n\nA glacial erratic boulder perched on the edge of South Bubble, with a classic view down onto Jordan Pond \u2014 one of Acadia's most photographed hiking rewards. (4.8\u2605, 396 reviews on Google Maps)\n\nTips\n- Reached via a moderate ~1 mi hike from the Bubbles parking area \u2014 not a roadside stop\n- Can be socked in by fog; check conditions before the climb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2533474,
+          44.3392497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bubble and Bite Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -3583,6 +3640,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Camden Amphitheater Camden ME",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "A serene public spot right on Camden's harbor, with a great view of the boats and waterfront \u2014 genuinely relaxing rather than a tourist checkbox stop.",
+        "start_date_time": "",
+        "detail": "Camden Amphitheater\n\n\ud83d\udccd Camden, ME\n\nA serene public spot right on Camden's harbor, with a great view of the boats and waterfront \u2014 genuinely relaxing rather than a tourist checkbox stop. (4.7\u2605, 158 reviews on Google Maps)\n\nTips\n- Good quiet spot to sit for a while in downtown Camden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0637211,
+          44.2117048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Camden City Park ME",
         "icon": "landmark",
         "color": "purple",
@@ -3695,6 +3771,25 @@
         "coordinates": [
           -69.0657,
           44.2092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden Overlook Camden ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A roadside overlook with a superb view of downtown Camden, the harbor, and Penobscot Bay's islands.",
+        "start_date_time": "",
+        "detail": "Camden Overlook\n\n\ud83d\udccd Camden, ME\n\nA roadside overlook with a superb view of downtown Camden, the harbor, and Penobscot Bay's islands. (4.9\u2605, 48 reviews on Google Maps)\n\nTips\n- Good quick stop \u2014 no hike, just pull off and take in the view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0675855,
+          44.2233822
         ]
       }
     },
@@ -4113,6 +4208,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Caterpillar Hill Overlook Blue Hill ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "Sweeping pull-off view over Walker Pond, Eggemoggin Reach, and Deer Isle from the Blue Hill peninsula \u2014 also managed in part as Cooper Farm by Blue Hill Heritage Trust.",
+        "start_date_time": "",
+        "detail": "Caterpillar Hill Overlook\n\n\ud83d\udccd 328 Caterpillar Hill Rd, Sedgwick, ME\n\nSweeping pull-off view over Walker Pond, Eggemoggin Reach, and Deer Isle from the Blue Hill peninsula \u2014 also managed in part as Cooper Farm by Blue Hill Heritage Trust. (5.0\u2605, 23 reviews on Google Maps)\n\nTips\n- Roadside pull-off \u2014 no hike required, just stop and look\n- Especially good at sunset over the reach and islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6756585,
+          44.3229711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cathedral Ledge North Conway NH",
         "icon": "mountain",
         "color": "purple",
@@ -4342,6 +4456,25 @@
         "coordinates": [
           -68.2273,
           44.2997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champlain Mountain Acadia National Park ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A real summit hike via the North Ridge Trail with views rated among the best in the park \u2014 better, by some accounts, than what many expect from Cadillac.",
+        "start_date_time": "",
+        "detail": "Champlain Mountain\n\n\ud83d\udccd Champlain North Ridge Trail, Acadia National Park, ME\n\nA real summit hike via the North Ridge Trail with views rated among the best in the park \u2014 better, by some accounts, than what many expect from Cadillac. (4.9\u2605, 31 reviews on Google Maps)\n\nTips\n- North Ridge is the more moderate approach; the Precipice Trail also reaches this summit but is a much harder iron-rung climb\n- Good alternative to the more crowded Cadillac summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1940503,
+          44.350815
         ]
       }
     },
@@ -5190,6 +5323,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Community Wellness Trail Rockport ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A well-groomed local path with genuinely nice views \u2014 an easy, low-key stroll away from the harbor crowds.",
+        "start_date_time": "",
+        "detail": "Community Wellness Trail\n\n\ud83d\udccd 800 Commercial St, Rockport, ME\n\nA well-groomed local path with genuinely nice views \u2014 an easy, low-key stroll away from the harbor crowds. (4.9\u2605, 34 reviews on Google Maps)\n\nTips\n- Groomed, easy walking \u2014 good option for a short leg-stretch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0871309,
+          44.1488266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Compass Harbor Bar Harbor ME",
         "icon": "trees",
         "color": "green",
@@ -5223,6 +5375,25 @@
         "coordinates": [
           -71.1876,
           45.1862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooksey Drive Overlook Bar Harbor ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A short trail off Cooksey Drive leading to a beautiful rocky-shore coastline view \u2014 a genuine local find, not on the main Park Loop Road circuit.",
+        "start_date_time": "",
+        "detail": "Cooksey Drive Overlook\n\n\ud83d\udccd Cooksey Dr, Bar Harbor, ME\n\nA short trail off Cooksey Drive leading to a beautiful rocky-shore coastline view \u2014 a genuine local find, not on the main Park Loop Road circuit. (4.8\u2605, 82 reviews on Google Maps)\n\nTips\n- Short walk from the road, not a roadside pull-off\n- Quieter than the Park Loop Road overlooks since it's off the main circuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2242842,
+          44.294218
         ]
       }
     },
@@ -5632,6 +5803,25 @@
         "coordinates": [
           -69.0452,
           44.2078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cushman Preserve Wiscasset ME",
+        "icon": "trees",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "A quiet Chewonki-managed nature preserve with real wildlife-watching potential \u2014 ducks, geese, and herons reported by visitors.",
+        "start_date_time": "",
+        "detail": "Chewonki's Cushman Preserve\n\n\ud83d\udccd Cushman Preserve Access Rd, Wiscasset, ME\n\nA quiet Chewonki-managed nature preserve with real wildlife-watching potential \u2014 ducks, geese, and herons reported by visitors. (4.7\u2605, 9 reviews on Google Maps)\n\nTips\n- Good low-key birding stop \u2014 bring binoculars\n- Low review count reflects genuine obscurity, not low quality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6762156,
+          43.9860989
         ]
       }
     },
@@ -8654,6 +8844,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Great Head Acadia National Park ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A headland loop trail above Sand Beach with some of the best coastal views in the park \u2014 a real, if short, climb rewarded well.",
+        "start_date_time": "",
+        "detail": "Great Head\n\n\ud83d\udccd Great Head Trail, Acadia National Park, ME\n\nA headland loop trail above Sand Beach with some of the best coastal views in the park \u2014 a real, if short, climb rewarded well. (4.8\u2605, 95 reviews on Google Maps)\n\nTips\n- Starts from the east end of Sand Beach \u2014 combine both in one stop\n- More effort than a simple overlook, but well worth it per reviewers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1741721,
+          44.3284124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Great Island Trail Wellfleet MA",
         "icon": "footprints",
         "color": "purple",
@@ -8825,6 +9034,25 @@
         "coordinates": [
           -68.096,
           44.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grindstone Point Winter Harbor ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A quiet, peaceful spot on the Schoodic side to sit and listen to the waves for hours \u2014 genuinely uncrowded even by Schoodic's already-quiet standards.",
+        "start_date_time": "",
+        "detail": "Grindstone Point\n\n\ud83d\udccd 595 Grindstone Ave, Winter Harbor, ME\n\nA quiet, peaceful spot on the Schoodic side to sit and listen to the waves for hours \u2014 genuinely uncrowded even by Schoodic's already-quiet standards. (4.8\u2605, 67 reviews on Google Maps)\n\nTips\n- Bring a chair or blanket \u2014 this is a linger-and-listen spot, not a quick photo stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0905151,
+          44.372122
         ]
       }
     },
@@ -9137,6 +9365,25 @@
         "coordinates": [
           -69.49,
           43.8496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harkness Preserve Rockport ME",
+        "icon": "trees",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "A small, quiet waterfront preserve right off Rockport's harbor \u2014 a peaceful spot to sit and watch the boats.",
+        "start_date_time": "",
+        "detail": "Harkness Preserve\n\n\ud83d\udccd 13 Sea St, Rockport, ME\n\nA small, quiet waterfront preserve right off Rockport's harbor \u2014 a peaceful spot to sit and watch the boats. (4.9\u2605, 13 reviews on Google Maps)\n\nTips\n- Small and easy to miss \u2014 worth a quick stop while in Rockport village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0763492,
+          44.1781815
         ]
       }
     },
@@ -10310,6 +10557,25 @@
         "coordinates": [
           -73.7338523,
           41.7852069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intervale Scenic Vista North Conway NH",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A well-set-up scenic pull-off on Route 16 north of North Conway with real restrooms \u2014 a rare combination on this stretch of road.",
+        "start_date_time": "",
+        "detail": "Intervale Scenic Vista\n\n\ud83d\udccd 3654 White Mountain Hwy, Intervale, NH\n\nA well-set-up scenic pull-off on Route 16 north of North Conway with real restrooms \u2014 a rare combination on this stretch of road. (4.8\u2605, 713 reviews on Google Maps)\n\nTips\n- Has actual restrooms, unlike most roadside pull-offs on this route\n- Good quick stop heading toward or from Pinkham Notch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1396148,
+          44.0756408
         ]
       }
     },
@@ -14853,6 +15119,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mt. Desert Narrows Overlook Trenton ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A Route 1 pull-off just before the Mount Desert Island bridge, with a great view across the narrows to MDI and Acadia \u2014 a good first (or last) look at the island.",
+        "start_date_time": "",
+        "detail": "Mt. Desert Narrows Overlook\n\n\ud83d\udccd 1960 US-1, Trenton, ME\n\nA Route 1 pull-off just before the Mount Desert Island bridge, with a great view across the narrows to MDI and Acadia \u2014 a good first (or last) look at the island. (4.7\u2605, 85 reviews on Google Maps)\n\nTips\n- Right on Route 1 before the causeway/bridge onto MDI \u2014 easy to catch on the drive in or out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2092178,
+          44.5224802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mt. Mansfield Auto Toll Road Stowe VT",
         "icon": "mountain",
         "color": "green",
@@ -16179,6 +16464,25 @@
         "coordinates": [
           -69.0952048,
           44.1295764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Hill Overlook Bar Harbor ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A perfectly serene spot reviewers specifically call out for sunrise \u2014 quiet and off the main Park Loop Road circuit.",
+        "start_date_time": "",
+        "detail": "Paradise Hill Overlook\n\n\ud83d\udccd Paradise Hill Rd, Bar Harbor, ME\n\nA perfectly serene spot reviewers specifically call out for sunrise \u2014 quiet and off the main Park Loop Road circuit. (4.7\u2605, 47 reviews on Google Maps)\n\nTips\n- Good sunrise spot per reviews \u2014 worth an early start\n- Distinct from the Cadillac Mountain summit, further down Paradise Hill Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.237114,
+          44.405339
         ]
       }
     },
@@ -19140,6 +19444,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Saco Valley Overlook North Conway NH",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A simple highway pull-off with a genuinely beautiful view over the Saco River valley.",
+        "start_date_time": "",
+        "detail": "Saco Valley Overlook\n\n\ud83d\udccd 984 White Mountain Hwy, North Conway, NH\n\nA simple highway pull-off with a genuinely beautiful view over the Saco River valley. (4.8\u2605, 64 reviews on Google Maps)\n\nTips\n- Easy stop right off the highway \u2014 no detour needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11452,
+          44.0079563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Saddleback Ledge Lighthouse Isle au Haut ME",
         "icon": "anchor",
         "color": "green",
@@ -19388,6 +19711,25 @@
         "coordinates": [
           -68.1874,
           44.3241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sand Beach Overlook Acadia National Park ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A pull-off above Sand Beach with a wide view down onto the beach, Great Head, and the open Atlantic \u2014 good even when the beach itself is packed.",
+        "start_date_time": "",
+        "detail": "Sand Beach Overlook\n\n\ud83d\udccd Park Loop Rd, Acadia National Park, ME\n\nA pull-off above Sand Beach with a wide view down onto the beach, Great Head, and the open Atlantic \u2014 good even when the beach itself is packed. (4.9\u2605, 107 reviews on Google Maps)\n\nTips\n- Especially dramatic when fog rolls in over the ocean\n- Distinct from the beach parking lot itself \u2014 a short walk up from it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1844069,
+          44.3280226
         ]
       }
     },
@@ -19646,6 +19988,25 @@
         "coordinates": [
           -71.4498,
           43.9853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scenic Flights Of Acadia Trenton ME",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Sightseeing air-tour operator flying over Acadia, Frenchman Bay, and the Porcupine Islands \u2014 the only way to see the park's full coastline and island pattern from above.",
+        "start_date_time": "",
+        "detail": "Scenic Flights Of Acadia\n\n\ud83d\udccd 1044 Bar Harbor Rd, Trenton, ME\n\nSightseeing air-tour operator flying over Acadia, Frenchman Bay, and the Porcupine Islands \u2014 the only way to see the park's full coastline and island pattern from above. (5.0\u2605, 574 reviews on Google Maps)\n\nTips\n- Book ahead in peak season \u2014 small planes, limited daily seats\n- Best on a clear morning for calm air and maximum visibility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.369143,
+          44.445967
         ]
       }
     },
@@ -20038,6 +20399,25 @@
         "coordinates": [
           -69.0748,
           44.1862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal Cove Picnic Area Blue Hill ME",
+        "icon": "trees",
+        "color": "purple",
+        "vault_type": "Park",
+        "description": "A picnic area with fire pits on the Blue Hill peninsula \u2014 a good spot for an evening fire and sunset watch.",
+        "start_date_time": "",
+        "detail": "Seal Cove Picnic Area\n\n\ud83d\udccd 675 Cape Rd, Sedgwick, ME\n\nA picnic area with fire pits on the Blue Hill peninsula \u2014 a good spot for an evening fire and sunset watch. (4.7\u2605, 136 reviews on Google Maps)\n\nTips\n- Has fire pits \u2014 a good option for an evening cookout or sunset watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4089037,
+          44.2830051
         ]
       }
     },
@@ -24337,6 +24717,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Two Lights State Park Cape Elizabeth ME",
+        "icon": "trees",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Coastal state park near Portland with dramatic rocky shoreline, scenic trails, and picnic areas near the historic Two Lights lighthouses.",
+        "start_date_time": "",
+        "detail": "Two Lights State Park\n\n\ud83d\udccd 7 Tower Dr, Cape Elizabeth, ME\n\nCoastal state park near Portland with dramatic rocky shoreline, scenic trails, and picnic areas near the historic Two Lights lighthouses. (4.7\u2605, 1603 reviews on Google Maps)\n\nTips\n- Bring a picnic and chairs \u2014 open lawn areas right above the rocky coast\n- Pairs well with a stop at the nearby Lobster Shack restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2044583,
+          43.5596889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Two Salty Dogs Pet Outfitters",
         "icon": "utensils",
         "color": "purple",
@@ -25039,6 +25438,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wadsworth Cove Beach Castine ME",
+        "icon": "waves",
+        "color": "purple",
+        "vault_type": "Beach",
+        "description": "Crystal-clear, shallow water on a quiet Castine cove \u2014 great for dogs and kids, and far less trafficked than the coast's bigger-name beaches.",
+        "start_date_time": "",
+        "detail": "Wadsworth Cove Beach\n\n\ud83d\udccd Wadsworth Cove, Castine, ME\n\nCrystal-clear, shallow water on a quiet Castine cove \u2014 great for dogs and kids, and far less trafficked than the coast's bigger-name beaches. (4.8\u2605, 53 reviews on Google Maps)\n\nTips\n- Shallow entry \u2014 good for kids and dogs\n- Pairs well with a walk through historic Castine village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8120534,
+          44.3964587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wadsworth Longfellow House Portland ME",
         "icon": "landmark",
         "color": "green",
@@ -25581,6 +25999,25 @@
         "coordinates": [
           -68.204703,
           44.3912293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Point Overlook Acadia National Park ME",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A network of little paths leading out to cliffs over the sea, off Park Loop Road \u2014 low-traffic given its small review count.",
+        "start_date_time": "",
+        "detail": "Western Point Overlook\n\n\ud83d\udccd Park Loop Rd, Acadia National Park, ME\n\nA network of little paths leading out to cliffs over the sea, off Park Loop Road \u2014 low-traffic given its small review count. (4.8\u2605, 16 reviews on Google Maps)\n\nTips\n- Multiple small paths branch off toward the cliffs \u2014 worth exploring a bit rather than just the first view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2032958,
+          44.3020379
         ]
       }
     },
