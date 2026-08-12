@@ -1331,6 +1331,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bald Mountain Preserve Camden ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "584 acres taking hikers above treeline to a 1,280 ft summit with views over western Penobscot Bay \u2014 home to some of the Midcoast's largest rare subalpine natural communities. The trail connects into the Ragged Mountain network. 1.3 mi one-way, difficult, 660 ft elevation gain.",
+        "start_date_time": "",
+        "detail": "Bald Mountain Preserve\n\n\ud83d\udccd 325 Barnestown Rd, Camden, ME\n\n584 acres taking hikers above treeline to a 1,280 ft summit with views over western Penobscot Bay \u2014 home to some of the Midcoast's largest rare subalpine natural communities. The trail connects into the Ragged Mountain network. 1.3 mi one-way, difficult, 660 ft elevation gain.\n\nTips\n- Rocky footpath, real elevation gain \u2014 not a casual stroll\n- Connects directly to the Ragged Mountain trail network for a longer combined hike",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.15123,
+          44.23243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bald Mountain Yorktown, NY",
         "icon": "mountain",
         "color": "green",
@@ -1977,13 +1997,33 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Beauchamp Point Preserve Rockport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "9-acre headland preserve, water access only \u2014 650+ ft of gravel and rocky-ledge shorefront at the tip of Beauchamp Point, an ideal picnic stopover on a paddle between Rockport and Camden. Not to be confused with the \"Beauchamp Point\" road biking/walking loop already in this vault, a different route entirely.",
+        "start_date_time": "",
+        "detail": "Beauchamp Point Preserve\n\n\ud83d\udccd Tip of Beauchamp Point, Rockport, ME \u2014 water access only, no land route (coordinate approximate \u2014 no published GPS pin found, estimated from \"just before Indian Island\")\n\nA 9-acre headland beach preserve with over 600 ft of shorefront, the longest undeveloped stretch on the eastern side of Rockport Harbor. The gravel-and-rock shoreline is accessible at all tides and makes an ideal picnic stopover on a paddle from Rockport to Camden. No camping or campfires. Donated 2000 by Charles and Mary Chatfield.\n\nTips\n- Water access only \u2014 no land route exists via Beauchamp Point Rd\n- ~1.4 mi paddle from Rockport Marine Park (93 Pascal Ave), where there's a public boat launch\n- Coordinate is an estimate \u2014 no exact GPS pin was found published anywhere; verify locally\n- Distinct from the \"Beauchamp Point\" bike/walk loop route already in this vault \u2014 same name, different thing (a road loop vs. this paddle-access preserve)",
+        "website": "https://www.coastalmountains.org/preserves/beauchamp-point-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0625,
+          44.1665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Beauchamp Point Rockport ME",
         "icon": "footprints",
         "color": "green",
         "vault_type": "Footpath",
         "description": "8.4-mile moderate biking/walking loop from Rockport out to Beauchamp Point, with harbor views along the way and coastal vistas at the point.",
         "start_date_time": "",
-        "detail": "Beauchamp Point\n\n\ud83d\udccd Rockport, ME\n\n8.4-mile moderate loop starting/ending in Rockport, out to Beauchamp Point \u2014 harbor views along the way, coastal vistas at the point itself. Popular for both biking and walking.\n\nTips\n- No aggregated numeric rating found across major review platforms \u2014 described qualitatively as well-regarded, not independently scored like a restaurant.\n- Reddit's specific rec was biking this loop as an activity, paired with kayaking to Curtis Island (already in the vault) the same day."
+        "detail": "Beauchamp Point\n\n\ud83d\udccd Rockport, ME\n\n8.4-mile moderate loop starting/ending in Rockport, out to Beauchamp Point \u2014 harbor views along the way, coastal vistas at the point itself. Popular for both biking and walking.\n\nTips\n- No aggregated numeric rating found across major review platforms \u2014 described qualitatively as well-regarded, not independently scored like a restaurant.\n- Reddit's specific rec was biking this loop as an activity, paired with kayaking to Curtis Island (already in the vault) the same day.\n- Not the same as Beauchamp Point Preserve \u2014 a small, separate, water-access-only Coastal Mountains Land Trust preserve at the actual tip of the point, a different thing from this road/path loop"
       },
       "geometry": {
         "type": "Point",
@@ -2194,9 +2234,10 @@
         "icon": "footprints",
         "color": "green",
         "vault_type": "Footpath",
-        "description": "",
+        "description": "The old Belfast-Moosehead Lake Railroad corridor along the Passagassawakeag River, transformed into a level, 10 ft wide packed-granite-stone trail \u2014 2.3 mi, wheelchair compatible, foot/ski/bike. Owned by the City of Belfast, built with Coastal Mountains Land Trust in 2016.",
         "start_date_time": "",
-        "detail": "Belfast Rail Trail\n\nThe Belfast Rail Trail extends the waterfront experience beyond downtown and follows the Passagassawakeag River on a gentle multi-use path. The City of Belfast highlights it as part of a scenic corridor used for strolling, jogging, dog walking, and bicycle riding.[cite:73]\n\nIts main strength is accessibility: the route is easy to follow, visually pleasant, and integrated with the Harbor Walk and Footbridge. For visitors, it offers a simple way to experience Belfast\u2019s natural setting without needing a car once already in town.[cite:73][cite:34]"
+        "detail": "Belfast Rail Trail\n\nThe Belfast Rail Trail extends the waterfront experience beyond downtown and follows the Passagassawakeag River on a gentle multi-use path. The City of Belfast highlights it as part of a scenic corridor used for strolling, jogging, dog walking, and bicycle riding.[cite:73]\n\nIts main strength is accessibility: the route is easy to follow, visually pleasant, and integrated with the Harbor Walk and Footbridge. For visitors, it offers a simple way to experience Belfast\u2019s natural setting without needing a car once already in town.[cite:73][cite:34]\n\nTips\n- Runs from the Armistice Bridge footbridge on the waterfront to the City Point Railroad yard, connecting to the 47-mi Hills to Sea Trail toward Unity\n- Passes right by Stephenson Preserve and Pendleton Park's mountain-bike trails \u2014 easy to string together a longer outing\n- Parking at the trail's terminus, at City Point, and at the Upper Bridge lot near the midpoint",
+        "website": "https://www.coastalmountains.org"
       },
       "geometry": {
         "type": "Point",
@@ -6988,13 +7029,33 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ducktrap River Preserve (CMLT Trail) Lincolnville ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Coastal Mountains Land Trust's largest and wildest preserve (1,263 acres) \u2014 protects the Ducktrap River shoreline for wild Atlantic salmon habitat, well upstream on Route 52. Distinct from the existing \"Ducktrap River Preserve\" note in this vault, which covers the river-mouth beach at the coast, not this inland trail.",
+        "start_date_time": "",
+        "detail": "Ducktrap River Preserve (CMLT Trail)\n\n\ud83d\udccd Route 52, Lincolnville, ME \u2014 trailhead ~125 yds after Rt 52 crosses the Ducktrap River, 3.5 mi north of Lincolnville Center (coordinate approximate \u2014 no exact published GPS pin found, estimated from driving directions)\n\nCoastal Mountains Land Trust's largest and most wild preserve, protecting the river's shoreline for wild Atlantic salmon habitat. The River Trail (1.7 mi one-way, easy, shares the first 1.4 mi with a snowmobile trail) reaches the river at an old, now-missing bridge location \u2014 crossable at low water only, cross at your own risk. The Backcountry Loop (1.8 mi round-trip, moderate) is accessed via an unbridged crossing. Conserved in stages from 1996 to present, alongside the multi-stakeholder Ducktrap Coalition's broader river-conservation work.\n\nTips\n- Coordinate is an estimate based on driving directions \u2014 verify locally before relying on it for navigation\n- Distinct from the existing \"Ducktrap River Preserve\" note (the coastal beach/river-mouth spot) \u2014 this is the same river, but well upstream, a different access point and a different experience (forest trail vs. beach)\n- No bridge at the river crossing \u2014 cross at your own risk, low water only",
+        "website": "https://www.coastalmountains.org/preserves/ducktrap-river-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.035,
+          44.305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ducktrap River Preserve Lincolnville ME",
         "icon": "waves",
         "color": "green",
         "vault_type": "Beach",
         "description": "A rocky beach and river-mouth area popular at low tide and sunset, with bald eagles known to nest nearby. Good for wading, shell collecting, and kayaking; a separate forested trail loop follows the Ducktrap River and Turner Falls.",
         "start_date_time": "",
-        "detail": "Ducktrap River Preserve\n\n\ud83d\udccd Lincolnville ME\n\nA rocky beach and river-mouth area popular at low tide and sunset, with bald eagles known to nest nearby. Good for wading, shell collecting, and kayaking; a separate forested trail loop follows the Ducktrap River and Turner Falls.\n\nTips\n- Best around low tide and sunset, per most reviews.\n- Ducktrap Kayak & SUP operates guided trips from here if you want to get on the water.\n- Coordinates above are an approximation (Lincolnville town center) \u2014 worth confirming the exact access point against Google Maps before you go."
+        "detail": "Ducktrap River Preserve\n\n\ud83d\udccd Lincolnville ME\n\nA rocky beach and river-mouth area popular at low tide and sunset, with bald eagles known to nest nearby. Good for wading, shell collecting, and kayaking; a separate forested trail loop follows the Ducktrap River and Turner Falls.\n\nTips\n- Best around low tide and sunset, per most reviews.\n- Ducktrap Kayak & SUP operates guided trips from here if you want to get on the water.\n- Coordinates above are an approximation (Lincolnville town center) \u2014 worth confirming the exact access point against Google Maps before you go.\n- Not the same as Ducktrap River Preserve (CMLT Trail) \u2014 the actual Coastal Mountains Land Trust preserve is well upstream on Route 52, a forested salmon-habitat trail, distinct from this coastal beach spot"
       },
       "geometry": {
         "type": "Point",
@@ -7535,6 +7596,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Erickson Fields Preserve Rockport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "460 combined acres (with adjoining Beech Hill) of fields and forest, managed by Maine Coast Heritage Trust. The Beech Hill Connector Trail (built 2018-2021, a Coastal Mountains Land Trust/MCHT partnership) links Erickson Fields to Beech Hill Preserve \u2014 up to 1.8 mi one-way, gravel at Beech Hill, dirt and gravel at Erickson Fields.",
+        "start_date_time": "",
+        "detail": "Erickson Fields Preserve\n\n\ud83d\udccd Route 90, Rockport, ME (0.5 mi from the Route 1/Route 90 light)\n\n460 combined acres (with adjoining Beech Hill) of fields and forest, managed by Maine Coast Heritage Trust. The Beech Hill Connector Trail (built 2018-2021, a Coastal Mountains Land Trust/MCHT partnership) links Erickson Fields to Beech Hill Preserve \u2014 up to 1.8 mi one-way, gravel at Beech Hill, dirt and gravel at Erickson Fields.\n\nTips\n- No parking on Beech Hill Rd \u2014 use the Erickson Fields trailhead on Rt 90 or the Beech Hill trailhead\n- Pairs naturally with the existing Beech Hill Preserve note \u2014 same connector trail links both",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.09069,
+          44.18676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Escarpment Trail Haines Falls, NY",
         "icon": "mountain",
         "color": "green",
@@ -7872,9 +7953,9 @@
         "icon": "footprints",
         "color": "green",
         "vault_type": "Footpath",
-        "description": "A 285-acre peninsula preserve in the middle of Megunticook Lake, mostly mature hardwoods, hemlocks, and pines. Three trails of varying length and difficulty, with shoreline swimming access via Balance Rock on the Orange/White trails.",
+        "description": "A 325-acre peninsula preserve in the middle of Megunticook Lake, mostly mature hardwoods, hemlocks, and pines. Three trails of varying length and difficulty, with shoreline swimming access via Balance Rock on the Orange/White trails. No dogs or hunting permitted. Originally donated to The Nature Conservancy in 1969, transferred to Coastal Mountains Land Trust in 2007.",
         "start_date_time": "",
-        "detail": "Fernald's Neck Preserve\n\n\ud83d\udccd Fernalds Neck Road, Lincolnville ME (on Megunticook Lake)\n\nA 285-acre peninsula preserve in the middle of Megunticook Lake, mostly mature hardwoods, hemlocks, and pines. Three trails of varying length and difficulty, with shoreline swimming access via Balance Rock on the Orange/White trails.\n\nTips\n- White Trail (0.4mi, easy), Orange Trail (1.75mi, moderate, includes Balance Rock swimming access), Blue Trail (1.8mi, moderately difficult) \u2014 pick based on how much time/effort you want.\n- Parking lot holds only 11-12 cars, gate open 6:30am-7:30pm \u2014 arrive early in peak season.\n- This is the destination note's own namesake attraction \u2014 previously had no Place note at all.\n- Coordinates above are an approximation \u2014 worth confirming the exact parking-lot location against Google Maps before you go."
+        "detail": "Fernald's Neck Preserve\n\n\ud83d\udccd Fernalds Neck Road, Lincolnville ME (on Megunticook Lake)\n\nA 325-acre peninsula preserve in the middle of Megunticook Lake, mostly mature hardwoods, hemlocks, and pines. Three trails of varying length and difficulty, with shoreline swimming access via Balance Rock on the Orange/White trails. No dogs or hunting permitted. Originally donated to The Nature Conservancy in 1969, transferred to Coastal Mountains Land Trust in 2007.\n\nTips\n- White Trail (0.4mi, easy), Orange Trail (1.75mi, moderate, includes Balance Rock swimming access), Blue Trail (1.8mi, moderately difficult) \u2014 pick based on how much time/effort you want.\n- Parking lot holds only 11-12 cars, gate open 6:30am-7:30pm \u2014 arrive early in peak season.\n- This is the destination note's own namesake attraction \u2014 previously had no Place note at all.\n- Coordinates above are an approximation \u2014 worth confirming the exact parking-lot location against Google Maps before you go."
       },
       "geometry": {
         "type": "Point",
@@ -9862,6 +9943,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Head of Tide Preserve Belfast ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Protects part of the Passagassawakeag River shoreline plus old fields and forest, abutting the Stover Preserve within the Passagassawakeag Greenway. The River Loop travels the high riverbank; the Shed of Tides, a tool-storage and small-event space, anchors the Land Trust's Waldo County work. Conserved 2009 with Land for Maine's Future support.",
+        "start_date_time": "",
+        "detail": "Head of Tide Preserve\n\n\ud83d\udccd 89 Doak Rd, Belfast, ME\n\nProtects part of the Passagassawakeag River shoreline plus old fields and forest, abutting the Stover Preserve within the Passagassawakeag Greenway. The River Loop travels the high riverbank; the Shed of Tides, a tool-storage and small-event space, anchors the Land Trust's Waldo County work. Conserved 2009 with Land for Maine's Future support.\n\nTips\n- River Loop (1.1 mi, moderate) and Woods Loop (1.0 mi, easy, old road) \u2014 pick based on time/energy\n- Pairs naturally with Stover Preserve, right next door",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.04849,
+          44.44673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Heaton Woods Montpelier VT",
         "icon": "leaf",
         "color": "green",
@@ -10228,6 +10329,26 @@
         "coordinates": [
           -68.39852795418416,
           44.28577219602648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hodson and Rheault Preserve Camden ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A hemlock grove and historic mill site along Sucker Brook. The easy 0.75 mi Hodson Loop passes mature hardwoods and apple trees; the difficult 1.2 mi Rheault Trail climbs the forested Rheault easement to the summit of Howe Hill, a managed organic blueberry barren \u2014 no dogs or hunting permitted, please stay on trail through the working farm.",
+        "start_date_time": "",
+        "detail": "Hodson and Rheault Preserve\n\n\ud83d\udccd Molyneaux Rd, Camden, ME (off Washington St/Route 105, ~2.5 mi out, then 0.6 mi on Molyneaux Rd)\n\nA hemlock grove and historic mill site along Sucker Brook. The easy 0.75 mi Hodson Loop passes mature hardwoods and apple trees; the difficult 1.2 mi Rheault Trail climbs the forested Rheault easement to the summit of Howe Hill, a managed organic blueberry barren \u2014 no dogs or hunting permitted, please stay on trail through the working farm.\n\nTips\n- No dogs or hunting permitted\n- Stay on the marked trail through the Rheault easement \u2014 it's a working blueberry farm",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1153,
+          44.228
         ]
       }
     },
@@ -12651,6 +12772,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Littlefield Preserve Belfast ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Two waterfront parcels protecting Upper Mason Pond's wetland habitat and scenic views. A landing spot and picnic table make it good for wildlife-watching or a paddle \u2014 the Goose River can be paddled all the way from Swanville into the pond. Water access only. Donated 2016 by Carroll and Evelyn Littlefield.",
+        "start_date_time": "",
+        "detail": "Littlefield Preserve\n\n\ud83d\udccd Walter Ash Recreation Area, Swan Lake Ave (Route 141), Belfast, ME\n\nTwo waterfront parcels protecting Upper Mason Pond's wetland habitat and scenic views. A landing spot and picnic table make it good for wildlife-watching or a paddle \u2014 the Goose River can be paddled all the way from Swanville into the pond. Water access only. Donated 2016 by Carroll and Evelyn Littlefield.\n\nTips\n- No trail \u2014 water access only, from the Walter Ash Recreation Area (City of Belfast) parking lot\n- Paddle route connects from Swanville via the Goose River",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00032,
+          44.45926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Littleton Diner Littleton NH",
         "icon": "coffee",
         "color": "red",
@@ -12794,9 +12935,9 @@
         "icon": "landmark",
         "color": "green",
         "vault_type": "Attraction",
-        "description": "**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.",
+        "description": "474.5-acre Coastal Mountains Land Trust preserve in Searsport with a multitude of habitat types \u2014 scrub-shrub habitat from a recent timber harvest hosts rare early-successional songbirds, and the trail passes several vernal pools important for frogs and salamanders. Acquired from Central Maine Power in 2010 and the Whitten family in 2014.",
         "start_date_time": "",
-        "detail": "**Long Cove Headwaters Preserve** is a nature preserve known for its hiking trails. There are no food services listed, so bringing your own is advisable. The preserve is open year-round for daytime activities.",
+        "detail": "Tips\n- Blue Loop (1.1 mi round-trip, dirt old woods road, easy) or Orange Loop (2.4 mi round-trip, dirt footpath, easy)\n- Good for birding \u2014 a real diversity of habitat types in one preserve",
         "website": "https://www.google.com/maps/place/Long+Cove+Headwaters+Preserve/@44.4707433,-68.9663773,8069m/data=!3m1!1e3!4m13!1m5!2m4!1sattractions!5m1!4e9!6e1!3m6!1s0x4cae68550c046a7b:0x5b1d771ec3543b77!8m2!3d44.4988369!4d-68.9307424!15sCgthdHRyYWN0aW9uc1oNIgthdHRyYWN0aW9uc5IBD25hdHVyZV9wcmVzZXJ2ZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSV2RUUmlkbnBCUlJBQuABAPoBBAgAEBg!16s%2Fg%2F11h45sp__f?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -13475,6 +13616,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Main Stream Preserve Stockton Springs ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A discontinued-road trail through riparian habitat, dense fir forest, black cherry floodplains, fields, and hemlock groves on the site of several former homestead settlements \u2014 watch for woodcock, deer, coyotes, beaver, even bears. Acquired from Central Maine Power in 2010, with additions from Thomas Donaldson in 2013 and 2021.",
+        "start_date_time": "",
+        "detail": "Main Stream Preserve\n\n\ud83d\udccd Sherer Rd, Stockton Springs, ME (off Old County Rd/Green Valley Rd, via Harris Rd by Just Barb's Restaurant)\n\nA discontinued-road trail through riparian habitat, dense fir forest, black cherry floodplains, fields, and hemlock groves on the site of several former homestead settlements \u2014 watch for woodcock, deer, coyotes, beaver, even bears. Acquired from Central Maine Power in 2010, with additions from Thomas Donaldson in 2013 and 2021.\n\nTips\n- 0.7-1 mi out and back, easy, dirt footpath",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.90554,
+          44.52501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Main Street Museum White River Junction VT",
         "icon": "landmark",
         "color": "green",
@@ -13789,6 +13950,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Marsh Meadow Preserve Knox ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Coastal Mountains Land Trust's first preserve in the town of Knox \u2014 a remarkable wetland at the headwaters of Marsh Stream, which flows from Frye Mountain to the lower Penobscot River. The trail follows a dry woods road, skirts a beaver-dammed pond, then climbs the steep eastern slope for wetland and Frye Mountain views (best fall or winter). Conserved 2021.",
+        "start_date_time": "",
+        "detail": "Marsh Meadow Preserve\n\n\ud83d\udccd Waldo Ave/Route 137, Knox, ME (10.4 mi from downtown Belfast)\n\nCoastal Mountains Land Trust's first preserve in the town of Knox \u2014 a remarkable wetland at the headwaters of Marsh Stream, which flows from Frye Mountain to the lower Penobscot River. The trail follows a dry woods road, skirts a beaver-dammed pond, then climbs the steep eastern slope for wetland and Frye Mountain views (best fall or winter). Conserved 2021.\n\nTips\n- Park only in the designated lot, not along the driveway\n- 0.7 mi one-way, moderate, 260 ft gain",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.18056,
+          44.49989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Marsh River Bog Newcastle ME",
         "icon": "footprints",
         "color": "green",
@@ -13985,6 +14166,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "McLellan-Poor Preserve Northport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "100 acres almost entirely forested in hemlock, mixed conifer, old-field pine, and red maple along the southern shore of Little River Lower Reservoir, crossed by many small streams and ravines. Land donated since 2007 by Hugh McLellan Russell, Elisabeth Wolfe, and Michael Cunning; original gift facilitated through Maine Coast Heritage Trust.",
+        "start_date_time": "",
+        "detail": "McLellan-Poor Preserve\n\n\ud83d\udccd Route 1 at the Belfast/Northport town line (100 yds south), or via the Herrick Rd entrance off Perkins Rd\n\n100 acres almost entirely forested in hemlock, mixed conifer, old-field pine, and red maple along the southern shore of Little River Lower Reservoir, crossed by many small streams and ravines. Land donated since 2007 by Hugh McLellan Russell, Elisabeth Wolfe, and Michael Cunning; original gift facilitated through Maine Coast Heritage Trust.\n\nTips\n- Two entrances: Route 1 (100 yds south of the Belfast/Northport line) and Herrick Rd (off Perkins Rd, near the Northport boundary)\n- Peggity's Path (1.4 mi round-trip) and the Reservoir Trail and Loop (0.9 mi) are both easy, dirt footpaths",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9935,
+          44.38995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "McLoon's Lobster Shack Spruce Head ME",
         "icon": "sandwich",
         "color": "red",
@@ -14043,6 +14244,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Meadow Brook Preserve Swanville ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Central to a 2,408-acre undeveloped habitat block, with a 2.1 mi trail crossing from a new Oak Hill Rd lot to Swan Lake Ave through mature forest, wetland, riparian, and early-successional habitats, with unique views into the wetlands around Hurds Pond. Two rock-dam crossings over Meadow Brook require careful stone-stepping.",
+        "start_date_time": "",
+        "detail": "Meadow Brook Preserve\n\n\ud83d\udccd Oak Hill Rd, Swanville, ME (2.6 mi from downtown Belfast via High St/City Point Rd)\n\nCentral to a 2,408-acre undeveloped habitat block, with a 2.1 mi trail crossing from a new Oak Hill Rd lot to Swan Lake Ave through mature forest, wetland, riparian, and early-successional habitats, with unique views into the wetlands around Hurds Pond. Two rock-dam crossings over Meadow Brook require careful stone-stepping.\n\nTips\n- Roadside parking only on Swan Lake Ave \u2014 no formal lot there (park across from the Swanville transfer station)\n- Watch footing at the two rock-dam brook crossings mid-trail",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02778,
+          44.48363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mechanics Hall Portland ME",
         "icon": "scroll",
         "color": "green",
@@ -14076,6 +14297,26 @@
         "coordinates": [
           -69.0643,
           44.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Megunticook Lake CMLT Preserves Camden ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Coastal Mountains Land Trust holds four preserves on Megunticook Lake \u2014 Fernald's Neck (see the existing note), plus McPheters, Echo Island, and Richard's Wildlife (Pine and Little Pine Islands), all water-access only with no trails. Paddles range 0.75-3.5 mi one-way from either the Bog Bridge or Route 52 boat launches. Echo, Pine, and Little Pine Islands close seasonally for loon nesting, April 1-July 15.",
+        "start_date_time": "",
+        "detail": "Megunticook Lake (CMLT Preserves)\n\n\ud83d\udccd Bog Bridge Boat Launch, Washington St/Route 105, Camden, ME (coordinate approximate \u2014 no precise pin found for this launch, verify locally)\n\nCoastal Mountains Land Trust holds four preserves on Megunticook Lake \u2014 Fernald's Neck (see the existing note), plus McPheters, Echo Island, and Richard's Wildlife (Pine and Little Pine Islands), all water-access only with no trails. Paddles range 0.75-3.5 mi one-way from either the Bog Bridge or Route 52 boat launches. Echo, Pine, and Little Pine Islands close seasonally for loon nesting, April 1-July 15.\n\nTips\n- Two public launches: Bog Bridge (Washington St/Rt 105) and Route 52 (Mountain St/Rt 52, just past Beaucaire Ave)\n- Islands closed to landing April 1-July 15 for loon nesting\n- Land's End, a Town of Camden property, has picnic-table launch sites along the shore too",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.104,
+          44.236
         ]
       }
     },
@@ -14234,6 +14475,26 @@
         "coordinates": [
           -69.5331,
           44.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mill Brook Preserve Searsport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A 44 ft hemlock-decked bridge spans Mill Brook in a steep, forested valley \u2014 walking distance from Searsport's schools, used as an outdoor-education 'Learning Landscape.' Great for fishing. Conserved 2021, thanks to Linda and Jim Babb.",
+        "start_date_time": "",
+        "detail": "Mill Brook Preserve\n\n\ud83d\udccd Goodell St, Searsport, ME (walk 0.3 mi in from the municipal lot \u2014 no parking currently at the preserve itself)\n\nA 44 ft hemlock-decked bridge spans Mill Brook in a steep, forested valley \u2014 walking distance from Searsport's schools, used as an outdoor-education 'Learning Landscape.' Great for fishing. Conserved 2021, thanks to Linda and Jim Babb.\n\nTips\n- No parking at the preserve \u2014 park in the public lot on Goodell St and walk 0.3 mi (look for the grassy road entrance next to a red fire hydrant)\n- Trail currently dead-ends at 0.3 mi",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.93884,
+          44.46567
         ]
       }
     },
@@ -15281,6 +15542,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mount Percival Preserve Northport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A gradual climb to a 410 ft summit with the foundation of an early-1900s rusticator's tower and cistern \u2014 expansive Penobscot Bay/Camden Hills views existed then, though the grown-in forest mostly blocks them now. Donated by the Hildreth family, transferred from Maine Coast Heritage Trust in 2003.",
+        "start_date_time": "",
+        "detail": "Mount Percival Preserve\n\n\ud83d\udccd Upper Bluff Rd, Northport, ME (entrance across from the mailbox marked 220 Upper Bluff Rd)\n\nA gradual climb to a 410 ft summit with the foundation of an early-1900s rusticator's tower and cistern \u2014 expansive Penobscot Bay/Camden Hills views existed then, though the grown-in forest mostly blocks them now. Donated by the Hildreth family, transferred from Maine Coast Heritage Trust in 2003.\n\nTips\n- Roadside parking only \u2014 no dedicated lot\n- Short trail (0.3 mi one-way) but real history at the summit ruins",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.95575,
+          44.35783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Tuck Preserve Stockton Springs ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A long, rewarding ramble through mixed-age forest \u2014 0.7 mi across abutting property on a dirt road/meadow, then a moderate 0.8 mi climb to the forested summit of Mount Tuck, plus a 0.3 mi extension to a scenic overlook on the east side with views toward the Penobscot Narrows Bridge. Conserved through five property purchases, 2019-2022.",
+        "start_date_time": "",
+        "detail": "Mount Tuck Preserve\n\n\ud83d\udccd Meadow Rd, Stockton Springs, ME (4.1 mi north on Route 1, then 0.6 mi on Meadow Rd \u2014 do not block the road, it's actively used by abutting landowners)\n\nA long, rewarding ramble through mixed-age forest \u2014 0.7 mi across abutting property on a dirt road/meadow, then a moderate 0.8 mi climb to the forested summit of Mount Tuck, plus a 0.3 mi extension to a scenic overlook on the east side with views toward the Penobscot Narrows Bridge. Conserved through five property purchases, 2019-2022.\n\nTips\n- 1.7 mi one-way total, moderate, 425 ft gain\n- Park on the side of Meadow Rd or in the dirt pull-off by the kiosk \u2014 don't block the road",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.82202,
+          44.5487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mount Washington Bretton Woods NH",
         "icon": "mountain",
         "color": "green",
@@ -15490,6 +15791,26 @@
         "coordinates": [
           -71.22352532684904,
           44.289188043594066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murray Preserve Lincolnville ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A 7-acre former hay/blueberry field, mowed annually for habitat and a scenic view from Route 1 to Penobscot Bay. Accessed by walking south along the state-owned cobble beach at Ducktrap Harbor \u2014 no trail, beach access only. Donated 2007 by the Murray family.",
+        "start_date_time": "",
+        "detail": "Murray Preserve\n\n\ud83d\udccd Howe Point Rd, Lincolnville, ME (off Route 1, 1.1 mi north of Lincolnville Beach)\n\nA 7-acre former hay/blueberry field, mowed annually for habitat and a scenic view from Route 1 to Penobscot Bay. Accessed by walking south along the state-owned cobble beach at Ducktrap Harbor \u2014 no trail, beach access only. Donated 2007 by the Murray family.\n\nTips\n- Beach access only \u2014 park at the small lot at the end of Howe Point Rd and walk south along the shore\n- Metal Preserve medallions mark the boundary, visible from the beach",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00449,
+          44.29437
         ]
       }
     },
@@ -15723,6 +16044,26 @@
         "coordinates": [
           -69.5219,
           44.0339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newman Preserve Northport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A downhill trail through four distinct forest types, ending at a picnic spot on Pitcher Pond \u2014 the only shorefront access to the Breslin-Richenaker Tract. Donated 1999 by the Newman family, with a 2015 addition from the Breslin estate providing the pond-access trail section.",
+        "start_date_time": "",
+        "detail": "Newman Preserve\n\n\ud83d\udccd Beech Hill Rd, Northport, ME (3.8 mi from Route 1)\n\nA downhill trail through four distinct forest types, ending at a picnic spot on Pitcher Pond \u2014 the only shorefront access to the Breslin-Richenaker Tract. Donated 1999 by the Newman family, with a 2015 addition from the Breslin estate providing the pond-access trail section.\n\nTips\n- 1.1 mi, moderate, 280 ft elevation loss on the way in (so a climb back out)",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02276,
+          44.3516
         ]
       }
     },
@@ -17237,6 +17578,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Penobscot Shore Preserve Prospect ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1,800 ft of forested Penobscot River shoreline \u2014 the Land Trust's first preserve in Prospect. Old foundations line the shore, with views across the river to the former Bucksport mill site. Transferred from Great Pond Mountain Conservation Trust in 2017, originally donated by Elizabeth Wemett in honor of Mary Lord.",
+        "start_date_time": "",
+        "detail": "Penobscot Shore Preserve\n\n\ud83d\udccd Bowden Point Rd, Prospect, ME (off Route 174, before the Penobscot Narrows Bridge)\n\n1,800 ft of forested Penobscot River shoreline \u2014 the Land Trust's first preserve in Prospect. Old foundations line the shore, with views across the river to the former Bucksport mill site. Transferred from Great Pond Mountain Conservation Trust in 2017, originally donated by Elizabeth Wemett in honor of Mary Lord.\n\nTips\n- 1.0 mi round-trip, moderate, 250 ft gain\n- Park along the road \u2014 no formal lot",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.82781,
+          44.58519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Perkins Island Lighthouse Bath ME",
         "icon": "anchor",
         "color": "green",
@@ -17466,6 +17827,26 @@
         "coordinates": [
           -72.7921,
           44.2057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piper Stream Preserve Northport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A small, quiet preserve with mixed forest and a charming stream and wetlands. Piper Stream feeds the Little River and is an important wildlife corridor to the large Herricks Bog in central Northport. Donated 2021 by Susan Conard and David Randall.",
+        "start_date_time": "",
+        "detail": "Piper Stream Preserve\n\n\ud83d\udccd Prescott Hill Rd, Northport, ME (off Route 52, 3.8 mi from Belfast)\n\nA small, quiet preserve with mixed forest and a charming stream and wetlands. Piper Stream feeds the Little River and is an important wildlife corridor to the large Herricks Bog in central Northport. Donated 2021 by Susan Conard and David Randall.\n\nTips\n- Easy, nearly flat 0.3 mi one-way \u2014 a genuine quick stop",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02799,
+          44.37821
         ]
       }
     },
@@ -18492,6 +18873,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ragged Mountain Preserve Camden ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A 2,645-acre conservation and recreation complex on a 1,300 ft mountain, with 30+ miles of combined trail \u2014 the 6.5 mi Round the Mountain Trail (hiking/biking, machine-built gravel), 11.5 mi of foot-only hiking trails (partly the Georges Highland Path, run by partner Georges River Land Trust), and 15+ mi of mountain-biking trails split between the Camden Snow Bowl (steeper, technical) and Goose River (flatter, more moderate) networks.",
+        "start_date_time": "",
+        "detail": "Ragged Mountain Preserve\n\n\ud83d\udccd Thorndike Brook Trailhead: 223 Hope St, Hope, ME (smoothest access); also Camden Snow Bowl (20 Barnestown Rd, Camden) and a Route 17 lot maintained by Georges River Land Trust\n\nA 2,645-acre conservation and recreation complex on a 1,300 ft mountain, with 30+ miles of combined trail \u2014 the 6.5 mi Round the Mountain Trail (hiking/biking, machine-built gravel), 11.5 mi of foot-only hiking trails (partly the Georges Highland Path, run by partner Georges River Land Trust), and 15+ mi of mountain-biking trails split between the Camden Snow Bowl (steeper, technical) and Goose River (flatter, more moderate) networks.\n\nTips\n- Thorndike Brook Trailhead has the smoothest surface and most gradual ascent \u2014 best for a first visit\n- Snow Bowl access is better for mountain biking; Goose River trailhead is off Rollins Rd (do not park on the road)\n- GHP hiking-only trails to Spruce and Ragged Mountains access from a Route 17 lot with a Georges River Land Trust sign",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.17518,
+          44.22198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rail Explorers Phoenicia Phoenicia, NY",
         "icon": "star",
         "color": "purple",
@@ -19449,6 +19850,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rockport Shore Preserve Rockport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "650 ft of rocky shore frontage on Rockport Harbor \u2014 the longest undeveloped stretch on the harbor \u2014 donated anonymously in 2019. Beauchamp Point Rd, a dirt town road through the property, is a popular 0.2-1.6 mi walk, often looped out to Chapel Hill Rd and Calderown Ln.",
+        "start_date_time": "",
+        "detail": "Rockport Shore Preserve\n\n\ud83d\udccd Beauchamp Point Rd, Rockport, ME (dirt road, closed to vehicles in winter)\n\n650 ft of rocky shore frontage on Rockport Harbor \u2014 the longest undeveloped stretch on the harbor \u2014 donated anonymously in 2019. Beauchamp Point Rd, a dirt town road through the property, is a popular 0.2-1.6 mi walk, often looped out to Chapel Hill Rd and Calderown Ln.\n\nTips\n- Closed to vehicle traffic in winter \u2014 good winter walking route\n- Can also be reached on foot directly from Rockport village",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06779,
+          44.18152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rocky Glen Falls Woodstock VT",
         "icon": "footprints",
         "color": "green",
@@ -19639,8 +20060,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5188,
-          44.0453
+          -69.51168181492727,
+          44.03895128916305
         ]
       }
     },
@@ -21235,6 +21656,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sides Preserve Rockport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "8-acre preserve on Maces Pond, a popular warm-water fishing spot bordered by Rt 17. A short 0.4 mi loop trail follows the waterfront with glimpses of neighboring Rockville Cemetery; a hand-carry boat launch sits at the Rt 17 pull-off. Donated 1997 by Andrew and Virginia Sides.",
+        "start_date_time": "",
+        "detail": "Sides Preserve\n\n\ud83d\udccd Route 17, Rockport, ME (roadside parking just after Maces Pond)\n\n8-acre preserve on Maces Pond, a popular warm-water fishing spot bordered by Rt 17. A short 0.4 mi loop trail follows the waterfront with glimpses of neighboring Rockville Cemetery; a hand-carry boat launch sits at the Rt 17 pull-off. Donated 1997 by Andrew and Virginia Sides.\n\nTips\n- Fishing accessible from shore, by boat, and on the ice\n- Look for the Preserve sign right on the road",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1202,
+          44.16535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Silvia Woodstock, NY",
         "icon": "sandwich",
         "color": "red",
@@ -21307,6 +21748,26 @@
         "coordinates": [
           -72.419462,
           43.646055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simonton Quarry Preserve Rockport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Three historic 1800s lime quarries, once served by a narrow-gauge railroad hauling lime to the Rockport harbor kilns. No trail exists \u2014 it's a picnic-and-photo pull-off with steep quarry edges. Gifted to The Nature Conservancy in the early 1970s, transferred to Coastal Mountains Land Trust in 2014.",
+        "start_date_time": "",
+        "detail": "Simonton Quarry Preserve\n\n\ud83d\udccd Main St, Rockport, ME (1.4 mi south of Route 1, past Maine Sport)\n\nThree historic 1800s lime quarries, once served by a narrow-gauge railroad hauling lime to the Rockport harbor kilns. No trail exists \u2014 it's a picnic-and-photo pull-off with steep quarry edges. Gifted to The Nature Conservancy in the early 1970s, transferred to Coastal Mountains Land Trust in 2014.\n\nTips\n- No trail \u2014 use real caution near the quarries' steep edges\n- Look for a green gate and small Preserve sign at the pull-off",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.10941,
+          44.19871
         ]
       }
     },
@@ -21839,6 +22300,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "St. Clair Preserve Northport ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "310 acres along the shore of Knight Pond, with swimming and paddling access and undeveloped lake views. Transferred to the Land Trust in 2015 by The Nature Conservancy, with initial donations dating to 1962 and 1988.",
+        "start_date_time": "",
+        "detail": "St. Clair Preserve\n\n\ud83d\udccd Knights Pond Rd, Northport, ME\n\n310 acres along the shore of Knight Pond, with swimming and paddling access and undeveloped lake views. Transferred to the Land Trust in 2015 by The Nature Conservancy, with initial donations dating to 1962 and 1988.\n\nTips\n- North shore trail access is 1.3 mi down Knights Pond Rd from Beech Hill Rd\n- South shore/lake access: park at the town boat launch at the end of Knights Pond Rd",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9966,
+          44.32378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "St. James Episcopal Church Hyde Park NY",
         "icon": "landmark",
         "color": "green",
@@ -21988,6 +22469,26 @@
         "coordinates": [
           -70.22006383381473,
           44.09392360370163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephenson Preserve Belfast ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A short hike close to downtown Belfast, with a small waterfall that flows during spring melt and heavy rain. Easy to extend into a longer outing via nearby Pendleton Park and the Belfast Rail Trail along the Passagassawakeag River. Donated 2000 by Ralph Stephenson.",
+        "start_date_time": "",
+        "detail": "Stephenson Preserve\n\n\ud83d\udccd City Point Rd, Belfast, ME (walk 300 ft down from the Rail Trail parking lot on High St/Rt 137)\n\nA short hike close to downtown Belfast, with a small waterfall that flows during spring melt and heavy rain. Easy to extend into a longer outing via nearby Pendleton Park and the Belfast Rail Trail along the Passagassawakeag River. Donated 2000 by Ralph Stephenson.\n\nTips\n- Use caution walking down the busy City Point Rd from the Rail Trail lot\n- 0.3 mi loop, moderate, 120 ft gain",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02406,
+          44.44039
         ]
       }
     },
@@ -22203,6 +22704,26 @@
         "coordinates": [
           -71.2062,
           44.0654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stover Preserve Belfast ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A scenic nature walk close to downtown Belfast along the Passagassawakeag River \u2014 old-field pines, mixed conifer-hardwood stands with extensive bog bridging, and a wild stretch of river. Conserved 2004 in partnership with Lee and Donna Stover.",
+        "start_date_time": "",
+        "detail": "Stover Preserve\n\n\ud83d\udccd Doak Rd, Belfast, ME (parking immediately after Doak's Machine Shop, red building)\n\nA scenic nature walk close to downtown Belfast along the Passagassawakeag River \u2014 old-field pines, mixed conifer-hardwood stands with extensive bog bridging, and a wild stretch of river. Conserved 2004 in partnership with Lee and Donna Stover.\n\nTips\n- 0.9 mi loop, easy, 90 ft gain \u2014 extensive boardwalk over the boggy sections\n- Can also park just down the street at Head of Tide Preserve",
+        "website": "https://www.coastalmountains.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.04976,
+          44.44516
         ]
       }
     },
