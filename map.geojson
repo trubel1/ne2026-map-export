@@ -163,6 +163,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Abby Aldrich Rockefeller Garden Seal Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Beatrix Farrand-designed garden (1926-1930) for Abby Aldrich and John D. Rockefeller Jr., blending an English flower garden within an Asian-inspired landscape. Peak bloom in August. Open by reservation only, mid-July to early September, Tuesday-Sunday noon-4pm.",
+        "start_date_time": "",
+        "detail": "Abby Aldrich Rockefeller Garden\n\n\ud83d\udccd Peabody Drive, Seal Harbor, ME (unmarked entrance ~0.5 mi off Route 3; coordinate approximate \u2014 road geocode, not the actual gate)\n\nBeatrix Farrand-designed garden (1926-1930) for Abby Aldrich and John D. Rockefeller Jr., blending an English flower garden within an Asian-inspired landscape. Peak bloom in August. Open by reservation only, mid-July to early September, Tuesday-Sunday noon-4pm.\n\nTips\n- Reservation required \u2014 check gardenpreserve. before planning a visit\n- Friday and Sunday are member days"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24826,
+          44.29389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Abel's Lobster Somesville ME",
         "icon": "sandwich",
         "color": "red",
@@ -1312,6 +1331,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Baker Hill Sullivan ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "58 acres of granite ledges on Baker Hill's southern slope, with views south to Mount Desert Island and north to Schoodic Mountain. Connects to the adjacent Long Ledges Preserve. 0.75-1 mi loop; a guided scavenger-hunt trail for families.",
+        "start_date_time": "",
+        "detail": "Baker Hill\n\n\ud83d\udccd Punkinville Road, Sullivan, ME (0.2 mi from Route 1N)\n\n58 acres of granite ledges on Baker Hill's southern slope, with views south to Mount Desert Island and north to Schoodic Mountain. Connects to the adjacent Long Ledges Preserve. 0.75-1 mi loop; a guided scavenger-hunt trail for families.\n\nTips\n- Connects directly to Long Ledges Preserve for a longer combined hike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16846,
+          44.51299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Baker Island Lighthouse Southwest Harbor ME",
         "icon": "anchor",
         "color": "green",
@@ -1912,6 +1950,25 @@
         "coordinates": [
           -68.31283240969235,
           44.27556229109828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bean Island Sorrento ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "27-acre wooded island under conservation easement since 1975, former sheep-grazing land. A ~1 mi coastline loop trail passes rocky beaches and lichen-covered forest. Popular for picnicking and primitive camping.",
+        "start_date_time": "",
+        "detail": "Bean Island\n\n\ud83d\udccd Sorrento Town Dock, Sorrento, ME \u2014 water access only (boat, kayak, or canoe)\n\n27-acre wooded island under conservation easement since 1975, former sheep-grazing land. A ~1 mi coastline loop trail passes rocky beaches and lichen-covered forest. Popular for picnicking and primitive camping.\n\nTips\n- Water access only \u2014 launch from the Sorrento Town Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20794,
+          44.4759
         ]
       }
     },
@@ -2997,7 +3054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Boynton-McKay Food Company Camden ME",
+        "name": "Boynton-McKay Food Company Camden ME (BAGEL SHOP)",
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
@@ -3008,8 +3065,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.0465,
-          44.2067
+          -69.06501595426941,
+          44.210527511656025
         ]
       }
     },
@@ -3029,6 +3086,25 @@
         "coordinates": [
           -69.6265,
           43.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Branch Lake Public Forest Ellsworth ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Protects Ellsworth's sole drinking-water source \u2014 eastern Maine's largest coastal city relies on this lake. The lake loop trail (2.6 mi network) reaches the water at 1.3 mi. Protected 2010 via a partnership between Frenchman Bay Conservancy, the City of Ellsworth, Trust for Public Land, and Forest Society of Maine.",
+        "start_date_time": "",
+        "detail": "Branch Lake Public Forest\n\n\ud83d\udccd 6.5 mi north of downtown Ellsworth (Main St/Rt 1A), then 1 mi to a gravel lot\n\nProtects Ellsworth's sole drinking-water source \u2014 eastern Maine's largest coastal city relies on this lake. The lake loop trail (2.6 mi network) reaches the water at 1.3 mi. Protected 2010 via a partnership between Frenchman Bay Conservancy, the City of Ellsworth, Trust for Public Land, and Forest Society of Maine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.51714,
+          44.60415
         ]
       }
     },
@@ -5581,6 +5657,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Corea Heath Gouldsboro ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "600 acres connecting to a National Wildlife Refuge and Grand Marsh \u2014 extensive wetlands, beaver ponds, and jack pine stands. Strong birdwatching for waterfowl and rare plants. 1-1.25 mi loop.",
+        "start_date_time": "",
+        "detail": "Corea Heath\n\n\ud83d\udccd Route 195 (Corea Road), Gouldsboro, ME (2 mi from Prospect Harbor)\n\n600 acres connecting to a National Wildlife Refuge and Grand Marsh \u2014 extensive wetlands, beaver ponds, and jack pine stands. Strong birdwatching for waterfowl and rare plants. 1-1.25 mi loop.\n\nTips\n- Good birding stop \u2014 bring binoculars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.98986,
+          44.41057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cornell Cooperative Extension of Dutchess County Millbrook NY",
         "icon": "landmark",
         "color": "green",
@@ -6298,6 +6393,25 @@
         "coordinates": [
           -68.22776,
           44.29938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Day Ridges Preserve Gouldsboro ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Opened 2021 \u2014 bog-bridged nature trails (2 mi) through a cedar swamp with a beaver pond viewpoint, plus a paddler's trail from Lower to Upper West Bay Pond with an onsite canoe-loan program.",
+        "start_date_time": "",
+        "detail": "Day Ridges Preserve\n\n\ud83d\udccd Route 1, ~0.9 mi east of the Route 195 junction, Gouldsboro, ME\n\nOpened 2021 \u2014 bog-bridged nature trails (2 mi) through a cedar swamp with a beaver pond viewpoint, plus a paddler's trail from Lower to Upper West Bay Pond with an onsite canoe-loan program.\n\nTips\n- Onsite canoe loans for the paddler's trail \u2014 no need to bring your own boat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.05886,
+          44.47496
         ]
       }
     },
@@ -7497,6 +7611,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ellsworth Riverwalk Ellsworth ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "An easy 0.2 mi out-and-back gravel path along the Union River from the library to an accessible overlook \u2014 Frenchman Bay Conservancy converted a makeshift path into a sustainable trail minutes from downtown.",
+        "start_date_time": "",
+        "detail": "Ellsworth Riverwalk\n\n\ud83d\udccd Behind the Ellsworth Public Library, State Street, Ellsworth, ME\n\nAn easy 0.2 mi out-and-back gravel path along the Union River from the library to an accessible overlook \u2014 Frenchman Bay Conservancy converted a makeshift path into a sustainable trail minutes from downtown.\n\nTips\n- Quick stop right in downtown Ellsworth \u2014 no real trip planning needed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.42595,
+          44.54172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Elwood's Raw Bars Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -8417,6 +8550,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Frances B. Wood Gouldsboro ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "438-acre upland watershed with natural streams and bogs supporting deer, beaver, and bobcat \u2014 noted warbler habitat, sitting above the Maine Coastal Islands National Wildlife Refuge on West Bay. 1.2-1.5 mi loop.",
+        "start_date_time": "",
+        "detail": "Frances B. Wood\n\n\ud83d\udccd Chicken Mill Road off Route 1 / Fletcher Wood Road, Gouldsboro, ME (shared lot with the National Wildlife Refuge)\n\n438-acre upland watershed with natural streams and bogs supporting deer, beaver, and bobcat \u2014 noted warbler habitat, sitting above the Maine Coastal Islands National Wildlife Refuge on West Bay. 1.2-1.5 mi loop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.01465,
+          44.48717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Frances Perkins Homestead Newcastle ME",
         "icon": "scroll",
         "color": "green",
@@ -8529,6 +8681,25 @@
         "coordinates": [
           -70.01844966755291,
           41.73448688505398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frenchman Bay Community Forest Hancock ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Frenchman Bay Conservancy's 1,400-acre portion of a ~4,500-acre forest within a larger ~25,000-acre undeveloped habitat block \u2014 likely the largest in Hancock County within a mile of the coast. Extensive trail network (6.23 mi full loop) for hiking, biking, and snowshoeing; wheelchair/stroller-accessible entry; connects to the Downeast Sunrise Trail.",
+        "start_date_time": "",
+        "detail": "Frenchman Bay Community Forest\n\n\ud83d\udccd Route 182, ~1 mi from the Tideway Marketplace (750 US-1, Hancock, ME)\n\nFrenchman Bay Conservancy's 1,400-acre portion of a ~4,500-acre forest within a larger ~25,000-acre undeveloped habitat block \u2014 likely the largest in Hancock County within a mile of the coast. Extensive trail network (6.23 mi full loop) for hiking, biking, and snowshoeing; wheelchair/stroller-accessible entry; connects to the Downeast Sunrise Trail.\n\nTips\n- Wheelchair/stroller-accessible entry point\n- Connects to the Downeast Sunrise Trail for a much longer route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3049,
+          44.55228
         ]
       }
     },
@@ -10670,6 +10841,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hunters Cliffs Seal Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "167 acres between Day Mountain and Hunters Beach, part of the Land & Garden Preserve's Little Long Pond Natural Lands. The rugged Hunters Cliffs trail offers expansive ocean views descending to the beach. Open year-round, dawn to dusk, no bikes.",
+        "start_date_time": "",
+        "detail": "Hunters Cliffs\n\n\ud83d\udccd Route 3, ~0.8 mi east of Seal Harbor village (coordinate is the older Day Mountain lot; a new 12-car lot was built ~1,000 ft east in 2025, exact GPS not found)\n\n167 acres between Day Mountain and Hunters Beach, part of the Land & Garden Preserve's Little Long Pond Natural Lands. The rugged Hunters Cliffs trail offers expansive ocean views descending to the beach. Open year-round, dawn to dusk, no bikes.\n\nTips\n- Coordinate is approximate \u2014 a new 2025 parking lot exists ~1,000 ft east of this pin, exact location not confirmed\n- Pairs naturally with the existing Little Long Pond and Day Mountain Trail notes nearby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23106,
+          44.30776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Huston Landing Damariscotta ME",
         "icon": "footprints",
         "color": "green",
@@ -10820,6 +11010,25 @@
         "coordinates": [
           -69.06097,
           44.16547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Point Ellsworth ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A short 0.75 mi round-trip Union River trail with a scenic overlook of downtown Ellsworth. River otters, eagles, and osprey are regularly seen; bog bridges built by the Maine Conservation Corps.",
+        "start_date_time": "",
+        "detail": "Indian Point\n\n\ud83d\udccd Water Street (Route 230S), Ellsworth, ME (~1 mi from Route 1/Main St)\n\nA short 0.75 mi round-trip Union River trail with a scenic overlook of downtown Ellsworth. River otters, eagles, and osprey are regularly seen; bog bridges built by the Maine Conservation Corps."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.41894,
+          44.52965
         ]
       }
     },
@@ -11446,6 +11655,25 @@
         "coordinates": [
           -68.251892,
           44.321547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Homestead Ellsworth ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "31 acres with 3,000 ft of Union River frontage plus Whittaker Brook, a historic family cemetery, and heritage garden. The 1-mi lollipop trail (built 2019) has bog bridging, stone stairs, and wooden bridges.",
+        "start_date_time": "",
+        "detail": "Jordan Homestead\n\n\ud83d\udccd 169 Bayside Road, Ellsworth, ME\n\n31 acres with 3,000 ft of Union River frontage plus Whittaker Brook, a historic family cemetery, and heritage garden. The 1-mi lollipop trail (built 2019) has bog bridging, stone stairs, and wooden bridges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4186,
+          44.52396
         ]
       }
     },
@@ -12772,6 +13000,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Little Tunk Pond Sullivan ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "55 acres of woodlands and abandoned fields with a ~400 ft sand beach on Little Tunk Pond \u2014 swimming, and views to Black Mountain. Managed for woodcock habitat via alder thicket restoration. 0.4 mi one-way.",
+        "start_date_time": "",
+        "detail": "Little Tunk Pond\n\n\ud83d\udccd Route 183 (Tunk Lake Road), Sullivan, ME (~4.7 mi north of Route 1)\n\n55 acres of woodlands and abandoned fields with a ~400 ft sand beach on Little Tunk Pond \u2014 swimming, and views to Black Mountain. Managed for woodcock habitat via alder thicket restoration. 0.4 mi one-way.\n\nTips\n- Sand beach and swimming \u2014 good warm-weather stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.10353,
+          44.56665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Littlefield Preserve Belfast ME",
         "icon": "footprints",
         "color": "green",
@@ -12965,6 +13212,25 @@
         "coordinates": [
           -69.06624551733816,
           44.209638293844584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Ledges Sullivan ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "318 acres of granite outcroppings and glacial erratic boulders, plus a small, overgrown historic granite quarry. A 4.4 mi trail network connects to Baker Hill and Schoodic Bog.",
+        "start_date_time": "",
+        "detail": "Long Ledges\n\n\ud83d\udccd Punkinville Road, Sullivan, ME (0.6 mi from Route 1)\n\n318 acres of granite outcroppings and glacial erratic boulders, plus a small, overgrown historic granite quarry. A 4.4 mi trail network connects to Baker Hill and Schoodic Bog.\n\nTips\n- Connects to Baker Hill and Schoodic Bog for a longer combined hike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16471,
+          44.51963
         ]
       }
     },
@@ -13911,6 +14177,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mariaville Falls ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "600 acres with a dramatic stair falls on the West Branch of the Union River, visible from a trailside overlook. Site of an early-1800s Bingham mill village (mills, tannery) now entirely vanished. 1.4 mi trail network.",
+        "start_date_time": "",
+        "detail": "Mariaville Falls\n\n\ud83d\udccd Route 181, Mariaville, ME (gravel access road to a lot/kiosk)\n\n600 acres with a dramatic stair falls on the West Branch of the Union River, visible from a trailside overlook. Site of an early-1800s Bingham mill village (mills, tannery) now entirely vanished. 1.4 mi trail network.\n\nTips\n- Furthest-flung of this batch \u2014 well inland, north of Ellsworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.38521,
+          44.79757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mariners Church Portland ME",
         "icon": "scroll",
         "color": "green",
@@ -14414,8 +14699,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.058,
-          44.2135
+          -69.08356523620971,
+          44.20047807331802
         ]
       }
     },
@@ -16476,6 +16761,25 @@
         "coordinates": [
           -70.373156,
           43.515463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Pond Railway Trail and Kilkenny Cove Hancock ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A former railway corridor crossing a saltwater bay \u2014 7.5-acre Kilkenny Cove plus a 3.25 mi one-way trail. Excellent birding for migrating songbirds and shorebirds, plus ocean/clam-worm access. Jointly managed by three land trusts.",
+        "start_date_time": "",
+        "detail": "Old Pond Railway Trail and Kilkenny Cove\n\n\ud83d\udccd East trailhead: Point Road, Hancock, ME, 1 mi south of the bridge (across from Town Hall); west trailhead: Old Route 1\n\nA former railway corridor crossing a saltwater bay \u2014 7.5-acre Kilkenny Cove plus a 3.25 mi one-way trail. Excellent birding for migrating songbirds and shorebirds, plus ocean/clam-worm access. Jointly managed by three land trusts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.28435,
+          44.53199
         ]
       }
     },
@@ -20401,6 +20705,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Salt Pond Hancock ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "17.9 acres \u2014 a woodland trail (0.4 mi one-way, up to 1.7 mi with road loops) to a tidal salt pond with Frenchman Bay shore frontage on Hancock Point. Connects to Carter's Beach and views of Sullivan Harbor. Not the same place as the existing Rachel Carson Salt Pond Preserve note (New Harbor, ME) \u2014 a different, unrelated preserve despite the shared name.",
+        "start_date_time": "",
+        "detail": "Salt Pond\n\n\ud83d\udccd Point Road, Hancock, ME (3.8 mi from Rt 1, small 2-3 car turnoff)\n\n17.9 acres \u2014 a woodland trail (0.4 mi one-way, up to 1.7 mi with road loops) to a tidal salt pond with Frenchman Bay shore frontage on Hancock Point. Connects to Carter's Beach and views of Sullivan Harbor. Not the same place as the existing Rachel Carson Salt Pond Preserve note (New Harbor, ME) \u2014 a different, unrelated preserve despite the shared name.\n\nTips\n- Small turnoff parking \u2014 only room for 2-3 cars\n- Not the same place as the vault's existing \"Rachel Carson Salt Pond Preserve\" note in New Harbor \u2014 different location entirely"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23896,
+          44.47805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Salt Pond Visitor Center Eastham MA",
         "icon": "waves",
         "color": "purple",
@@ -20887,6 +21210,44 @@
         "coordinates": [
           -68.05,
           44.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Bog Sullivan ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "500 acres including a 150-acre bog at the base of Schoodic Mountain, connecting to the State of Maine's Donnell Pond Unit trail system. 4 mi of trail.",
+        "start_date_time": "",
+        "detail": "Schoodic Bog\n\n\ud83d\udccd Schoodic Bog Road, via Punkinville Rd/Punkin Ledge Rd off Route 1, Sullivan, ME\n\n500 acres including a 150-acre bog at the base of Schoodic Mountain, connecting to the State of Maine's Donnell Pond Unit trail system. 4 mi of trail.\n\nTips\n- Connects directly into the much larger Donnell Pond Public Reserved Land trail system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15712,
+          44.55018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Connector Trail Sullivan ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "2.6 mi one-way (part of a 6.5 mi system connecting 1,100+ acres), reaching Schoodic Mountain's bare, flat summit \u2014 360-degree views over Frenchman Bay and Mount Desert Island. Links to the Down East Sunrise Trail and the 14,000+-acre Donnell Pond Public Reserved Land.",
+        "start_date_time": "",
+        "detail": "Schoodic Connector Trail\n\n\ud83d\udccd Punkinville Road, Sullivan, ME (3.4 mi north of the Hancock-Sullivan Bridge on Rt 1N)\n\n2.6 mi one-way (part of a 6.5 mi system connecting 1,100+ acres), reaching Schoodic Mountain's bare, flat summit \u2014 360-degree views over Frenchman Bay and Mount Desert Island. Links to the Down East Sunrise Trail and the 14,000+-acre Donnell Pond Public Reserved Land.\n\nTips\n- The summit views here are genuinely comparable to Acadia's big-name overlooks, with a fraction of the crowds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16261,
+          44.54167
         ]
       }
     },
@@ -21748,6 +22109,25 @@
         "coordinates": [
           -72.419462,
           43.646055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simon Trail Lamoine ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "70 acres of lush woodland loop under conservation easement, with large pines and abundant ferns, mosses, and mushrooms. Includes an outdoor classroom (20-person capacity). 1 mi / 1.1 mi loop; popular for snowshoeing.",
+        "start_date_time": "",
+        "detail": "Simon Trail\n\n\ud83d\udccd Pinkham's Flats Road (Rt 204/Partridge Cove Rd), Lamoine, ME (2.3 mi past Lamoine Town Hall)\n\n70 acres of lush woodland loop under conservation easement, with large pines and abundant ferns, mosses, and mushrooms. Includes an outdoor classroom (20-person capacity). 1 mi / 1.1 mi loop; popular for snowshoeing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30966,
+          44.49323
         ]
       }
     },
@@ -23374,6 +23754,25 @@
         "coordinates": [
           -73.816066,
           41.444849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taft Point Gouldsboro ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "65 acres (0.5 mi coastal frontage) with views of the Acadia Mountains, Stave Island, Calf Island, and Schoodic Mountain. Rocky beach for tidal exploration, eider ducks and shorebirds, and a historic well. 1.8 mi total across two 0.9 mi loops.",
+        "start_date_time": "",
+        "detail": "Taft Point\n\n\ud83d\udccd Taft Point Road, Gouldsboro, ME (six-car gravel lot via a 1,500 ft access road)\n\n65 acres (0.5 mi coastal frontage) with views of the Acadia Mountains, Stave Island, Calf Island, and Schoodic Mountain. Rocky beach for tidal exploration, eider ducks and shorebirds, and a historic well. 1.8 mi total across two 0.9 mi loops."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11048,
+          44.46531
         ]
       }
     },
