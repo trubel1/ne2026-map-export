@@ -1292,6 +1292,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Baker Forest Newcastle ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "165-acre forest (donated 2003) with rocky ridges, old grazing land, a beaver-active lowland stream, and large hemlocks/white pines \u2014 including a visible storm-damage area from a past microburst. ~1.75 mi of trails, 285 ft cumulative gain.",
+        "start_date_time": "",
+        "detail": "Baker Forest\n\n\ud83d\udccd River Road, Newcastle, ME (~1.5 mi south of Route 1, small pull-off)\n\n165-acre forest (donated 2003) with rocky ridges, old grazing land, a beaver-active lowland stream, and large hemlocks/white pines \u2014 including a visible storm-damage area from a past microburst. ~1.75 mi of trails, 285 ft cumulative gain.\n\nTips\n- Small 2-3 car pull-off on River Road \u2014 arrive flexible on parking",
+        "website": "https://www.coastalrivers.org/trails/baker-forest/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.56106,
+          44.011845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Baker Island Lighthouse Southwest Harbor ME",
         "icon": "anchor",
         "color": "green",
@@ -1759,6 +1779,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bass Rock Preserve Round Pond ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "10-acre preserve (1973/2009) with views of Muscongus Bay and Friendship's islands \u2014 a fern-lined trail leads to a rocky beach and a curious ~2-3 ft round hole worn into exposed ledge. Short, ~0.3-0.4 mi, 70 ft gain.",
+        "start_date_time": "",
+        "detail": "Bass Rock Preserve\n\n\ud83d\udccd 235 Back Shore Road, Round Pond, ME\n\n10-acre preserve (1973/2009) with views of Muscongus Bay and Friendship's islands \u2014 a fern-lined trail leads to a rocky beach and a curious ~2-3 ft round hole worn into exposed ledge. Short, ~0.3-0.4 mi, 70 ft gain.\n\nTips\n- Quick stop \u2014 good pairing with a Round Pond village walk",
+        "website": "https://www.coastalrivers.org/trails/bass-rock-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.446275,
+          43.957029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Battery Steele Peaks Island ME",
         "icon": "landmark",
         "color": "green",
@@ -1891,6 +1931,26 @@
         "coordinates": [
           -71.3148,
           44.0434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bearce Allen and NORGAL Preserves Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Sustainable-forestry demonstration trail with interpretive signage; the edge of a 1953 forest fire is still visible mid-trail. Noted for lady slipper orchids (late May-June) and genuine solitude. ~1.7 mi, 134 ft gain.",
+        "start_date_time": "",
+        "detail": "Bearce Allen and NORGAL Preserves\n\n\ud83d\udccd 19 Austin Rd, off Sproul Hill Rd, Bristol, ME (coordinate approximate \u2014 Sproul Hill Rd geocode, Austin Rd itself didn't resolve precisely)\n\nSustainable-forestry demonstration trail with interpretive signage; the edge of a 1953 forest fire is still visible mid-trail. Noted for lady slipper orchids (late May-June) and genuine solitude. ~1.7 mi, 134 ft gain.\n\nTips\n- Coordinate is approximate \u2014 verify against Coastal Rivers' own trail map before relying on it for navigation",
+        "website": "https://www.coastalrivers.org/trails/bearce-allen-and-norgal-preserves/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5071,
+          43.9421
         ]
       }
     },
@@ -3110,6 +3170,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bristol Recreational Trail Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Loops along the tidal Pemaquid River estuary right behind the school \u2014 benches, old red oaks, and small brook bridges. One accessible segment, dog-friendly. ~0.7-0.75 mi, ~30 min walk.",
+        "start_date_time": "",
+        "detail": "Bristol Recreational Trail\n\n\ud83d\udccd Route 130 at Bristol Consolidated School, 2153 Bristol Rd, Bristol, ME\n\nLoops along the tidal Pemaquid River estuary right behind the school \u2014 benches, old red oaks, and small brook bridges. One accessible segment, dog-friendly. ~0.7-0.75 mi, ~30 min walk.\n\nTips\n- One accessible segment\n- Dog-friendly",
+        "website": "https://www.coastalrivers.org/trails/bristol-recreational-trail/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.505286,
+          43.901276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Browns Head Lighthouse Vinalhaven ME",
         "icon": "anchor",
         "color": "green",
@@ -4202,6 +4282,26 @@
         "coordinates": [
           -69.6706,
           44.0027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castner Brook Community Forest Damariscotta ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A flat, 6-7 ft wide crushed-stone All Persons Trail (wheelchair accessible) through mixed pine, oak, hemlock, spruce, and fir to the brook \u2014 0.35 mi out-and-back, 11 ft gain. Also has a separate 1-mile intermediate mountain-bike loop.",
+        "start_date_time": "",
+        "detail": "Castner Brook Community Forest\n\n\ud83d\udccd Piper Mill Road, Damariscotta, ME (0.3 mi in, near the Great Salt Bay Sanitary District gate)\n\nA flat, 6-7 ft wide crushed-stone All Persons Trail (wheelchair accessible) through mixed pine, oak, hemlock, spruce, and fir to the brook \u2014 0.35 mi out-and-back, 11 ft gain. Also has a separate 1-mile intermediate mountain-bike loop.\n\nTips\n- Fully wheelchair/stroller accessible on the main trail\n- An accessible bridge/seating upgrade is planned for 2026",
+        "website": "https://www.coastalrivers.org/trails/castner-brook/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.516799,
+          44.027951
         ]
       }
     },
@@ -5478,6 +5578,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cosima's Preserve Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "44.5-acre property (gift 2016) with a ledge overlook on a quiet stretch of the Pemaquid River \u2014 1,100 ft of frontage, old stone walls, and wading-bird/turtle/amphibian habitat. ~0.6-0.8 mi loop, 98 ft gain.",
+        "start_date_time": "",
+        "detail": "Cosima's Preserve\n\n\ud83d\udccd 460 Benner Road, Bristol, ME\n\n44.5-acre property (gift 2016) with a ledge overlook on a quiet stretch of the Pemaquid River \u2014 1,100 ft of frontage, old stone walls, and wading-bird/turtle/amphibian habitat. ~0.6-0.8 mi loop, 98 ft gain.",
+        "website": "https://www.coastalrivers.org/trails/cosimas-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.496231,
+          43.987545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cosimo's Trattoria & Bar",
         "icon": "wine",
         "color": "red",
@@ -5668,6 +5788,26 @@
         "coordinates": [
           -68.6753,
           44.1297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crooked Farm Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Nearly 140 acres of forest, wetlands, and open fields (2002 community partnership) with Pemaquid River gravel spawning streambeds and moose/mink/otter habitat. ~2.5-2.6 mi loop, 144 ft gain.",
+        "start_date_time": "",
+        "detail": "Crooked Farm\n\n\ud83d\udccd Old County Road, near Carpenter's Boatshop, off Route 130 at Bristol Library, Bristol, ME\n\nNearly 140 acres of forest, wetlands, and open fields (2002 community partnership) with Pemaquid River gravel spawning streambeds and moose/mink/otter habitat. ~2.5-2.6 mi loop, 144 ft gain.\n\nTips\n- Notably buggy in summer \u2014 bring repellent",
+        "website": "https://www.coastalrivers.org/trails/crooked-farm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.505058,
+          43.922264
         ]
       }
     },
@@ -6743,6 +6883,26 @@
         "coordinates": [
           -68.0233,
           44.6181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doyle Preserve Damariscotta ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "1994 gift from the Doyle-Finnegan family \u2014 1,200 ft of Pemaquid Pond shoreline, glacial erratics with rock tripe, and a spur to easement-accessible Doyle Finnegan Island. ~1.1 mi loop, 114 ft gain.",
+        "start_date_time": "",
+        "detail": "Doyle Preserve\n\n\ud83d\udccd Castaway Cove Road, off Egypt Road (off Biscay Road), Damariscotta, ME (coordinate approximate \u2014 not a confirmed exact trailhead pin)\n\n1994 gift from the Doyle-Finnegan family \u2014 1,200 ft of Pemaquid Pond shoreline, glacial erratics with rock tripe, and a spur to easement-accessible Doyle Finnegan Island. ~1.1 mi loop, 114 ft gain.\n\nTips\n- Coordinate is approximate \u2014 verify before relying on it for navigation",
+        "website": "https://www.coastalrivers.org/trails/doyle-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.451256,
+          44.053669
         ]
       }
     },
@@ -9662,6 +9822,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hatchtown Preserve Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "35-acre preserve along the Pemaquid River's west side, looping around an 'almost-island.' Gently graded, with a canoe/kayak pull-out. Spring wildflowers (blue bead lily, trout lily, goldenseal). ~0.6 mi, 22 ft gain.",
+        "start_date_time": "",
+        "detail": "Hatchtown Preserve\n\n\ud83d\udccd Boyd Pond Lane, off Sproul Hill Road, Bristol, ME (coordinate approximate \u2014 road-level geocode, not the exact parking/kiosk spot down the lane)\n\n35-acre preserve along the Pemaquid River's west side, looping around an 'almost-island.' Gently graded, with a canoe/kayak pull-out. Spring wildflowers (blue bead lily, trout lily, goldenseal). ~0.6 mi, 22 ft gain.\n\nTips\n- Coordinate is approximate\n- Good canoe/kayak put-in if paddling the Pemaquid River",
+        "website": "https://www.coastalrivers.org/trails/hatchtown-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.498083,
+          43.941694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Haverhill-Bath Covered Bridge Woodsville NH",
         "icon": "scroll",
         "color": "green",
@@ -9989,6 +10169,26 @@
         "coordinates": [
           -73.89879801876226,
           41.96930414022855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton O'Connor Trail Bremen ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "47-acre Bremen Town Forest, dedicated to Diane Hilton O'Connor of the Bremen Conservation Commission \u2014 a winding salt marsh, mature white ash/red oak, fern alleys, and a hay meadow. ~1.1 mi loop, 108 ft gain.",
+        "start_date_time": "",
+        "detail": "Hilton O'Connor Trail\n\n\ud83d\udccd Bremen Town House, Route 32, Bremen, ME (trailhead at/adjacent to this building)\n\n47-acre Bremen Town Forest, dedicated to Diane Hilton O'Connor of the Bremen Conservation Commission \u2014 a winding salt marsh, mature white ash/red oak, fern alleys, and a hay meadow. ~1.1 mi loop, 108 ft gain.",
+        "website": "https://www.coastalrivers.org/trails/hilton-oconnor-trail/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.42167,
+          44.01306
         ]
       }
     },
@@ -10343,6 +10543,26 @@
         "coordinates": [
           -68.2189,
           44.2959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huston Landing Damariscotta ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "10-acre preserve (2006 gift) with a tombolo (sandy isthmus to an island), a glacial erratic marking a trail junction, 500+ ft of Damariscotta River frontage, and a horseshoe-crab spawning shoreline. ~0.4 mi round trip, 118 ft gain.",
+        "start_date_time": "",
+        "detail": "Huston Landing\n\n\ud83d\udccd Bristol Road (Route 129), 1.6 mi south of Business Route 1, Damariscotta, ME\n\n10-acre preserve (2006 gift) with a tombolo (sandy isthmus to an island), a glacial erratic marking a trail junction, 500+ ft of Damariscotta River frontage, and a horseshoe-crab spawning shoreline. ~0.4 mi round trip, 118 ft gain.\n\nTips\n- Good sunset viewing spot \u2014 westerly river views",
+        "website": "https://www.coastalrivers.org/trails/huston-landing/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.532494,
+          44.009235
         ]
       }
     },
@@ -11032,6 +11252,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "John and Peg Sproul Preserve Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "50-acre preserve (2008 gift) bordering both Ross Pond (gentle loop, beaver dams) and Boyd Pond (steeper loop, small sandy beach) \u2014 moss/fern-covered ledges and prime porcupine habitat. ~0.7-0.9 mi total across two loops.",
+        "start_date_time": "",
+        "detail": "John and Peg Sproul Preserve\n\n\ud83d\udccd Old County Road, ~1.5 mi from Bristol Library, Bristol, ME (coordinate approximate)\n\n50-acre preserve (2008 gift) bordering both Ross Pond (gentle loop, beaver dams) and Boyd Pond (steeper loop, small sandy beach) \u2014 moss/fern-covered ledges and prime porcupine habitat. ~0.7-0.9 mi total across two loops.\n\nTips\n- Coordinate is approximate",
+        "website": "https://www.coastalrivers.org/trails/john-and-peg-sproul-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.495944,
+          43.922954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Johnson Railroad Depot Site Johnson VT",
         "icon": "scroll",
         "color": "green",
@@ -11368,6 +11608,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Keyes Woods Preserve Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "70-acre property (2018) with historic rock walls and foundations, and 1,900+ ft of Pemaquid River shoreline \u2014 the stream confluence is a real waterfowl hotspot. ~2.2 mi + 0.3 mi loops, 101 ft gain.",
+        "start_date_time": "",
+        "detail": "Keyes Woods Preserve\n\n\ud83d\udccd 185 Poor Farm Road, Bristol, ME\n\n70-acre property (2018) with historic rock walls and foundations, and 1,900+ ft of Pemaquid River shoreline \u2014 the stream confluence is a real waterfowl hotspot. ~2.2 mi + 0.3 mi loops, 101 ft gain.\n\nTips\n- No dogs permitted, to protect wildlife",
+        "website": "https://www.coastalrivers.org/trails/keyes-woods-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.51296,
+          43.979102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Killington Resort VT",
         "icon": "route",
         "color": "orange",
@@ -11418,8 +11678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5101,
-          44.0337
+          -69.531547866169,
+          44.033090990902835
         ]
       }
     },
@@ -12031,6 +12291,26 @@
         "coordinates": [
           -71.6808,
           44.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Library Park South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "16-acre shorefront woodland with views of Johns Bay and Witch Island \u2014 a steep Shore Loop or an easier Inner Loop. Connects directly to Tracy Shore Preserve via a 2004 trail link. ~0.5 mi loop.",
+        "start_date_time": "",
+        "detail": "Library Park\n\n\ud83d\udccd Behind Rutherford Library, 2000 State Route 129, South Bristol, ME (coordinate approximate \u2014 library address geocode)\n\n16-acre shorefront woodland with views of Johns Bay and Witch Island \u2014 a steep Shore Loop or an easier Inner Loop. Connects directly to Tracy Shore Preserve via a 2004 trail link. ~0.5 mi loop.\n\nTips\n- Combine with Tracy Shore Preserve via the connecting trail \u2014 one parking stop, two preserves",
+        "website": "https://www.coastalrivers.org/trails/library-park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.560484,
+          43.870198
         ]
       }
     },
@@ -13509,6 +13789,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Marsh River Bog Newcastle ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "73-acre wetland preserve centered on a dwarf spruce bog with wild cranberries and pitcher plants. ~1.6 mi out-and-back plus loop.",
+        "start_date_time": "",
+        "detail": "Marsh River Bog\n\n\ud83d\udccd 565 US Route 1, Newcastle, ME (behind Mexicali Blues)\n\n73-acre wetland preserve centered on a dwarf spruce bog with wild cranberries and pitcher plants. ~1.6 mi out-and-back plus loop.\n\nTips\n- Ticks noted as abundant \u2014 check thoroughly after visiting",
+        "website": "https://www.coastalrivers.org/trails/marsh-river-bog/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.559978,
+          44.027122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Marsh-Billings-Rockefeller National Historical Park 1 Woodstock VT",
         "icon": "landmark",
         "color": "orange",
@@ -14012,6 +14312,26 @@
         "coordinates": [
           -73.6846647,
           41.8397334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mills Overlook Preserve Newcastle ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "17-acre property (1999 gift) \u2014 fern-draped outcrops lead to a viewpoint over the fish-ladder shed, Great Salt Bay, and on clear days the Camden Hills. Short but genuinely steep for its size. ~0.5-0.8 mi loop.",
+        "start_date_time": "",
+        "detail": "Mills Overlook Preserve\n\n\ud83d\udccd Academy Hill Road, opposite St. Patrick's Church, Damariscotta Mills, Newcastle, ME\n\n17-acre property (1999 gift) \u2014 fern-draped outcrops lead to a viewpoint over the fish-ladder shed, Great Salt Bay, and on clear days the Camden Hills. Short but genuinely steep for its size. ~0.5-0.8 mi loop.\n\nTips\n- Good pairing with the nearby Damariscotta Mills Fish Ladder\n- Short but described as 'strenuous' for its length \u2014 real elevation packed in",
+        "website": "https://www.coastalrivers.org/trails/mills-overlook-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.529617,
+          44.059219
         ]
       }
     },
@@ -15997,6 +16317,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Osborn Finch Wildlife Sanctuary Waldoboro ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "11-acre preserve \u2014 2 acres of field plus 9 acres of moss-draped woods holding some of the Midcoast's oldest spruce, with 300 ft of Medomak River shorefront and a rustic former cabin. ~0.4-0.6 mi out and back.",
+        "start_date_time": "",
+        "detail": "Osborn Finch Wildlife Sanctuary\n\n\ud83d\udccd Dutch Neck Road, 2.5 mi down (grassy parking area), Waldoboro, ME\n\n11-acre preserve \u2014 2 acres of field plus 9 acres of moss-draped woods holding some of the Midcoast's oldest spruce, with 300 ft of Medomak River shorefront and a rustic former cabin. ~0.4-0.6 mi out and back.\n\nTips\n- Furthest-flung of this batch \u2014 ~13 mi from Damariscotta",
+        "website": "https://www.coastalrivers.org/trails/osborn-finch-wildlife-sanctuary/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.372711,
+          44.036232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Osteria by Capri Palm Beach County FL",
         "icon": "sandwich",
         "color": "purple",
@@ -16799,6 +17139,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pemaquid Pond Preserve Bremen ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "196-acre preserve leading to Pemaquid Pond's shore, with flat rocks for picnicking; a native vegetation buffer protects the pond's water quality. A new orange loop trail was added in 2025. ~0.7-1.5 mi out and back, 75 ft gain.",
+        "start_date_time": "",
+        "detail": "Pemaquid Pond Preserve\n\n\ud83d\udccd Turner Road, ~0.6 mi past the Pemaquid/McCurdy Pond causeway, Bremen, ME\n\n196-acre preserve leading to Pemaquid Pond's shore, with flat rocks for picnicking; a native vegetation buffer protects the pond's water quality. A new orange loop trail was added in 2025. ~0.7-1.5 mi out and back, 75 ft gain.\n\nTips\n- Flat rocks at the shore are good for a picnic stop",
+        "website": "https://www.coastalrivers.org/trails/pemaquid-pond-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.443638,
+          44.022957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pemaquid Seafood ME",
         "icon": "star",
         "color": "green",
@@ -17263,6 +17623,26 @@
         "coordinates": [
           -73.82672289921055,
           41.7461742959002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plummer Point Preserve South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "85-acre coastal spruce forest preserve (71 ac 1991 + 14 ac 2022) with views of the Damariscotta River and Seal Cove, a disused rock quarry, and seals often visible on ledges at low tide. ~1.9-2.0 mi trail network.",
+        "start_date_time": "",
+        "detail": "Plummer Point Preserve\n\n\ud83d\udccd 1695 State Route 129, South Bristol, ME\n\n85-acre coastal spruce forest preserve (71 ac 1991 + 14 ac 2022) with views of the Damariscotta River and Seal Cove, a disused rock quarry, and seals often visible on ledges at low tide. ~1.9-2.0 mi trail network.\n\nTips\n- Low tide is the time to look for seals on the ledges",
+        "website": "https://www.coastalrivers.org/trails/plummer-point-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.565285,
+          43.896118
         ]
       }
     },
@@ -18662,6 +19042,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "River-Link Trail Edgecomb ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A ~5-7 mile wilderness corridor linking Newcastle to Edgecomb without crossing a single road \u2014 passes cellar holes and old apple trees near Mount Hunger, an old stone bridge, and beaver flowages. 1,148 ft elevation gain over its length.",
+        "start_date_time": "",
+        "detail": "River~Link Trail\n\n\ud83d\udccd North trailhead: River Road, Newcastle, ME; south trailhead: McKay Road, Edgecomb, ME (south coordinate is a proxy \u2014 nearest River Rd segment, not the exact McKay Rd pin)\n\nA ~5-7 mile wilderness corridor linking Newcastle to Edgecomb without crossing a single road \u2014 passes cellar holes and old apple trees near Mount Hunger, an old stone bridge, and beaver flowages. 1,148 ft elevation gain over its length.\n\nTips\n- Long point-to-point trail \u2014 plan a car shuttle or an out-and-back rather than attempting the whole corridor casually\n- Also functions as an access trail to Dodge Point from the south end",
+        "website": "https://www.coastalrivers.org/trails/river-link-trail/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.544284,
+          44.030505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Riverfront Park Athens Athens, NY",
         "icon": "mountain",
         "color": "green",
@@ -19358,6 +19758,26 @@
         "coordinates": [
           -69.1089,
           44.104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rutherford Island Preserve South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "15-acre preserve (built 2014 by Coastal Rivers Trail Tamers) winding among stone walls and coastal spruce to a bench overlooking the lower Damariscotta River, with whimsical touches added by a neighbor. 0.4 mi one way.",
+        "start_date_time": "",
+        "detail": "Rutherford Island Preserve\n\n\ud83d\udccd 2 Atlantic Ave, off West Side Rd, South Bristol, ME\n\n15-acre preserve (built 2014 by Coastal Rivers Trail Tamers) winding among stone walls and coastal spruce to a bench overlooking the lower Damariscotta River, with whimsical touches added by a neighbor. 0.4 mi one way.",
+        "website": "https://www.coastalrivers.org/trails/rutherford-island-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.562219,
+          43.848443
         ]
       }
     },
@@ -20418,6 +20838,26 @@
         "coordinates": [
           -68.4089037,
           44.2830051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal Cove Shore Preserve South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Fresh- and saltwater wetlands, towering white pines, and 3,000 ft of water frontage \u2014 crosses a genuine 'primeval wetland' and borders economically significant clam flats. ~1.0-1.2 mi loop, 85 ft gain.",
+        "start_date_time": "",
+        "detail": "Seal Cove Shore Preserve\n\n\ud83d\udccd 211 S Road, South Bristol, ME\n\nFresh- and saltwater wetlands, towering white pines, and 3,000 ft of water frontage \u2014 crosses a genuine 'primeval wetland' and borders economically significant clam flats. ~1.0-1.2 mi loop, 85 ft gain.",
+        "website": "https://www.coastalrivers.org/trails/seal-cove-shore-preserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.569822,
+          43.880651
         ]
       }
     },
@@ -21801,6 +22241,26 @@
         "coordinates": [
           -72.6874,
           44.4654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stratton Island South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Coastal Rivers' first and largest island preserve (28 acres) \u2014 a moss-carpeted spruce forest loop with traces of an ancient shell midden and early-1900s Stratton family habitation. ~1.2 mi loop.",
+        "start_date_time": "",
+        "detail": "Stratton Island\n\n\ud83d\udccd No road address \u2014 boat/paddle access only, small gravel cove on the island's NE end, South Bristol, ME\n\nCoastal Rivers' first and largest island preserve (28 acres) \u2014 a moss-carpeted spruce forest loop with traces of an ancient shell midden and early-1900s Stratton family habitation. ~1.2 mi loop.\n\nTips\n- Boat or paddle-craft access only \u2014 no road route exists\n- Avoid April-July: active eagle/osprey nesting",
+        "website": "https://www.coastalrivers.org/trails/stratton-island/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.573822,
+          43.895035
         ]
       }
     },
@@ -24499,6 +24959,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tracy Shore South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Trails past vernal pools, cascading streams, and moss/fern-draped cliffs to the Garber Overlook spur \u2014 sweeping views of Jones Cove and the Damariscotta River from a steep drop-off. Town of South Bristol-owned, co-managed with Coastal Rivers. ~1.6 mi, 65 ft gain.",
+        "start_date_time": "",
+        "detail": "Tracy Shore\n\n\ud83d\udccd Off S Road, ~20 ft from Route 129, South Bristol, ME (coordinate approximate \u2014 road-level geocode)\n\nTrails past vernal pools, cascading streams, and moss/fern-draped cliffs to the Garber Overlook spur \u2014 sweeping views of Jones Cove and the Damariscotta River from a steep drop-off. Town of South Bristol-owned, co-managed with Coastal Rivers. ~1.6 mi, 65 ft gain.\n\nTips\n- Connects to Library Park via trail \u2014 pair the two\n- Garber Overlook has a real drop-off \u2014 mind footing, not for young kids unsupervised",
+        "website": "https://www.coastalrivers.org/trails/tracy-shore/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.572555,
+          43.876491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Trapps Mountain Hamlet Historic District Gardiner NY",
         "icon": "scroll",
         "color": "green",
@@ -25551,6 +26031,26 @@
         "coordinates": [
           -69.5426,
           43.9855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walpole Woods South Bristol ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "50-acre woodlot (1963 gift, town-owned since 1978, co-managed with Coastal Rivers since 2003) with a man-made Birkett Pond, an old rock-lined spring, and an impressive glacial erratic. ~1.0-1.1 mi out and back/loop.",
+        "start_date_time": "",
+        "detail": "Walpole Woods\n\n\ud83d\udccd Route 129, east side, just north of the Walpole post office, South Bristol, ME\n\n50-acre woodlot (1963 gift, town-owned since 1978, co-managed with Coastal Rivers since 2003) with a man-made Birkett Pond, an old rock-lined spring, and an impressive glacial erratic. ~1.0-1.1 mi out and back/loop.",
+        "website": "https://www.coastalrivers.org/trails/walpole-woods/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.552497,
+          43.960306
         ]
       }
     },
@@ -29841,7 +30341,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n  - type: map\n    name: Hidden Gems\n    filters:\n      and:\n        - tags.containsAny(\"local-recommended\", \"hidden-gem\", \"uncrowded\")\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n  - type: table\n    name: View\n\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: Rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
