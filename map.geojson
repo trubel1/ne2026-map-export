@@ -8708,7 +8708,7 @@
       "properties": {
         "name": "Frenchman Bay Lobster Rolls Bar Harbor ME",
         "icon": "sandwich",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
@@ -20253,6 +20253,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rose Eden Lobster Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Seasonal takeout-only lobster shack at Rose Eden Cottages \u2014 live and cooked lobster, lobster rolls, mussels, clams, corn on the cob. Open Memorial Day weekend through early October.",
+        "start_date_time": "",
+        "detail": "Rose Eden Lobster\n\n\ud83d\udccd 864 State Hwy 3, Bar Harbor, ME 04609\n\nTakeout-only seafood shack at Rose Eden Cottages, distinct from (and formerly confused with) The Travelin' Lobster, a separate business. Started to feed cottage guests and grew into a well-known budget lobster stop. Seasonal: open Memorial Day weekend through early October.\n\nMust Order\n- Lobster roll \u2014 generous portions, frequently cited as some of the freshest on the island\n- Whole lobster \u2014 live or cooked to order, among the most affordable on Mount Desert Island\n\nTips\n- Takeout only \u2014 limited outdoor picnic-table seating on site\n- Good backup option for a night without a dinner reservation during the Bar Harbor base camp stay",
+        "website": "https://www.google.com/maps/place/Rose+Eden+Lobster/@44.435357,-68.313006,15z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.313006,
+          44.435357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rough Draft Bar & Books Kingston, NY",
         "icon": "beer",
         "color": "green",
@@ -25304,6 +25324,26 @@
         "coordinates": [
           -70.07476652776616,
           41.688636726595554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Stadium Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Take-out-only lobster roll shop, bakery, and coffee bar on Main Street \u2014 made-from-scratch baked goods, handcrafted espresso drinks, and lobster rolls. TripAdvisor Travelers' Choice award-winner.",
+        "start_date_time": "",
+        "detail": "The Stadium\n\n\ud83d\udccd 62 Main St, Bar Harbor, ME 04609\n\nTake-out-only lobster roll shop, bakery, and coffee bar in downtown Bar Harbor \u2014 open early (7am) for made-from-scratch baked goods and espresso drinks, plus lobster rolls through the afternoon. A TripAdvisor Travelers' Choice award-winner.\n\nMust Order\n- Lobster roll \u2014 the shop's namesake item, widely cited as among the best on the island\n- Baked goods / espresso drinks \u2014 made from scratch, good for a morning stop\n\nTips\n- Take-out only, no dine-in seating\n- Coordinates are an approximation (downtown Main St) \u2014 worth confirming the exact storefront location against Google Maps before you go\n- Good backup option for a night without a dinner reservation during the Bar Harbor base camp stay",
+        "website": "https://www.google.com/maps/search/The+Stadium+62+Main+St+Bar+Harbor+ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2043,
+          44.3878
         ]
       }
     },
