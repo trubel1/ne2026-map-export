@@ -3697,6 +3697,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cadillac Summit Loop Trail Acadia National Park ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A short, paved, wheelchair-accessible loop right at the Cadillac Mountain summit \u2014 0.5 miles round trip with minimal elevation gain, widely rated Acadia's best wheelchair-friendly trail. Distinct from the vehicle-reservation drive up Cadillac Summit Road.",
+        "start_date_time": "",
+        "detail": "Cadillac Summit Loop Trail\n\n\ud83d\udccd Cadillac Mountain summit, Acadia National Park ME\n\nA short paved path circling the bare granite summit of Cadillac Mountain \u2014 the highest point on the U.S. Atlantic coast \u2014 with 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.\n\nTips\n- Only 0.5 miles round trip with ~40 ft of elevation gain \u2014 the easiest way to take in the summit views without a real hike\n- Very exposed to wind/weather at the top \u2014 bring a layer even on a warm day\n- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2247,
+          44.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cadillac Summit Road Bar Harbor ME (Visit 1)",
         "icon": "route",
         "color": "orange",
@@ -22017,7 +22036,7 @@
       "properties": {
         "name": "Ship Harbor Nature Trail Acadia National Park ME",
         "icon": "footprints",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Footpath",
         "description": "A flat, easy 1.5-mile loop on the quiet side of the island near Bass Harbor/Tremont, with consistently strong reviews for its uncrowded coastal views. Good tidepooling and birdwatching along Ship Harbor.",
         "start_date_time": "",
