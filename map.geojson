@@ -12687,12 +12687,12 @@
       "type": "Feature",
       "properties": {
         "name": "Limon Grille Bar Harbor ME",
-        "icon": "sandwich",
-        "color": "red",
+        "icon": "wine",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "",
+        "description": "Limon Grille is a casual restaurant in Bar Harbor offering Mediterranean and American cuisine, with prices ranging from $10 to $20. It is open for both lunch and dinner, serving alcohol. A short walk from the Bar Harbor base camp lodging.",
         "start_date_time": "",
-        "detail": "",
+        "detail": "Limon Grille\n\n\ud83d\udccd Bar Harbor, ME \u2014 a short walk from the Base Camp 4 lodging (across the street, per Tom)\n\nCasual Mediterranean and American restaurant, open for lunch and dinner, serving alcohol. Cozy, relaxed atmosphere. $10\u201320/person.\n\nMust Order\n- Greek salad \u2014 frequently praised\n- Chicken kabobs \u2014 frequently praised\n\nTips\n- Right across the street from where Tom is staying in Bar Harbor \u2014 a strong backup option for a night without a dinner reservation\n- Takeout available\n- Some reviewers recommend avoiding the beef dishes (reported dry/salty)\n- No reservation currently held here \u2014 this is a walk-in/takeout candidate, not a booked night",
         "website": "https://www.google.com/maps/place/Limon+Grille/@44.3884952,-68.2068281,271a,35y,125.7h,44.9t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4caebe4815802593:0x88e91a6528cad91b!2sBar+Harbor,+ME!3b1!8m2!3d44.3875617!4d-68.2042989!16zL20vMDJnMDZr!3m5!1s0x4caebfe4e7eaa5bd:0x68968915d18a7f84!8m2!3d44.3857857!4d-68.2036616!16s%2Fg%2F11ydn884s5?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -12700,26 +12700,6 @@
         "coordinates": [
           -68.20360930818431,
           44.38576352843568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Limon Grille",
-        "icon": "wine",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "Limon Grille is a casual restaurant in Bar Harbor offering Mediterranean and American cuisine, with prices ranging from $10 to $20. It is open for both lunch and dinner, serving alcohol.",
-        "start_date_time": "",
-        "detail": "Limon Grille is a casual restaurant in Bar Harbor offering Mediterranean and American cuisine, with prices ranging from $10 to $20. It is open for both lunch and dinner, serving alcohol.",
-        "website": "https://www.google.com/maps/place/Limon+Grille/@44.3867007,-68.2234216,2242m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebfe4e7eaa5bd:0x68968915d18a7f84!8m2!3d44.3857857!4d-68.2036616!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVLVW1SR2FIcGFNbkIzWVRBNWFWZFVRbk5rUlRWM1pVTXhSVkpJWXhBQuABAPoBBAgjEDs!16s%2Fg%2F11ydn884s5?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.2034588644368,
-          44.386185566599885
         ]
       }
     },
