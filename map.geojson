@@ -3405,6 +3405,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bubble Pond Carriage Trail Acadia National Park ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A flat carriage road along the shore of Bubble Pond, directly beneath Cadillac Mountain's western slope \u2014 the closest carriage-road walk to Cadillac itself, but the pond's own parking lot has a seasonal vehicle restriction worth knowing before planning around it.",
+        "start_date_time": "",
+        "detail": "View on AllTrails\n\nBubble Pond Carriage Trail\n\n\ud83d\udccd Park Loop Road, Acadia National Park, ME (Bubble Pond) \u2014 just west of Cadillac Mountain's summit, at the base of its western slope\n\nA flat, wide carriage-road path along the shore of Bubble Pond with views of Pemetic Mountain, Cadillac Mountain, and The Triad \u2014 5.4 miles out-and-back if walked in full, but any distance works since it's an out-and-back, not a loop. (4.6\u2605, 181 reviews on AllTrails)\n\nTips\n- Parking caveat: the Bubble Pond lot itself is not reachable by car mid-May through mid-October (the exact window that covers this trip) \u2014 access in that season is via the free Island Explorer shuttle, on foot, or by bike/carriage-road from the Jordan Pond or Bubble Rock parking areas instead. Worth checking the current Island Explorer schedule before counting on this one, rather than driving straight there expecting a lot.\n- Compare against Eagle Lake Carriage Road if car access matters more than proximity to Cadillac \u2014 Eagle Lake's lot has no seasonal restriction and sits on the same road used to reach Cadillac Summit Road.\n- Begins from Park Loop Road just south of The Triad, or just north of Bubble Pond itself."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.241765,
+          44.350213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bubble Rock Acadia National Park ME",
         "icon": "footprints",
         "color": "purple",
@@ -3702,9 +3721,9 @@
         "icon": "landmark",
         "color": "purple",
         "vault_type": "Attraction",
-        "description": "",
+        "description": "The highest point on the U.S. Atlantic coast (1,530 ft) \u2014 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and the Acadia interior. Two named observation areas at the summit: the East Lot (near the Summit Center, best for sunrise) and the West Lot (~0.3 mi shy of the summit, best for sunset), connected by the Cadillac Summit Loop Trail.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "Cadillac Mountain\n\n\ud83d\udccd Acadia National Park, Bar Harbor, ME\n\nTips\n- East Lot (by the Summit Center/gift shop) is the better spot for sunrise \u2014 matches tomorrow's 7:00\u20137:30 AM entry window on Cadillac Summit Road.\n- West Lot (formerly signed \"Blue Hill Overlook,\" ~0.3 mi short of the summit, its own 38-space lot) is the better spot for sunset \u2014 worth a separate stop on the return visit (August 20).\n- The two lots are connected by Cadillac Summit Loop Trail \u2014 walkable between them without moving the car."
       },
       "geometry": {
         "type": "Point",
@@ -3723,7 +3742,7 @@
         "vault_type": "Footpath",
         "description": "A short, paved, wheelchair-accessible loop right at the Cadillac Mountain summit \u2014 0.5 miles round trip with minimal elevation gain, widely rated Acadia's best wheelchair-friendly trail. Distinct from the vehicle-reservation drive up Cadillac Summit Road.",
         "start_date_time": "",
-        "detail": "Cadillac Summit Loop Trail\n\n\ud83d\udccd Cadillac Mountain summit, Acadia National Park ME\n\nA short paved path circling the bare granite summit of Cadillac Mountain \u2014 the highest point on the U.S. Atlantic coast \u2014 with 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.\n\nTips\n- Only 0.5 miles round trip with ~40 ft of elevation gain \u2014 the easiest way to take in the summit views without a real hike\n- Very exposed to wind/weather at the top \u2014 bring a layer even on a warm day\n- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive"
+        "detail": "Cadillac Summit Loop Trail\n\n\ud83d\udccd Cadillac Mountain summit, Acadia National Park ME\n\nA short paved path circling the bare granite summit of Cadillac Mountain \u2014 the highest point on the U.S. Atlantic coast \u2014 with 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.\n\nTips\n- Only 0.5 miles round trip with ~40 ft of elevation gain \u2014 the easiest way to take in the summit views without a real hike\n- Very exposed to wind/weather at the top \u2014 bring a layer even on a warm day\n- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive\n- This loop connects the summit's two named observation areas \u2014 East Lot (sunrise, by the Summit Center) and West Lot (sunset, ~0.3 mi away) \u2014 see Cadillac Mountain for which one matches tomorrow's entry window"
       },
       "geometry": {
         "type": "Point",
@@ -7368,6 +7387,25 @@
         "coordinates": [
           -68.767773,
           44.217647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle Lake Carriage Road Acadia National Park ME",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A wide, flat, crushed-gravel carriage road loop around Eagle Lake \u2014 the closest genuinely carriage-road-grade walk to Cadillac Mountain, right on Route 233 (Eagle Lake Road), the same road used to reach Cadillac Summit Road.",
+        "start_date_time": "",
+        "detail": "View on AllTrails\n\nEagle Lake Carriage Road\n\n\ud83d\udccd Route 233 (Eagle Lake Road), Acadia National Park, ME \u2014 parking on the north side of the road, across from the lake\n\nA 6-mile loop of wide crushed-gravel carriage road circling Eagle Lake, with views of Conners Nubble along the way. Flat, wide, and completely car-free \u2014 genuine carriage-road grade the whole way. (4.8\u2605, 2,205 reviews on AllTrails)\n\nTips\n- Right on the way to/from Cadillac Summit Road \u2014 Route 233 is the same road the summit-road entrance sits on, so this needs no detour to reach.\n- Full loop is 6 miles / 2\u20132.5 hrs \u2014 for a shorter carriage-road walk, just do an out-and-back along the near shore rather than the full loop.\n- Gravel surface (100%), mostly flat with ~331 ft of total elevation gain over the whole loop.\n- Cell service is spotty along the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.250634,
+          44.376513
         ]
       }
     },
