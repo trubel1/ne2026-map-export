@@ -2838,6 +2838,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Blue Horizons Preserve Bar Harbor ME",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "An 82-acre Maine Coast Heritage Trust preserve in the quiet Town Hill area of Bar Harbor \u2014 a gentle wooded path leading to a scenic cobble beach on Clark Cove. One of the few genuinely off-leash-friendly (voice control) trails near Bar Harbor.",
+        "start_date_time": "",
+        "detail": "View website\n\nBlue Horizons Preserve\n\n\ud83d\udccd Indian Point Rd, Town Hill, Bar Harbor ME (~15 min from downtown Bar Harbor)\n\nAn 82-acre Maine Coast Heritage Trust preserve on the quiet western side of Mount Desert Island, donated to MCHT in 2010. A gravel path runs gently downhill through the forest, with a compact ~1.5-mile trail system converging at a cobble beach on Clark Cove \u2014 quiet, uncrowded, and a genuine change of pace from the busier Park Loop Road side of the island.\n\nTips\n- Coordinates are approximate \u2014 Town Hill area; parking is roadside near a locked gate marked with an MCHT sign on Indian Point Road, worth confirming the exact pull-off before you go\n- Camping and fires not permitted; foot traffic only\n- Some sources note a possible seasonal restriction around the preserve's buildings (roughly May\u2013October) even though the trail itself is described as open year-round \u2014 worth a quick check with MCHT if visiting in that window\n- No parking fee",
+        "website": "https://www.mcht.org/preserve/blue-horizons/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.335,
+          44.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Blue Spoon Rockport ME",
         "icon": "sandwich",
         "color": "red",
@@ -3503,7 +3523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burning Tree Restaurant Otter Creek ME",
+        "name": "Burning Tree Restaurant Otter Creek ME PERMANENTLY CLOSED",
         "icon": "utensils",
         "color": "red",
         "vault_type": "Restaurant",
@@ -12961,7 +12981,7 @@
       "properties": {
         "name": "Little Long Pond & Rockefeller Boathouse Seal Harbor ME",
         "icon": "trees",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Park",
         "description": "Former Rockefeller estate pond, part of the Land & Garden Preserve \u2014 accessible only by foot or horseback (no bikes), which keeps it consistently quiet even in peak season.",
         "start_date_time": "",
