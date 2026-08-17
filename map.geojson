@@ -22323,6 +22323,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sieur de Monts Spring Acadia National Park ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "The small stone springhouse George B. Dorr built in 1909 over the spring that gave Sieur de Monts National Monument its name in 1916 \u2014 the first federal designation of what became Acadia. One account claims the spring itself may have been artificially engineered a few years earlier for a bottled-water business.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Sieur de Monts precinct, Acadia National Park, ME \u2014 2 miles south of Bar Harbor off Route 3, near the Nature Center, Wild Gardens of Acadia, and The Abbe Museum\n\nStory\n\nAlmost everyone who stops here believes the same thing: that this little stone springhouse, tucked into the woods two miles south of Bar Harbor, marks the exact spot where a French explorer once drank, and where a national park was later born because of it. Both halves of that are true. What's stranger is the story nobody tells you.\n\nStart with the name. In sixteen-oh-three, King Henry the Fourth of France granted a nobleman named Pierre Dugua, the Sieur de Mons, authority over a stretch of the New World the size of a small country. Dugua's expedition sailed the following spring with a geographer on board named Samuel de Champlain. In September of sixteen-oh-four, Champlain sailed past this island, saw its bare granite summits, and wrote in his journal that he was naming it l'Isle des Monts Deserts \u2014 the island of bare mountains. That's where Mount Desert Island gets its name. And when this exact spot became the very first piece of federally protected land here, three centuries later, it was named for Dugua too: Sieur de Monts.\n\nThe man who did that naming, and who built the springhouse you're looking at, was George B. Dorr \u2014 the same Dorr behind almost everything else on this trip. In nineteen-oh-nine he bought this land, cleaned out the spring, built a small stone building over it in a style he liked to call Florentine, and carved four words into a nearby rock: \"The Sweet Waters of Acadia.\" Seven years later, in nineteen-sixteen, this exact spot became the anchor of Sieur de Monts National Monument \u2014 the first legal form of what's now Acadia National Park. Dorr spent the rest of his life, and most of his fortune, expanding outward from here.\n\nHere's the part Dorr never advertised. A few years before he bought this land, a struggling local farmer named John Prescott was already running a bottled-water business on a nearby spring. According to one account \u2014 a 1960 letter from a minister who says he watched it happen as a boy in nineteen-oh-seven \u2014 Prescott may have engineered this very spring to look more impressive than it actually was, damming a smaller spring to feed water into a larger one before selling the water as a natural wonder. Nobody's fully proven it. But it means the \"sacred spring\" at the symbolic birthplace of an entire national park might have started life as a bottled-water hustle.\n\nYou can decide for yourself which story you like better. Either way, the spring still runs, the springhouse still stands, and it's an easy walk from the Wild Gardens of Acadia and The Abbe Museum if you want to make an afternoon of this whole corner of the park.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Sieur de Monts Spring narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed.\n\nResearch notes\n\n- Springhouse, 1909, \"Florentine\" style, \"The Sweet Waters of Acadia\" inscription: confirmed via Library of Congress historic building record and Acadia Magic.\n- 1603 patent, 1604 expedition, Champlain's naming of the island: confirmed via University of Maine's Canadian-American Center and NPS sourcing already used in Bar Harbor City Narrative Bible for the Champlain Monument stop \u2014 this note gives that \"prologue\" character his actual payoff.\n- 1916 Sieur de Monts National Monument as Acadia's first legal form: consistent with the bible's existing Dorr chronology.\n- The Prescott \"engineered spring\" claim is genuinely single-sourced \u2014 a 1960 letter from Rev. Charles S. Mitchell, published via Abandoned Trails of Acadia National Park, recounting something he says he witnessed 53 years earlier as a boy. Not corroborated elsewhere that I found. Presented in the script as \"one account claims,\" not settled fact \u2014 worth knowing before treating it as more certain than that."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20783,
+          44.362097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Silvia Woodstock, NY",
         "icon": "sandwich",
         "color": "red",
