@@ -245,6 +245,15 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="s-route-green">
+    <IconStyle>
+      <color>ff008000</color>
+      <scale>1.8</scale>
+      <Icon>
+        <href>https://raw.githubusercontent.com/trubel1/ne2026-map-export/main/icons/route.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="s-route-orange">
     <IconStyle>
       <color>ff00a5ff</color>
@@ -622,6 +631,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.6652,44.0023,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agamont Park Bar Harbor ME</name>
+    <description><![CDATA[📍 North end of Main Street at West Street, Bar Harbor, ME — stop 1, start of the Shore Path<br/><br/>Story<br/><br/>This is where you start, at the north end of Main Street where it meets West Street, right by the town pier. Look for the gazebo and the two small cannons aimed out at the water — locals will tell you they're purely decorative, and they're right. This is also the spot where, on the night of October twenty-third, nineteen forty-seven, several thousand evacuated residents gathered between an advancing fire and the bay, before a last-minute wind shift spared downtown Bar Harbor.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Agamont Park narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-leaf-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>trees</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.20444,44.390806,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1327,6 +1349,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Balance Rock Inn (Cottage) Bar Harbor ME</name>
+    <description><![CDATA[📍 21 Albert Meadow, Bar Harbor, ME — stop 6<br/><br/>Story<br/><br/>This grand shingled building started as a private cottage in nineteen-oh-one, built for a man named Alexander Maitland by a well-known Boston architecture firm. It's named for a boulder on the property — a glacial erratic, a huge rock dropped here by a retreating ice sheet thousands of years ago, balanced in a way that looks almost deliberate. It's an inn today, not a private home, so this is one of the few cottages on this walk you could actually book a room in.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Balance Rock Inn narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.2013,44.3884,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Bald Mountain Preserve Camden ME</name>
     <description><![CDATA[Bald Mountain Preserve<br/><br/>📍 325 Barnestown Rd, Camden, ME<br/><br/>584 acres taking hikers above treeline to a 1,280 ft summit with views over western Penobscot Bay — home to some of the Midcoast's largest rare subalpine natural communities. The trail connects into the Ragged Mountain network. 1.3 mi one-way, difficult, 660 ft elevation gain.<br/><br/>Tips<br/>- Rocky footpath, real elevation gain — not a casual stroll<br/>- Connects directly to the Ragged Mountain trail network for a longer combined hike<br/><br/>More info: https://www.coastalmountains.org]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -1441,6 +1476,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.213,44.3877,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bar Harbor Inn ME</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bar%20Harbor%20Inn%20ME.md" style="display:inline-block;padding:10px 16px;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">📖 TEST: Open in Obsidian</a><br/><br/>📍 1 Newport Drive, Bar Harbor, ME — stop 2 on the Shore Path, just past Agamont Park<br/><br/>Story<br/><br/>The building just past the park started life in eighteen eighty-seven as the Mount Desert Reading Room, a private clubhouse for a group called the Oasis Club. The architect was William Ralph Emerson, a name that shows up on cottages all over this island. In nineteen-ten, it hosted a sitting president — William Howard Taft — which tells you something about how seriously this town took its summer guests.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Bar Harbor Inn narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.202494,44.390449,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2679,6 +2727,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Bubble Pond Carriage Trail Acadia National Park ME</name>
+    <description><![CDATA[View on AllTrails<br/><br/>Bubble Pond Carriage Trail<br/><br/>📍 Park Loop Road, Acadia National Park, ME (Bubble Pond) — just west of Cadillac Mountain's summit, at the base of its western slope<br/><br/>A flat, wide carriage-road path along the shore of Bubble Pond with views of Pemetic Mountain, Cadillac Mountain, and The Triad — 5.4 miles out-and-back if walked in full, but any distance works since it's an out-and-back, not a loop. (4.6★, 181 reviews on AllTrails)<br/><br/>Tips<br/>- Parking caveat: the Bubble Pond lot itself is not reachable by car mid-May through mid-October (the exact window that covers this trip) — access in that season is via the free Island Explorer shuttle, on foot, or by bike/carriage-road from the Jordan Pond or Bubble Rock parking areas instead. Worth checking the current Island Explorer schedule before counting on this one, rather than driving straight there expecting a lot.<br/>- Compare against Eagle Lake Carriage Road if car access matters more than proximity to Cadillac — Eagle Lake's lot has no seasonal restriction and sits on the same road used to reach Cadillac Summit Road.<br/>- Begins from Park Loop Road just south of The Triad, or just north of Bubble Pond itself.]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.241765,44.350213,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Bubble Rock Acadia National Park ME</name>
     <description><![CDATA[Bubble Rock<br/><br/>📍 Park Loop Rd, Acadia National Park, ME<br/><br/>A glacial erratic boulder perched on the edge of South Bubble, with a classic view down onto Jordan Pond — one of Acadia's most photographed hiking rewards. (4.8★, 396 reviews on Google Maps)<br/><br/>Tips<br/>- Reached via a moderate ~1 mi hike from the Bubbles parking area — not a roadside stop<br/>- Can be socked in by fog; check conditions before the climb]]></description>
     <styleUrl>#s-footprints-purple</styleUrl>
@@ -2875,7 +2936,7 @@
   </Placemark>
   <Placemark>
     <name>Cadillac Mountain Bar Harbor ME</name>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Cadillac Mountain<br/><br/>📍 Acadia National Park, Bar Harbor, ME<br/><br/>Tips<br/>- East Lot (by the Summit Center/gift shop) faces the morning light — matches tomorrow's 7:00–7:30 AM entry window on Cadillac Summit Road. Note this is a Daytime ticket, not Sunrise — actual sunrise is 5:07 AM, well before this window (see the correction on that note).<br/>- West Lot (formerly signed "Blue Hill Overlook," ~0.3 mi short of the summit, its own 38-space lot) is the better spot for sunset — worth a separate stop on the return visit (August 20).<br/>- The two lots are connected by Cadillac Summit Loop Trail — walkable between them without moving the car.]]></description>
     <styleUrl>#s-landmark-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Attraction</value></Data>
@@ -2888,7 +2949,7 @@
   </Placemark>
   <Placemark>
     <name>Cadillac Summit Loop Trail Acadia National Park ME</name>
-    <description><![CDATA[Cadillac Summit Loop Trail<br/><br/>📍 Cadillac Mountain summit, Acadia National Park ME<br/><br/>A short paved path circling the bare granite summit of Cadillac Mountain — the highest point on the U.S. Atlantic coast — with 360° views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.<br/><br/>Tips<br/>- Only 0.5 miles round trip with ~40 ft of elevation gain — the easiest way to take in the summit views without a real hike<br/>- Very exposed to wind/weather at the top — bring a layer even on a warm day<br/>- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive]]></description>
+    <description><![CDATA[Cadillac Summit Loop Trail<br/><br/>📍 Cadillac Mountain summit, Acadia National Park ME<br/><br/>A short paved path circling the bare granite summit of Cadillac Mountain — the highest point on the U.S. Atlantic coast — with 360° views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.<br/><br/>Tips<br/>- Only 0.5 miles round trip with ~40 ft of elevation gain — the easiest way to take in the summit views without a real hike<br/>- Very exposed to wind/weather at the top — bring a layer even on a warm day<br/>- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive — tomorrow's 7:00 AM reservation is a Daytime ticket, not Sunrise, so this specific visit will be almost two hours after actual sunrise (5:07 AM)<br/>- This loop connects the summit's two named observation areas — East Lot (morning light, by the Summit Center) and West Lot (sunset, ~0.3 mi away) — see Cadillac Mountain for which one matches tomorrow's entry window]]></description>
     <styleUrl>#s-footprints-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Footpath</value></Data>
@@ -2901,7 +2962,7 @@
   </Placemark>
   <Placemark>
     <name>Cadillac Summit Road Bar Harbor ME (Visit 1)</name>
-    <description><![CDATA[Time: 2026-08-17T07:00:00<br/><br/>To drive up the Cadillac Summit Road, you will need to book a vehicle reservation in advance through Recreation.gov.<br/><br/>Here are the essential details you need to know before securing your slot:<br/><br/>📅 Booking Windows & Availability<br/><br/>Because spaces fill up incredibly fast, tickets are released in two separate tiers:<br/><br/>- 30% of tickets are released 90 days in advance on a rolling basis.<br/>- The remaining 70% are released at 10:00 AM ET exactly 2 days in advance. If you are looking for a last-minute slot for this week, setting an alarm for 10:00 AM two days before your desired drive is your best bet.<br/><br/>🚗 Ticket Options & Rules<br/><br/>- Cost: $6.00 per vehicle (non-refundable).<br/>- Ticket Types: You can choose a Sunrise ticket (entry window is typically 2 hours long) or a Daytime ticket (entry slots are every 30 minutes).<br/>- Length Limit: Vehicles must be under 21 feet long (including any hitch attachments or bike racks). Oversized vehicles or trailers are strictly prohibited.<br/>- Time Limits: While you must enter during your designated entry window, there is no departure time limit—you can stay at the summit as long as you'd like until the road closes at 9:00 PM.<br/><br/>⚠️ Important Reminders<br/><br/>1. Park Entrance Pass Required: The $6 vehicle reservation is _in addition_ to your standard Acadia National Park Entrance Pass (or America the Beautiful Senior/Annual pass). You must have both.<br/>2. No Connectivity at the Gate: Cellular service is highly unreliable on the mountain. You must print your reservation QR code or save it as a digital copy/screenshot on your phone before heading up. They cannot look up your reservation at the check station.<br/>3. No Re-entry: Your ticket is good for a single entry only.<br/><br/>This Visit<br/><br/>Confirmation #0864562614-1 — Sunrise, August 17, 2026, 7:00–7:30 AM entry window. Booked June 15, 2026.<br/><br/>More info: https://www.recreation.gov/timed-entry/400000]]></description>
+    <description><![CDATA[Time: 2026-08-17T07:00:00<br/><br/>To drive up the Cadillac Summit Road, you will need to book a vehicle reservation in advance through Recreation.gov.<br/><br/>Here are the essential details you need to know before securing your slot:<br/><br/>📅 Booking Windows & Availability<br/><br/>Because spaces fill up incredibly fast, tickets are released in two separate tiers:<br/><br/>- 30% of tickets are released 90 days in advance on a rolling basis.<br/>- The remaining 70% are released at 10:00 AM ET exactly 2 days in advance. If you are looking for a last-minute slot for this week, setting an alarm for 10:00 AM two days before your desired drive is your best bet.<br/><br/>🚗 Ticket Options & Rules<br/><br/>- Cost: $6.00 per vehicle (non-refundable).<br/>- Ticket Types: You can choose a Sunrise ticket (entry window is typically 2 hours long) or a Daytime ticket (entry slots are every 30 minutes).<br/>- Length Limit: Vehicles must be under 21 feet long (including any hitch attachments or bike racks). Oversized vehicles or trailers are strictly prohibited.<br/>- Time Limits: While you must enter during your designated entry window, there is no departure time limit—you can stay at the summit as long as you'd like until the road closes at 9:00 PM.<br/><br/>⚠️ Important Reminders<br/><br/>1. Park Entrance Pass Required: The $6 vehicle reservation is _in addition_ to your standard Acadia National Park Entrance Pass (or America the Beautiful Senior/Annual pass). You must have both.<br/>2. No Connectivity at the Gate: Cellular service is highly unreliable on the mountain. You must print your reservation QR code or save it as a digital copy/screenshot on your phone before heading up. They cannot look up your reservation at the check station.<br/>3. No Re-entry: Your ticket is good for a single entry only.<br/><br/>This Visit<br/><br/>Confirmation #0864562614-1 — Daytime, August 17, 2026, 7:00–7:30 AM entry window. Booked June 15, 2026.<br/><br/>[!warning] Correction 2026-08-16: this is a Daytime ticket, not Sunrise<br/>The actual Recreation. PDF ticket says "Cadillac Summit Road - Daytime," not Sunrise as this note previously (incorrectly) recorded — likely an assumption made before the real ticket was in hand. Sunrise in Bar Harbor on 2026-08-17 is 5:07 AM, nearly two hours before this 7:00 AM entry window, so actual sunrise will already be well over by arrival. Still good early-morning light and lighter crowds than midday, just not a literal sunrise viewing slot — worth knowing so there's no surprise on arrival.<br/><br/>More info: https://www.recreation.gov/timed-entry/400000]]></description>
     <styleUrl>#s-route-orange</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Attraction</value></Data>
@@ -5318,6 +5379,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Eagle Lake Carriage Road Acadia National Park ME</name>
+    <description><![CDATA[View on AllTrails<br/><br/>Eagle Lake Carriage Road<br/><br/>📍 Route 233 (Eagle Lake Road), Acadia National Park, ME — parking on the north side of the road, across from the lake<br/><br/>A 6-mile loop of wide crushed-gravel carriage road circling Eagle Lake, with views of Conners Nubble along the way. Flat, wide, and completely car-free — genuine carriage-road grade the whole way. (4.8★, 2,205 reviews on AllTrails)<br/><br/>Tips<br/>- Right on the way to/from Cadillac Summit Road — Route 233 is the same road the summit-road entrance sits on, so this needs no detour to reach.<br/>- Full loop is 6 miles / 2–2.5 hrs — for a shorter carriage-road walk, just do an out-and-back along the near shore rather than the full loop.<br/>- Gravel surface (100%), mostly flat with ~331 ft of total elevation gain over the whole loop.<br/>- Cell service is spotty along the lake.]]></description>
+    <styleUrl>#s-footprints-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.250634,44.376513,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Eastern Promenade Portland ME</name>
     <description><![CDATA[Eastern Promenade<br/><br/>📍 Eastern Promenade, Portland, ME<br/><br/>The Eastern Promenade is a 68-acre hilltop park running along Portland's eastern bluff above Casco Bay. It offers some of the best views in the city — on clear days you can see the Casco Bay islands, the open Atlantic, and the White Mountains of New Hampshire.<br/><br/>The park includes a paved multi-use trail (the East End Beach trail connects down to the water), a small sandy beach at the bottom, the site of Fort Allen, picnic areas, and a bandstand. It's a beloved local spot and one of Portland's great free pleasures.<br/><br/>Tips<br/>- Sunrise from the Promenade is exceptional — the east-facing bluff catches the first light over the bay<br/>- The paved trail is great for a morning walk or run with uninterrupted water views<br/>- East End Beach at the base is small but swimmable in summer<br/>- Connects to the Back Cove Trail Portland MEfor a longer loop around the peninsula<br/><br/>More info: https://www.google.com/maps/place/Eastern+Promenade/@43.6647,-70.2382,17z]]></description>
     <styleUrl>#s-scroll-purple</styleUrl>
@@ -6589,6 +6663,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.1988,44.5204,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grant Park Bar Harbor ME</name>
+    <description><![CDATA[📍 Bar Harbor, ME, on the Shore Path — stop 7<br/><br/>Story<br/><br/>This little park is named for Harry Allen Grant, a New York lawyer who built the second-ever summer cottage in Bar Harbor, back in eighteen sixty-nine — a wedding gift, and it cost him all of four hundred dollars for the land. The cottage itself is long gone, torn down in nineteen thirty. The town bought this land in nineteen twelve, and it was the Village Improvement Association — the same organization that built the path you're standing on — that turned it into the public park you're looking at now, in nineteen twenty-nine.<br/><br/>The Village Improvement Association was founded by Charles T. How — see Bar Harbor City Narrative Bible for his full story (he also built The Turrets).<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Grant Park narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.200732,44.38895,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -8140,7 +8227,7 @@
   </Placemark>
   <Placemark>
     <name>John Innes Kane Cottage Bar Harbor ME</name>
-    <description><![CDATA[John Innes Kane Cottage<br/><br/>📍 Bar Harbor, ME<br/><br/>A Gilded Age "cottage" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Private property — a drive/walk-past landmark, not a stop with public access.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981]]></description>
+    <description><![CDATA[John Innes Kane Cottage<br/><br/>📍 Bar Harbor, ME<br/><br/>A Gilded Age "cottage" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Private property — a drive/walk-past landmark, not a stop with public access.<br/><br/>Story (Shore Path stop 8)<br/><br/>Now you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass — Tudor-style, built in nineteen-oh-four for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer families. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Historical</value></Data>
@@ -13404,6 +13491,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Reef Point Bar Harbor ME</name>
+    <description><![CDATA[📍 Shore Path near Hancock Street, Bar Harbor, ME — stop 5 — coordinates approximate, positioned via Hancock Street's real location<br/><br/>Story<br/><br/>This was the family home of Beatrix Farrand, one of the most influential landscape designers America has ever produced. She grew up here and later built an experimental garden on the property, laid out on a strict grid with small granite markers — she was famous for labeling every single plant, which apparently baffled visiting children. When she gave up the property in the nineteen fifties, most of her plantings were dug up and moved to two other gardens on this island, paid for in part by that same Rockefeller family. As of this year, a small new public garden is being built right here, at Reef Point, trying to bring a few of her original plants home.<br/><br/>Farrand also designed Abby Aldrich Rockefeller Garden elsewhere on this trip — flagged in Bar Harbor City Narrative Bible as a strong candidate for the bible's recurring cast, not yet added.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Reef Point narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.2012,44.389,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Rest Plaus Historic District Stone Ridge NY</name>
     <description><![CDATA[Rest Plaus Historic District<br/><br/>📍 Old Kings Highway / Rest Plaus Road / Lucas Turnpike, Stone Ridge, NY<br/><br/>Encompasses 55 contributing buildings, four sites, ten structures, and one object along a stretch of farmland that has stayed in continuous agricultural use for over 250 years — Colonial, Federal, and Greek Revival farmsteads illustrating the area's agricultural and early industrial development from 1700 to 1949. Listed on the National Register of Historic Places in 1995.<br/><br/>Tips<br/>- A driving/cycling district rather than a single stop — best experienced along Old Kings Highway between Stone Ridge and High Falls.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=41.8200%2C%20-74.1645]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -15081,6 +15181,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Shore Acres (Derby Lane) Bar Harbor ME</name>
+    <description><![CDATA[📍 Shore Path near Derby Lane, Bar Harbor, ME — stop 3 — coordinates approximate, positioned using Derby Lane's real street location rather than a confirmed exact address<br/><br/>Story<br/><br/>Look inland here and you'll see the street sign for Derby Lane. It's named for Doctor Haskett Derby, a Boston eye doctor who built a cottage called Shore Acres right where you're standing, back around eighteen sixty-nine. His property ran all the way from this path to Main Street — which is the entire reason the street carries his name. The house itself is gone now; it was torn down in nineteen fifty-seven.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Shore Acres narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.2018,44.3898,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Shorter House Crawford NY</name>
     <description><![CDATA[Shorter House<br/><br/>📍 Andrews Road, Town of Crawford, Orange County, NY<br/><br/>A historic house on Andrews Road in the Town of Crawford, on the National Register of Historic Places. Sits well outside the byway's usual Ulster County core, closer to Middletown than to New Paltz or Ellenville.<br/><br/>Tips<br/>- Private property — a detour destination, not a natural stop on the main byway loop.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=41.5717%2C%20-74.3458]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -16690,6 +16803,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.0738922428463,41.76366214168768,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Briars Bar Harbor ME</name>
+    <description><![CDATA[📍 Shore Path, Bar Harbor, ME — stop 4 — coordinates approximate, positioned along the known path corridor<br/><br/>Story<br/><br/>Somewhere near here once stood a rented cottage called The Briars. In the summer of nineteen-oh-eight, a young couple — John D. Rockefeller Junior and his wife Abby — rented it because their usual plans fell through and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.<br/><br/>See Bar Harbor City Narrative Bible — this is the same John D. Rockefeller Jr. who financed the carriage roads.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.2015,44.3894,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18614,6 +18740,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.7569,44.3377,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wayman Lane Bar Harbor ME</name>
+    <description><![CDATA[📍 Wayman Lane, Bar Harbor, ME — stop 9, end of the Shore Path — coordinates approximate<br/><br/>Story<br/><br/>This is where the path ends, or begins, depending which direction you walked it. If you've got energy left, Wayman Lane connects back toward Main Street and the rest of downtown.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Wayman Lane narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <styleUrl>#s-route-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.197,44.385,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
