@@ -318,6 +318,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Agamont Park Bar Harbor ME",
+        "icon": "trees",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Park at the north end of Main Street, by the town pier \u2014 the starting point of the Shore Path. Home to a gazebo and two decorative cannons aimed at the bay. Also the spot where the 1947 fire evacuation crowd gathered before a wind shift spared downtown.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd North end of Main Street at West Street, Bar Harbor, ME \u2014 stop 1, start of the Shore Path\n\nStory\n\nThis is where you start, at the north end of Main Street where it meets West Street, right by the town pier. Look for the gazebo and the two small cannons aimed out at the water \u2014 locals will tell you they're purely decorative, and they're right. This is also the spot where, on the night of October twenty-third, nineteen forty-seven, several thousand evacuated residents gathered between an advancing fire and the bay, before a last-minute wind shift spared downtown Bar Harbor.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Agamont Park narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20444,
+          44.390806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Albrecht's Dairy Pleasant Valley NY",
         "icon": "landmark",
         "color": "green",
@@ -1369,6 +1388,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Balance Rock Inn (Cottage) Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Gilded Age cottage built 1901-1902 for Alexander Maitland by Boston architects Andrews, Jacques & Rantoul, named for a glacial erratic boulder on the property. Now operates as the Balance Rock Inn \u2014 one of the few Shore Path cottages you can still stay in.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd 21 Albert Meadow, Bar Harbor, ME \u2014 stop 6\n\nStory\n\nThis grand shingled building started as a private cottage in nineteen-oh-one, built for a man named Alexander Maitland by a well-known Boston architecture firm. It's named for a boulder on the property \u2014 a glacial erratic, a huge rock dropped here by a retreating ice sheet thousands of years ago, balanced in a way that looks almost deliberate. It's an inn today, not a private home, so this is one of the few cottages on this walk you could actually book a room in.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Balance Rock Inn narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2013,
+          44.3884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bald Mountain Preserve Camden ME",
         "icon": "footprints",
         "color": "green",
@@ -1541,6 +1579,25 @@
         "coordinates": [
           -68.213,
           44.3877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Harbor Inn ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Built in 1887 as the Mount Desert Reading Room, a private clubhouse for the Oasis Club, designed by architect William Ralph Emerson. Hosted President William Howard Taft in 1910. Now the Bar Harbor Inn.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd 1 Newport Drive, Bar Harbor, ME \u2014 stop 2 on the Shore Path, just past Agamont Park\n\nStory\n\nThe building just past the park started life in eighteen eighty-seven as the Mount Desert Reading Room, a private clubhouse for a group called the Oasis Club. The architect was William Ralph Emerson, a name that shows up on cottages all over this island. In nineteen-ten, it hosted a sitting president \u2014 William Howard Taft \u2014 which tells you something about how seriously this town took its summer guests.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Bar Harbor Inn narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.202494,
+          44.390449
         ]
       }
     },
@@ -3721,9 +3778,9 @@
         "icon": "landmark",
         "color": "purple",
         "vault_type": "Attraction",
-        "description": "The highest point on the U.S. Atlantic coast (1,530 ft) \u2014 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and the Acadia interior. Two named observation areas at the summit: the East Lot (near the Summit Center, best for sunrise) and the West Lot (~0.3 mi shy of the summit, best for sunset), connected by the Cadillac Summit Loop Trail.",
+        "description": "The highest point on the U.S. Atlantic coast (1,530 ft) \u2014 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and the Acadia interior. Two named observation areas at the summit: the East Lot (near the Summit Center, faces the morning light) and the West Lot (~0.3 mi shy of the summit, best for sunset), connected by the Cadillac Summit Loop Trail.",
         "start_date_time": "",
-        "detail": "Cadillac Mountain\n\n\ud83d\udccd Acadia National Park, Bar Harbor, ME\n\nTips\n- East Lot (by the Summit Center/gift shop) is the better spot for sunrise \u2014 matches tomorrow's 7:00\u20137:30 AM entry window on Cadillac Summit Road.\n- West Lot (formerly signed \"Blue Hill Overlook,\" ~0.3 mi short of the summit, its own 38-space lot) is the better spot for sunset \u2014 worth a separate stop on the return visit (August 20).\n- The two lots are connected by Cadillac Summit Loop Trail \u2014 walkable between them without moving the car."
+        "detail": "Cadillac Mountain\n\n\ud83d\udccd Acadia National Park, Bar Harbor, ME\n\nTips\n- East Lot (by the Summit Center/gift shop) faces the morning light \u2014 matches tomorrow's 7:00\u20137:30 AM entry window on Cadillac Summit Road. Note this is a Daytime ticket, not Sunrise \u2014 actual sunrise is 5:07 AM, well before this window (see the correction on that note).\n- West Lot (formerly signed \"Blue Hill Overlook,\" ~0.3 mi short of the summit, its own 38-space lot) is the better spot for sunset \u2014 worth a separate stop on the return visit (August 20).\n- The two lots are connected by Cadillac Summit Loop Trail \u2014 walkable between them without moving the car."
       },
       "geometry": {
         "type": "Point",
@@ -3742,7 +3799,7 @@
         "vault_type": "Footpath",
         "description": "A short, paved, wheelchair-accessible loop right at the Cadillac Mountain summit \u2014 0.5 miles round trip with minimal elevation gain, widely rated Acadia's best wheelchair-friendly trail. Distinct from the vehicle-reservation drive up Cadillac Summit Road.",
         "start_date_time": "",
-        "detail": "Cadillac Summit Loop Trail\n\n\ud83d\udccd Cadillac Mountain summit, Acadia National Park ME\n\nA short paved path circling the bare granite summit of Cadillac Mountain \u2014 the highest point on the U.S. Atlantic coast \u2014 with 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.\n\nTips\n- Only 0.5 miles round trip with ~40 ft of elevation gain \u2014 the easiest way to take in the summit views without a real hike\n- Very exposed to wind/weather at the top \u2014 bring a layer even on a warm day\n- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive\n- This loop connects the summit's two named observation areas \u2014 East Lot (sunrise, by the Summit Center) and West Lot (sunset, ~0.3 mi away) \u2014 see Cadillac Mountain for which one matches tomorrow's entry window"
+        "detail": "Cadillac Summit Loop Trail\n\n\ud83d\udccd Cadillac Mountain summit, Acadia National Park ME\n\nA short paved path circling the bare granite summit of Cadillac Mountain \u2014 the highest point on the U.S. Atlantic coast \u2014 with 360\u00b0 views over Frenchman Bay, the Porcupine Islands, and Bar Harbor. Requires driving up via the Cadillac Summit Road vehicle reservation (see that note for booking), but once at the top this specific loop is flat, paved, and wheelchair-accessible.\n\nTips\n- Only 0.5 miles round trip with ~40 ft of elevation gain \u2014 the easiest way to take in the summit views without a real hike\n- Very exposed to wind/weather at the top \u2014 bring a layer even on a warm day\n- Sunrise is the classic time to visit (first light on the U.S. East Coast much of the year) but also the most crowded/reservation-competitive \u2014 tomorrow's 7:00 AM reservation is a Daytime ticket, not Sunrise, so this specific visit will be almost two hours after actual sunrise (5:07 AM)\n- This loop connects the summit's two named observation areas \u2014 East Lot (morning light, by the Summit Center) and West Lot (sunset, ~0.3 mi away) \u2014 see Cadillac Mountain for which one matches tomorrow's entry window"
       },
       "geometry": {
         "type": "Point",
@@ -3761,7 +3818,7 @@
         "vault_type": "Attraction",
         "description": "Timed-entry vehicle reservation to drive Cadillac Summit Road to the summit of Cadillac Mountain.",
         "start_date_time": "2026-08-17T07:00:00",
-        "detail": "Time: 2026-08-17T07:00:00\n\nTo drive up the Cadillac Summit Road, you will need to book a vehicle reservation in advance through Recreation.gov.\n\nHere are the essential details you need to know before securing your slot:\n\n\ud83d\udcc5 Booking Windows & Availability\n\nBecause spaces fill up incredibly fast, tickets are released in two separate tiers:\n\n- 30% of tickets are released 90 days in advance on a rolling basis.\n- The remaining 70% are released at 10:00 AM ET exactly 2 days in advance. If you are looking for a last-minute slot for this week, setting an alarm for 10:00 AM two days before your desired drive is your best bet.\n\n\ud83d\ude97 Ticket Options & Rules\n\n- Cost: $6.00 per vehicle (non-refundable).\n- Ticket Types: You can choose a Sunrise ticket (entry window is typically 2 hours long) or a Daytime ticket (entry slots are every 30 minutes).\n- Length Limit: Vehicles must be under 21 feet long (including any hitch attachments or bike racks). Oversized vehicles or trailers are strictly prohibited.\n- Time Limits: While you must enter during your designated entry window, there is no departure time limit\u2014you can stay at the summit as long as you'd like until the road closes at 9:00 PM.\n\n\u26a0\ufe0f Important Reminders\n\n1. Park Entrance Pass Required: The $6 vehicle reservation is _in addition_ to your standard Acadia National Park Entrance Pass (or America the Beautiful Senior/Annual pass). You must have both.\n2. No Connectivity at the Gate: Cellular service is highly unreliable on the mountain. You must print your reservation QR code or save it as a digital copy/screenshot on your phone before heading up. They cannot look up your reservation at the check station.\n3. No Re-entry: Your ticket is good for a single entry only.\n\nThis Visit\n\nConfirmation #0864562614-1 \u2014 Sunrise, August 17, 2026, 7:00\u20137:30 AM entry window. Booked June 15, 2026.",
+        "detail": "Time: 2026-08-17T07:00:00\n\nTo drive up the Cadillac Summit Road, you will need to book a vehicle reservation in advance through Recreation.gov.\n\nHere are the essential details you need to know before securing your slot:\n\n\ud83d\udcc5 Booking Windows & Availability\n\nBecause spaces fill up incredibly fast, tickets are released in two separate tiers:\n\n- 30% of tickets are released 90 days in advance on a rolling basis.\n- The remaining 70% are released at 10:00 AM ET exactly 2 days in advance. If you are looking for a last-minute slot for this week, setting an alarm for 10:00 AM two days before your desired drive is your best bet.\n\n\ud83d\ude97 Ticket Options & Rules\n\n- Cost: $6.00 per vehicle (non-refundable).\n- Ticket Types: You can choose a Sunrise ticket (entry window is typically 2 hours long) or a Daytime ticket (entry slots are every 30 minutes).\n- Length Limit: Vehicles must be under 21 feet long (including any hitch attachments or bike racks). Oversized vehicles or trailers are strictly prohibited.\n- Time Limits: While you must enter during your designated entry window, there is no departure time limit\u2014you can stay at the summit as long as you'd like until the road closes at 9:00 PM.\n\n\u26a0\ufe0f Important Reminders\n\n1. Park Entrance Pass Required: The $6 vehicle reservation is _in addition_ to your standard Acadia National Park Entrance Pass (or America the Beautiful Senior/Annual pass). You must have both.\n2. No Connectivity at the Gate: Cellular service is highly unreliable on the mountain. You must print your reservation QR code or save it as a digital copy/screenshot on your phone before heading up. They cannot look up your reservation at the check station.\n3. No Re-entry: Your ticket is good for a single entry only.\n\nThis Visit\n\nConfirmation #0864562614-1 \u2014 Daytime, August 17, 2026, 7:00\u20137:30 AM entry window. Booked June 15, 2026.\n\n[!warning] Correction 2026-08-16: this is a Daytime ticket, not Sunrise\nThe actual Recreation. PDF ticket says \"Cadillac Summit Road - Daytime,\" not Sunrise as this note previously (incorrectly) recorded \u2014 likely an assumption made before the real ticket was in hand. Sunrise in Bar Harbor on 2026-08-17 is 5:07 AM, nearly two hours before this 7:00 AM entry window, so actual sunrise will already be well over by arrival. Still good early-morning light and lighter crowds than midday, just not a literal sunrise viewing slot \u2014 worth knowing so there's no surprise on arrival.",
         "website": "https://www.recreation.gov/timed-entry/400000"
       },
       "geometry": {
@@ -9331,6 +9388,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Grant Park Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Named for Harry Allen Grant, who built the second-ever summer cottage in Bar Harbor here in 1869 as a wedding gift. The cottage was demolished in 1930; the Town purchased the land in 1912, and the Village Improvement Association developed it into today's public park in 1929.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Bar Harbor, ME, on the Shore Path \u2014 stop 7\n\nStory\n\nThis little park is named for Harry Allen Grant, a New York lawyer who built the second-ever summer cottage in Bar Harbor, back in eighteen sixty-nine \u2014 a wedding gift, and it cost him all of four hundred dollars for the land. The cottage itself is long gone, torn down in nineteen thirty. The town bought this land in nineteen twelve, and it was the Village Improvement Association \u2014 the same organization that built the path you're standing on \u2014 that turned it into the public park you're looking at now, in nineteen twenty-nine.\n\nThe Village Improvement Association was founded by Charles T. How \u2014 see Bar Harbor City Narrative Bible for his full story (he also built The Turrets).\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Grant Park narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.200732,
+          44.38895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Granville Gulf State Reservation Granville VT",
         "icon": "leaf",
         "color": "green",
@@ -11662,7 +11738,7 @@
         "vault_type": "Historical",
         "description": "A Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent Gilded Age summer families, listed on the National Register of Historic Places.",
         "start_date_time": "",
-        "detail": "John Innes Kane Cottage\n\n\ud83d\udccd Bar Harbor, ME\n\nA Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.\n\nTips\n- Private property \u2014 a drive/walk-past landmark, not a stop with public access.",
+        "detail": "John Innes Kane Cottage\n\n\ud83d\udccd Bar Harbor, ME\n\nA Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.\n\nTips\n- Private property \u2014 a drive/walk-past landmark, not a stop with public access.\n\nStory (Shore Path stop 8)\n\nNow you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass \u2014 Tudor-style, built in nineteen-oh-four for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer families. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed.",
         "website": "https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981"
       },
       "geometry": {
@@ -19604,6 +19680,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Reef Point Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Family home of landscape architect Beatrix Farrand, who built an experimental garden on a granite-marked grid here. Dismantled in 1955; most plantings moved to Asticou Azalea and Thuya gardens, funded in part by John D. Rockefeller Jr. A small new public garden recreating pieces of her design is being built at 2 Reef Point as of 2026.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Shore Path near Hancock Street, Bar Harbor, ME \u2014 stop 5 \u2014 coordinates approximate, positioned via Hancock Street's real location\n\nStory\n\nThis was the family home of Beatrix Farrand, one of the most influential landscape designers America has ever produced. She grew up here and later built an experimental garden on the property, laid out on a strict grid with small granite markers \u2014 she was famous for labeling every single plant, which apparently baffled visiting children. When she gave up the property in the nineteen fifties, most of her plantings were dug up and moved to two other gardens on this island, paid for in part by that same Rockefeller family. As of this year, a small new public garden is being built right here, at Reef Point, trying to bring a few of her original plants home.\n\nFarrand also designed Abby Aldrich Rockefeller Garden elsewhere on this trip \u2014 flagged in Bar Harbor City Narrative Bible as a strong candidate for the bible's recurring cast, not yet added.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Reef Point narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2012,
+          44.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rest Plaus Historic District Stone Ridge NY",
         "icon": "scroll",
         "color": "green",
@@ -22130,6 +22225,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Shore Acres (Derby Lane) Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Site of Shore Acres, a cottage built c. 1869-70 by Dr. Haskett Derby, a Boston oculist. His property ran from the Shore Path to Main Street, which is why Derby Lane carries his name. The house was demolished in 1957 \u2014 nothing survives on-site today.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Shore Path near Derby Lane, Bar Harbor, ME \u2014 stop 3 \u2014 coordinates approximate, positioned using Derby Lane's real street location rather than a confirmed exact address\n\nStory\n\nLook inland here and you'll see the street sign for Derby Lane. It's named for Doctor Haskett Derby, a Boston eye doctor who built a cottage called Shore Acres right where you're standing, back around eighteen sixty-nine. His property ran all the way from this path to Main Street \u2014 which is the entire reason the street carries his name. The house itself is gone now; it was torn down in nineteen fifty-seven.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Shore Acres narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2018,
+          44.3898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Shorter House Crawford NY",
         "icon": "scroll",
         "color": "green",
@@ -24557,6 +24671,25 @@
         "coordinates": [
           -70.0738922428463,
           41.76366214168768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Briars Bar Harbor ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Site of The Briars, the rented cottage where Nelson Rockefeller (later Governor of New York and U.S. Vice President) was born in 1908, to John D. Rockefeller Jr. and Abby Aldrich Rockefeller. The main house was eventually demolished.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Shore Path, Bar Harbor, ME \u2014 stop 4 \u2014 coordinates approximate, positioned along the known path corridor\n\nStory\n\nSomewhere near here once stood a rented cottage called The Briars. In the summer of nineteen-oh-eight, a young couple \u2014 John D. Rockefeller Junior and his wife Abby \u2014 rented it because their usual plans fell through and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.\n\nSee Bar Harbor City Narrative Bible \u2014 this is the same John D. Rockefeller Jr. who financed the carriage roads.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2015,
+          44.3894
         ]
       }
     },
@@ -27458,6 +27591,25 @@
         "coordinates": [
           -72.7569,
           44.3377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wayman Lane Bar Harbor ME",
+        "icon": "route",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "The southern end of the Shore Path, connecting back toward Main Street and downtown Bar Harbor.",
+        "start_date_time": "",
+        "detail": "\ud83d\udccd Wayman Lane, Bar Harbor, ME \u2014 stop 9, end of the Shore Path \u2014 coordinates approximate\n\nStory\n\nThis is where the path ends, or begins, depending which direction you walked it. If you've got energy left, Wayman Lane connects back toward Main Street and the rest of downtown.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Wayman Lane narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.197,
+          44.385
         ]
       }
     },
