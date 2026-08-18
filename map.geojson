@@ -29893,6 +29893,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u2705\u2757\ufe0f Brasserie LeBrun Bar Harbor ME (Visit 2)",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Second reservation at Brasserie LeBrun during the Bar Harbor stay \u2014 an elegant French brasserie specializing in elevated classics like steak frites, oysters, and seasonal entrees.",
+        "start_date_time": "2026-08-20T18:30:00",
+        "detail": "Time: 2026-08-20T18:30:00\n\nSecond reservation at Brasserie LeBrun during the Bar Harbor stay \u2014 see \u2705\u2757\ufe0f Brasserie LeBrun Bar Harbor ME for the original Aug 16 visit and the full restaurant review/details. This note exists separately because a single note can only carry one reservation date/time.",
+        "website": "https://www.google.com/maps/place/Brasserie+LeBrun/@44.3887341,-68.2140074,698m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf7c736bae5b:0x60d1a9deddec1fd!8m2!3d44.3888304!4d-68.2097356!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklhMDFQVGt0QkVBReABAPoBBQiFBBBA!16s%2Fg%2F11stqk3gmj?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2096343749257,
+          44.388952884567544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u2705\u2757\ufe0f Brasserie LeBrun Bar Harbor ME",
         "icon": "utensils",
         "color": "purple",
