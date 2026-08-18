@@ -29413,26 +29413,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 McKay's Public House Bar Harbor ME",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "McKay's Public House is a gastropub offering a range of seafood and traditional American dishes. Prices are expected to be between $20 and $60 per person. The restaurant is open for dinner from 5 PM to 9 PM, seven days a week, and serves alcohol.",
-        "start_date_time": "2026-08-20T18:30:00",
-        "detail": "Time: 2026-08-20T18:30:00\n\nMcKay's Public House is a gastropub offering a range of seafood and traditional American dishes. Prices are expected to be between $20 and $60 per person. The restaurant is open for dinner from 5 PM to 9 PM, seven days a week, and serves alcohol.",
-        "website": "https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.20437563990602,
-          44.38630193556034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u2705 Mooncussers Tavern Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -29873,6 +29853,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u2705\u274c McKay's Public House Bar Harbor ME",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "McKay's Public House is a gastropub offering a range of seafood and traditional American dishes. Prices are expected to be between $20 and $60 per person. The restaurant is open for dinner from 5 PM to 9 PM, seven days a week, and serves alcohol.",
+        "start_date_time": "2026-08-20T18:30:00",
+        "detail": "Time: 2026-08-20T18:30:00\n\n[!failure] Cancelled 2026-08-17\nConfirmation #84833, table for 2 on Thu Aug 20 6:30 PM, cancelled via OpenTable \u2014 replaced by Brasserie LeBrun for the same slot. `start-date-time` kept above for historical record; `reservation` set to false and `day` cleared so this no longer shows as an active reservation.",
+        "website": "https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20437563990602,
+          44.38630193556034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u2705\u274c The Salt Line Poughkeepsie NY",
         "icon": "utensils",
         "color": "red",
@@ -29899,7 +29899,7 @@
         "vault_type": "Restaurant",
         "description": "Second reservation at Brasserie LeBrun during the Bar Harbor stay \u2014 an elegant French brasserie specializing in elevated classics like steak frites, oysters, and seasonal entrees.",
         "start_date_time": "2026-08-20T18:30:00",
-        "detail": "Time: 2026-08-20T18:30:00\n\nSecond reservation at Brasserie LeBrun during the Bar Harbor stay \u2014 see \u2705\u2757\ufe0f Brasserie LeBrun Bar Harbor ME for the original Aug 16 visit and the full restaurant review/details. This note exists separately because a single note can only carry one reservation date/time.",
+        "detail": "Time: 2026-08-20T18:30:00\n\nSecond reservation at Brasserie LeBrun during the Bar Harbor stay \u2014 see \u2705\u2757\ufe0f Brasserie LeBrun Bar Harbor ME for the original Aug 16 visit and the full restaurant review/details. This note exists separately because a single note can only carry one reservation date/time.\n\nThis Aug 20, 6:30 PM slot directly replaced a cancelled reservation at McKay's Public House for the same date and time.",
         "website": "https://www.google.com/maps/place/Brasserie+LeBrun/@44.3887341,-68.2140074,698m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf7c736bae5b:0x60d1a9deddec1fd!8m2!3d44.3888304!4d-68.2097356!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklhMDFQVGt0QkVBReABAPoBBQiFBBBA!16s%2Fg%2F11stqk3gmj?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {

@@ -19952,19 +19952,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>✅ McKay's Public House Bar Harbor ME</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20McKay%27s%20Public%20House%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-20T18:30:00<br/><br/>McKay's Public House is a gastropub offering a range of seafood and traditional American dishes. Prices are expected to be between $20 and $60 per person. The restaurant is open for dinner from 5 PM to 9 PM, seven days a week, and serves alcohol.<br/><br/>More info: https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-sandwich-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-68.20437563990602,44.38630193556034,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>✅ Mooncussers Tavern Chatham MA</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Mooncussers%20Tavern%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-17T18:30:00<br/><br/>Mooncusser's Tavern is an American restaurant specializing in seafood and steak dishes. It offers dinner service from 5 PM to 9 PM, and serves alcohol. Prices are moderate, typically around $20 for main dishes.<br/><br/>More info: https://www.google.com/maps/place/Mooncussers+Tavern/@41.676934,-70.0995467,3265m/data=!3m1!1e3!4m11!3m10!1s0x89fb3e509f18d17d:0x65165751e7229b15!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6769345!4d-70.0892684!16s%2Fg%2F1td2cckh?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -20251,6 +20238,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>✅❌ McKay's Public House Bar Harbor ME</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%8C%20McKay%27s%20Public%20House%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-20T18:30:00<br/><br/>[!failure] Cancelled 2026-08-17<br/>Confirmation #84833, table for 2 on Thu Aug 20 6:30 PM, cancelled via OpenTable — replaced by Brasserie LeBrun for the same slot. `start-date-time` kept above for historical record; `reservation` set to false and `day` cleared so this no longer shows as an active reservation.<br/><br/>More info: https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-sandwich-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.20437563990602,44.38630193556034,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>✅❌ The Salt Line Poughkeepsie NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%8C%20The%20Salt%20Line%20Poughkeepsie%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-22T18:30:00<br/><br/>The Salt Line is a restaurant known for its diverse menu featuring dishes such as Grass Fed Steak and Long Island Duck. It attracts a mix of patrons, including couples on date nights, families, and LGBTQ+ groups, often for celebrations and casual dining occasions. The atmosphere is upscale yet inviting, with a lively vibe enhanced by excellent service and a focus on delicious food. Customers consistently praise the perfectly cooked chicken, attentive service, and the overall enjoyable dining experience. Common criticisms are not explicitly mentioned, but some customers may find wait times longer during busy periods.<br/><br/>CANCELLED (confirmed via Resy email, Sep 22 ~10:52am) — this Tue, Sep 22 at 6:30pm, 4 guests, Dining Room reservation was cancelled. Dinner that night is still covered by The Bocuse Restaurant at 6:45pm. Not related to the other two Salt Line visits: Sep 23 (2 guests, still active) and Sep 24 (5 guests, still active, $15/guest cancellation fee).<br/><br/>More info: https://www.google.com/maps/place/The+Salt+Line/@41.6892315,-73.9015897,608m/data=!3m1!1e3!4m20!1m8!3m7!1s0x89c2b9b935200001:0xa7fbe7f1959624e!2sHudson+Valley,+NY!3b1!8m2!3d41.9209018!4d-73.9612887!16zL20vMDI5anF2!3m10!1s0x89dd3f0066b164a7:0x6c4617546701e16b!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6906907!4d-73.9006066!16s%2Fg%2F11w55vmqj7?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
@@ -20265,7 +20265,7 @@
   </Placemark>
   <Placemark>
     <name>✅❗️ Brasserie LeBrun Bar Harbor ME (Visit 2)</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%97%EF%B8%8F%20Brasserie%20LeBrun%20Bar%20Harbor%20ME%20%28Visit%202%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-20T18:30:00<br/><br/>Second reservation at Brasserie LeBrun during the Bar Harbor stay — see ✅❗️ Brasserie LeBrun Bar Harbor ME for the original Aug 16 visit and the full restaurant review/details. This note exists separately because a single note can only carry one reservation date/time.<br/><br/>More info: https://www.google.com/maps/place/Brasserie+LeBrun/@44.3887341,-68.2140074,698m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf7c736bae5b:0x60d1a9deddec1fd!8m2!3d44.3888304!4d-68.2097356!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklhMDFQVGt0QkVBReABAPoBBQiFBBBA!16s%2Fg%2F11stqk3gmj?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%97%EF%B8%8F%20Brasserie%20LeBrun%20Bar%20Harbor%20ME%20%28Visit%202%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-20T18:30:00<br/><br/>Second reservation at Brasserie LeBrun during the Bar Harbor stay — see ✅❗️ Brasserie LeBrun Bar Harbor ME for the original Aug 16 visit and the full restaurant review/details. This note exists separately because a single note can only carry one reservation date/time.<br/><br/>This Aug 20, 6:30 PM slot directly replaced a cancelled reservation at McKay's Public House for the same date and time.<br/><br/>More info: https://www.google.com/maps/place/Brasserie+LeBrun/@44.3887341,-68.2140074,698m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf7c736bae5b:0x60d1a9deddec1fd!8m2!3d44.3888304!4d-68.2097356!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklhMDFQVGt0QkVBReABAPoBBQiFBBBA!16s%2Fg%2F11stqk3gmj?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
