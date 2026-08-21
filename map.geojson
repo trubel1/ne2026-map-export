@@ -29724,25 +29724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 24 North Conway NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-08-24T18:00:00",
-        "detail": "Time: 2026-08-24T18:00:00\n\nDinner Reservation Needed \u2014 Mon, Aug 24\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.11721220643824,
-          44.0285553843094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 27 Littleton NH",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -29968,6 +29949,26 @@
         "coordinates": [
           -69.95533703766199,
           41.679467791198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Alpine Tavern at The Wentworth Jackson NH",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
+        "start_date_time": "2026-08-24T18:30:00",
+        "detail": "Time: 2026-08-24T18:30:00\n\nAlpine Tavern at The Wentworth\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nCozy tavern at The Wentworth resort in Jackson, ~13-14 min (8 mi) from North Conway. Known for chicken tenders with homemade ranch sauce, $50-100/person.\n\nTips\n- Fills the Aug 24 dinner slot for this base camp.\n- Note: there is also an existing Aug 26 booking at this same restaurant (confirmation from earlier planning) mistakenly tagged to Base Camp 6 Littleton NH \u2014 that's ~31 miles / a real detour from Littleton and doesn't fit the actual trip plan. Pending Tom's cancellation of that booking; see \u2705 Alpine Tavern at The Wentworth Littleton NH.",
+        "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18232697426697,
+          44.14724025571265
         ]
       }
     },
