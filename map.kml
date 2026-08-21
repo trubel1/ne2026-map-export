@@ -20160,19 +20160,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>⚠️ Dinner Reservation Needed - Aug 25 North Conway NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Dinner%20Reservation%20Needed%20-%20Aug%2025%20North%20Conway%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-25T18:00:00<br/><br/>Dinner Reservation Needed — Tue, Aug 25<br/><br/>No dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made.]]></description>
-    <styleUrl>#s-alert-triangle-yellow</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>alert-triangle</value></Data>
-      <Data name="color"><value>yellow</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-71.11721220643824,44.0285553843094,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>⚠️ Dinner Reservation Needed - Aug 27 Littleton NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Dinner%20Reservation%20Needed%20-%20Aug%2027%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-27T18:00:00<br/><br/>Dinner Reservation Needed — Thu, Aug 27<br/><br/>No dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made.]]></description>
     <styleUrl>#s-alert-triangle-yellow</styleUrl>
@@ -20885,6 +20872,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.1267947669113,41.667201956938406,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>✅❗️ Ledges at White Mountain Hotel</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%E2%9D%97%EF%B8%8F%20Ledges%20at%20White%20Mountain%20Hotel.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-25T18:30:00<br/><br/>Ledges at White Mountain Hotel<br/><br/>📍 87 Fairway Dr, North Conway, NH 03860 (White Mountain Hotel & Resort, Hales Location)<br/><br/>Ledges Restaurant is the dining room at the White Mountain Hotel & Resort, at the base of Whitehorse Ledge — modern New England cuisine from Chef Alex McKinnon, served under floor-to-ceiling windows with sweeping mountain views. Rated 4.4/5 on Tripadvisor (#12 of 77 North Conway restaurants, 453+ reviews).<br/><br/>Must Order<br/>- Tomahawk steak for two — a signature order for the table<br/>- Chef's cut bison sirloin — locally sourced, frequently praised<br/>- Stuffed haddock — a New England classic done well here<br/><br/>Tips<br/>- Fills the Aug 25 dinner slot for this base camp.<br/>- Credit card required to hold the table; $15/person charge for no-shows or cancellations under 24 hours — cancel with notice if plans change.<br/>- Veranda seating available May–Oct, weather permitting.<br/><br/>More info: https://www.google.com/maps/place/White+Mountain+Hotel+%26+Resort/data=!4m2!3m1!1s0x4cb3a05963437c25:0x65b1da087557f8cf]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.1483,44.0516,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>

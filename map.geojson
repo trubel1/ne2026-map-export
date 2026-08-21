@@ -29743,25 +29743,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 25 North Conway NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-08-25T18:00:00",
-        "detail": "Time: 2026-08-25T18:00:00\n\nDinner Reservation Needed \u2014 Tue, Aug 25\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.11721220643824,
-          44.0285553843094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 27 Littleton NH",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -30847,6 +30828,26 @@
         "coordinates": [
           -70.1267947669113,
           41.667201956938406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u2757\ufe0f Ledges at White Mountain Hotel",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Ledges Restaurant at the White Mountain Hotel & Resort \u2014 modern New England cuisine (fresh seafood, Black Angus steaks) from Chef Alex McKinnon, floor-to-ceiling windows and fireside booths with mountain/Whitehorse Ledge views, a Wine Spectator-awarded wine list, and live piano.",
+        "start_date_time": "2026-08-25T18:30:00",
+        "detail": "Time: 2026-08-25T18:30:00\n\nLedges at White Mountain Hotel\n\n\ud83d\udccd 87 Fairway Dr, North Conway, NH 03860 (White Mountain Hotel & Resort, Hales Location)\n\nLedges Restaurant is the dining room at the White Mountain Hotel & Resort, at the base of Whitehorse Ledge \u2014 modern New England cuisine from Chef Alex McKinnon, served under floor-to-ceiling windows with sweeping mountain views. Rated 4.4/5 on Tripadvisor (#12 of 77 North Conway restaurants, 453+ reviews).\n\nMust Order\n- Tomahawk steak for two \u2014 a signature order for the table\n- Chef's cut bison sirloin \u2014 locally sourced, frequently praised\n- Stuffed haddock \u2014 a New England classic done well here\n\nTips\n- Fills the Aug 25 dinner slot for this base camp.\n- Credit card required to hold the table; $15/person charge for no-shows or cancellations under 24 hours \u2014 cancel with notice if plans change.\n- Veranda seating available May\u2013Oct, weather permitting.",
+        "website": "https://www.google.com/maps/place/White+Mountain+Hotel+%26+Resort/data=!4m2!3m1!1s0x4cb3a05963437c25:0x65b1da087557f8cf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1483,
+          44.0516
         ]
       }
     },
