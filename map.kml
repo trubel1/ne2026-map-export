@@ -635,7 +635,7 @@
   </Placemark>
   <Placemark>
     <name>Agamont Park Bar Harbor ME</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Agamont%20Park%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Agamont%20Park%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>📍 North end of Main Street at West Street, Bar Harbor, ME — stop 1, start of the Shore Path<br/><br/>Story<br/><br/>This is where you start, at the north end of Main Street where it meets West Street, right by the town pier. Look for the gazebo and the two small cannons aimed out at the water — locals will tell you they're purely decorative, and they're right.<br/><br/>This is also the spot where, on the night of October twenty-third, nineteen forty-seven, several thousand evacuated residents gathered between an advancing fire and the bay, before a last-minute wind shift spared downtown Bar Harbor. Just a few steps from here, the grand building now known as the Bar Harbor Inn opened its doors that same week too — not to guests, but to the American Red Cross, turning a private summer clubhouse into a relief station for people who'd just lost everything. Keep that pairing in mind as you walk this next stretch: a park that held the crowd, and a building right beside it that took them in.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Agamont Park narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Agamont%20Park%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Agamont%20Park%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>📍 North end of Main Street at West Street, Bar Harbor, ME — stop 1, Ells Pier, start of the Shore Path<br/><br/>Story<br/><br/>This is where you start: the north end of Main Street, at Ells Pier, right beside Agamont Park's gazebo and its two small cannons aimed out at the water. Locals will tell you the cannons are purely decorative, and they're right.<br/><br/>From here, the Shore Path begins — a walk of roughly three-quarters of a mile, all the way to Wayman Lane. It's been open since 1881, the same year Charles T. How founded Bar Harbor's Village Improvement Association. Local histories credit How, already the town's largest landowner, with persuading his wealthy neighbors to open a footpath across their own private shoreline lawns — though the exact details of his role aren't independently confirmed. What's certain is the path itself: a public walk that exists only because people who didn't have to share a view chose to anyway.<br/><br/>This same ground has also held a very different kind of crowd. On October twenty-third, nineteen forty-seven, roughly two thousand residents gathered at the athletic field as a wildfire closed in on the town. By afternoon, with flames at the edge of Bar Harbor, they were moved here, to the pier — caught between the fire and the bay, with nowhere left to go. For hours, nobody knew which way the wind would decide it. Then it shifted, and downtown Bar Harbor survived.<br/><br/>Just a few steps from here, the grand building now known as the Bar Harbor Inn opened its doors that same week too — not to guests, but to the American Red Cross, turning a private summer clubhouse into a relief station for people who'd just lost everything.<br/><br/>Keep that pairing in mind as you start walking, with the water on your left: a park that once held a crowd escaping fire, and a building right beside it that took them in.<br/><br/>TTS Script<br/><br/>Tag-annotated performance script derived from the Story above — not meant to be read directly, this is what actually gets sent to Fish Audio. See `06 - System/Templates/Travelogue TTS Narration Prompt.md` section 4 for the tag/punctuation rules.<br/><br/>[leaning in, curious] You're standing at Ells Pier — north end of Main Street, beside Agamont Park.<br/><br/>[a small pause] Find the gazebo. Now look out at the water.<br/><br/>Two small cannons, aimed at the bay.<br/><br/>[warmly] They're decorative. At least, that's what the locals insist.<br/><br/>[quiet realization] From here, the Shore Path begins — roughly three-quarters of a mile, all the way to Wayman Lane.<br/><br/>[lowering voice] It's been open since eighteen eighty-one.<br/><br/>Local histories credit Charles T. How — already Bar Harbor's largest landowner — with persuading his wealthy neighbors to share it.<br/><br/>[emphasize] Not the land. The access.<br/><br/>[quiet realization] A public path, built on a private choice.<br/><br/>[lowering voice] This same ground has held a very different crowd too.<br/><br/>[a small pause] October twenty-third, nineteen forty-seven.<br/><br/>Roughly two thousand people gathered at the athletic field, as fire closed in on the town.<br/><br/>[a small pause] By afternoon, they were moved here — to this pier.<br/><br/>Fire behind them. The bay in front.<br/><br/>[a small pause] Nowhere left to go.<br/><br/>[with growing excitement] Then — the wind shifted!<br/><br/>[emphasize] Downtown Bar Harbor survived. It survived.<br/><br/>[quiet realization] That same week, just steps from here — a grand building opened its doors too. The one you know today as the Bar Harbor Inn.<br/><br/>Not to guests.<br/><br/>[warmly] To the Red Cross! A private summer clubhouse, turned into a shelter for people who'd lost everything.<br/><br/>[warmly, reassuring] Start walking now, water on your left — a park that once held a crowd escaping fire, and a building beside it that took them in.<br/><br/>Audio<br/><br/>!Agamont Park narration.mp3]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Attraction</value></Data>
@@ -1401,6 +1401,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Balsams Hotel View Colebrook NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Balsams%20Hotel%20View%20Colebrook%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Balsams Hotel View<br/><br/>📍 Dixville, NH<br/><br/>A roadside viewpoint near Dixville Notch looking toward the historic Balsams Grand Resort Hotel (closed since 2011, under renovation) and Lake Gloriette.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.866417%2C%20-71.303796]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.303796,44.866417,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Baltic Kitchen Littleton NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Baltic%20Kitchen%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Polish restaurant  <br/>Best known for: Cozy atmosphere, delicious pierogis  <br/>Location context: Mountain-town vibe  <br/>Price level: $10–20 per person  <br/>Visit timing: Not mentioned  <br/><br/>Typical Customers  <br/>Demographics: Not mentioned  <br/>Group types: Couples, families, friends  <br/>Common occasions: Casual dinner, quick bite  <br/><br/>Vibe & Setting  <br/>Atmosphere: Cozy  <br/>Noise level: Moderate  <br/>Decor & setting: Indoor seating, warm ambiance  <br/>Service style: Friendly and attentive  <br/><br/>Recommended Dishes  <br/>Overall dish consensus  <br/>Reviewers strongly recommend the pierogis, kielbasa, and borscht as must-try items, praising their flavor and comforting nature.<br/><br/>How “top dishes” are determined  <br/>Top dishes are selected based on their frequent mentions and strong praise in reviews, as well as their appearance in restaurant photos.<br/><br/>| Rank | Dish              | Why it stands out                                                   | How often it’s mentioned                     | Ideal for            |<br/>|------|-------------------|-------------------------------------------------------------------|---------------------------------------------|----------------------|<br/>| 1    | Pierogis         | Top tier flavor, comforting texture.                              | Repeatedly called out as a favorite.      | Sharing at the table  |<br/>| 2    | Kielbasa         | Incredible taste and quality.                                    | Mentioned in many reviews.                 | Hearty main          |<br/>| 3    | Borscht          | Scrumptious and highly praised in reviews.                       | Appears in numerous photos.                | Lighter option       |<br/><br/>Good alternates / backup choices<br/>- Tomato bisque: Notable for its warmth and flavor.<br/><br/>Highlights (non‑dish positives from reviews)  <br/>Atmosphere: Customers mention a cozy vibe that enhances the dining experience.  <br/>Service: Staff are described as very kind and attentive.  <br/><br/>Common Issues (from reviews)  <br/>None mentioned.  <br/><br/>Practical Notes  <br/>Reservation / wait: Not mentioned  <br/>Accessibility: Not mentioned  <br/>Parking / transit: Not mentioned  <br/>Best use case: Great for casual dinners with family or friends.<br/><br/>More info: https://www.google.com/maps/place/Baltic+Kitchen/@44.2991186,-71.7722191,7702m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46f0004d8f049:0xf1873aa650f084b0!8m2!3d44.3011969!4d-71.7684113!16s%2Fg%2F11m64zkwj7?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-purple</styleUrl>
@@ -1804,6 +1817,45 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Bear Notch Overlook 1 Bartlett NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bear%20Notch%20Overlook%201%20Bartlett%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bear Notch Overlook 1<br/><br/>📍 Bear Notch Rd, Bartlett, NH<br/><br/>One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.037812%2C%20-71.322813]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.322813,44.037812,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bear Notch Overlook 2 Bartlett NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bear%20Notch%20Overlook%202%20Bartlett%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bear Notch Overlook 2<br/><br/>📍 Bear Notch Rd, Bartlett, NH<br/><br/>One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.045648%2C%20-71.306119]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.306119,44.045648,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bear Notch Overlook 3 Bartlett NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bear%20Notch%20Overlook%203%20Bartlett%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bear Notch Overlook 3<br/><br/>📍 Bear Notch Rd, Bartlett, NH<br/><br/>One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.046689%2C%20-71.293378]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.293378,44.046689,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Bearce Allen and NORGAL Preserves Bristol ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bearce%20Allen%20and%20NORGAL%20Preserves%20Bristol%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bearce Allen and NORGAL Preserves<br/><br/>📍 19 Austin Rd, off Sproul Hill Rd, Bristol, ME (coordinate approximate — Sproul Hill Rd geocode, Austin Rd itself didn't resolve precisely)<br/><br/>Sustainable-forestry demonstration trail with interpretive signage; the edge of a 1953 forest fire is still visible mid-trail. Noted for lady slipper orchids (late May-June) and genuine solitude. ~1.7 mi, 134 ft gain.<br/><br/>Tips<br/>- Coordinate is approximate — verify against Coastal Rivers' own trail map before relying on it for navigation<br/><br/>More info: https://www.coastalrivers.org/trails/bearce-allen-and-norgal-preserves/]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -1865,7 +1917,20 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.512,44.926,0</coordinates>
+      <coordinates>-71.46467,44.920067,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beaver Pond NH View North Woodstock NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Beaver%20Pond%20NH%20View%20North%20Woodstock%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Beaver Pond NH View<br/><br/>📍 NH Route 112 (Lost River Rd), North Woodstock, NH<br/><br/>A pond viewpoint along NH Route 112 (Lost River Road) near Kinsman Notch, close to Lost River Gorge & Boulder Caves.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.04446%2C%20-71.792589]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.792589,44.04446,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -3442,6 +3507,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Castle in the Clouds Moultonborough NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Castle%20in%20the%20Clouds%20Moultonborough%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Castle in the Clouds<br/><br/>📍 455 Old Mountain Rd, Moultonborough, NH<br/><br/>A 5,200-acre mountaintop estate built 1913-14 by shoe magnate Thomas Gustave Plant as "Lucknow" — an Arts & Crafts mansion with panoramic Lake Winnipesaukee views, now a museum estate with gardens, carriage roads, and hiking trails.<br/><br/>Tips<br/>- 455 Old Mountain Road, Moultonborough, NH 03254 — (603) 476-5900.<br/>- House tours, gardens, and 28 miles of carriage-road trails are included with admission; some trails lead to waterfalls.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.7283943%2C%20-71.322003]]></description>
+    <styleUrl>#s-landmark-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.322003,43.7283943,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Castner Brook Community Forest Damariscotta ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Castner%20Brook%20Community%20Forest%20Damariscotta%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Castner Brook Community Forest<br/><br/>📍 Piper Mill Road, Damariscotta, ME (0.3 mi in, near the Great Salt Bay Sanitary District gate)<br/><br/>A flat, 6-7 ft wide crushed-stone All Persons Trail (wheelchair accessible) through mixed pine, oak, hemlock, spruce, and fir to the brook — 0.35 mi out-and-back, 11 ft gain. Also has a separate 1-mile intermediate mountain-bike loop.<br/><br/>Tips<br/>- Fully wheelchair/stroller accessible on the main trail<br/>- An accessible bridge/seating upgrade is planned for 2026<br/><br/>More info: https://www.coastalrivers.org/trails/castner-brook/]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -3477,7 +3555,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.1494,44.0903,0</coordinates>
+      <coordinates>-71.167374,44.062974,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -3491,6 +3569,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.30684,43.77028,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cathedral of the Pines Rindge NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cathedral%20of%20the%20Pines%20Rindge%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Cathedral of the Pines<br/><br/>📍 10 Hale Hill Rd, Rindge, NH<br/><br/>A nondenominational outdoor memorial and worship site established 1945 in memory of Americans lost in war, centered on the Altar of the Nation — a fieldstone altar framed by views toward Mount Monadnock.<br/><br/>Tips<br/>- 10 Hale Hill Road, Rindge, NH 03461.<br/>- Well outside this trip's current White Mountains/Lakes Region routing — roughly 45+ miles from the nearest planned base camp (Woodstock, VT). Worth confirming it's actually reachable on the itinerary before treating it as a firm stop.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=42.7747085%2C%20-71.9883635]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.9883635,42.7747085,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4417,6 +4508,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Crawford Notch View 2 Hart's Location NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Crawford%20Notch%20View%202%20Hart%27s%20Location%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Crawford Notch View 2<br/><br/>📍 Route 302, Hart's Location, NH<br/><br/>A second Route 302 pull-off further south in Crawford Notch, near the High-Alpine Wilderness / Crawford Notch Loop trailhead area.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.146755%2C%20-71.365568]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.365568,44.146755,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Crawford Notch View Hart's Location NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Crawford%20Notch%20View%20Hart%27s%20Location%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Crawford Notch View<br/><br/>📍 Route 302, Hart's Location, NH<br/><br/>A pull-off view of the notch along Route 302, near the northern end of Crawford Notch State Park.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.182656%2C%20-71.398977]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.398977,44.182656,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Creamery Covered Bridge Woodstock VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Creamery%20Covered%20Bridge%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -5050,7 +5167,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.2917,44.8625,0</coordinates>
+      <coordinates>-71.294291,44.863914,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -5428,6 +5545,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.65122,44.03006,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Echo Lake Beach Franconia NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Echo%20Lake%20Beach%20Franconia%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Echo Lake Beach<br/><br/>📍 Franconia Notch State Park, Franconia, NH<br/><br/>A small beach on Echo Lake at the base of Cannon Mountain in Franconia Notch, near the Old Man of the Mountain Historic Site — not to be confused with Echo Lake State Park in North Conway, a different lake of the same name.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.177122%2C%20-71.695611]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Beach</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695611,44.177122,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -6263,6 +6393,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Franconia Notch View Franconia NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Franconia%20Notch%20View%20Franconia%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Franconia Notch View<br/><br/>📍 Franconia Notch State Park, Franconia, NH<br/><br/>A pull-off view of Franconia Notch near the Old Man of the Mountain Historic Site and Profile Lake.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.17004%2C%20-71.686046]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.686046,44.17004,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Franklin D Roosevelt State Park Yorktown Heights, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Franklin%20D%20Roosevelt%20State%20Park%20Yorktown%20Heights%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Franklin D Roosevelt State Park<br/><br/>📍 Yorktown Heights, NY<br/><br/>A Westchester County park centered on a lake, with swimming, hiking trails, and picnic areas — a quieter stop toward the southern end of this Taconic Byway list.<br/><br/>Tips<br/>- Less crowded than the Dutchess/Columbia County parks further north on this list.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=41.283,-73.809]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
@@ -6520,6 +6663,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.4859,43.6859,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gilmanton NH 107 Scenic View</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Gilmanton%20NH%20107%20Scenic%20View.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Gilmanton NH 107<br/><br/>📍 NH Route 107, Gilmanton, NH<br/><br/>A scenic pull-off on NH Route 107 in Gilmanton, in the Lakes Region south of Alton Bay.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.393651%2C%20-71.366029]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.366029,43.393651,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -6988,6 +7144,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-73.93057693155265,41.849693847214894,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hancock Scenic Overlook Kancamagus NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Hancock%20Scenic%20Overlook%20Kancamagus%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Hancock Scenic Overlook<br/><br/>📍 Kancamagus Hwy, NH<br/><br/>A named overlook along the Kancamagus Highway, near the vault's existing Sugar Hill Scenic Vista pull-off.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.034771%2C%20-71.516449]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.516449,44.034771,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -7469,6 +7638,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.1328,41.8295,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>High Point Rindge NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/High%20Point%20Rindge%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>High Point<br/><br/>📍 Rindge, NH (Monadnock Region)<br/><br/>A named viewpoint in the Monadnock Region near Rindge, close to Cathedral of the Pines — not independently verified beyond its source coordinates. Same far-outlier geography note as Cathedral of the Pines above.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=42.769116%2C%20-71.776106]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.776106,42.769116,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -8161,6 +8343,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Jefferson NH 115 Scenic View</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jefferson%20NH%20115%20Scenic%20View.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jefferson NH 115<br/><br/>📍 NH Route 115, Jefferson, NH<br/><br/>A scenic pull-off on NH Route 115 in Jefferson, with views toward the Presidential Range.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.347714%2C%20-71.519183]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.519183,44.347714,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Jeffersonville Bridge Cambridge VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jeffersonville%20Bridge%20Cambridge%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jeffersonville Bridge<br/><br/>📍 Cambridge Junction Road, off Route 15, Cambridge, VT<br/><br/>Also known as the Cambridge Junction Bridge or Poland Covered Bridge, this 152.5-foot, one-lane Burr arch truss span over the Lamoille River was built in 1887 by George Washington Holmes, giving communities west of the river access to the Cambridge Junction railroad station. Combines an arch-bridge design with King Post-style trusswork. Listed on the National Register of Historic Places in 1974; underwent a two-stage restoration in 2001 that stabilized and raised the structure three feet.<br/><br/>Tips<br/>- A classic Vermont covered-bridge photo stop, off the main Route 15 corridor.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.6492%2C%20-72.8308]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -8227,7 +8422,7 @@
   </Placemark>
   <Placemark>
     <name>John Innes Kane Cottage Bar Harbor ME</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/John%20Innes%20Kane%20Cottage%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/John%20Innes%20Kane%20Cottage%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>John Innes Kane Cottage<br/><br/>📍 Bar Harbor, ME<br/><br/>A Gilded Age "cottage" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Private property — a drive/walk-past landmark, not a stop with public access.<br/><br/>Story (Shore Path stop 8)<br/><br/>Now you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass — Tudor-style, built in nineteen-oh-three and nineteen-oh-four for John Innes Kane, whose own great-grandfather was John Jacob Astor, once the richest man in America. Kane didn't work; the New York Times once described his interests as "scientific matters, especially those dealing with discovery and exploration." He married Annie Cottenet Schermerhorn in a wedding gown made by the famous Parisian designer Charles Frederick Worth, and died in New York in nineteen thirteen.<br/><br/>Unlike most of the architects on this walk, who came from Boston and New York, Kane's house was designed by a local man — Fred L. Savage, Bar Harbor's own architect, working for some of the wealthiest families in the country. And unlike Shore Acres, the original Grant cottage, or so many of the others you've passed, this one is a genuine survivor: it's one of only a small number of Bar Harbor estate houses that made it through the devastating fire of nineteen forty-seven still standing. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/John%20Innes%20Kane%20Cottage%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/John%20Innes%20Kane%20Cottage%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>John Innes Kane Cottage<br/><br/>📍 Bar Harbor, ME<br/><br/>A Gilded Age "cottage" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Private property — a drive/walk-past landmark, not a stop with public access.<br/><br/>Story (Shore Path stop 8)<br/><br/>Now you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass — Tudor-style, built in nineteen-oh-three and nineteen-oh-four for John Innes Kane, whose own great-grandfather was John Jacob Astor, once the richest man in America. Kane didn't work; the New York Times once described his interests as "scientific matters, especially those dealing with discovery and exploration." He married Annie Cottenet Schermerhorn in a wedding gown made by the famous Parisian designer Charles Frederick Worth, and died in New York in nineteen thirteen.<br/><br/>Unlike most of the architects on this walk, who came from Boston and New York, Kane's house was designed by a local man — Fred L. Savage, Bar Harbor's own architect, working for some of the wealthiest families in the country. And unlike Shore Acres, the original Grant cottage, or so many of the others you've passed, this one is a genuine survivor: it's one of only a small number of Bar Harbor estate houses that made it through the devastating fire of nineteen forty-seven still standing. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.<br/><br/>Deep Dives<br/><br/>Optional, on-demand backgrounders — not part of the core stop, only for a listener who wants to go deeper:<br/>- Who was John Jacob Astor? — Kane's great-grandfather, and the immigrant fortune behind this house<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Historical</value></Data>
@@ -8590,6 +8785,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Kinsman Notch View North Woodstock NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Kinsman%20Notch%20View%20North%20Woodstock%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Kinsman Notch View<br/><br/>📍 NH Route 112, North Woodstock, NH<br/><br/>A viewpoint on NH Route 112 at Kinsman Notch, near Lost River Gorge & Boulder Caves.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.039964%2C%20-71.791964]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.791964,44.039964,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Kitty's Market Hudson, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Kitty%27s%20Market%20Hudson%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Kitty's Market<br/><br/>📍 Hudson, NY<br/><br/>A neighborhood market and cafe beloved for egg sandwiches, locally sourced groceries, and excellent coffee — one of Hudson's most-loved morning stops.<br/><br/>Tips<br/>- Arrive early — egg sandwiches sell out<br/>- The espresso drinks are serious; one of Hudson's best coffee programs<br/><br/>More info: https://www.google.com/maps/search/Kitty's+Market+Hudson,+NY]]></description>
     <styleUrl>#s-shopping-bag-purple</styleUrl>
@@ -8941,6 +9149,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Libby Museum View Tuftonboro NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Libby%20Museum%20View%20Tuftonboro%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Libby Museum View<br/><br/>📍 Tuftonboro, NH<br/><br/>A Lake Winnipesaukee viewpoint near the Libby Museum in Tuftonboro, close to Wolfeboro.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.614089%2C%20-71.258566]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.258566,43.614089,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Liberal Cup Brewpub Hallowell ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Liberal%20Cup%20Brewpub%20Hallowell%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Liberal Cup Brewpub<br/><br/>📍 115 Water Street, Hallowell, ME<br/><br/>A brewpub in Hallowell's historic Water Street district, combining local craft beer and casual dining. Part of the local character that makes Hallowell distinct from touristy alternatives.<br/><br/>Tips<br/>- Located on Water Street antique district<br/>- Craft beer selection<br/>- Casual brewpub atmosphere<br/>- Good for afternoon or evening visit<br/>- Historic building setting]]></description>
     <styleUrl>#s-beer-red</styleUrl>
@@ -9184,7 +9405,7 @@
       <Data name="color"><value>green</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.6008,43.7204,0</coordinates>
+      <coordinates>-71.610013,43.72394,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -9458,6 +9679,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.2558,44.3859,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Falls Albany NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Lower%20Falls%20Albany%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Lower Falls<br/><br/>📍 Kancamagus Hwy, Albany, NH<br/><br/>The Kancamagus Highway's most popular swimming hole — the Swift River drops over smooth granite into a large pool. The Lower Falls Recreation Site has an 80-car lot, restrooms, and picnic tables.<br/><br/>Tips<br/>- Very popular and crowded in summer — arrive early.<br/>- Check the current before swimming: dangerous when the Swift River is running high.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.0152119%2C%20-71.2447949]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.2447949,44.0152119,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -10995,6 +11229,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Mount Kearsarge NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Kearsarge%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Kearsarge<br/><br/>📍 Wilmot/Warner, NH<br/><br/>A 2,937-foot granite dome in Wilmot/Warner, NH, with a fire tower and 360-degree summit views, reachable via Rollins State Park's auto road or the Winslow Trail. (Note: KMZ source spelled this "Kearsage" — the mountain's actual name is Kearsarge.)<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.347386%2C%20-71.848708]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.848708,43.347386,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mount Lafayette Franconia Notch NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Lafayette%20Franconia%20Notch%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Lafayette<br/><br/>📍 Franconia Ridge, Franconia Notch State Park, NH<br/><br/>The 5,260-foot high point of the Franconia Range, and centerpiece of the Franconia Ridge Loop — widely considered one of the best (and most heavily hiked) trails in the White Mountains, with over a mile of exposed, above-treeline ridge walking connecting Lafayette, Mount Lincoln, and Little Haystack.<br/><br/>Tips<br/>- A serious full-day hike (~8-9 miles, ~3,900 ft gain) — start early to beat both crowds and afternoon weather, since the ridge is fully exposed.<br/>- Trailhead parking at Lafayette Place fills fast on nice days; arrive very early or expect to wait.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.1607%2C%20-71.6444]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -11112,6 +11359,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Mount Washington Cruises Weirs Beach NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Washington%20Cruises%20Weirs%20Beach%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Washington Cruises<br/><br/>📍 211 Lakeside Ave, Weirs Beach, Laconia, NH<br/><br/>Home port of the M/S Mount Washington, a scenic and dinner excursion ship on Lake Winnipesaukee running 1-3 hour cruises mid-May through late October, with stops at Wolfeboro, Alton Bay, Center Harbor, and Meredith Bay.<br/><br/>Tips<br/>- 211 Lakeside Ave, Weirs Beach, NH 03246 — (603) 366-5531.<br/>- Sunset and foliage cruises are the most popular; book ahead in peak season.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.6074712%2C%20-71.4588475]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.4588475,43.6074712,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mount Washington Golf Course Bretton Woods NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Washington%20Golf%20Course%20Bretton%20Woods%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Washington Golf Course<br/><br/>📍 Omni Mount Washington Resort, Bretton Woods, NH<br/><br/>The golf course at the Omni Mount Washington Resort, played against the backdrop of the Presidential Range.<br/><br/>Tips<br/>- Resort guests and the public can typically book tee times — check the Omni's own booking system rather than walking up.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.2552%2C%20-71.4448]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -11122,6 +11382,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.4448,44.2552,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Washington Hotel View Bretton Woods NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Washington%20Hotel%20View%20Bretton%20Woods%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Washington Hotel View<br/><br/>📍 Bretton Woods, NH<br/><br/>A classic roadside photo viewpoint of the Omni Mount Washington Resort (the historic 1902 Mount Washington Hotel) with the Presidential Range behind it — a different vantage point than the resort's own entrance, already in the vault as Omni Mount Washington Resort.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.254717%2C%20-71.44856]]></description>
+    <styleUrl>#s-landmark-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.44856,44.254717,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11278,6 +11551,45 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.1095652,44.1013604,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NH 11 Alton Bay Scenic View</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/NH%2011%20Alton%20Bay%20Scenic%20View.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>NH 11 Alton Bay<br/><br/>📍 NH Route 11, Alton Bay, NH<br/><br/>A Lake Winnipesaukee viewpoint on NH Route 11 in Alton Bay.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.515695%2C%20-71.266857]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.266857,43.515695,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NH 118 in Warren Scenic View</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/NH%20118%20in%20Warren%20Scenic%20View.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>NH 118 in Warren<br/><br/>📍 NH Route 118, Warren, NH<br/><br/>A scenic pull-off on NH Route 118 in Warren, near Mount Moosilauke.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.976503%2C%20-71.784625]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.784625,43.976503,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NH 171 Vista Tuftonboro NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/NH%20171%20Vista%20Tuftonboro%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>NH 171 Vista<br/><br/>📍 NH Route 171, Tuftonboro/Moultonborough, NH<br/><br/>A scenic pull-off on NH Route 171 in the Lakes Region, near Tuftonboro and Moultonborough.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.717706%2C%20-71.313643]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.313643,43.717706,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11801,6 +12113,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Ordination Rock Tamworth NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ordination%20Rock%20Tamworth%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Ordination Rock<br/><br/>📍 Cleveland Hill Rd near Hill Hollow Rd, Tamworth, NH<br/><br/>A 20-foot glacial boulder marking the 1792 ordination of Rev. Samuel Hidden, Tamworth's first minister, topped by an 1862 marble obelisk; listed on the National Register of Historic Places.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.8550197%2C%20-71.2798284]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.2798284,43.8550197,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Orford Street Historic District Orford NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Orford%20Street%20Historic%20District%20Orford%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Orford Street Historic District<br/><br/>📍 Route 10 (Orford Street), Orford, NH<br/><br/>A half-mile Federal-period streetscape along Route 10, 38 buildings deep, described since the 18th century as "the most charming country village." Its centerpiece is the Ridge — seven fine houses built between 1773 and 1839 by Orford's professional and business class, showing the influence of Boston architect Asher Benjamin (associate of Charles Bulfinch), who likely designed the John B. Wheeler house, southernmost in the row. The first Ridge house was built for Orford's first minister, later becoming home to Samuel Morey — an inventor with over 20 patents, including an early paddlewheel steamboat and one of the first internal combustion engines. Listed on the National Register of Historic Places in 1977.<br/><br/>Tips<br/>- A tree-lined common and promenade make this an easy, scenic walk — no ticketed attraction, just a drive or stroll down Route 10.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.9053%2C%20-72.1373]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -12071,6 +12396,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.2207612445033,44.394195138128055,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pack Monadnock Peterborough NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pack%20Monadnock%20Peterborough%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pack Monadnock<br/><br/>📍 Miller State Park, Peterborough, NH<br/><br/>Miller State Park's 2,290-foot summit (New Hampshire's oldest state park), reached by a 1.3-mile auto road, with a fire tower and views to Boston, Mount Washington, and Mount Monadnock.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=42.86206%2C%20-71.878457]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.878457,42.86206,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -12399,6 +12737,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pemi Scenic Overlook Kancamagus NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pemi%20Scenic%20Overlook%20Kancamagus%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pemi Scenic Overlook<br/><br/>📍 Kancamagus Hwy, NH<br/><br/>A named overlook along the Kancamagus Highway near Mount Kancamagus, close to the vault's existing Sugar Hill and Wangan overlooks.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.026257%2C%20-71.49472]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.49472,44.026257,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pemi Valley Excursions Lincoln NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pemi%20Valley%20Excursions%20Lincoln%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pemi Valley Excursions<br/><br/>📍 136 Main St, Lincoln, NH<br/><br/>Guided nightly moose-spotting bus tours (also marketed as Pemi Valley Moose Tours) through the White Mountains, 2.5-3 hours, with roughly a 90% moose-sighting success rate, spring through fall.<br/><br/>Tips<br/>- 136 Main St, Lincoln, NH 03251 — (603) 745-2744, reservations at moosetoursnh.com.<br/>- Includes a restroom break partway through; bring bug spray for dusk departures.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.0403127%2C%20-71.6724118]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.6724118,44.0403127,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Penny Lake Boothbay ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Penny%20Lake%20Boothbay%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Penny Lake<br/><br/>📍 Off Route 27/96, Boothbay Harbor, ME<br/><br/>A 29-acre Boothbay Region Land Trust preserve (plus a 25-acre easement) that's unusually close to downtown — just off the Route 27/96 junction, right by the Chamber of Commerce and Flagship Inn. The main loop is an easy 0.5 miles between the trailhead kiosk and a wooden bridge with bench seating, passing through an apple orchard and woodland around a freshwater wetland. Watch for migratory and nesting birds, turtles, beaver, deer, and occasionally moose.<br/><br/>Tips<br/>- Parking: from the Route 27/96 traffic light, go north 0.1 mile, turn left between the Chamber of Commerce and the Flagship Inn, and continue past the Carousel Music Theater to the BRLT lot.<br/>- Genuinely convenient for a short walk without driving out of town — closer to the harbor than any other BRLT preserve.<br/>- Popular with locals for running, dog-walking, and general exercise, not just sightseeing — expect some foot traffic even though it's not a tourist spot.<br/>- All trails are easy, flat walking — a good option if you want nature without committing to a real hike.]]></description>
     <styleUrl>#s-gem-green</styleUrl>
@@ -12607,6 +12971,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pinkham Notch View NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pinkham%20Notch%20View%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pinkham Notch View<br/><br/>📍 NH Route 16, Pinkham Notch, NH<br/><br/>A pull-off view in Pinkham Notch on NH Route 16, near Glen Ellis Falls and the base of Mount Washington's eastern approach.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.249707%2C%20-71.253778]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.253778,44.249707,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Piper Stream Preserve Northport ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Piper%20Stream%20Preserve%20Northport%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Piper Stream Preserve<br/><br/>📍 Prescott Hill Rd, Northport, ME (off Route 52, 3.8 mi from Belfast)<br/><br/>A small, quiet preserve with mixed forest and a charming stream and wetlands. Piper Stream feeds the Little River and is an important wildlife corridor to the large Herricks Bog in central Northport. Donated 2021 by Susan Conard and David Randall.<br/><br/>Tips<br/>- Easy, nearly flat 0.3 mi one-way — a genuine quick stop<br/><br/>More info: https://www.coastalmountains.org]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -12773,6 +13150,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.8105,44.1532,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Polly's Pancake Parlor View Sugar Hill NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Polly%27s%20Pancake%20Parlor%20View%20Sugar%20Hill%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Polly's Pancake Parlor View<br/><br/>📍 Sugar Hill, NH<br/><br/>A Sugar Hill ridgeline pull-off near Polly's Pancake Parlor, looking across the Franconia range — not the restaurant itself, which sits roughly 5 miles away and is already in the vault as its own note.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.221096%2C%20-71.774465]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.774465,44.221096,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13007,6 +13397,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2526804,43.6570114,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Portsmouth Harbor Lighthouse View NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Portsmouth%20Harbor%20Lighthouse%20View%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Portsmouth Lighthouse View<br/><br/>📍 New Castle, NH (Portsmouth Harbor)<br/><br/>A viewpoint near the mouth of Portsmouth Harbor, close to Whaleback Ledge Lighthouse (already in the vault, on the Maine side of the harbor entrance).<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.06947%2C%20-70.71288]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.71288,43.06947,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13478,6 +13881,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Redstone Rocket Warren NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Redstone%20Rocket%20Warren%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Redstone Rocket<br/><br/>📍 Village center, Warren, NH<br/><br/>A retired US Army Redstone missile on public display in the village center since 1971, brought to Warren by a local soldier who had served at Redstone Arsenal; honors Alan Shepard, the Derry, NH-born Mercury astronaut.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.9252256%2C%20-71.8915111]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.8915111,43.9252256,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Redwood Cottage Bar Harbor ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Redwood%20Cottage%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Redwood<br/><br/>📍 Bar Harbor, ME<br/><br/>A Gilded Age "cottage" in Bar Harbor's historic summer colony, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Private property — a drive/walk-past landmark, not a stop with public access.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.3828%2C%20-68.1967]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -13501,6 +13917,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.2012,44.389,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Reflection Pond Shelburne NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Reflection%20Pond%20Shelburne%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Reflection Pond<br/><br/>📍 Route 2, Shelburne, NH<br/><br/>A Route 2 pull-off pond view in Shelburne, east of Gorham, known for mountain reflections on the water and sunset photography. Managed by NH Fish and Game.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.39606%2C%20-71.120467]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.120467,44.39606,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14229,6 +14658,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.3932,43.9974,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saco Lake Crawford Notch NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Saco%20Lake%20Crawford%20Notch%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Saco Lake<br/><br/>📍 Crawford Notch, NH<br/><br/>The headwaters of the Saco River, at the height of land in Crawford Notch near the AMC Highland Center.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.218031%2C%20-71.410647]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.410647,44.218031,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -15259,6 +15701,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Silver Cascade Hart's Location NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Silver%20Cascade%20Hart%27s%20Location%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Silver Cascade<br/><br/>📍 Route 302, Hart's Location, NH<br/><br/>A roadside waterfall on Route 302 in Crawford Notch State Park, about a mile south of the height of land — close to and often visited alongside Flume Cascade nearby. Likely the most visited and best-known waterfall in the Crawford Notch area; large pullouts sit on either side of the highway bridge that carries the road over the falls' stream.<br/><br/>Tips<br/>- Easy scrambling on the bare rock to the right of the stream reaches the immediate base of the falls.<br/>- Was blank/placeholder in the vault until 2026-08-21 — coordinates and description added then, sourced from public waterfall references, not yet visited in person.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.206458%2C%20-71.403177]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.403177,44.206458,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Silvia Woodstock, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Silvia%20Woodstock%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Silvia<br/><br/>📍 Woodstock, NY<br/><br/>An open-kitchen wood-fire restaurant widely regarded as one of the Catskills' most accomplished tables — inventive fire-driven cooking with exceptional local sourcing.<br/><br/>Must Order<br/>- Wood-fired vegetables — the kitchen's greatest strength<br/>- 14-oz steak — with charred jalapeño chimichurri<br/>- Smoked fish — a recurring and outstanding starter<br/><br/>Tips<br/>- Reserve 1–2 weeks in advance for weekend dinner<br/>- The open kitchen makes the bar the best seat in the house<br/><br/>More info: https://www.google.com/maps/search/Silvia+Woodstock,+NY]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -15633,6 +16088,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.1976,44.5204,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Springfield Rest Area NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Springfield%20Rest%20Area%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Springfield Rest Area<br/><br/>📍 Springfield, NH<br/><br/>A highway rest area/pull-off in Springfield, NH, near Lake Sunapee — noted as a stop by the source map, not independently researched beyond its coordinates.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.467964%2C%20-72.102199]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.102199,43.467964,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16065,6 +16533,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Sugar Hill Scenic Overlook Kancamagus NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sugar%20Hill%20Scenic%20Overlook%20Kancamagus%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sugar Hill Scenic Overlook<br/><br/>📍 Kancamagus Hwy, NH<br/><br/>A Kancamagus Highway overlook roughly 6 miles east of the vault's existing "Sugar Hill Scenic Vista" pull-off — likely a distinct named overlook rather than the same spot; worth confirming on the ground which is which before combining them.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.009666%2C%20-71.427666]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.427666,44.009666,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Sugar Hill Scenic Vista Kancamagus NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sugar%20Hill%20Scenic%20Vista%20Kancamagus%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sugar Hill Scenic Vista<br/><br/>📍 Kancamagus Highway (NH 112), roughly halfway between Lincoln and Conway<br/><br/>A paved overlook with a gazebo, rock walls, and a viewing platform, taking in Mt. Tremont, Owl Cliff, Bear Mountain, and Sugar Hill itself. Ample parking makes it one of the easiest big-view stops on the whole byway — a favorite during fall foliage season.<br/><br/>Tips<br/>- Not to be confused with the town of Sugar Hill, NH near Franconia — this is an unrelated overlook named after the mountain it faces.<br/>- Best light and color in early October for foliage; expect it to be crowded then.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.0314%2C%20-71.5169]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -16117,6 +16598,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Sunapee Boat Launch NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sunapee%20Boat%20Launch%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sunapee Boat Launch<br/><br/>📍 Lake Sunapee, NH<br/><br/>A boat launch and lake view on Lake Sunapee.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.3855333333333%2C%20-72.0803333333333]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.0803333333333,43.3855333333333,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sunapee Lake NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sunapee%20Lake%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sunapee Lake<br/><br/>📍 Lake Sunapee, NH<br/><br/>A Lake Sunapee shoreline viewpoint.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.43005%2C%20-72.06675]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.06675,43.43005,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Sundew Trail Schoodic ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sundew%20Trail%20Schoodic%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sundew Trail<br/><br/>📍 Schoodic Institute, Schoodic Peninsula, ME<br/><br/>A flat, easy 0.7-mile nature trail departing from the Schoodic Institute that leads to a private rocky shoreline often completely empty of other visitors. Ideal for a low-key nature break, birding, or photography without the crowding of main park attractions.<br/><br/>Tips<br/>- Accessible from Schoodic Institute parking area<br/>- Completely flat, family-friendly<br/>- Often overlooked by park visitors—genuinely quiet<br/>- Good for early morning walks or afternoon breaks<br/>- Bring binoculars if you're a birder; wildlife viewing is excellent<br/>- Rocky shore access available; tide pools at lower tide]]></description>
     <styleUrl>#s-gem-green</styleUrl>
@@ -16153,6 +16660,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.6454,43.8592,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sunset Hill Sugar Hill NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sunset%20Hill%20Sugar%20Hill%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sunset Hill<br/><br/>📍 Sugar Hill, NH<br/><br/>A ridgeline viewpoint in Sugar Hill near the Toad Hill Farm venue, with sweeping views of the Franconia range — distinct from the unrelated Sunset Hill in Plymouth, NH already in the vault.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.211341%2C%20-71.787385]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.787385,44.211341,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16820,7 +17340,7 @@
   </Placemark>
   <Placemark>
     <name>The Briars Bar Harbor ME</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Briars%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Briars%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>📍 Shore Path, Bar Harbor, ME — stop 4 — coordinates approximate, positioned along the known path corridor<br/><br/>Story<br/><br/>Somewhere near here once stood a cottage called The Briars, also known as Briarcliffe, built in eighteen eighty-one for a Boston family named Sears — designed, like the Reading Room building back at the start of this walk, by the same architect, William Ralph Emerson.<br/><br/>In the summer of nineteen-oh-eight, a young couple stayed here — John D. Rockefeller Junior and his wife Abby — and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.<br/><br/>Around this same period, the estate passed to another family with its own famous story: a Colorado mining fortune bought it for a young couple named Evalyn and Ned McLean — the same Evalyn Walsh McLean who would soon buy the Hope Diamond and wear it for the rest of her life. Sources don't fully agree on exactly how the McLean and Rockefeller stays here line up in time, so take that overlap as a real but slightly tangled thread rather than a tidy timeline.<br/><br/>See Bar Harbor City Narrative Bible — this is the same John D. Rockefeller Jr. who financed the carriage roads, and whose family money also helped move Beatrix Farrand's Reef Point garden, another stop on this same walk.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Briars%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a> <a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Briars%20Bar%20Harbor%20ME.md&heading=Audio" style="display:inline-block;padding:8px 14px;margin:2px 0;background:#059669;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">🎧 Listen</a><br/><br/>📍 Shore Path, Bar Harbor, ME — stop 4 — coordinates approximate, positioned along the known path corridor<br/><br/>Story<br/><br/>Somewhere near here once stood a cottage called The Briars, also known as Briarcliffe, built in eighteen eighty-one for a Boston family named Sears — designed, like the Reading Room building back at the start of this walk, by the same architect, William Ralph Emerson.<br/><br/>In the summer of nineteen-oh-eight, a young couple stayed here — John D. Rockefeller Junior and his wife Abby — and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.<br/><br/>Around this same period, the estate passed to another family with its own famous story: a Colorado mining fortune bought it for a young couple named Evalyn and Ned McLean — the same Evalyn Walsh McLean who would soon buy the Hope Diamond and wear it for the rest of her life. Sources don't fully agree on exactly how the McLean and Rockefeller stays here line up in time, so take that overlap as a real but slightly tangled thread rather than a tidy timeline.<br/><br/>See Bar Harbor City Narrative Bible — this is the same John D. Rockefeller Jr. who financed the carriage roads, and whose family money also helped move Beatrix Farrand's Reef Point garden, another stop on this same walk.<br/><br/>Audio<br/><br/>Once the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` — Obsidian renders a native play button automatically, no plugin needed.<br/><br/>Deep Dives<br/><br/>Optional, on-demand backgrounders — not part of the core stop, only for a listener who wants to go deeper:<br/>- The Hope Diamond, cursed or not — the diamond, the Bar Harbor rowboat story, and the real tragedies that followed its owner]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Historical</value></Data>
@@ -18600,6 +19120,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Wangan Scenic Overlook Kancamagus NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wangan%20Scenic%20Overlook%20Kancamagus%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wangan Scenic Overlook<br/><br/>📍 Kancamagus Hwy, NH<br/><br/>A named overlook along the Kancamagus Highway near Mount Kancamagus and the vault's existing Pemi/Sugar Hill/Hancock overlooks.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.02355%2C%20-71.492345]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.492345,44.02355,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Wantastiquet Mountain Natural Area Woodstock VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wantastiquet%20Mountain%20Natural%20Area%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -18779,6 +19312,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.5786,44.4494,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Weir's Beach Laconia NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Weir%27s%20Beach%20Laconia%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Weir's Beach<br/><br/>📍 Weirs Beach, Laconia, NH<br/><br/>The public beach in Weirs Beach village on Lake Winnipesaukee, home port of the M/S Mount Washington cruise ship and the Winnipesaukee boardwalk/arcade strip.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.605326%2C%20-71.457417]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Beach</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.457417,43.605326,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -19939,6 +20485,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>✅ McKay's Public House Bar Harbor ME (Visit 2)</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20McKay%27s%20Public%20House%20Bar%20Harbor%20ME%20%28Visit%202%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-21T18:30:00<br/><br/>Second visit — the first McKay's booking (Aug 20) was cancelled and replaced by Brasserie LeBrun; see that note for the original. This is a new, separate reservation for the following night, confirmation #91079, which replaces the phone-confirmed "Dinner" booking as tonight's active plan.<br/><br/>More info: https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-68.20437563990602,44.38630193556034,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>✅ Mooncussers Tavern Chatham MA</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Mooncussers%20Tavern%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-17T18:30:00<br/><br/>Mooncusser's Tavern is an American restaurant specializing in seafood and steak dishes. It offers dinner service from 5 PM to 9 PM, and serves alcohol. Prices are moderate, typically around $20 for main dishes.<br/><br/>More info: https://www.google.com/maps/place/Mooncussers+Tavern/@41.676934,-70.0995467,3265m/data=!3m1!1e3!4m11!3m10!1s0x89fb3e509f18d17d:0x65165751e7229b15!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6769345!4d-70.0892684!16s%2Fg%2F1td2cckh?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -20654,8 +21213,8 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>❤️ Dinner Bar Harbor ME</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9D%A4%EF%B8%8F%20Dinner%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-21T19:00:00<br/><br/>What it is: A highly-rated American restaurant known for its flavorful, "home-cooked" style cuisine, with standout dishes including lobster risotto, schnitzel, curry mussels, and panko-encrusted halibut.<br/><br/>Customers: Attracts locals and travelers alike, including world travelers and families looking for a high-quality, memorable dining experience in a welcoming setting.<br/><br/>Vibe: Small-town energy; warm, unpretentious atmosphere where food is described as being "cooked with love."<br/><br/>Strongest positives:<br/><br/>- Exceptional, flavorful food that many reviewers rank among the best they have ever eaten<br/>- Very kind, friendly, and attentive staff<br/>- Highly praised signature dishes like lobster risotto, schnitzel, and French onion soup<br/>- Great "small-town" atmosphere<br/><br/>Downsides:<br/><br/>- No significant recurring issues or downsides identified in recent reviews.<br/><br/>Note: Reservation confirmed by telephone — (207) 901-0018. No email confirmation exists for this booking.<br/><br/>More info: https://www.google.com/maps/place/Dinner/@44.3886629,-68.2235514,1584m/data=!3m2!1e3!5s0x4caebf79398c221d:0x760efaa8d0294f9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf005b379c81:0xc72ad7b501a68b23!8m2!3d44.3886633!4d-68.2140236!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVrVmxwNmFHeGxha0V5V2pCV1psWXdkRnBaTTJod1dqQkdkMW94UlJBQuABAPoBBAguEEM!16s%2Fg%2F11vxy0p6s6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <name>❤️❌ Dinner Bar Harbor ME</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9D%A4%EF%B8%8F%E2%9D%8C%20Dinner%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-21T19:00:00<br/><br/>[!failure] Replaced 2026-08-21<br/>Tom booked McKay's Public House via OpenTable (confirmation #91079, 6:30 PM) for the same night — this phone-confirmed 7:00 PM booking is not being used. `start-date-time` kept above for historical record; `reservation` set to false and `day` cleared so this no longer shows as an active reservation.<br/><br/>What it is: A highly-rated American restaurant known for its flavorful, "home-cooked" style cuisine, with standout dishes including lobster risotto, schnitzel, curry mussels, and panko-encrusted halibut.<br/><br/>Customers: Attracts locals and travelers alike, including world travelers and families looking for a high-quality, memorable dining experience in a welcoming setting.<br/><br/>Vibe: Small-town energy; warm, unpretentious atmosphere where food is described as being "cooked with love."<br/><br/>Strongest positives:<br/><br/>- Exceptional, flavorful food that many reviewers rank among the best they have ever eaten<br/>- Very kind, friendly, and attentive staff<br/>- Highly praised signature dishes like lobster risotto, schnitzel, and French onion soup<br/>- Great "small-town" atmosphere<br/><br/>Downsides:<br/><br/>- No significant recurring issues or downsides identified in recent reviews.<br/><br/>Note: Reservation confirmed by telephone — (207) 901-0018. No email confirmation exists for this booking.<br/><br/>More info: https://www.google.com/maps/place/Dinner/@44.3886629,-68.2235514,1584m/data=!3m2!1e3!5s0x4caebf79398c221d:0x760efaa8d0294f9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf005b379c81:0xc72ad7b501a68b23!8m2!3d44.3886633!4d-68.2140236!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVrVmxwNmFHeGxha0V5V2pCV1psWXdkRnBaTTJod1dqQkdkMW94UlJBQuABAPoBBAguEEM!16s%2Fg%2F11vxy0p6s6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>

@@ -322,9 +322,9 @@
         "icon": "trees",
         "color": "green",
         "vault_type": "Attraction",
-        "description": "Park at the north end of Main Street, by the town pier \u2014 the starting point of the Shore Path. Home to a gazebo and two decorative cannons aimed at the bay. Also the spot where the 1947 fire evacuation crowd gathered before a wind shift spared downtown.",
+        "description": "Park at the north end of Main Street, by Ells Pier \u2014 the starting point of the Shore Path (~0.7 mi to Wayman Lane). Home to a gazebo and two decorative cannons aimed at the bay. Also the spot where evacuated residents were moved to during the 1947 fire, before a wind shift spared downtown.",
         "start_date_time": "",
-        "detail": "\ud83d\udccd North end of Main Street at West Street, Bar Harbor, ME \u2014 stop 1, start of the Shore Path\n\nStory\n\nThis is where you start, at the north end of Main Street where it meets West Street, right by the town pier. Look for the gazebo and the two small cannons aimed out at the water \u2014 locals will tell you they're purely decorative, and they're right.\n\nThis is also the spot where, on the night of October twenty-third, nineteen forty-seven, several thousand evacuated residents gathered between an advancing fire and the bay, before a last-minute wind shift spared downtown Bar Harbor. Just a few steps from here, the grand building now known as the Bar Harbor Inn opened its doors that same week too \u2014 not to guests, but to the American Red Cross, turning a private summer clubhouse into a relief station for people who'd just lost everything. Keep that pairing in mind as you walk this next stretch: a park that held the crowd, and a building right beside it that took them in.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!Agamont Park narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+        "detail": "\ud83d\udccd North end of Main Street at West Street, Bar Harbor, ME \u2014 stop 1, Ells Pier, start of the Shore Path\n\nStory\n\nThis is where you start: the north end of Main Street, at Ells Pier, right beside Agamont Park's gazebo and its two small cannons aimed out at the water. Locals will tell you the cannons are purely decorative, and they're right.\n\nFrom here, the Shore Path begins \u2014 a walk of roughly three-quarters of a mile, all the way to Wayman Lane. It's been open since 1881, the same year Charles T. How founded Bar Harbor's Village Improvement Association. Local histories credit How, already the town's largest landowner, with persuading his wealthy neighbors to open a footpath across their own private shoreline lawns \u2014 though the exact details of his role aren't independently confirmed. What's certain is the path itself: a public walk that exists only because people who didn't have to share a view chose to anyway.\n\nThis same ground has also held a very different kind of crowd. On October twenty-third, nineteen forty-seven, roughly two thousand residents gathered at the athletic field as a wildfire closed in on the town. By afternoon, with flames at the edge of Bar Harbor, they were moved here, to the pier \u2014 caught between the fire and the bay, with nowhere left to go. For hours, nobody knew which way the wind would decide it. Then it shifted, and downtown Bar Harbor survived.\n\nJust a few steps from here, the grand building now known as the Bar Harbor Inn opened its doors that same week too \u2014 not to guests, but to the American Red Cross, turning a private summer clubhouse into a relief station for people who'd just lost everything.\n\nKeep that pairing in mind as you start walking, with the water on your left: a park that once held a crowd escaping fire, and a building right beside it that took them in.\n\nTTS Script\n\nTag-annotated performance script derived from the Story above \u2014 not meant to be read directly, this is what actually gets sent to Fish Audio. See `06 - System/Templates/Travelogue TTS Narration Prompt.md` section 4 for the tag/punctuation rules.\n\n[leaning in, curious] You're standing at Ells Pier \u2014 north end of Main Street, beside Agamont Park.\n\n[a small pause] Find the gazebo. Now look out at the water.\n\nTwo small cannons, aimed at the bay.\n\n[warmly] They're decorative. At least, that's what the locals insist.\n\n[quiet realization] From here, the Shore Path begins \u2014 roughly three-quarters of a mile, all the way to Wayman Lane.\n\n[lowering voice] It's been open since eighteen eighty-one.\n\nLocal histories credit Charles T. How \u2014 already Bar Harbor's largest landowner \u2014 with persuading his wealthy neighbors to share it.\n\n[emphasize] Not the land. The access.\n\n[quiet realization] A public path, built on a private choice.\n\n[lowering voice] This same ground has held a very different crowd too.\n\n[a small pause] October twenty-third, nineteen forty-seven.\n\nRoughly two thousand people gathered at the athletic field, as fire closed in on the town.\n\n[a small pause] By afternoon, they were moved here \u2014 to this pier.\n\nFire behind them. The bay in front.\n\n[a small pause] Nowhere left to go.\n\n[with growing excitement] Then \u2014 the wind shifted!\n\n[emphasize] Downtown Bar Harbor survived. It survived.\n\n[quiet realization] That same week, just steps from here \u2014 a grand building opened its doors too. The one you know today as the Bar Harbor Inn.\n\nNot to guests.\n\n[warmly] To the Red Cross! A private summer clubhouse, turned into a shelter for people who'd lost everything.\n\n[warmly, reassuring] Start walking now, water on your left \u2014 a park that once held a crowd escaping fire, and a building beside it that took them in.\n\nAudio\n\n!Agamont Park narration.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -1466,6 +1466,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Balsams Hotel View Colebrook NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A roadside viewpoint near Dixville Notch looking toward the historic Balsams Grand Resort Hotel (closed since 2011, under renovation) and Lake Gloriette.",
+        "start_date_time": "",
+        "detail": "Balsams Hotel View\n\n\ud83d\udccd Dixville, NH\n\nA roadside viewpoint near Dixville Notch looking toward the historic Balsams Grand Resort Hotel (closed since 2011, under renovation) and Lake Gloriette.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.866417%2C%20-71.303796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.303796,
+          44.866417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Baltic Kitchen Littleton NH",
         "icon": "sandwich",
         "color": "purple",
@@ -2071,6 +2091,66 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bear Notch Overlook 1 Bartlett NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "start_date_time": "",
+        "detail": "Bear Notch Overlook 1\n\n\ud83d\udccd Bear Notch Rd, Bartlett, NH\n\nOne of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.037812%2C%20-71.322813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322813,
+          44.037812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Notch Overlook 2 Bartlett NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "start_date_time": "",
+        "detail": "Bear Notch Overlook 2\n\n\ud83d\udccd Bear Notch Rd, Bartlett, NH\n\nOne of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.045648%2C%20-71.306119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.306119,
+          44.045648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Notch Overlook 3 Bartlett NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "One of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "start_date_time": "",
+        "detail": "Bear Notch Overlook 3\n\n\ud83d\udccd Bear Notch Rd, Bartlett, NH\n\nOne of several marked pull-offs along Bear Notch Road between the Kancamagus Highway and Route 302, popular for foliage views.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.046689%2C%20-71.293378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.293378,
+          44.046689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bearce Allen and NORGAL Preserves Bristol ME",
         "icon": "footprints",
         "color": "green",
@@ -2161,8 +2241,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.512,
-          44.926
+          -71.46467,
+          44.920067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaver Pond NH View North Woodstock NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A pond viewpoint along NH Route 112 (Lost River Road) near Kinsman Notch, close to Lost River Gorge & Boulder Caves.",
+        "start_date_time": "",
+        "detail": "Beaver Pond NH View\n\n\ud83d\udccd NH Route 112 (Lost River Rd), North Woodstock, NH\n\nA pond viewpoint along NH Route 112 (Lost River Road) near Kinsman Notch, close to Lost River Gorge & Boulder Caves.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.04446%2C%20-71.792589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.792589,
+          44.04446
         ]
       }
     },
@@ -4539,6 +4639,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Castle in the Clouds Moultonborough NH",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A 5,200-acre mountaintop estate built 1913-14 by shoe magnate Thomas Gustave Plant as \"Lucknow\" \u2014 an Arts & Crafts mansion with panoramic Lake Winnipesaukee views, now a museum estate with gardens, carriage roads, and hiking trails.",
+        "start_date_time": "",
+        "detail": "Castle in the Clouds\n\n\ud83d\udccd 455 Old Mountain Rd, Moultonborough, NH\n\nA 5,200-acre mountaintop estate built 1913-14 by shoe magnate Thomas Gustave Plant as \"Lucknow\" \u2014 an Arts & Crafts mansion with panoramic Lake Winnipesaukee views, now a museum estate with gardens, carriage roads, and hiking trails.\n\nTips\n- 455 Old Mountain Road, Moultonborough, NH 03254 \u2014 (603) 476-5900.\n- House tours, gardens, and 28 miles of carriage-road trails are included with admission; some trails lead to waterfalls.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.7283943%2C%20-71.322003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322003,
+          43.7283943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Castner Brook Community Forest Damariscotta ME",
         "icon": "footprints",
         "color": "green",
@@ -4589,8 +4709,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1494,
-          44.0903
+          -71.167374,
+          44.062974
         ]
       }
     },
@@ -4610,6 +4730,26 @@
         "coordinates": [
           -69.30684,
           43.77028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral of the Pines Rindge NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A nondenominational outdoor memorial and worship site established 1945 in memory of Americans lost in war, centered on the Altar of the Nation \u2014 a fieldstone altar framed by views toward Mount Monadnock.",
+        "start_date_time": "",
+        "detail": "Cathedral of the Pines\n\n\ud83d\udccd 10 Hale Hill Rd, Rindge, NH\n\nA nondenominational outdoor memorial and worship site established 1945 in memory of Americans lost in war, centered on the Altar of the Nation \u2014 a fieldstone altar framed by views toward Mount Monadnock.\n\nTips\n- 10 Hale Hill Road, Rindge, NH 03461.\n- Well outside this trip's current White Mountains/Lakes Region routing \u2014 roughly 45+ miles from the nearest planned base camp (Woodstock, VT). Worth confirming it's actually reachable on the itinerary before treating it as a firm stop.",
+        "website": "https://www.google.com/maps/search/?api=1&query=42.7747085%2C%20-71.9883635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9883635,
+          42.7747085
         ]
       }
     },
@@ -6007,6 +6147,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Crawford Notch View 2 Hart's Location NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A second Route 302 pull-off further south in Crawford Notch, near the High-Alpine Wilderness / Crawford Notch Loop trailhead area.",
+        "start_date_time": "",
+        "detail": "Crawford Notch View 2\n\n\ud83d\udccd Route 302, Hart's Location, NH\n\nA second Route 302 pull-off further south in Crawford Notch, near the High-Alpine Wilderness / Crawford Notch Loop trailhead area.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.146755%2C%20-71.365568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.365568,
+          44.146755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crawford Notch View Hart's Location NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A pull-off view of the notch along Route 302, near the northern end of Crawford Notch State Park.",
+        "start_date_time": "",
+        "detail": "Crawford Notch View\n\n\ud83d\udccd Route 302, Hart's Location, NH\n\nA pull-off view of the notch along Route 302, near the northern end of Crawford Notch State Park.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.182656%2C%20-71.398977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.398977,
+          44.182656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Creamery Covered Bridge Woodstock VT",
         "icon": "scroll",
         "color": "green",
@@ -6957,8 +7137,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2917,
-          44.8625
+          -71.294291,
+          44.863914
         ]
       }
     },
@@ -7522,6 +7702,26 @@
         "coordinates": [
           -68.65122,
           44.03006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echo Lake Beach Franconia NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Beach",
+        "description": "A small beach on Echo Lake at the base of Cannon Mountain in Franconia Notch, near the Old Man of the Mountain Historic Site \u2014 not to be confused with Echo Lake State Park in North Conway, a different lake of the same name.",
+        "start_date_time": "",
+        "detail": "Echo Lake Beach\n\n\ud83d\udccd Franconia Notch State Park, Franconia, NH\n\nA small beach on Echo Lake at the base of Cannon Mountain in Franconia Notch, near the Old Man of the Mountain Historic Site \u2014 not to be confused with Echo Lake State Park in North Conway, a different lake of the same name.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.177122%2C%20-71.695611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695611,
+          44.177122
         ]
       }
     },
@@ -8781,6 +8981,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Franconia Notch View Franconia NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A pull-off view of Franconia Notch near the Old Man of the Mountain Historic Site and Profile Lake.",
+        "start_date_time": "",
+        "detail": "Franconia Notch View\n\n\ud83d\udccd Franconia Notch State Park, Franconia, NH\n\nA pull-off view of Franconia Notch near the Old Man of the Mountain Historic Site and Profile Lake.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.17004%2C%20-71.686046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.686046,
+          44.17004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Franklin D Roosevelt State Park Yorktown Heights, NY",
         "icon": "trees",
         "color": "green",
@@ -9170,6 +9390,26 @@
         "coordinates": [
           -71.4859,
           43.6859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilmanton NH 107 Scenic View",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A scenic pull-off on NH Route 107 in Gilmanton, in the Lakes Region south of Alton Bay.",
+        "start_date_time": "",
+        "detail": "Gilmanton NH 107\n\n\ud83d\udccd NH Route 107, Gilmanton, NH\n\nA scenic pull-off on NH Route 107 in Gilmanton, in the Lakes Region south of Alton Bay.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.393651%2C%20-71.366029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.366029,
+          43.393651
         ]
       }
     },
@@ -9868,6 +10108,26 @@
         "coordinates": [
           -73.93057693155265,
           41.849693847214894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hancock Scenic Overlook Kancamagus NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A named overlook along the Kancamagus Highway, near the vault's existing Sugar Hill Scenic Vista pull-off.",
+        "start_date_time": "",
+        "detail": "Hancock Scenic Overlook\n\n\ud83d\udccd Kancamagus Hwy, NH\n\nA named overlook along the Kancamagus Highway, near the vault's existing Sugar Hill Scenic Vista pull-off.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.034771%2C%20-71.516449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.516449,
+          44.034771
         ]
       }
     },
@@ -10593,6 +10853,26 @@
         "coordinates": [
           -74.1328,
           41.8295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Point Rindge NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A named viewpoint in the Monadnock Region near Rindge, close to Cathedral of the Pines \u2014 not independently verified beyond its source coordinates. Same far-outlier geography note as Cathedral of the Pines above.",
+        "start_date_time": "",
+        "detail": "High Point\n\n\ud83d\udccd Rindge, NH (Monadnock Region)\n\nA named viewpoint in the Monadnock Region near Rindge, close to Cathedral of the Pines \u2014 not independently verified beyond its source coordinates. Same far-outlier geography note as Cathedral of the Pines above.",
+        "website": "https://www.google.com/maps/search/?api=1&query=42.769116%2C%20-71.776106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.776106,
+          42.769116
         ]
       }
     },
@@ -11633,6 +11913,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jefferson NH 115 Scenic View",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A scenic pull-off on NH Route 115 in Jefferson, with views toward the Presidential Range.",
+        "start_date_time": "",
+        "detail": "Jefferson NH 115\n\n\ud83d\udccd NH Route 115, Jefferson, NH\n\nA scenic pull-off on NH Route 115 in Jefferson, with views toward the Presidential Range.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.347714%2C%20-71.519183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.519183,
+          44.347714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jeffersonville Bridge Cambridge VT",
         "icon": "scroll",
         "color": "green",
@@ -11738,7 +12038,7 @@
         "vault_type": "Historical",
         "description": "A Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent Gilded Age summer families, listed on the National Register of Historic Places.",
         "start_date_time": "",
-        "detail": "John Innes Kane Cottage\n\n\ud83d\udccd Bar Harbor, ME\n\nA Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.\n\nTips\n- Private property \u2014 a drive/walk-past landmark, not a stop with public access.\n\nStory (Shore Path stop 8)\n\nNow you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass \u2014 Tudor-style, built in nineteen-oh-three and nineteen-oh-four for John Innes Kane, whose own great-grandfather was John Jacob Astor, once the richest man in America. Kane didn't work; the New York Times once described his interests as \"scientific matters, especially those dealing with discovery and exploration.\" He married Annie Cottenet Schermerhorn in a wedding gown made by the famous Parisian designer Charles Frederick Worth, and died in New York in nineteen thirteen.\n\nUnlike most of the architects on this walk, who came from Boston and New York, Kane's house was designed by a local man \u2014 Fred L. Savage, Bar Harbor's own architect, working for some of the wealthiest families in the country. And unlike Shore Acres, the original Grant cottage, or so many of the others you've passed, this one is a genuine survivor: it's one of only a small number of Bar Harbor estate houses that made it through the devastating fire of nineteen forty-seven still standing. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed.",
+        "detail": "John Innes Kane Cottage\n\n\ud83d\udccd Bar Harbor, ME\n\nA Gilded Age \"cottage\" built for the Kane family, one of Bar Harbor's prominent turn-of-the-century summer residents, listed on the National Register of Historic Places.\n\nTips\n- Private property \u2014 a drive/walk-past landmark, not a stop with public access.\n\nStory (Shore Path stop 8)\n\nNow you're at the southern stretch of the walk, and this is one of the best-preserved cottages you'll pass \u2014 Tudor-style, built in nineteen-oh-three and nineteen-oh-four for John Innes Kane, whose own great-grandfather was John Jacob Astor, once the richest man in America. Kane didn't work; the New York Times once described his interests as \"scientific matters, especially those dealing with discovery and exploration.\" He married Annie Cottenet Schermerhorn in a wedding gown made by the famous Parisian designer Charles Frederick Worth, and died in New York in nineteen thirteen.\n\nUnlike most of the architects on this walk, who came from Boston and New York, Kane's house was designed by a local man \u2014 Fred L. Savage, Bar Harbor's own architect, working for some of the wealthiest families in the country. And unlike Shore Acres, the original Grant cottage, or so many of the others you've passed, this one is a genuine survivor: it's one of only a small number of Bar Harbor estate houses that made it through the devastating fire of nineteen forty-seven still standing. It's private property and it's listed on the National Register of Historic Places, so admire it from the path rather than the driveway.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!John Innes Kane Cottage narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed.\n\nDeep Dives\n\nOptional, on-demand backgrounders \u2014 not part of the core stop, only for a listener who wants to go deeper:\n- Who was John Jacob Astor? \u2014 Kane's great-grandfather, and the immigrant fortune behind this house",
         "website": "https://www.google.com/maps/search/?api=1&query=44.3858%2C%20-68.1981"
       },
       "geometry": {
@@ -12284,6 +12584,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kinsman Notch View North Woodstock NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A viewpoint on NH Route 112 at Kinsman Notch, near Lost River Gorge & Boulder Caves.",
+        "start_date_time": "",
+        "detail": "Kinsman Notch View\n\n\ud83d\udccd NH Route 112, North Woodstock, NH\n\nA viewpoint on NH Route 112 at Kinsman Notch, near Lost River Gorge & Boulder Caves.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.039964%2C%20-71.791964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.791964,
+          44.039964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Kitty's Market Hudson, NY",
         "icon": "shopping-bag",
         "color": "purple",
@@ -12817,6 +13137,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Libby Museum View Tuftonboro NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A Lake Winnipesaukee viewpoint near the Libby Museum in Tuftonboro, close to Wolfeboro.",
+        "start_date_time": "",
+        "detail": "Libby Museum View\n\n\ud83d\udccd Tuftonboro, NH\n\nA Lake Winnipesaukee viewpoint near the Libby Museum in Tuftonboro, close to Wolfeboro.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.614089%2C%20-71.258566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.258566,
+          43.614089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Liberal Cup Brewpub Hallowell ME",
         "icon": "beer",
         "color": "red",
@@ -13182,8 +13522,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.6008,
-          43.7204
+          -71.610013,
+          43.72394
         ]
       }
     },
@@ -13598,6 +13938,26 @@
         "coordinates": [
           -68.2558,
           44.3859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Falls Albany NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "The Kancamagus Highway's most popular swimming hole \u2014 the Swift River drops over smooth granite into a large pool. The Lower Falls Recreation Site has an 80-car lot, restrooms, and picnic tables.",
+        "start_date_time": "",
+        "detail": "Lower Falls\n\n\ud83d\udccd Kancamagus Hwy, Albany, NH\n\nThe Kancamagus Highway's most popular swimming hole \u2014 the Swift River drops over smooth granite into a large pool. The Lower Falls Recreation Site has an 80-car lot, restrooms, and picnic tables.\n\nTips\n- Very popular and crowded in summer \u2014 arrive early.\n- Check the current before swimming: dangerous when the Swift River is running high.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.0152119%2C%20-71.2447949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2447949,
+          44.0152119
         ]
       }
     },
@@ -15918,6 +16278,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mount Kearsarge NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A 2,937-foot granite dome in Wilmot/Warner, NH, with a fire tower and 360-degree summit views, reachable via Rollins State Park's auto road or the Winslow Trail. (Note: KMZ source spelled this \"Kearsage\" \u2014 the mountain's actual name is Kearsarge.)",
+        "start_date_time": "",
+        "detail": "Mount Kearsarge\n\n\ud83d\udccd Wilmot/Warner, NH\n\nA 2,937-foot granite dome in Wilmot/Warner, NH, with a fire tower and 360-degree summit views, reachable via Rollins State Park's auto road or the Winslow Trail. (Note: KMZ source spelled this \"Kearsage\" \u2014 the mountain's actual name is Kearsarge.)",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.347386%2C%20-71.848708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.848708,
+          43.347386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mount Lafayette Franconia Notch NH",
         "icon": "mountain",
         "color": "green",
@@ -16097,6 +16477,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mount Washington Cruises Weirs Beach NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Home port of the M/S Mount Washington, a scenic and dinner excursion ship on Lake Winnipesaukee running 1-3 hour cruises mid-May through late October, with stops at Wolfeboro, Alton Bay, Center Harbor, and Meredith Bay.",
+        "start_date_time": "",
+        "detail": "Mount Washington Cruises\n\n\ud83d\udccd 211 Lakeside Ave, Weirs Beach, Laconia, NH\n\nHome port of the M/S Mount Washington, a scenic and dinner excursion ship on Lake Winnipesaukee running 1-3 hour cruises mid-May through late October, with stops at Wolfeboro, Alton Bay, Center Harbor, and Meredith Bay.\n\nTips\n- 211 Lakeside Ave, Weirs Beach, NH 03246 \u2014 (603) 366-5531.\n- Sunset and foliage cruises are the most popular; book ahead in peak season.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.6074712%2C%20-71.4588475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4588475,
+          43.6074712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mount Washington Golf Course Bretton Woods NH",
         "icon": "mountain",
         "color": "green",
@@ -16111,6 +16511,26 @@
         "coordinates": [
           -71.4448,
           44.2552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Washington Hotel View Bretton Woods NH",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A classic roadside photo viewpoint of the Omni Mount Washington Resort (the historic 1902 Mount Washington Hotel) with the Presidential Range behind it \u2014 a different vantage point than the resort's own entrance, already in the vault as Omni Mount Washington Resort.",
+        "start_date_time": "",
+        "detail": "Mount Washington Hotel View\n\n\ud83d\udccd Bretton Woods, NH\n\nA classic roadside photo viewpoint of the Omni Mount Washington Resort (the historic 1902 Mount Washington Hotel) with the Presidential Range behind it \u2014 a different vantage point than the resort's own entrance, already in the vault as Omni Mount Washington Resort.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.254717%2C%20-71.44856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44856,
+          44.254717
         ]
       }
     },
@@ -16345,6 +16765,66 @@
         "coordinates": [
           -69.1095652,
           44.1013604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NH 11 Alton Bay Scenic View",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A Lake Winnipesaukee viewpoint on NH Route 11 in Alton Bay.",
+        "start_date_time": "",
+        "detail": "NH 11 Alton Bay\n\n\ud83d\udccd NH Route 11, Alton Bay, NH\n\nA Lake Winnipesaukee viewpoint on NH Route 11 in Alton Bay.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.515695%2C%20-71.266857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.266857,
+          43.515695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NH 118 in Warren Scenic View",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A scenic pull-off on NH Route 118 in Warren, near Mount Moosilauke.",
+        "start_date_time": "",
+        "detail": "NH 118 in Warren\n\n\ud83d\udccd NH Route 118, Warren, NH\n\nA scenic pull-off on NH Route 118 in Warren, near Mount Moosilauke.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.976503%2C%20-71.784625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.784625,
+          43.976503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NH 171 Vista Tuftonboro NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A scenic pull-off on NH Route 171 in the Lakes Region, near Tuftonboro and Moultonborough.",
+        "start_date_time": "",
+        "detail": "NH 171 Vista\n\n\ud83d\udccd NH Route 171, Tuftonboro/Moultonborough, NH\n\nA scenic pull-off on NH Route 171 in the Lakes Region, near Tuftonboro and Moultonborough.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.717706%2C%20-71.313643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.313643,
+          43.717706
         ]
       }
     },
@@ -17132,6 +17612,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ordination Rock Tamworth NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A 20-foot glacial boulder marking the 1792 ordination of Rev. Samuel Hidden, Tamworth's first minister, topped by an 1862 marble obelisk; listed on the National Register of Historic Places.",
+        "start_date_time": "",
+        "detail": "Ordination Rock\n\n\ud83d\udccd Cleveland Hill Rd near Hill Hollow Rd, Tamworth, NH\n\nA 20-foot glacial boulder marking the 1792 ordination of Rev. Samuel Hidden, Tamworth's first minister, topped by an 1862 marble obelisk; listed on the National Register of Historic Places.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.8550197%2C%20-71.2798284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2798284,
+          43.8550197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Orford Street Historic District Orford NH",
         "icon": "scroll",
         "color": "green",
@@ -17539,6 +18039,26 @@
         "coordinates": [
           -68.2207612445033,
           44.394195138128055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pack Monadnock Peterborough NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Miller State Park's 2,290-foot summit (New Hampshire's oldest state park), reached by a 1.3-mile auto road, with a fire tower and views to Boston, Mount Washington, and Mount Monadnock.",
+        "start_date_time": "",
+        "detail": "Pack Monadnock\n\n\ud83d\udccd Miller State Park, Peterborough, NH\n\nMiller State Park's 2,290-foot summit (New Hampshire's oldest state park), reached by a 1.3-mile auto road, with a fire tower and views to Boston, Mount Washington, and Mount Monadnock.",
+        "website": "https://www.google.com/maps/search/?api=1&query=42.86206%2C%20-71.878457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.878457,
+          42.86206
         ]
       }
     },
@@ -18033,6 +18553,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pemi Scenic Overlook Kancamagus NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A named overlook along the Kancamagus Highway near Mount Kancamagus, close to the vault's existing Sugar Hill and Wangan overlooks.",
+        "start_date_time": "",
+        "detail": "Pemi Scenic Overlook\n\n\ud83d\udccd Kancamagus Hwy, NH\n\nA named overlook along the Kancamagus Highway near Mount Kancamagus, close to the vault's existing Sugar Hill and Wangan overlooks.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.026257%2C%20-71.49472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.49472,
+          44.026257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemi Valley Excursions Lincoln NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Guided nightly moose-spotting bus tours (also marketed as Pemi Valley Moose Tours) through the White Mountains, 2.5-3 hours, with roughly a 90% moose-sighting success rate, spring through fall.",
+        "start_date_time": "",
+        "detail": "Pemi Valley Excursions\n\n\ud83d\udccd 136 Main St, Lincoln, NH\n\nGuided nightly moose-spotting bus tours (also marketed as Pemi Valley Moose Tours) through the White Mountains, 2.5-3 hours, with roughly a 90% moose-sighting success rate, spring through fall.\n\nTips\n- 136 Main St, Lincoln, NH 03251 \u2014 (603) 745-2744, reservations at moosetoursnh.com.\n- Includes a restroom break partway through; bring bug spray for dusk departures.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.0403127%2C%20-71.6724118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6724118,
+          44.0403127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Penny Lake Boothbay ME",
         "icon": "gem",
         "color": "green",
@@ -18346,6 +18906,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pinkham Notch View NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A pull-off view in Pinkham Notch on NH Route 16, near Glen Ellis Falls and the base of Mount Washington's eastern approach.",
+        "start_date_time": "",
+        "detail": "Pinkham Notch View\n\n\ud83d\udccd NH Route 16, Pinkham Notch, NH\n\nA pull-off view in Pinkham Notch on NH Route 16, near Glen Ellis Falls and the base of Mount Washington's eastern approach.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.249707%2C%20-71.253778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.253778,
+          44.249707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Piper Stream Preserve Northport ME",
         "icon": "footprints",
         "color": "green",
@@ -18594,6 +19174,26 @@
         "coordinates": [
           -71.8105,
           44.1532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polly's Pancake Parlor View Sugar Hill NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A Sugar Hill ridgeline pull-off near Polly's Pancake Parlor, looking across the Franconia range \u2014 not the restaurant itself, which sits roughly 5 miles away and is already in the vault as its own note.",
+        "start_date_time": "",
+        "detail": "Polly's Pancake Parlor View\n\n\ud83d\udccd Sugar Hill, NH\n\nA Sugar Hill ridgeline pull-off near Polly's Pancake Parlor, looking across the Franconia range \u2014 not the restaurant itself, which sits roughly 5 miles away and is already in the vault as its own note.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.221096%2C%20-71.774465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.774465,
+          44.221096
         ]
       }
     },
@@ -18949,6 +19549,26 @@
         "coordinates": [
           -70.2526804,
           43.6570114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portsmouth Harbor Lighthouse View NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A viewpoint near the mouth of Portsmouth Harbor, close to Whaleback Ledge Lighthouse (already in the vault, on the Maine side of the harbor entrance).",
+        "start_date_time": "",
+        "detail": "Portsmouth Lighthouse View\n\n\ud83d\udccd New Castle, NH (Portsmouth Harbor)\n\nA viewpoint near the mouth of Portsmouth Harbor, close to Whaleback Ledge Lighthouse (already in the vault, on the Maine side of the harbor entrance).",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.06947%2C%20-70.71288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71288,
+          43.06947
         ]
       }
     },
@@ -19660,6 +20280,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Redstone Rocket Warren NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "A retired US Army Redstone missile on public display in the village center since 1971, brought to Warren by a local soldier who had served at Redstone Arsenal; honors Alan Shepard, the Derry, NH-born Mercury astronaut.",
+        "start_date_time": "",
+        "detail": "Redstone Rocket\n\n\ud83d\udccd Village center, Warren, NH\n\nA retired US Army Redstone missile on public display in the village center since 1971, brought to Warren by a local soldier who had served at Redstone Arsenal; honors Alan Shepard, the Derry, NH-born Mercury astronaut.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.9252256%2C%20-71.8915111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8915111,
+          43.9252256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Redwood Cottage Bar Harbor ME",
         "icon": "scroll",
         "color": "green",
@@ -19693,6 +20333,26 @@
         "coordinates": [
           -68.2012,
           44.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reflection Pond Shelburne NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A Route 2 pull-off pond view in Shelburne, east of Gorham, known for mountain reflections on the water and sunset photography. Managed by NH Fish and Game.",
+        "start_date_time": "",
+        "detail": "Reflection Pond\n\n\ud83d\udccd Route 2, Shelburne, NH\n\nA Route 2 pull-off pond view in Shelburne, east of Gorham, known for mountain reflections on the water and sunset photography. Managed by NH Fish and Game.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.39606%2C%20-71.120467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120467,
+          44.39606
         ]
       }
     },
@@ -20791,6 +21451,26 @@
         "coordinates": [
           -71.3932,
           43.9974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saco Lake Crawford Notch NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "The headwaters of the Saco River, at the height of land in Crawford Notch near the AMC Highland Center.",
+        "start_date_time": "",
+        "detail": "Saco Lake\n\n\ud83d\udccd Crawford Notch, NH\n\nThe headwaters of the Saco River, at the height of land in Crawford Notch near the AMC Highland Center.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.218031%2C%20-71.410647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.410647,
+          44.218031
         ]
       }
     },
@@ -22342,6 +23022,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Silver Cascade Hart's Location NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A roadside waterfall on Route 302 in Crawford Notch, close to and often visited alongside Flume Cascade \u2014 likely the most visited and best-known waterfall in the Crawford Notch area, visible directly from large pullouts on either side of the highway bridge.",
+        "start_date_time": "",
+        "detail": "Silver Cascade\n\n\ud83d\udccd Route 302, Hart's Location, NH\n\nA roadside waterfall on Route 302 in Crawford Notch State Park, about a mile south of the height of land \u2014 close to and often visited alongside Flume Cascade nearby. Likely the most visited and best-known waterfall in the Crawford Notch area; large pullouts sit on either side of the highway bridge that carries the road over the falls' stream.\n\nTips\n- Easy scrambling on the bare rock to the right of the stream reaches the immediate base of the falls.\n- Was blank/placeholder in the vault until 2026-08-21 \u2014 coordinates and description added then, sourced from public waterfall references, not yet visited in person.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.206458%2C%20-71.403177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.403177,
+          44.206458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Silvia Woodstock, NY",
         "icon": "sandwich",
         "color": "red",
@@ -22901,6 +23601,26 @@
         "coordinates": [
           -68.1976,
           44.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springfield Rest Area NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A highway rest area/pull-off in Springfield, NH, near Lake Sunapee \u2014 noted as a stop by the source map, not independently researched beyond its coordinates.",
+        "start_date_time": "",
+        "detail": "Springfield Rest Area\n\n\ud83d\udccd Springfield, NH\n\nA highway rest area/pull-off in Springfield, NH, near Lake Sunapee \u2014 noted as a stop by the source map, not independently researched beyond its coordinates.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.467964%2C%20-72.102199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.102199,
+          43.467964
         ]
       }
     },
@@ -23552,6 +24272,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sugar Hill Scenic Overlook Kancamagus NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A Kancamagus Highway overlook roughly 6 miles east of the vault's existing \"Sugar Hill Scenic Vista\" pull-off \u2014 likely a distinct named overlook rather than the same spot; worth confirming on the ground which is which before combining them.",
+        "start_date_time": "",
+        "detail": "Sugar Hill Scenic Overlook\n\n\ud83d\udccd Kancamagus Hwy, NH\n\nA Kancamagus Highway overlook roughly 6 miles east of the vault's existing \"Sugar Hill Scenic Vista\" pull-off \u2014 likely a distinct named overlook rather than the same spot; worth confirming on the ground which is which before combining them.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.009666%2C%20-71.427666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.427666,
+          44.009666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sugar Hill Scenic Vista Kancamagus NH",
         "icon": "mountain",
         "color": "green",
@@ -23631,6 +24371,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Sunapee Boat Launch NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A boat launch and lake view on Lake Sunapee.",
+        "start_date_time": "",
+        "detail": "Sunapee Boat Launch\n\n\ud83d\udccd Lake Sunapee, NH\n\nA boat launch and lake view on Lake Sunapee.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.3855333333333%2C%20-72.0803333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0803333333333,
+          43.3855333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunapee Lake NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A Lake Sunapee shoreline viewpoint.",
+        "start_date_time": "",
+        "detail": "Sunapee Lake\n\n\ud83d\udccd Lake Sunapee, NH\n\nA Lake Sunapee shoreline viewpoint.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.43005%2C%20-72.06675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06675,
+          43.43005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sundew Trail Schoodic ME",
         "icon": "gem",
         "color": "green",
@@ -23684,6 +24464,26 @@
         "coordinates": [
           -71.6454,
           43.8592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Hill Sugar Hill NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "A ridgeline viewpoint in Sugar Hill near the Toad Hill Farm venue, with sweeping views of the Franconia range \u2014 distinct from the unrelated Sunset Hill in Plymouth, NH already in the vault.",
+        "start_date_time": "",
+        "detail": "Sunset Hill\n\n\ud83d\udccd Sugar Hill, NH\n\nA ridgeline viewpoint in Sugar Hill near the Toad Hill Farm venue, with sweeping views of the Franconia range \u2014 distinct from the unrelated Sunset Hill in Plymouth, NH already in the vault.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.211341%2C%20-71.787385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.787385,
+          44.211341
         ]
       }
     },
@@ -24702,7 +25502,7 @@
         "vault_type": "Historical",
         "description": "Site of The Briars, the rented cottage where Nelson Rockefeller (later Governor of New York and U.S. Vice President) was born in 1908, to John D. Rockefeller Jr. and Abby Aldrich Rockefeller. The main house was eventually demolished.",
         "start_date_time": "",
-        "detail": "\ud83d\udccd Shore Path, Bar Harbor, ME \u2014 stop 4 \u2014 coordinates approximate, positioned along the known path corridor\n\nStory\n\nSomewhere near here once stood a cottage called The Briars, also known as Briarcliffe, built in eighteen eighty-one for a Boston family named Sears \u2014 designed, like the Reading Room building back at the start of this walk, by the same architect, William Ralph Emerson.\n\nIn the summer of nineteen-oh-eight, a young couple stayed here \u2014 John D. Rockefeller Junior and his wife Abby \u2014 and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.\n\nAround this same period, the estate passed to another family with its own famous story: a Colorado mining fortune bought it for a young couple named Evalyn and Ned McLean \u2014 the same Evalyn Walsh McLean who would soon buy the Hope Diamond and wear it for the rest of her life. Sources don't fully agree on exactly how the McLean and Rockefeller stays here line up in time, so take that overlap as a real but slightly tangled thread rather than a tidy timeline.\n\nSee Bar Harbor City Narrative Bible \u2014 this is the same John D. Rockefeller Jr. who financed the carriage roads, and whose family money also helped move Beatrix Farrand's Reef Point garden, another stop on this same walk.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed."
+        "detail": "\ud83d\udccd Shore Path, Bar Harbor, ME \u2014 stop 4 \u2014 coordinates approximate, positioned along the known path corridor\n\nStory\n\nSomewhere near here once stood a cottage called The Briars, also known as Briarcliffe, built in eighteen eighty-one for a Boston family named Sears \u2014 designed, like the Reading Room building back at the start of this walk, by the same architect, William Ralph Emerson.\n\nIn the summer of nineteen-oh-eight, a young couple stayed here \u2014 John D. Rockefeller Junior and his wife Abby \u2014 and their doctor insisted they be in Maine for the birth of their child. Their son was born right here. His name was Nelson Rockefeller, and he'd go on to become a state governor and the Vice President of the United States. The same Rockefeller who later built forty-five miles of carriage roads through the mountains you can see from certain points on this walk started his life on this exact stretch of shoreline.\n\nAround this same period, the estate passed to another family with its own famous story: a Colorado mining fortune bought it for a young couple named Evalyn and Ned McLean \u2014 the same Evalyn Walsh McLean who would soon buy the Hope Diamond and wear it for the rest of her life. Sources don't fully agree on exactly how the McLean and Rockefeller stays here line up in time, so take that overlap as a real but slightly tangled thread rather than a tidy timeline.\n\nSee Bar Harbor City Narrative Bible \u2014 this is the same John D. Rockefeller Jr. who financed the carriage roads, and whose family money also helped move Beatrix Farrand's Reef Point garden, another stop on this same walk.\n\nAudio\n\nOnce the script above is rendered in Fish Audio, embed the resulting file here, e.g. `!The Briars narration.mp3` \u2014 Obsidian renders a native play button automatically, no plugin needed.\n\nDeep Dives\n\nOptional, on-demand backgrounders \u2014 not part of the core stop, only for a listener who wants to go deeper:\n- The Hope Diamond, cursed or not \u2014 the diamond, the Bar Harbor rowboat story, and the real tragedies that followed its owner"
       },
       "geometry": {
         "type": "Point",
@@ -27380,6 +28180,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wangan Scenic Overlook Kancamagus NH",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A named overlook along the Kancamagus Highway near Mount Kancamagus and the vault's existing Pemi/Sugar Hill/Hancock overlooks.",
+        "start_date_time": "",
+        "detail": "Wangan Scenic Overlook\n\n\ud83d\udccd Kancamagus Hwy, NH\n\nA named overlook along the Kancamagus Highway near Mount Kancamagus and the vault's existing Pemi/Sugar Hill/Hancock overlooks.",
+        "website": "https://www.google.com/maps/search/?api=1&query=44.02355%2C%20-71.492345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.492345,
+          44.02355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wantastiquet Mountain Natural Area Woodstock VT",
         "icon": "footprints",
         "color": "green",
@@ -27649,6 +28469,26 @@
         "coordinates": [
           -71.5786,
           44.4494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weir's Beach Laconia NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Beach",
+        "description": "The public beach in Weirs Beach village on Lake Winnipesaukee, home port of the M/S Mount Washington cruise ship and the Winnipesaukee boardwalk/arcade strip.",
+        "start_date_time": "",
+        "detail": "Weir's Beach\n\n\ud83d\udccd Weirs Beach, Laconia, NH\n\nThe public beach in Weirs Beach village on Lake Winnipesaukee, home port of the M/S Mount Washington cruise ship and the Winnipesaukee boardwalk/arcade strip.",
+        "website": "https://www.google.com/maps/search/?api=1&query=43.605326%2C%20-71.457417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.457417,
+          43.605326
         ]
       }
     },
@@ -29393,6 +30233,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u2705 McKay's Public House Bar Harbor ME (Visit 2)",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "McKay's Public House is a gastropub offering a range of seafood and traditional American dishes. Prices are expected to be between $20 and $60 per person. The restaurant is open for dinner from 5 PM to 9 PM, seven days a week, and serves alcohol.",
+        "start_date_time": "2026-08-21T18:30:00",
+        "detail": "Time: 2026-08-21T18:30:00\n\nSecond visit \u2014 the first McKay's booking (Aug 20) was cancelled and replaced by Brasserie LeBrun; see that note for the original. This is a new, separate reservation for the following night, confirmation #91079, which replaces the phone-confirmed \"Dinner\" booking as tonight's active plan.",
+        "website": "https://www.google.com/maps/place/McKay's+Public+House/@44.3859796,-68.206932,1562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4caebf6492582427:0x80ad63b609992caa!8m2!3d44.3859796!4d-68.2043571!16s%2Fg%2F1th6dfs_?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20437563990602,
+          44.38630193556034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u2705 Mooncussers Tavern Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -30490,13 +31350,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2764\ufe0f Dinner Bar Harbor ME",
+        "name": "\u2764\ufe0f\u274c Dinner Bar Harbor ME",
         "icon": "utensils",
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-21T19:00:00",
-        "detail": "Time: 2026-08-21T19:00:00\n\nWhat it is:\u00a0A highly-rated American restaurant known for its flavorful, \"home-cooked\" style cuisine, with standout dishes including lobster risotto, schnitzel, curry mussels, and panko-encrusted halibut.\n\nCustomers:\u00a0Attracts locals and travelers alike, including world travelers and families looking for a high-quality, memorable dining experience in a welcoming setting.\n\nVibe:\u00a0Small-town energy; warm, unpretentious atmosphere where food is described as being \"cooked with love.\"\n\nStrongest positives:\n\n- Exceptional, flavorful food that many reviewers rank among the best they have ever eaten\n- Very kind, friendly, and attentive staff\n- Highly praised signature dishes like lobster risotto, schnitzel, and French onion soup\n- Great \"small-town\" atmosphere\n\nDownsides:\n\n- No significant recurring issues or downsides identified in recent reviews.\n\nNote: Reservation confirmed by telephone \u2014 (207) 901-0018. No email confirmation exists for this booking.",
+        "detail": "Time: 2026-08-21T19:00:00\n\n[!failure] Replaced 2026-08-21\nTom booked McKay's Public House via OpenTable (confirmation #91079, 6:30 PM) for the same night \u2014 this phone-confirmed 7:00 PM booking is not being used. `start-date-time` kept above for historical record; `reservation` set to false and `day` cleared so this no longer shows as an active reservation.\n\nWhat it is:\u00a0A highly-rated American restaurant known for its flavorful, \"home-cooked\" style cuisine, with standout dishes including lobster risotto, schnitzel, curry mussels, and panko-encrusted halibut.\n\nCustomers:\u00a0Attracts locals and travelers alike, including world travelers and families looking for a high-quality, memorable dining experience in a welcoming setting.\n\nVibe:\u00a0Small-town energy; warm, unpretentious atmosphere where food is described as being \"cooked with love.\"\n\nStrongest positives:\n\n- Exceptional, flavorful food that many reviewers rank among the best they have ever eaten\n- Very kind, friendly, and attentive staff\n- Highly praised signature dishes like lobster risotto, schnitzel, and French onion soup\n- Great \"small-town\" atmosphere\n\nDownsides:\n\n- No significant recurring issues or downsides identified in recent reviews.\n\nNote: Reservation confirmed by telephone \u2014 (207) 901-0018. No email confirmation exists for this booking.",
         "website": "https://www.google.com/maps/place/Dinner/@44.3886629,-68.2235514,1584m/data=!3m2!1e3!5s0x4caebf79398c221d:0x760efaa8d0294f9f!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4caebf005b379c81:0xc72ad7b501a68b23!8m2!3d44.3886633!4d-68.2140236!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVrVmxwNmFHeGxha0V5V2pCV1psWXdkRnBaTTJod1dqQkdkMW94UlJBQuABAPoBBAguEEM!16s%2Fg%2F11vxy0p6s6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
