@@ -241,6 +241,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Abenaki and Perimeter Trail Loop North Conway NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Well-marked, shaded network of nature trails (2.8-mile loop, ~1 hour 15 min) through quiet town conservation land at Whitaker Woods.",
+        "start_date_time": "",
+        "detail": "Abenaki and Perimeter Trail Loop (Whitaker Woods)\n\n\ud83d\udccd North Conway NH\n\nWell-marked, shaded network of nature trails (2.8-mile loop, ~1 hour 15 min) through quiet town conservation land at Whitaker Woods. The Perimeter Trail flanks the north border of Whitaker Woods, connecting central North Conway with the Cranmore/Eastside trail network.\n\nTips\n- Shaded and well-marked \u2014 good on a hot day.\n- Connects to the wider Whitaker Woods/Eastside Trails network if more distance is wanted.",
+        "website": "https://www.trailforks.com/trails/abenaki-650231/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13061,
+          44.06102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Abraham and Maria LeFevre House Gardiner NY",
         "icon": "scroll",
         "color": "green",
@@ -2832,6 +2852,26 @@
         "coordinates": [
           -69.964488,
           43.913512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Cap Trail North Conway NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Low-effort, high-reward hike (2.3 miles out-and-back, ~1 hour) to wide-open granite ledges and panoramic mountain vistas, via Hurricane Mountain Road.",
+        "start_date_time": "",
+        "detail": "Black Cap Trail\n\n\ud83d\udccd Hurricane Mountain Rd, North Conway NH\n\nLow-effort, high-reward hike (2.3 miles out-and-back, ~1 hour) to wide-open granite ledges and panoramic mountain vistas, starting from the trailhead parking lot on Hurricane Mountain Road.\n\nTips\n- Short and low-effort for the payoff \u2014 wide-open ledge views without a long climb.\n- Trailhead parking lot is at the peak of Hurricane Mountain Road.",
+        "website": "https://www.alltrails.com/trail/us/new-hampshire/black-cap-and-cranmore-mountain-via-black-cap-trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07185,
+          44.06845
         ]
       }
     },
@@ -7029,12 +7069,12 @@
       "type": "Feature",
       "properties": {
         "name": "Diana's Baths Bartlett NH",
-        "icon": "shopping-bag",
+        "icon": "footprints",
         "color": "purple",
-        "vault_type": "Shop",
-        "description": "Easy 1.2-mile family-friendly hike to a series of cascading granite pools and small waterfalls in White Mountain National Forest.",
+        "vault_type": "Footpath",
+        "description": "Wide, smooth gravel path (1.3 miles out-and-back, ~30-45 min) leading to cascading waterfalls, granite pools, and Lucy Brook in White Mountain National Forest.",
         "start_date_time": "",
-        "detail": "Diana's Baths\n\n\ud83d\udccd Bartlett NH\n\nEasy 1.2-mile family-friendly hike to a series of cascading granite pools and small waterfalls in White Mountain National Forest.\n\nTips\n- Easy, family-friendly \u2014 good for kids.\n- Can be combined with the Echo Lake/Cathedral Ledge loop for a longer hike."
+        "detail": "Diana's Baths Trail\n\n\ud83d\udccd Bartlett NH\n\nWide, smooth gravel path (1.3 miles out-and-back, ~30-45 min) leading to cascading waterfalls, granite pools, and Lucy Brook in White Mountain National Forest.\n\nTips\n- Easy, family-friendly \u2014 good for kids, and gentle enough for anyone avoiding strenuous hikes.\n- Can be combined with the Echo Lake/Cathedral Ledge loop for a longer hike."
       },
       "geometry": {
         "type": "Point",
@@ -7748,12 +7788,12 @@
       "type": "Feature",
       "properties": {
         "name": "Echo Lake State Park North Conway NH",
-        "icon": "shopping-bag",
+        "icon": "footprints",
         "color": "green",
-        "vault_type": "Shop",
-        "description": "Small, scenic state park centered on a quiet glacial lake beneath Cathedral and Whitehorse Ledges, with swimming, picnicking, and easy walking trails.",
+        "vault_type": "Footpath",
+        "description": "Flat, 1.0-mile perimeter loop (~20-30 min) circling Echo Lake with direct views looking up at Cathedral Ledge, within a small state park beneath Cathedral and Whitehorse Ledges that also offers swimming and picnicking.",
         "start_date_time": "",
-        "detail": "Echo Lake State Park\n\n\ud83d\udccd North Conway NH\n\nSmall, scenic state park centered on a quiet glacial lake beneath Cathedral and Whitehorse Ledges, with swimming, picnicking, and easy walking trails.\n\nTips\n- Good easy/relaxed option if not up for the full ledge loop.\n- Swimming spot in summer."
+        "detail": "Echo Lake Trail\n\n\ud83d\udccd North Conway NH\n\nFlat, 1.0-mile perimeter loop (~20-30 min) circling Echo Lake with direct views looking up at Cathedral Ledge, within a small state park beneath Cathedral and Whitehorse Ledges that also offers swimming and picnicking.\n\nTips\n- Good easy/relaxed option if not up for the full ledge loop.\n- Swimming spot in summer."
       },
       "geometry": {
         "type": "Point",
@@ -14197,6 +14237,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "MWV Rec Path North Conway NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Paved, smooth multi-use corridor (2.8 miles one-way, up to 5.6 miles round trip, flexible timing) running through scenic woods, wetlands, and open river views.",
+        "start_date_time": "",
+        "detail": "MWV Rec Path (Conway Recreational Path)\n\n\ud83d\udccd North Conway NH\n\nPaved, smooth multi-use corridor (2.8 miles one-way, up to 5.6 miles round trip, flexible) running through scenic woods, wetlands, and open river views. Runs from the Hemlock Lane trailhead (near Walmart) to Cranmore Mountain Resort, also accessible at Thompson Road.\n\nTips\n- Paved and flat \u2014 the easiest option of the group, good for strollers/wheelchairs/bikes too.\n- Flexible distance: walk any portion and turn back, no fixed loop.",
+        "website": "https://www.alltrails.com/trail/us/new-hampshire/conway-recreational-path"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11254,
+          44.05551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mac's Chatham Fish & Lobster MA",
         "icon": "sandwich",
         "color": "red",
@@ -19686,6 +19746,26 @@
         "coordinates": [
           -72.6817,
           44.6353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powerline, Whitaker Lane and Vista Trail North Conway NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Gently rolling, wide wooded trails (2.9-mile loop, ~1-1.5 hours) with pine needle footing, right off North Conway village.",
+        "start_date_time": "",
+        "detail": "Powerline, Whitaker Lane and Vista Trail\n\n\ud83d\udccd North Conway NH\n\nGently rolling, wide wooded trails (2.9-mile loop, ~1-1.5 hours) with pine needle footing, right off North Conway village.\n\nTips\n- Easy, wide footing \u2014 good for a relaxed woods walk without leaving the village area.\n- Coordinates are an approximate center point (from the AllTrails map view) rather than a single trailhead pin.",
+        "website": "https://www.alltrails.com/explore?b_br_lat=44.03040010315709&b_br_lng=-71.10540771209703&b_tl_lat=44.075018206544456&b_tl_lng=-71.13392368342738&diff[]=easy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1197,
+          44.0527
         ]
       }
     },
