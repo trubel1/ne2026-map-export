@@ -23746,13 +23746,33 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Squam Lake MarketPlace Holderness NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Local coffee shop, deli, and general store in Holderness \u2014 counter service, prepared sandwiches/salads, known for one of NH's best BLTs. Call ahead for pickup.",
+        "start_date_time": "2026-08-23T13:00:00",
+        "detail": "Time: 2026-08-23T13:00:00\n\nSquam Lake MarketPlace\n\n\ud83d\udccd 863 US Route 3, Holderness, NH 03245 \u00b7 (603) 968-8588\n\nQuick counter-service deli/general store, right near the Science Center \u2014 good fit for a rain-day lunch when the dog is staying in the car: order at the counter, no lingering required. 4.6\u2605 on Tripadvisor (#4 of 8 in Holderness). Known for local/craft beer, specialty coffee, and one of NH's best BLTs.\n\nTips\n- Call ahead for pickup \u2014 (603) 968-8588 \u2014 to skip the wait.\n- Seating is limited and mostly outdoors (picnic tables) \u2014 plan on takeout given the rain.\n- Also has a dock out back if arriving by boat.",
+        "website": "https://www.squammarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5861,
+          43.7322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Squam Lakes Natural Science Center Holderness NH",
         "icon": "landmark",
         "color": "green",
         "vault_type": "Attraction",
         "description": "A 200-acre nature center and wildlife park in Holderness, home to non-releasable native animals, walking trails, gardens, and pontoon-boat cruises on Squam Lake \u2014 where On Golden Pond was filmed.",
-        "start_date_time": "",
-        "detail": "Squam Lakes Natural Science Center\n\n\ud83d\udccd 23 Science Center Rd, Holderness, NH\n\nFounded in 1966, this 200-acre campus of fields, forests, ponds, and gardens is home to non-releasable native animals living in naturalistic habitats, plus accessible walking trails, Kirkwood Gardens, and the Blue Heron School. The \"Discover Squam\" pontoon-boat cruise covers the lake's history, geography, and its most famous claim to fame: On Golden Pond was filmed here over 40 years ago.\n\nTips\n- Lake cruises require advance reservations and payment \u2014 space is limited, book ahead.\n- Budget 2\u20133 hours for the trails and animal habitats alone.",
+        "start_date_time": "2026-08-23T10:15:00",
+        "detail": "Time: 2026-08-23T10:15:00\n\nSquam Lakes Natural Science Center\n\n\ud83d\udccd 23 Science Center Rd, Holderness, NH\n\nFounded in 1966, this 200-acre campus of fields, forests, ponds, and gardens is home to non-releasable native animals living in naturalistic habitats, plus accessible walking trails, Kirkwood Gardens, and the Blue Heron School. The \"Discover Squam\" pontoon-boat cruise covers the lake's history, geography, and its most famous claim to fame: On Golden Pond was filmed here over 40 years ago.\n\nTips\n- Lake cruises require advance reservations and payment \u2014 space is limited, book ahead.\n- Budget 2\u20133 hours for the trails and animal habitats alone.\n\nSun Aug 23 Day Plan\n- 9:00 AM \u2014 depart North Conway via NH Route 113 W (scenic byway, ~1hr-1hr15, hugs Squam Lake's north/west shore through Tamworth, Wonalancet, Sandwich, Center Sandwich)\n- ~10:15 AM \u2014 arrive, trails + animal habitats (rain day \u2014 mostly under tree cover; skip the pontoon cruise, weather-dependent)\n- 1:00 PM \u2014 quick lunch at Squam Lake MarketPlace, right nearby \u2014 dog stays in the car, counter service, in and out fast\n- ~2:15 PM \u2014 depart via Rt 113 E\n- ~3:30 PM \u2014 back in North Conway",
         "website": "https://www.google.com/maps/search/?api=1&query=43.7344%2C%20-71.5880"
       },
       "geometry": {
