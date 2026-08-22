@@ -19,6 +19,38 @@ node {
     [icon=sandwich] { icon-image: "poi_fast_food.svg"; }
     [icon=parking]  { icon-image: "poi_parking.svg"; }
 
+    /* Added 2026-08-22 -- these 23 values had no rule at all and were
+       rendering as Guru's default/no icon, most notably [icon=footprints]
+       (every Footpath/Trail note, 173 points) and [icon=landmark]
+       (189 points, the single most common value in the vault). Matched
+       against Guru's actual built-in icon set (GuruMaps/MapStyle repo,
+       Default.style/*.svg) rather than guessed. */
+    [icon=landmark]       { icon-image: "poi_tourism_attraction.svg"; }
+    [icon=footprints]     { icon-image: "poi_guidepost.svg"; }
+    [icon=mountain]       { icon-image: "poi_viewpoint.svg"; }
+    [icon=anchor]         { icon-image: "poi_lighthouse.svg"; }
+    [icon=waves]          { icon-image: "poi_waterfall.svg"; }
+    [icon=gem]            { icon-image: "poi_monument.svg"; }
+    [icon=leaf]           { icon-image: "poi_florist.svg"; }
+    [icon=beer]           { icon-image: "poi_pub.svg"; }
+    [icon=shopping-bag]   { icon-image: "poi_store.svg"; }
+    [icon=wine]           { icon-image: "poi_bar.svg"; }
+    [icon=trees]          { icon-image: "poi_tree.svg"; }
+    [icon=ship]           { icon-image: "poi_ferry.svg"; }
+    [icon=ticket]         { icon-image: "poi_theater.svg"; }
+    [icon=shopping-basket]{ icon-image: "poi_market.svg"; }
+    [icon=palette]        { icon-image: "poi_arts_centre.svg"; }
+    [icon=book]           { icon-image: "poi_book.svg"; }
+    [icon=store]          { icon-image: "poi_store.svg"; }
+    [icon=bar]            { icon-image: "poi_bar.svg"; }
+    [icon=shopping-cart]  { icon-image: "poi_supermarket.svg"; }
+    [icon=fuel]           { icon-image: "poi_gas_station.svg"; }
+    [icon=tent]           { icon-image: "poi_camping.svg"; }
+    [icon=train]          { icon-image: "poi_railway.svg"; }
+    [icon=grape]          { icon-image: "poi_bar.svg"; }
+    [icon=sailboat]       { icon-image: "poi_ferry.svg"; }
+    [icon=spotlight]      { icon-image: "poi_theater.svg"; }
+
     [color=red]    { icon-tint: red; }
     [color=blue]   { icon-tint: blue; }
     [color=green]  { icon-tint: green; }
