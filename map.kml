@@ -6731,6 +6731,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Glen House Veranda Gorham NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Glen%20House%20Veranda%20Gorham%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Glen House Veranda<br/><br/>📍 979 NH Route 16, Gorham NH (Pinkham Notch)<br/><br/>The Glen House hotel's outdoor veranda deck sits right at the base of Mt. Washington Auto Road, facing the Presidential Range dead-on — a good spot for coffee or lunch with a flat, step-free path from parking into the restaurant and out onto the deck.<br/><br/>Tips<br/>- Per the hotel's own site, entry into the restaurant/veranda is step-free — worth a quick call ahead to confirm current layout before relying on it.<br/>- Pairs well with a stop at the Mt. Washington Auto Road base without committing to the drive up.<br/><br/>More info: https://theglenhouse.com/]]></description>
+    <styleUrl>#s-coffee-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.253,44.2571,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Glendarragh Lavender Farm Appleton ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Glendarragh%20Lavender%20Farm%20Appleton%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Glendarragh Lavender Farm<br/><br/>📍 151 Searsmont Road, Appleton ME<br/><br/>Maine's first USDA-registered lavender farm — a dozen-plus lavender varieties across a 26-acre farm along the St. George River.<br/><br/>Tips<br/>- Only open late June through end of July, Mon-Sat 10am-3pm — a much narrower window than everything else on this list. Check the calendar before planning around it.<br/>- They also have a year-round storefront at 22 Main Street, Camden — a much easier fallback if the farm itself doesn't fit your dates.<br/>- Coordinates above are an approximation (Appleton town center) — worth confirming against Google Maps before you go.]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
@@ -8292,7 +8305,7 @@
   </Placemark>
   <Placemark>
     <name>J-Town Deli Country Store Jackson NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/J-Town%20Deli%20Country%20Store%20Jackson%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>J-Town Deli Country Store<br/><br/>📍 Jackson NH<br/><br/>Casual country-store deli serving breakfast sandwiches, subs, and baked goods — a local favorite grab-and-go stop.<br/><br/>Must Order<br/>- Breakfast sandwiches<br/>- Subs<br/><br/>Tips<br/>- Good grab-and-go stop before a hike.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/J-Town%20Deli%20Country%20Store%20Jackson%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>J-Town Deli Country Store<br/><br/>📍 Jackson NH<br/><br/>Casual country-store deli serving breakfast sandwiches, subs, and baked goods — a local favorite grab-and-go stop.<br/><br/>Must Order<br/>- Breakfast sandwiches<br/>- Subs<br/><br/>Tips<br/>- Good grab-and-go stop before a hike.<br/>- Flat, step-free entryway with wide aisles inside, per the storefront layout — worth a look before relying on it if mobility is a factor.]]></description>
     <styleUrl>#s-coffee-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -8331,7 +8344,7 @@
   </Placemark>
   <Placemark>
     <name>Jackson Falls Jackson NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jackson%20Falls%20Jackson%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jackson Falls<br/><br/>📍 Jackson NH<br/><br/>A series of cascading granite ledges and pools on Wildcat Brook, popular for wading and photos with easy roadside access near the village.<br/><br/>Tips<br/>- Easy roadside access — good for a quick stop.<br/>- Popular wading spot in summer; arrive early to beat crowds.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jackson%20Falls%20Jackson%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jackson Falls<br/><br/>📍 Jackson NH<br/><br/>A series of cascading granite ledges and pools on Wildcat Brook, popular for wading and photos with easy roadside access near the village.<br/><br/>Tips<br/>- Easy roadside access — good for a quick stop.<br/>- Popular wading spot in summer; arrive early to beat crowds.<br/>- Upper falls has designated accessible parking right along Carter Notch Road (Route 16B) — the roadside view itself doesn't require walking on the riverbank rocks; wading down at the water is a separate, uneven-footing proposition.]]></description>
     <styleUrl>#s-footprints-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Footpath</value></Data>
@@ -8929,7 +8942,7 @@
   </Placemark>
   <Placemark>
     <name>Lake Chocorua (Chocorua Lake Basin) Tamworth NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Lake%20Chocorua%20%28Chocorua%20Lake%20Basin%29%20Tamworth%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Lake Chocorua (Chocorua Lake Basin)<br/><br/>📍 Tamworth NH<br/><br/>Iconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.<br/><br/>Tips<br/>- Free public access.<br/>- Best photo spot is the Narrows Bridge.<br/>- No motorboats — quiet and scenic.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Lake%20Chocorua%20%28Chocorua%20Lake%20Basin%29%20Tamworth%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Lake Chocorua (Chocorua Lake Basin)<br/><br/>📍 Tamworth NH<br/><br/>Iconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.<br/><br/>Tips<br/>- Free public access.<br/>- Best photo spot is the Narrows Bridge.<br/>- No motorboats — quiet and scenic.<br/>- Flat, packed pull-off area right next to the parking — no walking required to reach the view.]]></description>
     <styleUrl>#s-waves-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Beach</value></Data>
@@ -16607,7 +16620,7 @@
       <Data name="color"><value>orange</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-68.3258585712878,44.27977200696239,0</coordinates>
+      <coordinates>-71.7972672,44.2156804,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18353,6 +18366,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Tin Mountain Conservation Center Albany NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Tin%20Mountain%20Conservation%20Center%20Albany%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Tin Mountain Conservation Center<br/><br/>📍 1245 Bald Hill Rd, Albany NH<br/><br/>A nature center and environmental education organization with a dedicated, ADA-compliant crushed-stone loop trail (roughly 1.3 miles) winding through quiet pine forest and past a small pond — well away from the North Conway/Kancamagus tourist traffic.<br/><br/>Tips<br/>- Trail surface is smooth and packed, but crushed gravel can soften slightly after heavy rain.<br/>- Quiet, uncrowded alternative to the busier Kancamagus stops.<br/>- Check their site for programs/hours before visiting — it's an active nature center, not just a trailhead.<br/><br/>More info: https://tinmountain.org/about/contact-visit.html]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.1547,43.9743,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Tivoli Bays Unique Area Red Hook NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Tivoli%20Bays%20Unique%20Area%20Red%20Hook%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Tivoli Bays Unique Area and Scenic Views<br/><br/>📍 Route 9G near CR 79, Red Hook, NY<br/><br/>Established as an estuarine resource area by the state in 1981, this area is the presumed site of Henry Hudson's 1609 visit when Red Hook was named. Nature trails and hiking are available, and just beyond the parking area is one of Dutchess County's most spectacular views of the Catskill Mountains.<br/><br/>Tips<br/>- Stop 14 of 33 on the Rhinebeck, Red Hook & Milan Scenic Tour (Tour 1).]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -18545,6 +18571,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.3189951,43.6485512,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuckerman Brewing Company Conway NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Tuckerman%20Brewing%20Company%20Conway%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Tuckerman Brewing Company<br/><br/>📍 66 Hobbs St, Conway NH<br/><br/>Local craft brewery and taproom, away from the North Conway outlet-mall strip. Flat ground with step-free access into the taproom and a paved outdoor patio.<br/><br/>Tips<br/>- Quieter, more local vibe than the village-center spots.<br/>- Worth calling ahead to confirm current accessible-restroom/seating layout if it matters for the visit.<br/><br/>More info: https://tuckermanbrewing.com/]]></description>
+    <styleUrl>#s-beer-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Brewery</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.1305,43.9739,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -19589,7 +19628,7 @@
   </Placemark>
   <Placemark>
     <name>White Mountain Cider Company Glen NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountain%20Cider%20Company%20Glen%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountain Cider Company<br/><br/>📍 Glen NH<br/><br/>Award-winning seasonal/contemporary restaurant in a converted cider mill, famous for fresh cider donuts and an extensive cocktail bar.<br/><br/>Must Order<br/>- Fresh cider donuts<br/><br/>Tips<br/>- Reservations recommended — consistently the top-rated spot in the area.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountain%20Cider%20Company%20Glen%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountain Cider Company<br/><br/>📍 Glen NH<br/><br/>Award-winning seasonal/contemporary restaurant in a converted cider mill, famous for fresh cider donuts and an extensive cocktail bar.<br/><br/>Must Order<br/>- Fresh cider donuts<br/><br/>Tips<br/>- Reservations recommended — consistently the top-rated spot in the area.<br/>- Housed in a restored mill; step-free ramp access into the restaurant and country market, per the property's site — worth confirming at booking if mobility is a concern.]]></description>
     <styleUrl>#s-beer-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Brewery</value></Data>
@@ -21079,7 +21118,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.12725311675452,44.05141061676107,0</coordinates>
+      <coordinates>-71.12522417680267,44.05188434568853,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>

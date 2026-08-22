@@ -9494,6 +9494,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Glen House Veranda Gorham NH",
+        "icon": "coffee",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Hotel restaurant with an outdoor veranda deck at the base of Mt. Washington Auto Road, facing the Presidential Range \u2014 step-free access throughout.",
+        "start_date_time": "",
+        "detail": "The Glen House Veranda\n\n\ud83d\udccd 979 NH Route 16, Gorham NH (Pinkham Notch)\n\nThe Glen House hotel's outdoor veranda deck sits right at the base of Mt. Washington Auto Road, facing the Presidential Range dead-on \u2014 a good spot for coffee or lunch with a flat, step-free path from parking into the restaurant and out onto the deck.\n\nTips\n- Per the hotel's own site, entry into the restaurant/veranda is step-free \u2014 worth a quick call ahead to confirm current layout before relying on it.\n- Pairs well with a stop at the Mt. Washington Auto Road base without committing to the drive up.",
+        "website": "https://theglenhouse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.253,
+          44.2571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Glendarragh Lavender Farm Appleton ME",
         "icon": "leaf",
         "color": "green",
@@ -11843,7 +11863,7 @@
         "vault_type": "Restaurant",
         "description": "Casual country-store deli serving breakfast sandwiches, subs, and baked goods \u2014 a local favorite grab-and-go stop.",
         "start_date_time": "",
-        "detail": "J-Town Deli Country Store\n\n\ud83d\udccd Jackson NH\n\nCasual country-store deli serving breakfast sandwiches, subs, and baked goods \u2014 a local favorite grab-and-go stop.\n\nMust Order\n- Breakfast sandwiches\n- Subs\n\nTips\n- Good grab-and-go stop before a hike."
+        "detail": "J-Town Deli Country Store\n\n\ud83d\udccd Jackson NH\n\nCasual country-store deli serving breakfast sandwiches, subs, and baked goods \u2014 a local favorite grab-and-go stop.\n\nMust Order\n- Breakfast sandwiches\n- Subs\n\nTips\n- Good grab-and-go stop before a hike.\n- Flat, step-free entryway with wide aisles inside, per the storefront layout \u2014 worth a look before relying on it if mobility is a factor."
       },
       "geometry": {
         "type": "Point",
@@ -11901,7 +11921,7 @@
         "vault_type": "Footpath",
         "description": "A series of cascading granite ledges and pools on Wildcat Brook, popular for wading and photos with easy roadside access near the village.",
         "start_date_time": "",
-        "detail": "Jackson Falls\n\n\ud83d\udccd Jackson NH\n\nA series of cascading granite ledges and pools on Wildcat Brook, popular for wading and photos with easy roadside access near the village.\n\nTips\n- Easy roadside access \u2014 good for a quick stop.\n- Popular wading spot in summer; arrive early to beat crowds."
+        "detail": "Jackson Falls\n\n\ud83d\udccd Jackson NH\n\nA series of cascading granite ledges and pools on Wildcat Brook, popular for wading and photos with easy roadside access near the village.\n\nTips\n- Easy roadside access \u2014 good for a quick stop.\n- Popular wading spot in summer; arrive early to beat crowds.\n- Upper falls has designated accessible parking right along Carter Notch Road (Route 16B) \u2014 the roadside view itself doesn't require walking on the riverbank rocks; wading down at the water is a separate, uneven-footing proposition."
       },
       "geometry": {
         "type": "Point",
@@ -12808,7 +12828,7 @@
         "vault_type": "Beach",
         "description": "Iconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.",
         "start_date_time": "",
-        "detail": "Lake Chocorua (Chocorua Lake Basin)\n\n\ud83d\udccd Tamworth NH\n\nIconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.\n\nTips\n- Free public access.\n- Best photo spot is the Narrows Bridge.\n- No motorboats \u2014 quiet and scenic."
+        "detail": "Lake Chocorua (Chocorua Lake Basin)\n\n\ud83d\udccd Tamworth NH\n\nIconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.\n\nTips\n- Free public access.\n- Best photo spot is the Narrows Bridge.\n- No motorboats \u2014 quiet and scenic.\n- Flat, packed pull-off area right next to the parking \u2014 no walking required to reach the view."
       },
       "geometry": {
         "type": "Point",
@@ -24383,8 +24403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.3258585712878,
-          44.27977200696239
+          -71.7972672,
+          44.2156804
         ]
       }
     },
@@ -27025,6 +27045,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tin Mountain Conservation Center Albany NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Nature center with a dedicated, smooth crushed-stone accessible trail (~1.3-mile loop) through pine forest and past a small pond, away from the main tourist traffic.",
+        "start_date_time": "",
+        "detail": "Tin Mountain Conservation Center\n\n\ud83d\udccd 1245 Bald Hill Rd, Albany NH\n\nA nature center and environmental education organization with a dedicated, ADA-compliant crushed-stone loop trail (roughly 1.3 miles) winding through quiet pine forest and past a small pond \u2014 well away from the North Conway/Kancamagus tourist traffic.\n\nTips\n- Trail surface is smooth and packed, but crushed gravel can soften slightly after heavy rain.\n- Quiet, uncrowded alternative to the busier Kancamagus stops.\n- Check their site for programs/hours before visiting \u2014 it's an active nature center, not just a trailhead.",
+        "website": "https://tinmountain.org/about/contact-visit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1547,
+          43.9743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Tivoli Bays Unique Area Red Hook NY",
         "icon": "landmark",
         "color": "green",
@@ -27315,6 +27355,26 @@
         "coordinates": [
           -72.3189951,
           43.6485512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuckerman Brewing Company Conway NH",
+        "icon": "beer",
+        "color": "red",
+        "vault_type": "Brewery",
+        "description": "Local brewery and taproom on flat ground with a paved outdoor patio, away from the outlet-mall traffic \u2014 unpretentious, plenty of room to spread out.",
+        "start_date_time": "",
+        "detail": "Tuckerman Brewing Company\n\n\ud83d\udccd 66 Hobbs St, Conway NH\n\nLocal craft brewery and taproom, away from the North Conway outlet-mall strip. Flat ground with step-free access into the taproom and a paved outdoor patio.\n\nTips\n- Quieter, more local vibe than the village-center spots.\n- Worth calling ahead to confirm current accessible-restroom/seating layout if it matters for the visit.",
+        "website": "https://tuckermanbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1305,
+          43.9739
         ]
       }
     },
@@ -28889,7 +28949,7 @@
         "vault_type": "Brewery",
         "description": "Award-winning seasonal/contemporary restaurant in a converted cider mill, famous for fresh cider donuts and an extensive cocktail bar.",
         "start_date_time": "",
-        "detail": "White Mountain Cider Company\n\n\ud83d\udccd Glen NH\n\nAward-winning seasonal/contemporary restaurant in a converted cider mill, famous for fresh cider donuts and an extensive cocktail bar.\n\nMust Order\n- Fresh cider donuts\n\nTips\n- Reservations recommended \u2014 consistently the top-rated spot in the area."
+        "detail": "White Mountain Cider Company\n\n\ud83d\udccd Glen NH\n\nAward-winning seasonal/contemporary restaurant in a converted cider mill, famous for fresh cider donuts and an extensive cocktail bar.\n\nMust Order\n- Fresh cider donuts\n\nTips\n- Reservations recommended \u2014 consistently the top-rated spot in the area.\n- Housed in a restored mill; step-free ramp access into the restaurant and country market, per the property's site \u2014 worth confirming at booking if mobility is a concern."
       },
       "geometry": {
         "type": "Point",
@@ -31146,8 +31206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.12725311675452,
-          44.05141061676107
+          -71.12522417680267,
+          44.05188434568853
         ]
       }
     },
