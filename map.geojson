@@ -13137,6 +13137,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leavitt's Country Bakery Conway NH",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Community bakery since 1974, famous for cider donuts, apple fritters, and cinnamon rolls; a classic White Mountain Highway breakfast stop.",
+        "start_date_time": "",
+        "detail": "Leavitt's Country Bakery\n\n\ud83d\udccd 564 White Mountain Hwy, Conway NH\n\nA community staple since 1974, on White Mountain Highway between Conway and North Conway. Known for cider donuts, apple fritters, and cinnamon rolls, plus breakfast sandwiches and egg sandwiches.\n\nMust Order\n- Cider donuts\n- Apple fritters\n- Cinnamon rolls\n\nTips\n- Consistently one of the highest-rated breakfast/bakery stops in the North Conway area.\n- Good grab-and-go option on the way to or from the Kancamagus.",
+        "website": "https://www.leavittsbakery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1115596,
+          43.9941083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ledgeview Grille Conway NH",
         "icon": "sandwich",
         "color": "purple",
