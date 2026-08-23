@@ -6,9 +6,9 @@
       "properties": {
         "name": "Kancamagus Highway & Lincoln Loop",
         "color": "green",
-        "distance_km": 63.1,
+        "distance_mi": 39.2,
         "duration_min": 72.5,
-        "detail": "Kancamagus Highway & Lincoln Loop\n\nReal driving route via OSRM: 63.1 km, ~72 min (driving time only, no stops)."
+        "detail": "Kancamagus Highway & Lincoln Loop\n\nReal driving route via OSRM: 39.2 mi, ~72 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -5853,9 +5853,9 @@
       "properties": {
         "name": "Bethel & Grafton Notch Loop",
         "color": "orange",
-        "distance_km": 99.8,
+        "distance_mi": 62.0,
         "duration_min": 111.2,
-        "detail": "Bethel & Grafton Notch Loop\n\nReal driving route via OSRM: 99.8 km, ~111 min (driving time only, no stops)."
+        "detail": "Bethel & Grafton Notch Loop\n\nReal driving route via OSRM: 62.0 mi, ~111 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -12564,9 +12564,9 @@
       "properties": {
         "name": "Tamworth & Sandwich Loop",
         "color": "teal",
-        "distance_km": 50.0,
+        "distance_mi": 31.1,
         "duration_min": 59.3,
-        "detail": "Tamworth & Sandwich Loop\n\nReal driving route via OSRM: 50.0 km, ~59 min (driving time only, no stops)."
+        "detail": "Tamworth & Sandwich Loop\n\nReal driving route via OSRM: 31.1 mi, ~59 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -17055,9 +17055,9 @@
       "properties": {
         "name": "Fryeburg & Lovell Loop",
         "color": "purple",
-        "distance_km": 60.0,
+        "distance_mi": 37.3,
         "duration_min": 81.3,
-        "detail": "Fryeburg & Lovell Loop\n\nReal driving route via OSRM: 60.0 km, ~81 min (driving time only, no stops)."
+        "detail": "Fryeburg & Lovell Loop\n\nReal driving route via OSRM: 37.3 mi, ~81 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -21150,9 +21150,9 @@
       "properties": {
         "name": "Crawford Notch & Bretton Woods Loop",
         "color": "red",
-        "distance_km": 53.7,
+        "distance_mi": 33.3,
         "duration_min": 58.3,
-        "detail": "Crawford Notch & Bretton Woods Loop\n\nReal driving route via OSRM: 53.7 km, ~58 min (driving time only, no stops)."
+        "detail": "Crawford Notch & Bretton Woods Loop\n\nReal driving route via OSRM: 33.3 mi, ~58 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -26873,9 +26873,9 @@
       "properties": {
         "name": "Evans Notch Full Loop (via Gorham & Fryeburg)",
         "color": "brown",
-        "distance_km": 164.8,
+        "distance_mi": 102.4,
         "duration_min": 185.7,
-        "detail": "Evans Notch Full Loop (via Gorham & Fryeburg)\n\nReal driving route via OSRM: 164.8 km, ~186 min (driving time only, no stops)."
+        "detail": "Evans Notch Full Loop (via Gorham & Fryeburg)\n\nReal driving route via OSRM: 102.4 mi, ~186 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
@@ -39452,9 +39452,9 @@
       "properties": {
         "name": "Tamworth, Sandwich & Squam Lake Loop",
         "color": "blue",
-        "distance_km": 82.3,
+        "distance_mi": 51.2,
         "duration_min": 102.5,
-        "detail": "Tamworth, Sandwich & Squam Lake Loop\n\nReal driving route via OSRM: 82.3 km, ~102 min (driving time only, no stops)."
+        "detail": "Tamworth, Sandwich & Squam Lake Loop\n\nReal driving route via OSRM: 51.2 mi, ~102 min (driving time only, no stops)."
       },
       "geometry": {
         "coordinates": [
