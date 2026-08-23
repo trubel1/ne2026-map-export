@@ -5952,6 +5952,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Conway Day Trip Routes",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "All North Conway-based day-trip loops, ranked by real driving distance.",
+        "start_date_time": "",
+        "detail": "Conway Day Trip Routes\n\nEvery day-trip loop researched from Base Camp 5 (North Conway), ranked by real driving distance \u2014 computed by `Map Export/export_routes.py` via the OSRM routing API, not estimated. Distance/duration are driving time only, no stops. Rerun that script any time a route's waypoints change; it writes the numbers below back into each route's own note automatically.\n\nRanked by distance (live)\n\n```base\nfilters:\n  and:\n    - tags.contains(\"day-trip-loop\")\nviews:\n  - type: table\n    name: Table\n    order:\n      - file.\n      - Distance-km\n      - Duration-min\n      - destination\n      - description\n    sort:\n      - property: distance-km\n        direction: ASC\n    columnSize:\n      file.name: 320\n      note.description: 280\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    center: 44.05, -71.15\n    defaultZoom: 9\n```\n\nRoute detail: POIs and ratings\n\nOrdered shortest to longest. Most POIs here don't have a verified `Rating` yet \u2014 shown as `\u2014` rather than guessed. Full narrative for each route lives in its own note (linked below); this is the distance-ranked cross-reference.\n\n1. Tamworth & Sandwich Loop \u2014 50.0 km / ~59 min\n- Little White Church, Crystal Lake \u2014 Rating: \u2014\n- Lake Chocorua \u2014 Rating: 4.8\n- Tamworth Distilling \u2014 Rating: \u2014 (Fri\u2013Sun only)\n- Remick Country Doctor Museum & Farm \u2014 Rating: \u2014 (Tue\u2013Sat)\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014 (seasonal, mid-May\u2013mid-Oct)\n- Corner House Inn \u2014 Rating: \u2014\n\n2. Crawford Notch & Bretton Woods Loop \u2014 53.7 km / ~58 min\n- Willey House Historic Site \u2014 Rating: \u2014\n- Crawford Depot \u2014 Rating: \u2014\n- Fabyan's Station \u2014 Rating: \u2014\n- Silver Cascade \u2014 Rating: \u2014\n- Flume Cascade \u2014 Rating: \u2014\n- Omni Mount Washington Resort veranda \u2014 mentioned in the route note, no Place note of its own yet\n\n3. Fryeburg & Lovell Loop \u2014 60.0 km / ~81 min\n- Leavitt's Country Bakery \u2014 Rating: 4.8 (4am most days, closed Wed)\n- Hemlock Bridge \u2014 Rating: \u2014\n\n4. Kancamagus Highway & Lincoln Loop \u2014 63.1 km / ~72 min\n- Sabbaday Falls \u2014 Rating: 4.5\n- Sugar Hill Scenic Vista \u2014 Rating: \u2014\n- Moat Mountain Smoke House / Flume Gorge (Lincoln/North Woodstock) \u2014 no Place notes yet\n\n5. Tamworth, Sandwich & Squam Lake Loop \u2014 82.3 km / ~102 min\n- Lake Chocorua \u2014 Rating: 4.8\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014\n- Squam Lakes Natural Science Center \u2014 Rating: \u2014\n- Town Docks \u2014 Rating: \u2014\n\n6. Bethel & Grafton Notch Loop \u2014 99.8 km / ~111 min\n- Screw Auger Falls \u2014 Rating: \u2014\n- Bethel Inn \u2014 Rating: \u2014\n- Good Food Store & Bakery \u2014 Rating: \u2014\n\n7. Evans Notch Full Loop \u2014 164.8 km / ~186 min\n- The Glen House \u2014 Rating: \u2014\n- Bethel Inn / Good Food Store & Bakery (Bethel village) \u2014 Rating: \u2014\n- Hemlock Bridge \u2014 Rating: \u2014\n\nLongest by a wide margin \u2014 it's the only true full-loop (nothing repeated) rather than an out-and-back or a there-and-lunch trip, which is why the distance roughly doubles the shorter Bethel & Grafton Notch out-and-back."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1172,
+          44.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cooksey Drive Overlook Bar Harbor ME",
         "icon": "mountain",
         "color": "purple",
@@ -26248,6 +26267,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Lakes Extension - Tamworth, Sandwich & Squam Lake Loop North Conway NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "The Lakes Extension: Tamworth, Sandwich & Squam Lake Loop\n\nThe full-lakes-region version of the Tamworth & Sandwich trip \u2014 continues past Center Sandwich down to Squam Lake and Meredith instead of turning back at the village.\n\n- The Route: Route 16 south to Tamworth, Route 25/113 to Center Sandwich, then south to Squam Lake and Meredith on Lake Winnipesaukee.\n- The Prime Stop: Squam Lakes Natural Science Center \u2014 the \"On Golden Pond\" lake, already a known full day-trip anchor in its own right (see the 2026-08-23 Squam Lake day-trip plan).\n- Don't Miss: All the Tamworth/Sandwich village stops from the shorter trip, plus Town Docks on Meredith's paved waterfront for a finishing lakeside lunch or dinner.\n\nLongest realistic single-day version of this corridor \u2014 best when there's a full day to give it, not a half-day stop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.263504,
+          43.860277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Legendary Drive - The Kancamagus Highway & Lincoln Loop North Conway NH",
         "icon": "route",
         "color": "orange",
@@ -26430,7 +26468,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The Maine Escape: Bethel & Grafton Notch Loop\n\nThe best full-day escape from North Conway when you want real mountain drama without driving the Kanc. Head north on Route 113 through Evans Notch toward Bethel \u2014 about 50 miles, roughly 1h20m \u2014 then continue up into Grafton Notch State Park.\n\n- The Route: Route 113 through Evans Notch to Bethel, then north on Route 26 into Grafton Notch.\n- The Prime Excursion: Screw Auger Falls, an easy 0.2-mile walk to a 23-foot waterfall carved into a spiral granite gorge, with swimming holes below \u2014 the low-effort payoff stop of the whole loop.\n- Don't Miss: Start with coffee or breakfast in Bethel village and browse a little before heading up to the notch, or save it for a relaxed lunch on the way back. Bethel Inn anchors the village green; Good Food Store & Bakery is a good bakery/grab-and-go stop. Grafton Notch's other short stops (Moose Cave, Mother Walker Falls) are worth a look if there's time left in the day.\n\nBest choice for real mountain scenery and a genuinely different landscape from the White Mountains side, without the Kancamagus crowds.\n\nLonger variant: the full Evans Notch loop\n\nInstead of driving Route 113 both ways, a fuller loop goes north on Route 16 past Jackson and Pinkham Notch to Gorham, then Route 2 east into Bethel, then returns south through Route 113 (Evans Notch) past Fryeburg back to North Conway \u2014 the quietest, least-crowded notch in the region, a winding single-lane feel through white birch forests along the Maine/NH border. On the way up, The Glen House at Pinkham Notch is a natural stop for step-free veranda views of the Presidential Range. On the way back through Fryeburg, Hemlock Bridge is a quick roadside stop. Note: Route 113 is closed in winter."
+        "detail": "The Maine Escape: Bethel & Grafton Notch Loop\n\nThe best full-day escape from North Conway when you want real mountain drama without driving the Kanc. Head north on Route 113 through Evans Notch toward Bethel \u2014 about 50 miles, roughly 1h20m \u2014 then continue up into Grafton Notch State Park.\n\n- The Route: Route 113 through Evans Notch to Bethel, then north on Route 26 into Grafton Notch.\n- The Prime Excursion: Screw Auger Falls, an easy 0.2-mile walk to a 23-foot waterfall carved into a spiral granite gorge, with swimming holes below \u2014 the low-effort payoff stop of the whole loop.\n- Don't Miss: Start with coffee or breakfast in Bethel village and browse a little before heading up to the notch, or save it for a relaxed lunch on the way back. Bethel Inn anchors the village green; Good Food Store & Bakery is a good bakery/grab-and-go stop. Grafton Notch's other short stops (Moose Cave, Mother Walker Falls) are worth a look if there's time left in the day.\n\nBest choice for real mountain scenery and a genuinely different landscape from the White Mountains side, without the Kancamagus crowds.\n\nLonger variant: the full Evans Notch loop\n\nInstead of driving Route 113 both ways, a fuller loop goes up one side and back the other \u2014 see The Wilderness Bypass for the full writeup."
       },
       "geometry": {
         "type": "Point",
@@ -26720,7 +26758,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The Quiet Villages: Tamworth & Sandwich Loop\n\nThe quietest New Hampshire village day available from North Conway \u2014 a pastoral drive with small-town character, lakes, and farms, well away from the North Conway tourist strip. Head south on Route 16 to Tamworth, then continue to Center Sandwich via Routes 25 and 113.\n\n- The Route: Route 16 south to Tamworth (passing the Little White Church on Crystal Lake in Eaton), then Route 25/113 to Center Sandwich.\n- The Prime Stop: Walk Tamworth village and stop by Lake Chocorua for the classic Mount Chocorua-from-the-Narrows-Bridge photo, already a known easy, flat-access spot. Tamworth Distilling (step-free tasting room, but Fri\u2013Sun only) and Remick Country Doctor Museum & Farm (working farm + historic house, Tue\u2013Sat) are both right in the village.\n- Don't Miss: Center Sandwich's village green and historic homes for a slow lunch-and-stroll \u2014 the Fine Craft Gallery (seasonal, mid-May\u2013mid-Oct) and Corner House Inn for dinner are both right on the green. A gentle lakefront walk rounds out the day if there's time.\n\nBest choice for a low-key day built around scenery and village atmosphere, with no single \"must-do\" attraction driving the schedule.\n\nLonger variant: extend to Squam Lake & Meredith\n\nContinuing past Center Sandwich down to Squam Lake (the \"On Golden Pond\" lake) and on to Meredith on Lake Winnipesaukee turns this into a fuller lakes-region day \u2014 see the existing Squam Lakes Natural Science Center day-trip plan for that stretch. Town Docks on Meredith's paved waterfront is a good finishing-lunch/dinner option with lakeside outdoor seating."
+        "detail": "The Quiet Villages: Tamworth & Sandwich Loop\n\nThe quietest New Hampshire village day available from North Conway \u2014 a pastoral drive with small-town character, lakes, and farms, well away from the North Conway tourist strip. Head south on Route 16 to Tamworth, then continue to Center Sandwich via Routes 25 and 113.\n\n- The Route: Route 16 south to Tamworth (passing the Little White Church on Crystal Lake in Eaton), then Route 25/113 to Center Sandwich.\n- The Prime Stop: Walk Tamworth village and stop by Lake Chocorua for the classic Mount Chocorua-from-the-Narrows-Bridge photo, already a known easy, flat-access spot. Tamworth Distilling (step-free tasting room, but Fri\u2013Sun only) and Remick Country Doctor Museum & Farm (working farm + historic house, Tue\u2013Sat) are both right in the village.\n- Don't Miss: Center Sandwich's village green and historic homes for a slow lunch-and-stroll \u2014 the Fine Craft Gallery (seasonal, mid-May\u2013mid-Oct) and Corner House Inn for dinner are both right on the green. A gentle lakefront walk rounds out the day if there's time.\n\nBest choice for a low-key day built around scenery and village atmosphere, with no single \"must-do\" attraction driving the schedule.\n\nLonger variant: extend to Squam Lake & Meredith\n\nContinuing past Center Sandwich down to Squam Lake and Meredith turns this into a fuller lakes-region day \u2014 see The Lakes Extension for the full writeup."
       },
       "geometry": {
         "type": "Point",
@@ -27061,6 +27099,25 @@
         "coordinates": [
           -70.0228,
           41.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Wilderness Bypass - Evans Notch Full Loop North Conway NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "The Wilderness Bypass: Evans Notch Full Loop\n\nThe full-loop version of the Bethel & Grafton Notch trip \u2014 instead of driving Route 113 both ways, this goes up one side and back the other, so nothing is repeated. Longest of the non-Kanc trips.\n\n- The Route: North on Route 16 past Jackson and Pinkham Notch to Gorham, east on Route 2 into Bethel, then south on Route 113 (Evans Notch) past Fryeburg, back to North Conway.\n- The Prime Stop: The Glen House at Pinkham Notch \u2014 step-free veranda views of the Presidential Range, right at the base of Mt. Washington Auto Road.\n- Don't Miss: Bethel village (see the Bethel & Grafton Notch trip for village stops), then Evans Notch itself \u2014 the quietest, least-crowded notch in the region, a winding single-lane feel through white birch forests along the Maine/NH border. Hemlock Bridge is a natural stop on the way back through Fryeburg.\n\nRoute 113 is closed in winter. Best for a long, unhurried day \u2014 this is a full loop, not an out-and-back, so budget real time for the driving itself."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.253,
+          44.2571
         ]
       }
     },
