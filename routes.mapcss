@@ -1,0 +1,10 @@
+way {
+    width: 4;
+    color: eval(tag('color'));
+    opacity: 0.85;
+    text: eval(tag('name'));
+    text-color: eval(tag('color'));
+    font-size: 10;
+    details-text: eval(tag('name'));
+    details-description: eval(tag('detail'));
+}
