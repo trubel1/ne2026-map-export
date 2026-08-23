@@ -5958,7 +5958,7 @@
         "vault_type": "destination",
         "description": "All North Conway-based day-trip loops, ranked by real driving distance.",
         "start_date_time": "",
-        "detail": "Conway Day Trip Routes\n\nEvery day-trip loop researched from Base Camp 5 (North Conway), ranked by real driving distance \u2014 computed by `Map Export/export_routes.py` via the OSRM routing API, not estimated. Distance/duration are driving time only, no stops. Rerun that script any time a route's waypoints change; it writes the numbers below back into each route's own note automatically.\n\nRanked by distance (live)\n\n```base\nfilters:\n  and:\n    - tags.contains(\"day-trip-loop\")\nviews:\n  - type: table\n    name: Table\n    order:\n      - file.\n      - Distance-mi\n      - Duration-min\n      - destination\n      - description\n    sort:\n      - property: distance-mi\n        direction: ASC\n    columnSize:\n      file.name: 320\n      note.description: 280\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    center: 44.05, -71.15\n    defaultZoom: 9\n```\n\nRoute detail: POIs and ratings\n\nOrdered shortest to longest. Most POIs here don't have a verified `Rating` yet \u2014 shown as `\u2014` rather than guessed. Full narrative for each route lives in its own note (linked below); this is the distance-ranked cross-reference.\n\n1. Tamworth & Sandwich Loop \u2014 31.1 mi / ~59 min\n- Little White Church, Crystal Lake \u2014 Rating: \u2014\n- Lake Chocorua \u2014 Rating: 4.8\n- Tamworth Distilling \u2014 Rating: \u2014 (Fri\u2013Sun only)\n- Remick Country Doctor Museum & Farm \u2014 Rating: \u2014 (Tue\u2013Sat)\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014 (seasonal, mid-May\u2013mid-Oct)\n- Corner House Inn \u2014 Rating: \u2014\n\n2. Crawford Notch & Bretton Woods Loop \u2014 33.3 mi / ~58 min\n- Willey House Historic Site \u2014 Rating: \u2014\n- Crawford Depot \u2014 Rating: \u2014\n- Fabyan's Station \u2014 Rating: \u2014\n- Silver Cascade \u2014 Rating: \u2014\n- Flume Cascade \u2014 Rating: \u2014\n- Omni Mount Washington Resort veranda \u2014 mentioned in the route note, no Place note of its own yet\n\n3. Fryeburg & Lovell Loop \u2014 37.3 mi / ~81 min\n- Leavitt's Country Bakery \u2014 Rating: 4.8 (4am most days, closed Wed)\n- Hemlock Bridge \u2014 Rating: \u2014\n\n4. Kancamagus Highway & Lincoln Loop \u2014 39.2 mi / ~72 min\n- Sabbaday Falls \u2014 Rating: 4.5\n- Sugar Hill Scenic Vista \u2014 Rating: \u2014\n- Moat Mountain Smoke House / Flume Gorge (Lincoln/North Woodstock) \u2014 no Place notes yet\n\n5. Tamworth, Sandwich & Squam Lake Loop \u2014 51.2 mi / ~102 min\n- Lake Chocorua \u2014 Rating: 4.8\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014\n- Squam Lakes Natural Science Center \u2014 Rating: \u2014\n- Town Docks \u2014 Rating: \u2014\n\n6. Bethel & Grafton Notch Loop \u2014 62.0 mi / ~111 min\n- Screw Auger Falls \u2014 Rating: \u2014\n- Bethel Inn \u2014 Rating: \u2014\n- Good Food Store & Bakery \u2014 Rating: \u2014\n\n7. Evans Notch Full Loop \u2014 102.4 mi / ~186 min\n- The Glen House \u2014 Rating: \u2014\n- Bethel Inn / Good Food Store & Bakery (Bethel village) \u2014 Rating: \u2014\n- Hemlock Bridge \u2014 Rating: \u2014\n\nLongest by a wide margin \u2014 it's the only true full-loop (nothing repeated) rather than an out-and-back or a there-and-lunch trip, which is why the distance roughly doubles the shorter Bethel & Grafton Notch out-and-back."
+        "detail": "Conway Day Trip Routes\n\nEvery day-trip loop researched from Base Camp 5 (North Conway), ranked by real driving distance \u2014 computed by `Map Export/export_routes.py` via the OSRM routing API, not estimated. Distance/duration are driving time only, no stops. Rerun that script any time a route's waypoints change; it writes the numbers below back into each route's own note automatically.\n\nRanked by distance (live)\n\n```base\nfilters:\n  and:\n    - tags.contains(\"day-trip-loop\")\nviews:\n  - type: table\n    name: Table\n    order:\n      - file.\n      - Distance-mi\n      - Duration-min\n      - destination\n      - description\n    sort:\n      - property: distance-mi\n        direction: ASC\n    columnSize:\n      file.name: 514\n      note.description: 280\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    center: 44.05, -71.15\n    defaultZoom: 9\n\n```\n\nRoute detail: POIs and ratings\n\nOrdered shortest to longest. Most POIs here don't have a verified `Rating` yet \u2014 shown as `\u2014` rather than guessed. Full narrative for each route lives in its own note (linked below); this is the distance-ranked cross-reference.\n\n1. Tamworth & Sandwich Loop \u2014 31.1 mi / ~59 min\n- Little White Church, Crystal Lake \u2014 Rating: \u2014\n- Lake Chocorua \u2014 Rating: 4.8\n- Tamworth Distilling \u2014 Rating: \u2014 (Fri\u2013Sun only)\n- Remick Country Doctor Museum & Farm \u2014 Rating: \u2014 (Tue\u2013Sat)\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014 (seasonal, mid-May\u2013mid-Oct)\n- Corner House Inn \u2014 Rating: \u2014\n\n2. Crawford Notch & Bretton Woods Loop \u2014 33.3 mi / ~58 min\n- Willey House Historic Site \u2014 Rating: \u2014\n- Crawford Depot \u2014 Rating: \u2014\n- Fabyan's Station \u2014 Rating: \u2014\n- Silver Cascade \u2014 Rating: \u2014\n- Flume Cascade \u2014 Rating: \u2014\n- Omni Mount Washington Resort veranda \u2014 mentioned in the route note, no Place note of its own yet\n\n3. Fryeburg & Lovell Loop \u2014 37.3 mi / ~81 min\n- Leavitt's Country Bakery \u2014 Rating: 4.8 (4am most days, closed Wed)\n- Hemlock Bridge \u2014 Rating: \u2014\n\n4. Kancamagus Highway & Lincoln Loop \u2014 39.2 mi / ~72 min\n- Sabbaday Falls \u2014 Rating: 4.5\n- Sugar Hill Scenic Vista \u2014 Rating: \u2014\n- Moat Mountain Smoke House / Flume Gorge (Lincoln/North Woodstock) \u2014 no Place notes yet\n\n5. Tamworth, Sandwich & Squam Lake Loop \u2014 51.2 mi / ~102 min\n- Lake Chocorua \u2014 Rating: 4.8\n- Center Sandwich Fine Craft Gallery \u2014 Rating: \u2014\n- Squam Lakes Natural Science Center \u2014 Rating: \u2014\n- Town Docks \u2014 Rating: \u2014\n\n6. Bethel & Grafton Notch Loop \u2014 62.0 mi / ~111 min\n- Screw Auger Falls \u2014 Rating: \u2014\n- Bethel Inn \u2014 Rating: \u2014\n- Good Food Store & Bakery \u2014 Rating: \u2014\n\n7. Evans Notch Full Loop \u2014 102.4 mi / ~186 min\n- The Glen House \u2014 Rating: \u2014\n- Bethel Inn / Good Food Store & Bakery (Bethel village) \u2014 Rating: \u2014\n- Hemlock Bridge \u2014 Rating: \u2014\n\nLongest by a wide margin \u2014 it's the only true full-loop (nothing repeated) rather than an out-and-back or a there-and-lunch trip, which is why the distance roughly doubles the shorter Bethel & Grafton Notch out-and-back."
       },
       "geometry": {
         "type": "Point",
@@ -17394,26 +17394,6 @@
         "coordinates": [
           -68.7716241,
           44.8005194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Noodle Village",
-        "icon": "utensils",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "Noodle Village is a Vietnamese restaurant offering a menu focused on Asian cuisine. It operates primarily for dinner, serving from 3\u202fPM to 9\u202fPM on weekdays and has a lunch service on Saturdays from 12\u202fPM to 9\u202fPM. Alcohol is available.",
-        "start_date_time": "",
-        "detail": "Noodle Village is a Vietnamese restaurant offering a menu focused on Asian cuisine. It operates primarily for dinner, serving from 3\u202fPM to 9\u202fPM on weekdays and has a lunch service on Saturdays from 12\u202fPM to 9\u202fPM. Alcohol is available.",
-        "website": "https://www.google.com/maps/place/Noodle+Village/@44.0524023,-71.129966,595m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb3a0bf793f9bfb:0x6c5284ed20196b08!2sVia+Roma+Pizza+%26+Mediterranean!8m2!3d44.0363957!4d-71.1223054!16s%2Fg%2F11r9lxtgw!3m5!1s0x4cb3a129ccaf8811:0xd19ec75193f7f24f!8m2!3d44.0529871!4d-71.1271239!16s%2Fg%2F11ywtmdwvd?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.12708234890871,
-          44.053322285981416
         ]
       }
     },
@@ -30847,6 +30827,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u2705 Noodle Village",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Noodle Village is a Vietnamese restaurant offering a menu focused on Asian cuisine. It operates primarily for dinner, serving from 3\u202fPM to 9\u202fPM on weekdays and has a lunch service on Saturdays from 12\u202fPM to 9\u202fPM. Alcohol is available.",
+        "start_date_time": "2026-08-23T18:30:00",
+        "detail": "Time: 2026-08-23T18:30:00\n\nNoodle Village is a Vietnamese restaurant offering a menu focused on Asian cuisine. It operates primarily for dinner, serving from 3\u202fPM to 9\u202fPM on weekdays and has a lunch service on Saturdays from 12\u202fPM to 9\u202fPM. Alcohol is available.",
+        "website": "https://www.google.com/maps/place/Noodle+Village/@44.0524023,-71.129966,595m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb3a0bf793f9bfb:0x6c5284ed20196b08!2sVia+Roma+Pizza+%26+Mediterranean!8m2!3d44.0363957!4d-71.1223054!16s%2Fg%2F11r9lxtgw!3m5!1s0x4cb3a129ccaf8811:0xd19ec75193f7f24f!8m2!3d44.0529871!4d-71.1271239!16s%2Fg%2F11ywtmdwvd?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12708234890871,
+          44.053322285981416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u2705 Oakes & Evelyn - Woodstock VT",
         "icon": "utensils",
         "color": "purple",
@@ -31087,26 +31087,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 White Mountain Cider Co",
-        "icon": "wine",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "White Mountain Cider Co is a New American restaurant offering a variety of dishes including warm cider doughnuts and scallop & crab risotto. Prices range from $10 to $70, making it suitable for both lunch and dinner, and it serves alcohol.",
-        "start_date_time": "2026-08-23T18:30:00",
-        "detail": "Time: 2026-08-23T18:30:00\n\nWhite Mountain Cider Co is a New American restaurant offering a variety of dishes including warm cider doughnuts and scallop & crab risotto. Prices range from $10 to $70, making it suitable for both lunch and dinner, and it serves alcohol.",
-        "website": "https://www.google.com/maps/place/White+Mountain+Cider+Co/@44.1040611,-71.1954694,789m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb398b772333577:0x63b4e141f95f80aa!8m2!3d44.1040611!4d-71.1954694!16s%2Fg%2F1tcx13sn?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.19549085725357,
-          44.1039802080996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u2705 Woodstock AirBnB Woodstock VT",
         "icon": "hotel",
         "color": "blue",
@@ -31301,6 +31281,26 @@
         "coordinates": [
           -73.90061797850427,
           41.69083481802939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u274c White Mountain Cider Co",
+        "icon": "wine",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "White Mountain Cider Co is a New American restaurant offering a variety of dishes including warm cider doughnuts and scallop & crab risotto. Prices range from $10 to $70, making it suitable for both lunch and dinner, and it serves alcohol.",
+        "start_date_time": "2026-08-23T18:30:00",
+        "detail": "Time: 2026-08-23T18:30:00\n\n[!warning] Replaced\nCancelled via Tock/Reserve with Google at 2:28 PM on 2026-08-23 (confirmation TOCK-R-XA1SITT5). Replaced by Noodle Village for the same night, same 6:30 PM time.",
+        "website": "https://www.google.com/maps/place/White+Mountain+Cider+Co/@44.1040611,-71.1954694,789m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb398b772333577:0x63b4e141f95f80aa!8m2!3d44.1040611!4d-71.1954694!16s%2Fg%2F1tcx13sn?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19549085725357,
+          44.1039802080996
         ]
       }
     },
