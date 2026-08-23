@@ -1,9 +1,15 @@
 way {
     width: 4;
-    color: eval(tag('color'));
     text: eval(tag('name'));
-    text-color: eval(tag('color'));
     font-size: 10;
     details-text: eval(tag('name'));
     details-description: eval(tag('detail'));
+
+    [color=blue]   { color: blue; text-color: blue; }
+    [color=brown]  { color: brown; text-color: brown; }
+    [color=green]  { color: green; text-color: green; }
+    [color=orange] { color: orange; text-color: orange; }
+    [color=purple] { color: purple; text-color: purple; }
+    [color=red]    { color: red; text-color: red; }
+    [color=teal]   { color: teal; text-color: teal; }
 }
