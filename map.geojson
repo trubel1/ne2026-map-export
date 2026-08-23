@@ -30256,6 +30256,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 26 Littleton NH",
+        "icon": "alert-triangle",
+        "color": "yellow",
+        "vault_type": "Restaurant",
+        "description": "Placeholder \u2014 no dinner reservation booked yet for this date. Changeover day (North Conway \u2192 Littleton via the Kancamagus); check-in to Littleton is around 3pm, so dinner should be near Littleton, not back toward North Conway/Jackson.",
+        "start_date_time": "2026-08-26T18:00:00",
+        "detail": "Time: 2026-08-26T18:00:00\n\nDinner Reservation Needed \u2014 Wed, Aug 26\n\nNo dinner reservation booked yet for this date. Changeover day: checkout from North Conway at 10am, drive the Kancamagus Highway west, check in to Littleton around 3pm \u2014 dinner should be near Littleton, not back toward Jackson/North Conway. (An Alpine Tavern booking in Jackson was previously here by mistake \u2014 cancelled 2026-08-23, see \u2705\u274c Alpine Tavern at The Wentworth Jackson NH (Visit 2).) Replace this placeholder once a real reservation is made."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7745,
+          44.3042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 27 Littleton NH",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -30493,27 +30512,7 @@
         "vault_type": "Restaurant",
         "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
         "start_date_time": "2026-08-24T18:30:00",
-        "detail": "Time: 2026-08-24T18:30:00\n\nAlpine Tavern at The Wentworth (Visit 1)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nCozy tavern at The Wentworth resort in Jackson, ~13-14 min (8 mi) from North Conway. Known for chicken tenders with homemade ranch sauce, $50-100/person.\n\nTips\n- OpenTable confirmation #2630, 2 guests, Mon Aug 24 at 6:30 PM.\n- Fills the Aug 24 dinner slot for this base camp.\n- Resolved 2026-08-23: there's also a second visit here on Aug 26 (confirmation #2139, still active) \u2014 was mistagged to Base Camp 6 Littleton NH, now fixed. See Visit 2.",
-        "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.18232697426697,
-          44.14724025571265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u2705 Alpine Tavern at The Wentworth Jackson NH (Visit 2)",
-        "icon": "sandwich",
-        "color": "purple",
-        "vault_type": "Restaurant",
-        "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
-        "start_date_time": "2026-08-26T18:45:00",
-        "detail": "Time: 2026-08-26T18:45:00\n\nAlpine Tavern at The Wentworth (Visit 2)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nSecond visit to this same tavern \u2014 see Visit 1 for the Aug 24 booking.\n\nTips\n- OpenTable confirmation #2139, 2 guests, Wed Aug 26 at 6:45 PM.\n- Fixed 2026-08-23: this note was previously mistagged `base-camp: Base Camp 6 Littleton NH` / `destination: Littleton, NH` \u2014 a real bug, since the actual address/coordinates put it in Jackson (~31mi from Littleton, no fit with that base camp's plan). Corrected to Base Camp 5 North Conway, matching its real location. Confirmed still active as of 2026-08-23 (not cancelled), so this is now treated as a legitimate second visit rather than a stray duplicate.",
+        "detail": "Time: 2026-08-24T18:30:00\n\nAlpine Tavern at The Wentworth (Visit 1)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nCozy tavern at The Wentworth resort in Jackson, ~13-14 min (8 mi) from North Conway. Known for chicken tenders with homemade ranch sauce, $50-100/person.\n\nTips\n- OpenTable confirmation #2630, 2 guests, Mon Aug 24 at 6:30 PM.\n- Fills the Aug 24 dinner slot for this base camp.\n- Resolved 2026-08-23: a second reservation here (Aug 26, confirmation #2139) turned out to be mistagged, then cancelled entirely once the actual Aug 26 travel plan came into focus \u2014 Tom leaves North Conway that morning, drives the Kancamagus west, and checks into Littleton that afternoon, so a Jackson dinner that night doesn't fit. See Visit 2 for the full history. This remains the only active Alpine Tavern visit.",
         "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -31181,6 +31180,26 @@
         "coordinates": [
           -69.06774628344897,
           44.21075151151168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u274c Alpine Tavern at The Wentworth Jackson NH (Visit 2)",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
+        "start_date_time": "2026-08-26T18:45:00",
+        "detail": "Time: 2026-08-26T18:45:00\n\nAlpine Tavern at The Wentworth (Visit 2)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nSecond visit to this same tavern \u2014 see Visit 1 for the Aug 24 booking.\n\nTips\n- OpenTable confirmation #2139, 2 guests, originally Wed Aug 26 at 6:45 PM.\n- Fixed 2026-08-23: this note was previously mistagged `base-camp: Base Camp 6 Littleton NH` / `destination: Littleton, NH` \u2014 a real bug, since the actual address/coordinates put it in Jackson (~31mi from Littleton, no fit with that base camp's plan). Corrected to Base Camp 5 North Conway, matching its real location.\n- Cancelled 2026-08-23: doesn't fit Tom's actual Aug 26 plan \u2014 checkout from North Conway at 10am, drive the Kancamagus Highway (which runs west toward Lincoln), then check in to Littleton around 3pm. Jackson is the opposite direction from that route, so a 6:45pm dinner there doesn't work. See the new Aug 26 Littleton placeholder.",
+        "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18232697426697,
+          44.14724025571265
         ]
       }
     },
