@@ -22324,26 +22324,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Savona\u2019s Trattoria & Bar - Poughkeepsie Poughkeepsie NY",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "",
-        "detail": "Savona's Trattoria & Bar is an Italian restaurant known for its welcoming atmosphere and delicious menu offerings. It attracts a diverse clientele, including families and couples, and is favored for both casual dining and special occasions.\n\nThe overall vibe is cozy, with a blend of casual and warm decor, making it ideal for a relaxed dining experience. Patrons appreciate the delightful ambiance, especially during the holiday season.\n\nConsistently praised positives include the exceptional quality of the food, particularly the steak and Hot Honey Calamari Salad, as well as the friendly service provided by staff like Christopher. Many reviews highlight the enjoyable atmosphere, which adds to the dining experience.\n\nCommon downsides noted by patrons include relatively low overall ratings compared to expectations and the potential for wait times during busy hours.",
-        "website": "https://www.google.com/maps/place/Savona%E2%80%99s+Trattoria+%26+Bar+-+Poughkeepsie/@41.6904739,-73.9021268,741m/data=!3m1!1e3!4m20!1m8!3m7!1s0x89c2b9b935200001:0xa7fbe7f1959624e!2sHudson+Valley,+NY!3b1!8m2!3d41.9209018!4d-73.9612887!16zL20vMDI5anF2!3m10!1s0x89dd3f6261f9e303:0x9e7bcd7d13ccb393!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6919489!4d-73.900144!16s%2Fg%2F11fqdcq_gh?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9001037382657,
-          41.691959410623845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Savona\u2019s Trattoria & Bar Stanfordville NY",
         "icon": "utensils",
         "color": "red",
@@ -30921,6 +30901,26 @@
         "coordinates": [
           -69.06098292392748,
           44.209174873871106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Savona\u2019s Trattoria & Bar - Poughkeepsie Poughkeepsie NY",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "2026-09-21T18:30:00",
+        "detail": "Time: 2026-09-21T18:30:00\n\nSavona's Trattoria & Bar is an Italian restaurant known for its welcoming atmosphere and delicious menu offerings. It attracts a diverse clientele, including families and couples, and is favored for both casual dining and special occasions.\n\nThe overall vibe is cozy, with a blend of casual and warm decor, making it ideal for a relaxed dining experience. Patrons appreciate the delightful ambiance, especially during the holiday season.\n\nConsistently praised positives include the exceptional quality of the food, particularly the steak and Hot Honey Calamari Salad, as well as the friendly service provided by staff like Christopher. Many reviews highlight the enjoyable atmosphere, which adds to the dining experience.\n\nCommon downsides noted by patrons include relatively low overall ratings compared to expectations and the potential for wait times during busy hours.",
+        "website": "https://www.google.com/maps/place/Savona%E2%80%99s+Trattoria+%26+Bar+-+Poughkeepsie/@41.6904739,-73.9021268,741m/data=!3m1!1e3!4m20!1m8!3m7!1s0x89c2b9b935200001:0xa7fbe7f1959624e!2sHudson+Valley,+NY!3b1!8m2!3d41.9209018!4d-73.9612887!16zL20vMDI5anF2!3m10!1s0x89dd3f6261f9e303:0x9e7bcd7d13ccb393!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6919489!4d-73.900144!16s%2Fg%2F11fqdcq_gh?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9001037382657,
+          41.691959410623845
         ]
       }
     },
