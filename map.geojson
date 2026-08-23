@@ -2621,6 +2621,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bethel Inn Bethel ME",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Historic 1913 grand hotel anchoring Bethel village green, worth a look/drink even without staying \u2014 flat, walkable village setting.",
+        "start_date_time": "",
+        "detail": "Bethel Inn\n\n\ud83d\udccd 21 Broad St, Bethel ME\n\nA historic grand hotel dating to 1913, anchoring Bethel's village green. Worth a stop for a drink or a look around even without staying \u2014 the surrounding village has flat, tree-lined sidewalks, artisan shops, and cafes.\n\nTips\n- Good anchor point for browsing Bethel village on foot before continuing to Grafton Notch.",
+        "website": "https://www.bethelinn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7889405,
+          44.3969239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bethel\u2019s Babe\u2019s Bar Woodstock VT",
         "icon": "sandwich",
         "color": "red",
@@ -4914,6 +4934,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Center Sandwich Fine Craft Gallery NH",
+        "icon": "palette",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "League of NH Craftsmen gallery on the Center Sandwich green \u2014 a founding member gallery, over 90 years supporting local artisans.",
+        "start_date_time": "",
+        "detail": "Center Sandwich Fine Craft Gallery\n\n\ud83d\udccd 32 Main St, Center Sandwich NH (on the green)\n\nA League of New Hampshire Craftsmen gallery, formerly Sandwich Home Industries \u2014 a founding member of the League, supporting local artisans and crafts education for over 90 years.\n\nTips\n- Seasonal: open mid-May through mid-October only.\n- Right on the village green \u2014 easy to pair with a slow lunch-and-stroll in Center Sandwich.",
+        "website": "https://centersandwich.nhcrafts.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4366626,
+          43.8055187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Center for Maine Contemporary Art (CMCA) Rockland ME",
         "icon": "star",
         "color": "green",
@@ -6009,6 +6049,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Corner House Inn Center Sandwich NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Inspired American restaurant and pub in an 1849 building on the Center Sandwich green \u2014 fireplace pub or candlelit dining room.",
+        "start_date_time": "",
+        "detail": "Corner House Inn\n\n\ud83d\udccd 22 Main St, Center Sandwich NH\n\nInspired American cuisine in a building dating to 1849 \u2014 a rustic pub with a fireplace, or a more elegant candlelit dining room. A Sandwich village staple for 150+ years.\n\nTips\n- Closed Mondays; Tuesday\u2013Thursday 4\u20139pm, Friday\u2013Saturday 4\u201310pm, Sunday brunch 12\u20139pm.\n- Live music Friday nights; full bar.",
+        "website": "https://www.nhcornerhouse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4382686,
+          43.8065585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cornish-Windsor Covered Bridge Woodstock VT",
         "icon": "scroll",
         "color": "purple",
@@ -6161,6 +6221,26 @@
         "coordinates": [
           -71.1074,
           44.0575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crawford Depot Crawford Notch NH",
+        "icon": "train",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "1891 Queen Anne-style train station at the height of land in Crawford Notch \u2014 the turnaround point for the Conway Scenic Railroad's Mountaineer excursion, across the highway from Saco Lake.",
+        "start_date_time": "",
+        "detail": "Crawford Depot\n\n\ud83d\udccd Route 302, Crawford Notch, NH\n\nA historic 1891 Queen Anne-style railroad station at the height of land in Crawford Notch, across the highway from Saco Lake. Serves as the turnaround point for the Conway Scenic Railroad's Mountaineer excursion (4\u20134.5 hour round trip from North Conway) \u2014 flat outdoor grounds make it easy to watch the vintage train roll through even without riding it. Run by the Appalachian Mountain Club, with a gift shop, snack bar, and restrooms.\n\nTips\n- Good flat viewing spot to catch the Mountaineer without booking the full excursion.\n- Pairs naturally with a stop at Willey House and the Silver Cascade/Flume Cascade pull-offs, all on the same Route 302 stretch.",
+        "website": "https://www.conwayscenic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4112844,
+          44.2178721
         ]
       }
     },
@@ -8396,6 +8476,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fabyan's Station Bretton Woods NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Family-friendly restaurant and lounge in a converted historic railroad depot on Route 302 in Bretton Woods.",
+        "start_date_time": "",
+        "detail": "Fabyan's Station\n\n\ud83d\udccd 2652 Route 302, Bretton Woods NH\n\nA family-friendly restaurant and lounge inside a converted historic railroad depot on Route 302, near the base of the Mount Washington Cog Railway. Good lunch stop on a Crawford Notch/Bretton Woods day trip.\n\nTips\n- Coordinates are the Bretton Woods area center \u2014 the exact building address (2652 Route 302) wasn't confirmed by geocoding; verify the pin before relying on it for turn-by-turn.",
+        "website": "https://www.brettonwoods.com/plan-visit/food-drink/fabyans-station/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4430242,
+          44.2599728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fairbanks Museum and Planetarium Saint Johnsbury VT",
         "icon": "landmark",
         "color": "green",
@@ -9565,6 +9665,26 @@
         "coordinates": [
           -70.42509,
           43.35781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Food Store & Bakery Bethel ME",
+        "icon": "coffee",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Specialty grocer, bakery, and caterer in Bethel since 1994 \u2014 organic/gourmet foods, popular for cookies and whoopie pies.",
+        "start_date_time": "",
+        "detail": "Good Food Store & Bakery\n\n\ud83d\udccd 212 Mayville Rd, Bethel ME\n\nA specialty grocer, bakery, and catering company that's been Bethel's unique grocer since 1994 \u2014 organic/gourmet foods, bulk goods, and a bakery counter especially known for cookies and whoopie pies.\n\nMust Order\n- Whoopie pies\n- Cookies\n\nTips\n- Open Monday\u2013Saturday, 9am\u20138pm.\n- Good grab-and-go option heading into or out of Bethel village.",
+        "website": "https://www.goodfoodbethel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7977165,
+          44.4249827
         ]
       }
     },
@@ -13662,6 +13782,26 @@
         "coordinates": [
           -68.10353,
           44.56665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little White Church Crystal Lake Eaton NH",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Scenic",
+        "description": "1879 non-denominational church on Crystal Lake, one of the most photographed views in the region \u2014 especially its reflection in the lake during fall foliage.",
+        "start_date_time": "",
+        "detail": "Little White Church (Crystal Lake)\n\n\ud83d\udccd 2371 Eaton Rd, Eaton NH\n\nA picturesque 1879 non-denominational church on the shore of Crystal Lake, one of the most photographed views in the White Mountains region \u2014 famous for its steeple reflected in the lake, especially during fall foliage. A small historic cemetery sits next to it; the church still hosts weddings and community events.\n\nTips\n- Flat roadside pull-off view \u2014 no walking required.\n- Best light for the classic reflection photo is generally morning.",
+        "website": "https://www.littlewhitechurch.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079443,
+          43.908356
         ]
       }
     },
@@ -20518,6 +20658,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Remick Country Doctor Museum & Farm Tamworth NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Working farm and museum on the 200+-year-old Remick family property in Tamworth village \u2014 flat walking trails, farm animals, and the historic 1808 Captain Enoch Remick House.",
+        "start_date_time": "",
+        "detail": "Remick Country Doctor Museum & Farm\n\n\ud83d\udccd 58 Cleveland Hill Rd, Tamworth NH\n\nA working farm for over 200 years, now a museum interpreting the world of two generations of country doctors (Dr. Edwin Remick, 1866\u20131935, and his son Dr. Edwin \"Doc\" Crafts Remick, 1903\u20131993) alongside the farm's own agricultural history. Includes the historic c.1808 Captain Enoch Remick House, farm animals (chickens, pigs, sheep, goats, cattle), pastureland, gardens, and walking trails.\n\nTips\n- Open Tuesday\u2013Saturday, 10am\u20133pm; closed Sunday and Monday.\n- Free admission spring through fall for self-guided exploration (donations appreciated); guided historic-house tours run summer months with preregistration.",
+        "website": "https://www.remickmuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2681448,
+          43.8584301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rest Plaus Historic District Stone Ridge NY",
         "icon": "scroll",
         "color": "green",
@@ -25122,6 +25282,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tamworth Distilling NH",
+        "icon": "wine",
+        "color": "red",
+        "vault_type": "Brewery",
+        "description": "Craft spirits distillery and tasting room using local/foraged botanicals, in Tamworth village \u2014 step-free tasting room.",
+        "start_date_time": "",
+        "detail": "Tamworth Distilling\n\n\ud83d\udccd 15 Cleveland Hill Rd, Tamworth NH\n\nCraft spirits distillery known for unusual, locally-foraged botanical flavors (past releases have included things like beaver-castoreum and crab-apple whiskeys). Step-free tasting room in Tamworth village.\n\nTips\n- Tasting room hours are limited: Friday\u2013Saturday 11am\u20136pm, Sunday 11am\u20135pm; closed Monday\u2013Thursday \u2014 check before building a weekday stop around it.",
+        "website": "https://tamworthdistilling.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2666691,
+          43.8592628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Tandem Glass Gallery & Studio Dresden ME",
         "icon": "palette",
         "color": "purple",
@@ -26015,7 +26195,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The High-Alpine Wilderness: Crawford Notch Loop\n\nHeading northwest out of the village on Route 302 leads you directly into the sheer granite walls of Crawford Notch. This route is all about deep valley views, dramatic elevation, and historic grand estates.\n\n- The Route: Follow Route 302 West through Glen, Bartlett, and up into the heart of Crawford Notch State Park.\n    \n- The Prime Excursion: Book the Mountaineer ride via the _Conway Scenic Railroad_ right from the historic 1874 Victorian station in North Conway Village. This 4.5-hour heritage rail excursion utilizes 1950s-era transcontinental cars to climb the rugged, steep grades over the Frankenstein Trestle and deep into the notch, giving you the grandest views without the driving stress.\n    \n- Don't Miss: Stop at the historic Omni Mount Washington Resort in Bretton Woods for a drink or lunch on the expansive back veranda. The view of the entire Presidential Range from that porch is completely unmatched. On the way back, stretch your legs with a short walk to Silver Cascade or Flume Cascade, massive waterfalls that tumble right down the mountain to the side of the highway."
+        "detail": "The High-Alpine Wilderness: Crawford Notch Loop\n\nHeading northwest out of the village on Route 302 leads you directly into the sheer granite walls of Crawford Notch. This route is all about deep valley views, dramatic elevation, and historic grand estates.\n\n- The Route: Follow Route 302 West through Glen, Bartlett, and up into the heart of Crawford Notch State Park.\n    \n- The Prime Excursion: Book the Mountaineer ride via the _Conway Scenic Railroad_ right from the historic 1874 Victorian station in North Conway Village. This 4.5-hour heritage rail excursion utilizes 1950s-era transcontinental cars to climb the rugged, steep grades over the Frankenstein Trestle and deep into the notch, giving you the grandest views without the driving stress. If not riding it, Crawford Depot \u2014 the historic 1891 station at the top of the notch \u2014 is a good flat spot to watch the train roll through instead.\n    \n- Don't Miss: Stop at the historic Omni Mount Washington Resort in Bretton Woods for a drink or lunch on the expansive back veranda. The view of the entire Presidential Range from that porch is completely unmatched. Fabyan's Station is a more casual family-friendly lunch option nearby, in a converted railroad depot. On the way back, stretch your legs with a short walk to Silver Cascade or Flume Cascade, massive waterfalls that tumble right down the mountain to the side of the highway, or stop at Willey House Historic Site \u2014 flat trails around Willey Pond plus the story of the 1826 Willey family landslide."
       },
       "geometry": {
         "type": "Point",
@@ -26250,7 +26430,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The Maine Escape: Bethel & Grafton Notch Loop\n\nThe best full-day escape from North Conway when you want real mountain drama without driving the Kanc. Head north on Route 113 through Evans Notch toward Bethel \u2014 about 50 miles, roughly 1h20m \u2014 then continue up into Grafton Notch State Park.\n\n- The Route: Route 113 through Evans Notch to Bethel, then north on Route 26 into Grafton Notch.\n- The Prime Excursion: Screw Auger Falls, an easy 0.2-mile walk to a 23-foot waterfall carved into a spiral granite gorge, with swimming holes below \u2014 the low-effort payoff stop of the whole loop.\n- Don't Miss: Start with coffee or breakfast in Bethel village and browse a little before heading up to the notch, or save it for a relaxed lunch on the way back. Grafton Notch's other short stops (Moose Cave, Mother Walker Falls) are worth a look if there's time left in the day.\n\nBest choice for real mountain scenery and a genuinely different landscape from the White Mountains side, without the Kancamagus crowds."
+        "detail": "The Maine Escape: Bethel & Grafton Notch Loop\n\nThe best full-day escape from North Conway when you want real mountain drama without driving the Kanc. Head north on Route 113 through Evans Notch toward Bethel \u2014 about 50 miles, roughly 1h20m \u2014 then continue up into Grafton Notch State Park.\n\n- The Route: Route 113 through Evans Notch to Bethel, then north on Route 26 into Grafton Notch.\n- The Prime Excursion: Screw Auger Falls, an easy 0.2-mile walk to a 23-foot waterfall carved into a spiral granite gorge, with swimming holes below \u2014 the low-effort payoff stop of the whole loop.\n- Don't Miss: Start with coffee or breakfast in Bethel village and browse a little before heading up to the notch, or save it for a relaxed lunch on the way back. Bethel Inn anchors the village green; Good Food Store & Bakery is a good bakery/grab-and-go stop. Grafton Notch's other short stops (Moose Cave, Mother Walker Falls) are worth a look if there's time left in the day.\n\nBest choice for real mountain scenery and a genuinely different landscape from the White Mountains side, without the Kancamagus crowds.\n\nLonger variant: the full Evans Notch loop\n\nInstead of driving Route 113 both ways, a fuller loop goes north on Route 16 past Jackson and Pinkham Notch to Gorham, then Route 2 east into Bethel, then returns south through Route 113 (Evans Notch) past Fryeburg back to North Conway \u2014 the quietest, least-crowded notch in the region, a winding single-lane feel through white birch forests along the Maine/NH border. On the way up, The Glen House at Pinkham Notch is a natural stop for step-free veranda views of the Presidential Range. On the way back through Fryeburg, Hemlock Bridge is a quick roadside stop. Note: Route 113 is closed in winter."
       },
       "geometry": {
         "type": "Point",
@@ -26540,7 +26720,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The Quiet Villages: Tamworth & Sandwich Loop\n\nThe quietest New Hampshire village day available from North Conway \u2014 a pastoral drive with small-town character, lakes, and farms, well away from the North Conway tourist strip. Head south on Route 16 to Tamworth, then continue to Center Sandwich via Routes 25 and 113.\n\n- The Route: Route 16 south to Tamworth, then Route 25/113 to Center Sandwich.\n- The Prime Stop: Walk Tamworth village and stop by Lake Chocorua for the classic Mount Chocorua-from-the-Narrows-Bridge photo, already a known easy, flat-access spot.\n- Don't Miss: Center Sandwich's village green and historic homes for a slow lunch-and-stroll \u2014 plus its local shops and galleries. A gentle lakefront walk rounds out the day if there's time.\n\nBest choice for a low-key day built around scenery and village atmosphere, with no single \"must-do\" attraction driving the schedule."
+        "detail": "The Quiet Villages: Tamworth & Sandwich Loop\n\nThe quietest New Hampshire village day available from North Conway \u2014 a pastoral drive with small-town character, lakes, and farms, well away from the North Conway tourist strip. Head south on Route 16 to Tamworth, then continue to Center Sandwich via Routes 25 and 113.\n\n- The Route: Route 16 south to Tamworth (passing the Little White Church on Crystal Lake in Eaton), then Route 25/113 to Center Sandwich.\n- The Prime Stop: Walk Tamworth village and stop by Lake Chocorua for the classic Mount Chocorua-from-the-Narrows-Bridge photo, already a known easy, flat-access spot. Tamworth Distilling (step-free tasting room, but Fri\u2013Sun only) and Remick Country Doctor Museum & Farm (working farm + historic house, Tue\u2013Sat) are both right in the village.\n- Don't Miss: Center Sandwich's village green and historic homes for a slow lunch-and-stroll \u2014 the Fine Craft Gallery (seasonal, mid-May\u2013mid-Oct) and Corner House Inn for dinner are both right on the green. A gentle lakefront walk rounds out the day if there's time.\n\nBest choice for a low-key day built around scenery and village atmosphere, with no single \"must-do\" attraction driving the schedule.\n\nLonger variant: extend to Squam Lake & Meredith\n\nContinuing past Center Sandwich down to Squam Lake (the \"On Golden Pond\" lake) and on to Meredith on Lake Winnipesaukee turns this into a fuller lakes-region day \u2014 see the existing Squam Lakes Natural Science Center day-trip plan for that stretch. Town Docks on Meredith's paved waterfront is a good finishing-lunch/dinner option with lakeside outdoor seating."
       },
       "geometry": {
         "type": "Point",
@@ -27274,6 +27454,26 @@
         "coordinates": [
           -69.3905,
           44.086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town Docks Meredith NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Lakeside seafood restaurant right on Lake Winnipesaukee in Meredith \u2014 paved waterfront dining, free boat tie-ups, outdoor tiki bar.",
+        "start_date_time": "",
+        "detail": "Town Docks\n\n\ud83d\udccd 289 Daniel Webster Hwy, Meredith NH\n\nLakeside seafood restaurant directly on Lake Winnipesaukee \u2014 classic summer fare (lobster dinners, fried seafood, burgers), paved waterfront outdoor seating, free tie-ups for boats, and a sandy outdoor tiki bar. Open since 1999.\n\nTips\n- Hours: Sun\u2013Thu 11am\u20139pm, Fri\u2013Sat 11am\u20139:30pm.\n- Good anchor for the paved Meredith waterfront if extending a Tamworth/Sandwich day trip out to the lake.",
+        "website": "https://www.millfalls.com/eat-drink/town-docks/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4972419,
+          43.6550385
         ]
       }
     },
@@ -29306,6 +29506,25 @@
         "coordinates": [
           -69.9728,
           43.9151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willey House Historic Site Harts Location NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "Site of the 1826 Willey family landslide tragedy, now a country store with flat, accessible walking trails around Willey Pond and a picnic area.",
+        "start_date_time": "",
+        "detail": "Willey House Historic Site\n\n\ud83d\udccd Crawford Notch State Park, Hart's Location NH (Route 302)\n\nMarks the site of one of New England's most haunting historical events: the 1826 landslide that killed the entire Willey family, who ironically died fleeing the house while it was itself spared by a rocky outcrop that split the debris flow around it. Today it's a country store with an old-time feel \u2014 NH-made gifts, ice cream, a snack bar \u2014 plus flat family-friendly walking trails and a small reservoir (Willey Pond) across the road.\n\nTips\n- Two short, flat walking trails loop around Willey Pond, across the road from the store.\n- The more strenuous Ripley Falls Trail (1-mile moderate climb to a 100-foot cascade) and Ethan Pond Trail (connects to the Appalachian Trail) depart nearby, if more of a hike is wanted.\n- Interpretive displays cover both the Willey disaster and the geology of the notch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3991582,
+          44.1821226
         ]
       }
     },
