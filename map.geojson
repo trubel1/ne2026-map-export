@@ -30274,25 +30274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 29 Littleton NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-08-29T18:00:00",
-        "detail": "Time: 2026-08-29T18:00:00\n\nDinner Reservation Needed \u2014 Sat, Aug 29\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.7745,
-          44.3042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 30 Littleton NH",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -30907,13 +30888,33 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 Tall Provisions Littleton NH",
+        "name": "\u2705 Tall Provisions Littleton NH (Visit 1)",
         "icon": "sandwich",
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "American cuisine, $30\u201350, open for dinner only, serves alcohol.",
         "start_date_time": "2026-08-26T18:30:00",
-        "detail": "Time: 2026-08-26T18:30:00\n\nOverview\nType: American restaurant\n\nBest known for: Excellent food and drinks, refined meals with a simple menu.\n\nLocation context: Not specified\n\nPrice level: $30\u201350\n\nVisit timing: Popular during dinner, busy atmosphere.\n\nTypical Customers\nDemographics: Mix of locals and tourists.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Casual dinner, date night.\n\nVibe & Setting\nAtmosphere: Casual yet refined.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating, comfortable atmosphere.\n\nService style: Attentive and friendly as noted in reviews.\n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently recommend the seared scallops and corn chowder, which are highlighted for their exceptional quality and flavor.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are identified based on frequent mentions in reviews, presence in photos, and general praise from diners.\n\n| Rank | Dish                  | Why it stands out                                    | How often it\u2019s mentioned      | Ideal for               |\n|------|-----------------------|-----------------------------------------------------|------------------------------|-------------------------|\n| 1    | Seared Scallops       | Incredible flavor and perfectly cooked.             | Mentioned in many reviews.   | Sharing at the table    |\n| 2    | Corn Chowder with Crab| Rich flavor, delicious and satisfying.              | Appears in numerous photos.  | Hearty starter          |\n| 3    | Rigatoni              | Full of flavor, highly praised for texture.         | Repeatedly called out as a favorite.| Hearty main            |\n\nGood alternates / backup choices\n- Milk Bread Rolls: Noted for being delicious and a must-try.  \n- Other dishes: Fewer clearly highlighted dishes in reviews.\n\nHighlights (non\u2011dish positives from reviews)\nExcellent Service: Reviewers commend the attentive service throughout their visits.\n\nComfortable Atmosphere: The setting is described as inviting and comfortable for dining.\n\nRave Reviews: Many patrons express satisfaction with the quality of food.\n\nCommon Issues (from reviews)\nNot specified: No significant issues mentioned by multiple reviewers.\n\nPractical Notes\nReservation / wait: Reservations recommended due to popularity.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Best for casual dinners and date nights.",
+        "detail": "Time: 2026-08-26T18:30:00\n\n[!note] First of two visits \u2014 confirmed 2026-08-23\nConfirmation ID 68BA-A366-34E0-E838. Second visit is Aug 29 \u2014 see Visit 2.\n\nOverview\nType: American restaurant\n\nBest known for: Excellent food and drinks, refined meals with a simple menu.\n\nLocation context: Not specified\n\nPrice level: $30\u201350\n\nVisit timing: Popular during dinner, busy atmosphere.\n\nTypical Customers\nDemographics: Mix of locals and tourists.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Casual dinner, date night.\n\nVibe & Setting\nAtmosphere: Casual yet refined.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating, comfortable atmosphere.\n\nService style: Attentive and friendly as noted in reviews.\n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently recommend the seared scallops and corn chowder, which are highlighted for their exceptional quality and flavor.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are identified based on frequent mentions in reviews, presence in photos, and general praise from diners.\n\n| Rank | Dish                  | Why it stands out                                    | How often it\u2019s mentioned      | Ideal for               |\n|------|-----------------------|-----------------------------------------------------|------------------------------|-------------------------|\n| 1    | Seared Scallops       | Incredible flavor and perfectly cooked.             | Mentioned in many reviews.   | Sharing at the table    |\n| 2    | Corn Chowder with Crab| Rich flavor, delicious and satisfying.              | Appears in numerous photos.  | Hearty starter          |\n| 3    | Rigatoni              | Full of flavor, highly praised for texture.         | Repeatedly called out as a favorite.| Hearty main            |\n\nGood alternates / backup choices\n- Milk Bread Rolls: Noted for being delicious and a must-try.  \n- Other dishes: Fewer clearly highlighted dishes in reviews.\n\nHighlights (non\u2011dish positives from reviews)\nExcellent Service: Reviewers commend the attentive service throughout their visits.\n\nComfortable Atmosphere: The setting is described as inviting and comfortable for dining.\n\nRave Reviews: Many patrons express satisfaction with the quality of food.\n\nCommon Issues (from reviews)\nNot specified: No significant issues mentioned by multiple reviewers.\n\nPractical Notes\nReservation / wait: Reservations recommended due to popularity.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Best for casual dinners and date nights.",
+        "website": "https://www.google.com/maps/place/Tall+Provisions/@44.3057138,-71.7704455,153a,49.9y,1.19t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46fab3d64b967:0x9aa250ffb878f91f!8m2!3d44.3060114!4d-71.770634!16s%2Fg%2F11wpfcp0tt?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77064351328127,
+          44.306036484263146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Tall Provisions Littleton NH (Visit 2)",
+        "icon": "sandwich",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "American cuisine, $30\u201350, open for dinner only, serves alcohol.",
+        "start_date_time": "2026-08-29T18:30:00",
+        "detail": "Time: 2026-08-29T18:30:00\n\n[!note] Second of two visits \u2014 confirmed 2026-08-23\nConfirmation ID 825D-A03D-B487-D3BA. First visit is Aug 26 \u2014 see Visit 1.\n\nOverview\nType: American restaurant\n\nBest known for: Excellent food and drinks, refined meals with a simple menu.\n\nLocation context: Not specified\n\nPrice level: $30\u201350\n\nVisit timing: Popular during dinner, busy atmosphere.\n\nTypical Customers\nDemographics: Mix of locals and tourists.\n\nGroup types: Couples, friends, families.\n\nCommon occasions: Casual dinner, date night.\n\nVibe & Setting\nAtmosphere: Casual yet refined.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating, comfortable atmosphere.\n\nService style: Attentive and friendly as noted in reviews.\n\nRecommended Dishes\nOverall dish consensus\nReviewers frequently recommend the seared scallops and corn chowder, which are highlighted for their exceptional quality and flavor.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are identified based on frequent mentions in reviews, presence in photos, and general praise from diners.\n\n| Rank | Dish                  | Why it stands out                                    | How often it\u2019s mentioned      | Ideal for               |\n|------|-----------------------|-----------------------------------------------------|------------------------------|-------------------------|\n| 1    | Seared Scallops       | Incredible flavor and perfectly cooked.             | Mentioned in many reviews.   | Sharing at the table    |\n| 2    | Corn Chowder with Crab| Rich flavor, delicious and satisfying.              | Appears in numerous photos.  | Hearty starter          |\n| 3    | Rigatoni              | Full of flavor, highly praised for texture.         | Repeatedly called out as a favorite.| Hearty main            |\n\nGood alternates / backup choices\n- Milk Bread Rolls: Noted for being delicious and a must-try.  \n- Other dishes: Fewer clearly highlighted dishes in reviews.\n\nHighlights (non\u2011dish positives from reviews)\nExcellent Service: Reviewers commend the attentive service throughout their visits.\n\nComfortable Atmosphere: The setting is described as inviting and comfortable for dining.\n\nRave Reviews: Many patrons express satisfaction with the quality of food.\n\nCommon Issues (from reviews)\nNot specified: No significant issues mentioned by multiple reviewers.\n\nPractical Notes\nReservation / wait: Reservations recommended due to popularity.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Best for casual dinners and date nights.",
         "website": "https://www.google.com/maps/place/Tall+Provisions/@44.3057138,-71.7704455,153a,49.9y,1.19t/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46fab3d64b967:0x9aa250ffb878f91f!8m2!3d44.3060114!4d-71.770634!16s%2Fg%2F11wpfcp0tt?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
