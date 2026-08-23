@@ -30487,13 +30487,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 Alpine Tavern at The Wentworth Jackson NH",
+        "name": "\u2705 Alpine Tavern at The Wentworth Jackson NH (Visit 1)",
         "icon": "sandwich",
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
         "start_date_time": "2026-08-24T18:30:00",
-        "detail": "Time: 2026-08-24T18:30:00\n\nAlpine Tavern at The Wentworth\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nCozy tavern at The Wentworth resort in Jackson, ~13-14 min (8 mi) from North Conway. Known for chicken tenders with homemade ranch sauce, $50-100/person.\n\nTips\n- Fills the Aug 24 dinner slot for this base camp.\n- Note: there is also an existing Aug 26 booking at this same restaurant (confirmation from earlier planning) mistakenly tagged to Base Camp 6 Littleton NH \u2014 that's ~31 miles / a real detour from Littleton and doesn't fit the actual trip plan. Pending Tom's cancellation of that booking; see \u2705 Alpine Tavern at The Wentworth Littleton NH.",
+        "detail": "Time: 2026-08-24T18:30:00\n\nAlpine Tavern at The Wentworth (Visit 1)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nCozy tavern at The Wentworth resort in Jackson, ~13-14 min (8 mi) from North Conway. Known for chicken tenders with homemade ranch sauce, $50-100/person.\n\nTips\n- OpenTable confirmation #2630, 2 guests, Mon Aug 24 at 6:30 PM.\n- Fills the Aug 24 dinner slot for this base camp.\n- Resolved 2026-08-23: there's also a second visit here on Aug 26 (confirmation #2139, still active) \u2014 was mistagged to Base Camp 6 Littleton NH, now fixed. See Visit 2.",
         "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -30507,13 +30507,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 Alpine Tavern at The Wentworth Littleton NH",
+        "name": "\u2705 Alpine Tavern at The Wentworth Jackson NH (Visit 2)",
         "icon": "sandwich",
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Alpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
         "start_date_time": "2026-08-26T18:45:00",
-        "detail": "Time: 2026-08-26T18:45:00\n\nAlpine Tavern at The Wentworth is a bar & grill offering American cuisine with a price range of $50\u2013100 per person. It is open for dinner from 4 PM to 9 PM daily and serves alcohol.",
+        "detail": "Time: 2026-08-26T18:45:00\n\nAlpine Tavern at The Wentworth (Visit 2)\n\n\ud83d\udccd 1 Carter Notch Rd, Jackson, NH 03846\n\nSecond visit to this same tavern \u2014 see Visit 1 for the Aug 24 booking.\n\nTips\n- OpenTable confirmation #2139, 2 guests, Wed Aug 26 at 6:45 PM.\n- Fixed 2026-08-23: this note was previously mistagged `base-camp: Base Camp 6 Littleton NH` / `destination: Littleton, NH` \u2014 a real bug, since the actual address/coordinates put it in Jackson (~31mi from Littleton, no fit with that base camp's plan). Corrected to Base Camp 5 North Conway, matching its real location. Confirmed still active as of 2026-08-23 (not cancelled), so this is now treated as a legitimate second visit rather than a stray duplicate.",
         "website": "https://www.google.com/maps/place/Alpine+Tavern+at+The+Wentworth/@44.1470544,-71.1848855,784m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb3996bcf693235:0xc6a2e08b4d0ee84b!8m2!3d44.1470544!4d-71.1823106!16s%2Fg%2F11krq04t1l?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -30913,7 +30913,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-09-21T18:30:00",
-        "detail": "Time: 2026-09-21T18:30:00\n\nSavona's Trattoria & Bar is an Italian restaurant known for its welcoming atmosphere and delicious menu offerings. It attracts a diverse clientele, including families and couples, and is favored for both casual dining and special occasions.\n\nThe overall vibe is cozy, with a blend of casual and warm decor, making it ideal for a relaxed dining experience. Patrons appreciate the delightful ambiance, especially during the holiday season.\n\nConsistently praised positives include the exceptional quality of the food, particularly the steak and Hot Honey Calamari Salad, as well as the friendly service provided by staff like Christopher. Many reviews highlight the enjoyable atmosphere, which adds to the dining experience.\n\nCommon downsides noted by patrons include relatively low overall ratings compared to expectations and the potential for wait times during busy hours.",
+        "detail": "Time: 2026-09-21T18:30:00\n\nSavona's Trattoria & Bar is an Italian restaurant known for its welcoming atmosphere and delicious menu offerings. It attracts a diverse clientele, including families and couples, and is favored for both casual dining and special occasions.\n\nThe overall vibe is cozy, with a blend of casual and warm decor, making it ideal for a relaxed dining experience. Patrons appreciate the delightful ambiance, especially during the holiday season.\n\nConsistently praised positives include the exceptional quality of the food, particularly the steak and Hot Honey Calamari Salad, as well as the friendly service provided by staff like Christopher. Many reviews highlight the enjoyable atmosphere, which adds to the dining experience.\n\nCommon downsides noted by patrons include relatively low overall ratings compared to expectations and the potential for wait times during busy hours.\n\nTips\n- \u26a0\ufe0f Booked for 2, needs to be 4 \u2014 the McGuires are joining for this leg of the trip (Sep 21\u201322), but the reservation as actually made (confirmation #130118200) is for 2. Call the restaurant to increase to 4 before the trip \u2014 see Todoist.",
         "website": "https://www.google.com/maps/place/Savona%E2%80%99s+Trattoria+%26+Bar+-+Poughkeepsie/@41.6904739,-73.9021268,741m/data=!3m1!1e3!4m20!1m8!3m7!1s0x89c2b9b935200001:0xa7fbe7f1959624e!2sHudson+Valley,+NY!3b1!8m2!3d41.9209018!4d-73.9612887!16zL20vMDI5anF2!3m10!1s0x89dd3f6261f9e303:0x9e7bcd7d13ccb393!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6919489!4d-73.900144!16s%2Fg%2F11fqdcq_gh?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
