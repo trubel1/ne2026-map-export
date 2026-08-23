@@ -10723,6 +10723,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hemlock Bridge Fryeburg ME",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "1857 Paddleford-truss covered bridge over the Old Course Saco River \u2014 the last of seven covered bridges that once crossed the Saco in Fryeburg, and the oldest surviving Paddleford truss in Maine.",
+        "start_date_time": "",
+        "detail": "Hemlock Bridge\n\n\ud83d\udccd Hemlock Bridge Rd, Fryeburg ME (near the western shore of Kezar Lake)\n\nA 136-foot Paddleford-truss covered bridge built in 1857, spanning the Old Course Saco River \u2014 a remnant channel bypassed by canal-digging in the early 1800s. The last surviving 19th-century covered bridge of the seven that once crossed the Saco in Fryeburg, and the oldest Paddleford truss covered bridge in Maine. Rehabilitated in 1998; on the National Register of Historic Places since 1970.\n\nTips\n- Quick roadside stop \u2014 flat gravel pull-off right at the bridge, good for photos without much walking.\n- Pairs well with a Kezar Lake detour on the way toward Lovell.",
+        "website": "https://www.maine.gov/dot/programs-services/bridges/covered-bridges/hemlock-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9030566,
+          44.0795201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hemlock Catskill, NY",
         "icon": "star",
         "color": "green",
@@ -13143,7 +13163,7 @@
         "vault_type": "Restaurant",
         "description": "Community bakery since 1974, famous for cider donuts, apple fritters, and cinnamon rolls; a classic White Mountain Highway breakfast stop.",
         "start_date_time": "",
-        "detail": "Leavitt's Country Bakery\n\n\ud83d\udccd 564 White Mountain Hwy, Conway NH\n\nA community staple since 1974, on White Mountain Highway between Conway and North Conway. Known for cider donuts, apple fritters, and cinnamon rolls, plus breakfast sandwiches and egg sandwiches.\n\nMust Order\n- Cider donuts\n- Apple fritters\n- Cinnamon rolls\n\nTips\n- Consistently one of the highest-rated breakfast/bakery stops in the North Conway area.\n- Good grab-and-go option on the way to or from the Kancamagus.",
+        "detail": "Leavitt's Country Bakery\n\n\ud83d\udccd 564 White Mountain Hwy, Conway NH\n\nA community staple since 1974, on White Mountain Highway between Conway and North Conway. Known for cider donuts, apple fritters, and cinnamon rolls, plus breakfast sandwiches and egg sandwiches.\n\nMust Order\n- Cider donuts\n- Apple fritters\n- Cinnamon rolls\n\nTips\n- Consistently one of the highest-rated breakfast/bakery stops in the North Conway area.\n- Good grab-and-go option on the way to or from the Kancamagus.\n- Hours (per the bakery's own site): opens 4am, Mon/Tue/Thu/Fri/Sat until 3pm, Sunday until noon, closed Wednesday. Genuinely useful for an early-departure day trip toward Fryeburg/Maine.",
         "website": "https://www.leavittsbakery.com/"
       },
       "geometry": {
@@ -22597,6 +22617,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Screw Auger Falls Grafton Notch ME",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A 23-foot waterfall where the Bear River carves a spiral gorge into smooth granite, with swimming holes below \u2014 an easy 0.2-mile walk from the parking area.",
+        "start_date_time": "",
+        "detail": "Screw Auger Falls\n\n\ud83d\udccd Route 26, Grafton Notch State Park, Newry ME\n\nA 23-foot waterfall on the Bear River, where the water has carved a distinctive spiral gorge into the granite over centuries. A short, level 0.2-mile walk from the parking area reaches the falls \u2014 suitable for all ages, and a popular spot for picnicking and swimming in the gorge's pools.\n\nTips\n- Open 9am to sunset, May 15\u2013October 15, with a small day-use fee (cash or check only, no credit cards per the park's own site).\n- Several stretches have exposed, unfenced ledge above the water \u2014 worth care, especially with kids or when wet.\n- Not to be confused with the other Screw Auger Falls near Gulf Hagas in Maine \u2014 this one is inside Grafton Notch State Park.",
+        "website": "https://www.maine.gov/graftonnotch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9027301,
+          44.5717727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sculptured Rocks Natural Area Woodstock VT",
         "icon": "trees",
         "color": "green",
@@ -26204,6 +26244,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Maine Escape - Bethel & Grafton Notch Loop North Conway NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "The Maine Escape: Bethel & Grafton Notch Loop\n\nThe best full-day escape from North Conway when you want real mountain drama without driving the Kanc. Head north on Route 113 through Evans Notch toward Bethel \u2014 about 50 miles, roughly 1h20m \u2014 then continue up into Grafton Notch State Park.\n\n- The Route: Route 113 through Evans Notch to Bethel, then north on Route 26 into Grafton Notch.\n- The Prime Excursion: Screw Auger Falls, an easy 0.2-mile walk to a 23-foot waterfall carved into a spiral granite gorge, with swimming holes below \u2014 the low-effort payoff stop of the whole loop.\n- Don't Miss: Start with coffee or breakfast in Bethel village and browse a little before heading up to the notch, or save it for a relaxed lunch on the way back. Grafton Notch's other short stops (Moose Cave, Mother Walker Falls) are worth a look if there's time left in the day.\n\nBest choice for real mountain scenery and a genuinely different landscape from the White Mountains side, without the Kancamagus crowds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7900666,
+          44.4059351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Mooring Chain Monhegan Island ME",
         "icon": "star",
         "color": "green",
@@ -26475,6 +26534,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Quiet Villages - Tamworth & Sandwich Loop North Conway NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "The Quiet Villages: Tamworth & Sandwich Loop\n\nThe quietest New Hampshire village day available from North Conway \u2014 a pastoral drive with small-town character, lakes, and farms, well away from the North Conway tourist strip. Head south on Route 16 to Tamworth, then continue to Center Sandwich via Routes 25 and 113.\n\n- The Route: Route 16 south to Tamworth, then Route 25/113 to Center Sandwich.\n- The Prime Stop: Walk Tamworth village and stop by Lake Chocorua for the classic Mount Chocorua-from-the-Narrows-Bridge photo, already a known easy, flat-access spot.\n- Don't Miss: Center Sandwich's village green and historic homes for a slow lunch-and-stroll \u2014 plus its local shops and galleries. A gentle lakefront walk rounds out the day if there's time.\n\nBest choice for a low-key day built around scenery and village atmosphere, with no single \"must-do\" attraction driving the schedule."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.263504,
+          43.860277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Ransom Tavern Woodstock VT",
         "icon": "utensils",
         "color": "red",
@@ -26489,6 +26567,25 @@
         "coordinates": [
           -72.53324853670574,
           43.569564164573684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The River Country - Fryeburg & Lovell Loop North Conway NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "The River Country: Fryeburg & Lovell Loop\n\nThe most relaxed, least strenuous of the three \u2014 a scenic Route 302 drive into Maine punctuated by food and covered-bridge charm rather than a big hike or attraction. Cross into Fryeburg, then work north toward Lovell and the Saco River / Kezar Lake country.\n\n- The Route: Route 302 into Fryeburg, then north toward Lovell along the Saco River / Kezar Lake corridor.\n- The Prime Stop: Start early at Leavitt's Country Bakery on the way out of Conway (opens 4am most days) for cider donuts, then Hemlock Bridge \u2014 an easy roadside stop at Maine's oldest surviving Paddleford-truss covered bridge, over the Old Course Saco River.\n- Don't Miss: Continue toward Lovell for quiet lake-and-hill scenery on Kezar Lake, then loop back through Fryeburg \u2014 which has a compact cluster of restaurants and bars \u2014 for a proper lunch or early dinner.\n\nBest choice for a scenic, food-forward day with minimal walking required."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9810769,
+          44.0165424
         ]
       }
     },
@@ -33044,6 +33141,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fryeburg, ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9810769,
+          44.0165424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gardiner, NY",
         "icon": "route",
         "color": "orange",
@@ -33133,6 +33249,25 @@
         "coordinates": [
           -68.0263,
           44.4086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grafton Notch State Park ME",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9451132,
+          44.5930403
         ]
       }
     },
@@ -35642,6 +35777,25 @@
         "coordinates": [
           -73.769354,
           41.536906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamworth, NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.263504,
+          43.860277
         ]
       }
     },
