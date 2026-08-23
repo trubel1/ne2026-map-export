@@ -2348,6 +2348,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Beede Falls Sandwich NH",
+        "icon": "waves",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "Short, roughly quarter-mile walk to a waterfall off Sandwich Notch Road \u2014 a small scenic break, not a real hike.",
+        "start_date_time": "",
+        "detail": "Beede Falls\n\n\ud83d\udccd Sandwich Notch Rd, Sandwich NH (~3.5mi from Center Sandwich)\n\nA short (about a quarter-mile) walk to a waterfall off Sandwich Notch Road, near Beede Falls/Cow Cave \u2014 a small scenic break rather than a destination hike.\n\nTips\n- Coordinates are approximate (Sandwich Notch Rd's start), not the exact trailhead \u2014 the real turnoff is roughly 3.5 miles down the road from Center Sandwich, per trail reports. Verify with a mapping app before relying on this pin for turn-by-turn.\n- Sandwich Notch Road is unpaved/rough in stretches \u2014 check current conditions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5134,
+          43.8398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Belfast Armistice Bridge Belfast ME",
         "icon": "scroll",
         "color": "purple",
@@ -5458,6 +5477,26 @@
         "coordinates": [
           -74.0189,
           41.9265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chocorua Park Chocorua NH",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "Tiny village park in Chocorua with a short stroll over little bridges beside one of NH's last timber-frame dams, a millpond, and a waterfall on the Chocorua River.",
+        "start_date_time": "",
+        "detail": "Chocorua Park\n\n\ud83d\udccd Chocorua village, Tamworth NH (at Rt 16/113, visible from Route 16)\n\nA tiny public park at the heart of Chocorua village, centered on one of the last surviving timber-frame dams in New Hampshire \u2014 it creates a calm millpond on the otherwise fast-flowing Chocorua River, with a small waterfall where the river continues under Deer Hill Rd. A short stroll over little footbridges is the whole visit \u2014 a quick leg-stretcher, not a hike.\n\nTips\n- 10\u201320 minutes is plenty \u2014 a stop, not a destination.\n- Right on Route 16, easy to fold into a drive south toward Squam without a real detour.",
+        "website": "http://www.chocoruapark.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2197925,
+          43.8789622
         ]
       }
     },
@@ -12987,7 +13026,7 @@
         "vault_type": "Beach",
         "description": "Iconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.",
         "start_date_time": "",
-        "detail": "Lake Chocorua (Chocorua Lake Basin)\n\n\ud83d\udccd Tamworth NH\n\nIconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.\n\nTips\n- Free public access.\n- Best photo spot is the Narrows Bridge.\n- No motorboats \u2014 quiet and scenic.\n- Flat, packed pull-off area right next to the parking \u2014 no walking required to reach the view."
+        "detail": "Lake Chocorua (Chocorua Lake Basin)\n\n\ud83d\udccd Tamworth NH\n\nIconic motor-free lake with the classic photo view of Mount Chocorua from the Narrows Bridge; public access via Chocorua Lake Conservancy, free admission.\n\nTips\n- Free public access.\n- Best photo spot is the Narrows Bridge.\n- No motorboats \u2014 quiet and scenic.\n- Flat, packed pull-off area right next to the parking \u2014 no walking required to reach the view.\n- \"The Grove\" is the Conservancy's specific named picnic/lakeshore access point here \u2014 gentle lakeshore walking, one of the area's classic mountain-and-lake views, leashed dogs permitted. Same spot as this note, not a separate location."
       },
       "geometry": {
         "type": "Point",
@@ -23970,8 +24009,8 @@
         "color": "red",
         "vault_type": "Restaurant",
         "description": "Local coffee shop, deli, and general store in Holderness \u2014 counter service, prepared sandwiches/salads, known for one of NH's best BLTs. Call ahead for pickup.",
-        "start_date_time": "2026-08-23T13:00:00",
-        "detail": "Time: 2026-08-23T13:00:00\n\nSquam Lake MarketPlace\n\n\ud83d\udccd 863 US Route 3, Holderness, NH 03245 \u00b7 (603) 968-8588\n\nQuick counter-service deli/general store, right near the Science Center \u2014 good fit for a rain-day lunch when the dog is staying in the car: order at the counter, no lingering required. 4.6\u2605 on Tripadvisor (#4 of 8 in Holderness). Known for local/craft beer, specialty coffee, and one of NH's best BLTs.\n\nTips\n- Call ahead for pickup \u2014 (603) 968-8588 \u2014 to skip the wait.\n- Seating is limited and mostly outdoors (picnic tables) \u2014 plan on takeout given the rain.\n- Also has a dock out back if arriving by boat.",
+        "start_date_time": "2026-08-24T13:30:00",
+        "detail": "Time: 2026-08-24T13:30:00\n\nSquam Lake MarketPlace\n\n\ud83d\udccd 863 US Route 3, Holderness, NH 03245 \u00b7 (603) 968-8588\n\nQuick counter-service deli/general store, right near the Science Center \u2014 good fit for a fast lunch when the dog is staying in the car: order at the counter, no lingering required. 4.6\u2605 on Tripadvisor (#4 of 8 in Holderness). Known for local/craft beer, specialty coffee, and one of NH's best BLTs.\n\nTips\n- Call ahead for pickup \u2014 (603) 968-8588 \u2014 to skip the wait.\n- Seating is limited and mostly outdoors (picnic tables) \u2014 fine on a clear day, plan on takeout if it's not.\n- Also has a dock out back if arriving by boat.\n- Moved from Sun Aug 23 to Mon Aug 24 \u2014 rained out.",
         "website": "https://www.squammarket.com/"
       },
       "geometry": {
@@ -23990,8 +24029,8 @@
         "color": "green",
         "vault_type": "Attraction",
         "description": "A 200-acre nature center and wildlife park in Holderness, home to non-releasable native animals, walking trails, gardens, and pontoon-boat cruises on Squam Lake \u2014 where On Golden Pond was filmed.",
-        "start_date_time": "2026-08-23T10:15:00",
-        "detail": "Time: 2026-08-23T10:15:00\n\nSquam Lakes Natural Science Center\n\n\ud83d\udccd 23 Science Center Rd, Holderness, NH\n\nFounded in 1966, this 200-acre campus of fields, forests, ponds, and gardens is home to non-releasable native animals living in naturalistic habitats, plus accessible walking trails, Kirkwood Gardens, and the Blue Heron School. The \"Discover Squam\" pontoon-boat cruise covers the lake's history, geography, and its most famous claim to fame: On Golden Pond was filmed here over 40 years ago.\n\nTips\n- Lake cruises require advance reservations and payment \u2014 space is limited, book ahead.\n- Budget 2\u20133 hours for the trails and animal habitats alone.\n\nSun Aug 23 Day Plan\n- 9:00 AM \u2014 depart North Conway via NH Route 113 W (scenic byway, ~1hr-1hr15, hugs Squam Lake's north/west shore through Tamworth, Wonalancet, Sandwich, Center Sandwich)\n- ~10:15 AM \u2014 arrive, trails + animal habitats (rain day \u2014 mostly under tree cover; skip the pontoon cruise, weather-dependent)\n- 1:00 PM \u2014 quick lunch at Squam Lake MarketPlace, right nearby \u2014 dog stays in the car, counter service, in and out fast\n- ~2:15 PM \u2014 depart via Rt 113 E\n- ~3:30 PM \u2014 back in North Conway",
+        "start_date_time": "2026-08-24T12:15:00",
+        "detail": "Time: 2026-08-24T12:15:00\n\nSquam Lakes Natural Science Center\n\n\ud83d\udccd 23 Science Center Rd, Holderness, NH\n\nFounded in 1966, this 200-acre campus of fields, forests, ponds, and gardens is home to non-releasable native animals living in naturalistic habitats, plus accessible walking trails, Kirkwood Gardens, and the Blue Heron School. The \"Discover Squam\" pontoon-boat cruise covers the lake's history, geography, and its most famous claim to fame: On Golden Pond was filmed here over 40 years ago.\n\nTips\n- Lake cruises require advance reservations and payment \u2014 space is limited, book ahead.\n- Budget 2\u20133 hours for the trails and animal habitats alone.\n\nMon Aug 24 Day Plan (moved from Sun Aug 23 \u2014 rained out)\nOriginal plan was a rain-day, indoor-leaning route. Rescheduled for a clear day, so this version adds real trail stops along Route 16/113 rather than driving straight through. Has to wrap up in time for the 6:30 PM Alpine Tavern dinner in Jackson.\n\n- 8:30 AM \u2014 depart North Conway via Route 16 S\n- ~9:15 AM \u2014 White Lake State Park Perimeter Trail \u2014 easy 2-mile, nearly-level loop (45\u201360 min)\n- ~10:30 AM \u2014 Chocorua Park \u2014 quick stop at the timber-frame dam and waterfall (10\u201320 min), right on Route 16\n- ~10:55 AM \u2014 Lake Chocorua / The Grove \u2014 flat roadside photo stop at the Narrows Bridge, no walking required\n- ~11:10 AM \u2014 continue via Route 113 W through Wonalancet and Sandwich toward Holderness\n- ~12:15 PM \u2014 arrive Squam Lakes Natural Science Center \u2014 trails + animal habitats (pontoon cruise only if already pre-booked \u2014 requires advance reservation)\n- ~1:30 PM \u2014 lunch at Squam Lake MarketPlace\n- ~2:30 PM \u2014 depart via Rt 113 E / Rt 16 N back toward North Conway\n- ~4:00 PM \u2014 back in North Conway area, rest before dinner\n- 6:30 PM \u2014 Alpine Tavern at The Wentworth, Jackson (already booked)\n\nOptional, only if running ahead of schedule: West Rattlesnake Mountain \u2014 moderate 3.8mi out-and-back near Holderness, real elevation and rocky footing (not a flat carriage-trail walk like the rest of the day). Skip if it threatens the 6:30 PM dinner or feels like too much given the day's pace already.",
         "website": "https://www.google.com/maps/search/?api=1&query=43.7344%2C%20-71.5880"
       },
       "geometry": {
@@ -26213,7 +26252,7 @@
         "vault_type": "destination",
         "description": "",
         "start_date_time": "",
-        "detail": "The Lakes Extension: Tamworth, Sandwich & Squam Lake Loop\n\nThe full-lakes-region version of the Tamworth & Sandwich trip \u2014 continues past Center Sandwich down to Squam Lake and Meredith instead of turning back at the village.\n\n- The Route: Route 16 south to Tamworth, Route 25/113 to Center Sandwich, then south to Squam Lake and Meredith on Lake Winnipesaukee.\n- The Prime Stop: Squam Lakes Natural Science Center \u2014 the \"On Golden Pond\" lake, already a known full day-trip anchor in its own right (see the 2026-08-23 Squam Lake day-trip plan).\n- Don't Miss: All the Tamworth/Sandwich village stops from the shorter trip, plus Town Docks on Meredith's paved waterfront for a finishing lakeside lunch or dinner.\n\nLongest realistic single-day version of this corridor \u2014 best when there's a full day to give it, not a half-day stop."
+        "detail": "The Lakes Extension: Tamworth, Sandwich & Squam Lake Loop\n\nThe full-lakes-region version of the Tamworth & Sandwich trip \u2014 continues past Center Sandwich down to Squam Lake and Meredith instead of turning back at the village.\n\n- The Route: Route 16 south to Tamworth, Route 25/113 to Center Sandwich, then south to Squam Lake and Meredith on Lake Winnipesaukee.\n- The Prime Stop: Squam Lakes Natural Science Center \u2014 the \"On Golden Pond\" lake, already a known full day-trip anchor in its own right (see that note's Aug 24 day-trip plan).\n- Don't Miss: All the Tamworth/Sandwich village stops from the shorter trip, plus Town Docks on Meredith's paved waterfront for a finishing lakeside lunch or dinner.\n\nLongest realistic single-day version of this corridor \u2014 best when there's a full day to give it, not a half-day stop."
       },
       "geometry": {
         "type": "Point",
@@ -29251,6 +29290,26 @@
         "coordinates": [
           -72.68729,
           44.4652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Lake State Park Perimeter Trail Tamworth NH",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "Easy, nearly-level 2-mile loop around White Lake \u2014 loons, beaver habitat, and White Mountain views on a maintained path, right on the Route 16 approach to Squam.",
+        "start_date_time": "",
+        "detail": "White Lake State Park Perimeter Trail\n\n\ud83d\udccd 94 State Park Rd, Tamworth NH\n\nAn easy, nearly-level 2-mile loop around the perimeter of White Lake \u2014 a peaceful lake circuit rather than a summit climb, on a maintained footpath through pitch-pine forest. Loons and beaver habitat along the shore, with White Mountain views across the water. Directly on Route 16, the natural approach route toward Squam Lake.\n\nTips\n- Allow 45\u201375 minutes at an unhurried pace.\n- Well-maintained, nearly level the whole way \u2014 a good \"carriage-trail-ish\" walk, not a hike.\n- Day-use fee at the park entrance.",
+        "website": "https://www.nhstateparks.org/visit/state-parks/white-lake-state-park.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2163827,
+          43.8351926
         ]
       }
     },
