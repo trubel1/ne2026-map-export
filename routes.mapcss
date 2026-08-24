@@ -5,6 +5,7 @@ way {
     details-text: eval(tag('name'));
     details-description: eval(tag('detail'));
 
+    [color=black]  { color: black; text-color: black; }
     [color=blue]   { color: blue; text-color: blue; }
     [color=brown]  { color: brown; text-color: brown; }
     [color=green]  { color: green; text-color: green; }
