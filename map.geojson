@@ -17598,25 +17598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oakes & Evelyn Woodstock VT",
-        "icon": "star",
-        "color": "green",
-        "vault_type": "Attraction",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5769359,
-          44.2603396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ocean Path Acadia National Park ME",
         "icon": "footprints",
         "color": "purple",
@@ -31714,7 +31695,7 @@
         "vault_type": "Lodging",
         "description": "",
         "start_date_time": "2026-08-31T16:00:00",
-        "detail": "Time: 2026-08-31T16:00:00\n\nThe von Trapp Family Lodge & Resort is a 4-star hotel located in Stowe, known for its relaxed Alpine-style accommodations and proximity to ski slopes. It attracts a diverse clientele including families, couples, and business groups, particularly those seeking a scenic mountain getaway or hosting events. The overall vibe of the resort is casual yet polished, making it suitable for both leisure and business purposes.\n\nVisitors consistently praise the cleanliness and efficient service of the lodge, alongside its pleasant outdoor pool and fitness facilities. However, some guests mention issues with the softness of the pillows and the overall breakfast options, indicating a desire for improvement in these areas.",
+        "detail": "Time: 2026-08-31T16:00:00\n\n[!success] Double-booking resolved \u2014 2026-08-24\nEarlier tracking showed two overlapping room confirmations (5140HM, extended to a Sep 9 checkout; and an older version of 594363951 with a Sep 4 checkout) \u2014 a consequence of Tom modifying this reservation multiple times. Tom provided the current confirmation email as the authoritative record: one room, confirmation #594363951, Edelweiss Queen Pet Room, Aug 31 -Sep 4 (4 nights), matching Base Camp 7 Stowe's actual dates exactly. The older 5140HM confirmation and the stale version of 594363951 are superseded \u2014 see the Reservation Receipt note for the full current confirmation.\n\nThe von Trapp Family Lodge & Resort is a 4-star hotel located in Stowe, known for its relaxed Alpine-style accommodations and proximity to ski slopes. It attracts a diverse clientele including families, couples, and business groups, particularly those seeking a scenic mountain getaway or hosting events. The overall vibe of the resort is casual yet polished, making it suitable for both leisure and business purposes.\n\nVisitors consistently praise the cleanliness and efficient service of the lodge, alongside its pleasant outdoor pool and fitness facilities. However, some guests mention issues with the softness of the pillows and the overall breakfast options, indicating a desire for improvement in these areas.",
         "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4654726,-72.7666041,6525m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
