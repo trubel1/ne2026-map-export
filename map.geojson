@@ -30409,25 +30409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Sep 8 Woodstock VT",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-09-08T18:00:00",
-        "detail": "Time: 2026-09-08T18:00:00\n\nDinner Reservation Needed \u2014 Tue, Sep 8\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5218,
-          43.6237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Salt Line planned closed Mondays - Sep 21 Hudson Valley",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -30807,13 +30788,33 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 Oakes & Evelyn - Woodstock VT",
+        "name": "\u2705 Oakes & Evelyn - Woodstock VT (Visit 1)",
         "icon": "utensils",
         "color": "purple",
         "vault_type": "Restaurant",
         "description": "Oakes & Evelyn is a fine dining restaurant in Woodstock specializing in American cuisine. Expected prices range from $30 to $60. It is open for dinner from 5 PM and serves alcohol.",
         "start_date_time": "2026-09-04T18:30:00",
-        "detail": "Time: 2026-09-04T18:30:00\n\nOakes & Evelyn is a fine dining restaurant in Woodstock specializing in American cuisine. Expected prices range from $30 to $60. It is open for dinner from 5 PM and serves alcohol.",
+        "detail": "Time: 2026-09-04T18:30:00\n\nNote: First of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-DN4D0JGB. The second is Sep 8 (Visit 2), confirmation #TOCK-R-7VEJHCD3.",
+        "website": "https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54907771751357,
+          43.613353146781954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Oakes & Evelyn - Woodstock VT (Visit 2)",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Oakes & Evelyn is a fine dining restaurant in Woodstock specializing in American cuisine. Expected prices range from $30 to $60. It is open for dinner from 5 PM and serves alcohol.",
+        "start_date_time": "2026-09-08T18:30:00",
+        "detail": "Time: 2026-09-08T18:30:00\n\nNote: Second of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-7VEJHCD3, booked Aug 24, 2026. The first visit is Sep 4 (Visit 1), confirmation #TOCK-R-DN4D0JGB. Fills the previously-open Sep 8 dinner gap.",
         "website": "https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -31673,7 +31674,27 @@
         "vault_type": "Restaurant",
         "description": "Twenty Eight Atlantic is a fine dining restaurant specializing in seafood and American cuisine. It offers an elegant atmosphere, serving lunch and dinner with a menu featuring dishes like oysters and lobster carbonara. Alcohol is served, with a well-curated wine list available.",
         "start_date_time": "2026-09-12T18:30:00",
-        "detail": "Time: 2026-09-12T18:30:00\n\n\u23e9 CHANGED: Originally booked for Fri, Sep 11 at 6:30pm \u2014 moved to Sat, Sep 12 at 6:30pm (Jul 26, 2026 change email), resolving a double-booking with Branches Grill and Cafe which keeps the Sep 11 slot. Confirmation #2110052411 unchanged. First of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 the second is Sep 18 (Visit 2), confirmation #2110050195.",
+        "detail": "Time: 2026-09-12T18:30:00\n\n\u23e9 CHANGED: Originally booked for Fri, Sep 11 at 6:30pm \u2014 moved to Sat, Sep 12 at 6:30pm (Jul 26, 2026 change email) to avoid a double-booking with Branches Grill and Cafe, which also held the Sep 11 slot at the time. Branches was itself cancelled 2026-08-23 (see Impudent Oyster, now the confirmed Sep 11 dinner) \u2014 unrelated to this move, which stands regardless. Confirmation #2110052411 unchanged. First of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 the second is Sep 18 (Visit 2), confirmation #2110050195.",
+        "website": "https://www.google.com/maps/place/twenty-eight+Atlantic/@41.7228278,-70.005598,3262m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb6b2c2c9eb68d:0x43679028a22560c6!8m2!3d41.7228283!4d-69.9953197!16s%2Fg%2F1tjfc93k?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99523924183245,
+          41.72337387982597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u2757\ufe0f twenty-eight Atlantic Chatham MA (Visit 2)",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Twenty Eight Atlantic is a fine dining restaurant specializing in seafood and American cuisine. It offers an elegant atmosphere, serving lunch and dinner with a menu featuring dishes like oysters and lobster carbonara. Alcohol is served, with a well-curated wine list available.",
+        "start_date_time": "2026-09-18T18:45:00",
+        "detail": "Time: 2026-09-18T18:45:00\n\nNote: Second of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 confirmation #2110050195, booked June 22, 2026. The first visit is Sep 12 (Visit 1, moved from its original Sep 11 slot to resolve a conflict with Branches Grill and Cafe), confirmation #2110052411.",
         "website": "https://www.google.com/maps/place/twenty-eight+Atlantic/@41.7228278,-70.005598,3262m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb6b2c2c9eb68d:0x43679028a22560c6!8m2!3d41.7228283!4d-69.9953197!16s%2Fg%2F1tjfc93k?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -31701,26 +31722,6 @@
         "coordinates": [
           -72.74533598557375,
           44.46506461767531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u2705\u2757\ufe0f \u274c\u274ctwenty-eight Atlantic Chatham MA (Visit 2)",
-        "icon": "utensils",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Twenty Eight Atlantic is a fine dining restaurant specializing in seafood and American cuisine. It offers an elegant atmosphere, serving lunch and dinner with a menu featuring dishes like oysters and lobster carbonara. Alcohol is served, with a well-curated wine list available.",
-        "start_date_time": "2026-09-18T18:45:00",
-        "detail": "Time: 2026-09-18T18:45:00\n\nNote: Second of two visits to twenty-eight Atlantic during the Chatham MA stay \u2014 confirmation #2110050195, booked June 22, 2026. The first visit is Sep 11 (Visit 1), confirmation #2110052411.",
-        "website": "https://www.google.com/maps/place/twenty-eight+Atlantic/@41.7228278,-70.005598,3262m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89fb6b2c2c9eb68d:0x43679028a22560c6!8m2!3d41.7228283!4d-69.9953197!16s%2Fg%2F1tjfc93k?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99523924183245,
-          41.72337387982597
         ]
       }
     },
@@ -34121,6 +34122,25 @@
         "coordinates": [
           -71.45,
           44.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keene, NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "A stop along the drive from Woodstock, VT to Chatham, MA -- not tied to either base camp -- the historic Monadnock Region college town, home to a self-guided audio walking tour.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2781,
+          42.9337
         ]
       }
     },
