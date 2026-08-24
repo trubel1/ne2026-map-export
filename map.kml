@@ -465,6 +465,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>3 Monkeys Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/3%20Monkeys%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Restaurant near Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=3%20Monkeys%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0728,41.6691,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>400 East Restaurant Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/400%20East%20Restaurant%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Restaurant on Route 28 (400 East Main St area), Chatham/Harwich line.<br/><br/>[!info] Rating note<br/>TripAdvisor shows lower (3.9), some inconsistency<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=400%20East%20Restaurant%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0253,41.6971,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>4Guys llc</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/4Guys%20llc.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>More info: https://www.google.com/maps/place/4Guys+llc/@44.0897852,-70.2452275,9070m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cb26b0dbf47cf49:0xfc59c0e575e4ba3b!8m2!3d44.1102197!4d-70.2258153!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVTU1dKWWFHdFZWRTVVVWtSS2Jsb3lVakJVZWxKaFlXeG9kMkpYWXhBQuABAPoBBQjTARA0!16s%2Fg%2F11z6pvxm0q?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
@@ -907,6 +933,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Aplaya Kitchen + Tiki Bar Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Aplaya%20Kitchen%20%2B%20Tiki%20Bar%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Filipino-inspired kitchen and tiki bar near Harwich Port.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Aplaya%20Kitchen%20%2B%20Tiki%20Bar%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0765,41.6687,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Appalachian Gap Waitsfield VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Appalachian%20Gap%20Waitsfield%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Appalachian Gap ("App Gap")<br/><br/>📍 Route 17, between Waitsfield and the Champlain Valley, VT<br/><br/>A 2,369-foot mountain pass on Route 17, with sustained pitches over 15% on either side and one of Vermont's best panoramic overlooks — sweeping west across the Champlain Valley to Lake Champlain and the Adirondack Mountains beyond. The Long Trail (Vermont's 272-mile north-south hiking trail) crosses right at the gap, threading between Stark Mountain to the south and Baby Stark Mountain to the north; trailheads nearby lead to viewpoints like Molly Stark's Balcony and the Theron Dean Shelter. A well-known destination for motorcyclists and road cyclists chasing the twisty climb.<br/><br/>Tips<br/>- A dramatic, winding drive — take it slow, especially with a trailer or in poor weather.<br/>- Right next to Mad River Glen, so easy to see both in one stop.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.2112%2C%20-72.9316]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -1112,6 +1151,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.0975,44.4104,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asian Paradise Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Asian%20Paradise%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Asian restaurant in the Chatham area.<br/><br/>[!info] Rating note<br/>wide variance across platforms, no confirmed rating<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Asian%20Paradise%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0031,41.6842,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1775,6 +1827,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.95101475081492,41.68485089246143,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beacon &amp; Buoy Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Beacon%20%26%20Buoy%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Newly opened (2026) coastal-themed restaurant near Chatham.<br/><br/>[!info] Rating note<br/>new 2026, TripAdvisor on only 5 reviews<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Beacon%20%26%20Buoy%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9801,41.6823,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2714,6 +2779,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Brax Landing Restaurant Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Brax%20Landing%20Restaurant%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Waterfront seafood restaurant on Saquatucket Harbor, Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Brax%20Landing%20Restaurant%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0661,41.6696,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Bred in the Bone Damariscotta ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bred%20in%20the%20Bone%20Damariscotta%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bred in the Bone<br/><br/>📍 133 Main St, Damariscotta, ME<br/><br/>A cozy Mediterranean-inspired restaurant with a deliberately short, weekly-changing menu — pappardelle, scallops, and tuna alongside dessert standouts like tiramisu, affogato, and olive cakes. The room leans into deep colors and exposed brick for a charming, thoughtful feel, backed by an extensive wine list. Google rates it 4.8; ranked around #7 of 33 restaurants in Damariscotta.<br/><br/>Must Order<br/>- Pappardelle<br/>- Scallops<br/>- Tiramisu or affogato for dessert<br/><br/>Tips<br/>- Short menu by design — check what's currently running since it changes weekly, plus regular specials.<br/>- Reservations recommended given the small room and short menu (limited covers per night).<br/>- Good wine list — worth asking staff for a pairing if you're ordering the tasting-style small plates.<br/><br/>More info: https://www.bitbmaine.com/]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
@@ -2880,6 +2958,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.964,43.9148,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Buca's Tuscan Roadhouse Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Buca%27s%20Tuscan%20Roadhouse%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Italian roadhouse serving Tuscan-style pasta and steak dishes.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Buca%27s%20Tuscan%20Roadhouse%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0763,41.6882,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -3442,6 +3533,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Captain's Table Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Captain%27s%20Table%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Casual seafood restaurant in downtown Chatham.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Captain%27s%20Table%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.96,41.6801,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Carriage House</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Carriage%20House.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>**Carriage House** (Pizza Restaurant)- **Price Range:** $10–20- **Open for Dinner:** Yes, opens at 4 PM- **Alcohol:** Not specified in the description.<br/><br/>More info: https://www.google.com/maps/place/Carriage+House/@44.08514,-69.200832,18853m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x4cadcf70650e3ec3:0xb35df794bbfaed85!8m2!3d44.0780383!4d-69.1845077!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBEHBpenphX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBrVDA1V1FYZFNNSFJGWWtkemRGbFVZekJXYWs1d1lsVjRRbUZIWXhBQuABAPoBBQjfBBA3!16s%2Fg%2F11rxhzxnzc?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -3910,6 +4014,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Chatham Cookware Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Cookware%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Kitchen/cookware shop with a small prepared-food counter in downtown Chatham.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Chatham%20Cookware%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9589,41.68,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chatham Filling Station Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Filling%20Station%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Casual restaurant in a former gas-station building in Chatham.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Chatham%20Filling%20Station%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9612,41.6923,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Chatham Fish Pier Chatham MA</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Fish%20Pier%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Chatham Fish Pier<br/><br/>📍 Chatham MA<br/><br/>Working fishing pier with a public viewing deck — the best spot in town to watch the day's catch unload and seals congregate at low tide.<br/><br/>Tips<br/>- Catch is typically unloaded mid-afternoon — timing your visit then is most dramatic.<br/>- Free, always open, no parking fee.]]></description>
     <styleUrl>#s-star-green</styleUrl>
@@ -3949,6 +4079,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Chatham Moods Cafe and Grill Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Moods%20Cafe%20and%20Grill%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Casual cafe and grill in Chatham serving breakfast, lunch, and dinner fare.<br/><br/>[!info] Rating note<br/>aggregator-reported, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Chatham%20Moods%20Cafe%20and%20Grill%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0051,41.6845,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Chatham Squire Chatham MA</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Squire%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview  <br/>Type: Restaurant  <br/>  <br/>Best known for: Great food, friendly service  <br/>  <br/>Location context: 643 Main St  <br/>  <br/>Price level: $10–30  <br/>  <br/>Visit timing: Open until 5 PM  <br/>  <br/>Typical Customers  <br/>Demographics: Mixed (locals and tourists)  <br/>  <br/>Group types: Couples, friends, families  <br/>  <br/>Common occasions: Casual dinners, quick bites  <br/>  <br/>Vibe & Setting  <br/>Atmosphere: Casual, lively  <br/>  <br/>Noise level: Moderate  <br/>  <br/>Decor & setting: Indoor seating, outdoor ambiance mentioned  <br/>  <br/>Service style: Friendly, fast  <br/>  <br/>Recommended Dishes  <br/>Overall dish consensus: Diners praise the food consistently, especially the burgers and seafood dishes.  <br/>  <br/>How “top dishes” are determined: Top dishes are chosen based on mentions in reviews, dishes labeled as popular, and frequent appearance in photos.  <br/>  <br/>| Rank | Dish                 | Why it stands out                                       | How often it’s mentioned                | Ideal for                   |<br/>|------|----------------------|--------------------------------------------------------|----------------------------------------|-----------------------------|<br/>| 1    | Fish Sandwich        | Praised for flavor and freshness.                      | Mentioned in many reviews.            | Quick bite                  |<br/>| 2    | Lobster Roll         | Called out for generous portions and great taste.     | Repeatedly called out as a favorite. | Sharing at the table        |<br/>| 3    | Burgers              | Known for being juicy and well-seasoned.              | Appears in numerous photos.           | Casual dining               |<br/><br/>Good alternates / backup choices  <br/>- Oysters on the Half Shell: Notable for its fresh taste and unique preparation.  <br/>- New England Clam Chowder: Comforting and flavorful, a good option for seafood lovers.  <br/><br/>Highlights (non‑dish positives from reviews)  <br/>Service quality: Staff is friendly and attentive, ensuring a pleasant dining experience.  <br/>  <br/>Atmosphere: The lively environment contributes to a fun dining experience.  <br/>  <br/>Common Issues (from reviews)  <br/>Food temperature: Some reviews mention lukewarm dishes on busy days.  <br/>  <br/>Portion sizes: A few customers felt portions could be small for the price paid.  <br/>  <br/>Practical Notes  <br/>Reservation / wait: Walk-in friendly, often busy.  <br/>  <br/>Accessibility: Not mentioned  <br/>  <br/>Parking / transit: Not mentioned  <br/>  <br/>Best use case: Great for a casual dinner with friends or family.<br/><br/>More info: https://www.google.com/maps/place/Chatham+Squire/@41.6793134,-69.9632776,722m/data=!3m1!1e3!4m13!1m5!2m4!1sRestaurants!5m1!4e9!6e5!3m6!1s0x89fb149fb012085d:0x472d5c42f2b805c2!8m2!3d41.679658!4d-69.957058!15sCgtSZXN0YXVyYW50c1oNIgtyZXN0YXVyYW50c5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFNbk16YWxSUkVBReABAPoBBAgAEEw!16s%2Fg%2F1ts309fg?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -3959,6 +4102,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.95722,41.67965,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chatham Sunrise Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Chatham%20Sunrise%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Breakfast/brunch spot in Chatham.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Chatham%20Sunrise%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9691,41.6978,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4313,6 +4469,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Codo Mexican Kitchen Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Codo%20Mexican%20Kitchen%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Mexican kitchen in the Chatham/West Chatham area.<br/><br/>[!info] Rating note<br/>TripAdvisor has only 2 reviews<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Codo%20Mexican%20Kitchen%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0385,41.6772,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Colby &amp; Gale Service Station Damariscotta ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Colby%20%26%20Gale%20Service%20Station%20Damariscotta%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Colby & Gale Service Station<br/><br/>📍 105 Main Street, Damariscotta, ME<br/><br/>A local Main Street institution — not a sight to visit, but worth knowing about: an old-fashioned full-service gas station known for exceptional, friendly customer service.<br/><br/>Tips<br/>- Practical stop, not a destination — good option if the car needs gas while downtown.]]></description>
     <styleUrl>#s-fuel-purple</styleUrl>
@@ -4492,6 +4661,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.4382686,43.8065585,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corner Store Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Corner%20Store%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Neighborhood market and sandwich/deli counter.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Corner%20Store%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0245,41.6961,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4820,6 +5002,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Cuvée Bistro Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cuv%C3%A9e%20Bistro%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Bistro at the Chatham Inn.<br/><br/>[!info] Rating note<br/>at Chatham Inn<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Cuv%C3%A9e%20Bistro%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9538,41.6789,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>D.T. Sheridan Shipwreck Monhegan Island ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/D.T.%20Sheridan%20Shipwreck%20Monhegan%20Island%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -4830,6 +5025,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.3224,43.7563,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DIVE Dine &amp; Drink Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/DIVE%20Dine%20%26%20Drink%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Restaurant and bar in the Chatham/Harwich area.<br/><br/>[!info] Rating note<br/>TripAdvisor only, ranging 2.7-3.0, no confirmed rating<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=DIVE%20Dine%20%26%20Drink%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0321,41.6788,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4856,6 +5064,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.28185970243827,44.30405135704498,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dairy Queen Grill &amp; Chill Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dairy%20Queen%20Grill%20%26%20Chill%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Fast-food/ice cream chain location near Harwich Port.<br/><br/>[!info] Rating note<br/>no confirmed rating found; conflicting figures across platforms<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0788,41.6682,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -5145,6 +5366,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Depot Dogs Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Depot%20Dogs%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Casual hot dog and quick-bite stand near the Harwich Port area.<br/><br/>[!info] Rating note<br/>Facebook/TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Depot%20Dogs%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0763,41.6882,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Depuy Canal House High Falls, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Depuy%20Canal%20House%20High%20Falls%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Depuy Canal House<br/><br/>📍 High Falls, NY<br/><br/>An 1797 stone tavern — one of the Hudson Valley's most historic dining rooms — serving weekend dinners and Sunday brunch in a genuinely atmospheric setting.<br/><br/>Must Order<br/>- Sunday brunch prix fixe — the signature meal — book well ahead<br/>- Seasonal game and fish — the kitchen leans traditional and local<br/>- House desserts — old-fashioned and excellent<br/><br/>Tips<br/>- Dinner Fri–Sat only; Sunday brunch — confirm current schedule by phone<br/>- Request a table by the fireplace in September<br/>- One of the most historically atmospheric meals in the entire region<br/><br/>More info: https://www.google.com/maps/search/Depuy+Canal+House+High+Falls,+NY]]></description>
     <styleUrl>#s-coffee-red</styleUrl>
@@ -5288,6 +5522,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Dockside Cafe Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dockside%20Cafe%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Cafe near Saquatucket Harbor, Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Dockside%20Cafe%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0652,41.6697,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Dodge Point Preserve Newcastle ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dodge%20Point%20Preserve%20Newcastle%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-10T11:30:00<br/><br/>Dodge Point Preserve<br/><br/>📍 River Road, Newcastle, ME (main parking lot ~2.5 mi from US-1 on River Road, left side)<br/><br/>A 500+ acre Public Reserved Land parcel on the Damariscotta River, with over 8,000 feet of river frontage — forest, old stone walls, ponds, and both sandy and pebble beaches. Trails are generally wide, well marked, and mostly flat to gently rolling.<br/><br/>Recommended route<br/>Old Farm Road Trail → Shore Trail, out and back — an easy ~3.3-mile loop, roughly 1h45m at a relaxed pace, with trail maps posted at major intersections. For a shorter outing, walk the Old Farm Road out to the Shore Trail, spend time at one of the small beaches, then turn back whenever.<br/><br/>Trail Options<br/>- Old Farm Road Trail — 2 mi loop, easy, wide former farm/logging road, gentle grades, woods and stone walls<br/>- Shore Trail — 1.5 mi, easy, the prettiest option — follows the river to sandy and pebble beaches<br/>- Timber Trail — 0.8 mi, easy, short woodland connector through mixed forest and stone walls<br/>- Ravine Trail — 1.2 mi, moderate (steeper and more uneven than the rest) — skip this one if you want an entirely gentle walk<br/><br/>Tips<br/>- Use the main Dodge Point parking lot on River Road, not the River-Link lot — the connector from River-Link is steep and rocky<br/>- Dogs allowed, leashed required weekends 9am-4pm<br/>- Can be muddy after rain — hiking shoes useful, though not a heavy-boot hike<br/>- Right next to Damariscotta/Newcastle — easy to fit in before or after Main Street]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -5311,6 +5558,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.001,44.435,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dogfish Taco Co Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dogfish%20Taco%20Co%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Taco restaurant in the Chatham/West Chatham area.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Dogfish%20Taco%20Co%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0089,41.6791,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -5532,6 +5792,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.009,44.281,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dunkin' (Pleasant Lake) Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dunkin%27%20%28Pleasant%20Lake%29%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Dunkin' location near Pleasant Lake, Harwich.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Dunkin%27%20%28Pleasant%20Lake%29%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0792,41.7018,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -6744,6 +7017,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>George's Pizza House Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/George%27s%20Pizza%20House%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Pizza house near Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=George%27s%20Pizza%20House%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0721,41.6692,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Georges River Land Trust</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Georges%20River%20Land%20Trust.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Georges River Land Trust is a non-profit organization that does not serve food or drinks as it focuses on environmental conservation and hiking. It opens at 10 AM, but does not serve dinner or lunch.<br/><br/>More info: https://www.google.com/maps/place/Georges+River+Land+Trust/@44.0995839,-69.1264774,2564m/data=!3m1!1e3!4m11!1m3!2m2!1seasy+hike!6e1!3m6!1s0x4cadd1d613f76f05:0xa716f61a253461e0!8m2!3d44.1049567!4d-69.1031238!15sCgllYXN5IGhpa2VaCyIJZWFzeSBoaWtlkgEXbm9uX3Byb2ZpdF9vcmdhbml6YXRpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmZkV0ZmVmxOQkVBReABAPoBBAgAED8!16s%2Fg%2F1tdf0yy8?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-landmark-purple</styleUrl>
@@ -7326,6 +7612,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.516449,44.034771,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hangar B Eatery Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Hangar%20B%20Eatery%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Eatery near the Chatham Municipal Airport.<br/><br/>[!info] Rating note<br/>TripAdvisor, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Hangar%20B%20Eatery%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9897,41.6908,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -8447,6 +8746,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>J. Bar Harwich Port Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/J.%20Bar%20Harwich%20Port%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Bar and restaurant in Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=J.%20Bar%20Harwich%20Port%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0739,41.6689,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>JB Brown Memorial Block Portland ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/JB%20Brown%20Memorial%20Block%20Portland%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>J.B. Brown Memorial Block<br/><br/>📍 Congress Street & Casco Street, Portland, ME<br/><br/>The J.B. Brown Memorial Block at Congress and Casco Streets is one of the few commercial buildings in Portland designed in the Queen Anne style. This style — which favors fine details, asymmetry, and broken rooflines — was more commonly applied to residential buildings, making this block a rare commercial example.<br/><br/>Fun fact: Many of Portland's historic buildings display two dates — the older is when originally constructed, and the newer is when reconstructed after the Great Fire of 1866.<br/><br/>More info: https://www.google.com/maps/search/JB+Brown+Memorial+Block,+Congress+St+and+Casco+St,+Portland,+ME]]></description>
     <styleUrl>#s-star-green</styleUrl>
@@ -9224,6 +9536,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.9905137029166,41.78869004748795,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Larry's PX Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Larry%27s%20PX%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Casual eatery in Chatham.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Larry%27s%20PX%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0035,41.6843,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -10134,6 +10459,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2321,43.7008,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mad Minnow Bar &amp; Kitchen Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mad%20Minnow%20Bar%20%26%20Kitchen%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Bar and kitchen near Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Mad%20Minnow%20Bar%20%26%20Kitchen%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0728,41.6691,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13257,6 +13595,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pleasant Lake Pizza Shark Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pleasant%20Lake%20Pizza%20Shark%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Pizza Shark location near Pleasant Lake, Harwich.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Pleasant%20Lake%20Pizza%20Shark%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0821,41.7129,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pleasant Plains Presbyterian Church Clinton NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pleasant%20Plains%20Presbyterian%20Church%20Clinton%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pleasant Plains Presbyterian Church<br/><br/>📍 Clinton, NY<br/><br/>At the (Y) intersection, this white frame Greek Revival structure is a hamlet landmark dating from the organization of the congregation in 1837. 18th- and 19th-century farms line the road to the Hollow and Hibernia Mills, a main east-west artery in this area.<br/><br/>Tips<br/>- Stop 13 of 26 on the Hyde Park, Clinton & Pleasant Valley Scenic Tour (Tour 3).]]></description>
     <styleUrl>#s-landmark-purple</styleUrl>
@@ -14050,6 +14401,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Red Nun Bar &amp; Grill Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Red%20Nun%20Bar%20%26%20Grill%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Bar and grill in downtown Chatham.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Red%20Nun%20Bar%20%26%20Grill%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9638,41.6809,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Red Onion Saugerties, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Red%20Onion%20Saugerties%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Red Onion<br/><br/>📍 Saugerties, NY<br/><br/>A charming historic farmhouse restaurant serving locally sourced seasonal New American cuisine with original cocktails — one of the most romantic dinner destinations in the Catskills.<br/><br/>Must Order<br/>- Seasonal fish — always fresh and well-prepared<br/>- Short rib — a recurring comfort-food anchor<br/>- Original cocktails — inventive and well-balanced<br/><br/>Tips<br/>- Reservations essential — fills fast on weekends<br/>- The farmhouse setting is beautiful; September foliage is spectacular<br/><br/>More info: https://www.google.com/maps/search/Red+Onion+Saugerties,+NY]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
@@ -14060,6 +14424,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.1058,42.0789,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red River BBQ Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Red%20River%20BBQ%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Barbecue joint serving smoked meats and Southern-style sides.<br/><br/>[!info] Rating note<br/>Sirved, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Red%20River%20BBQ%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0425,41.6748,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14268,6 +14645,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.5218,43.6237,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ridgevale Beach Snack Bar Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ridgevale%20Beach%20Snack%20Bar%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Seasonal snack bar at Ridgevale Beach, Chatham.<br/><br/>[!info] Rating note<br/>no confirmed rating found<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Ridgevale%20Beach%20Snack%20Bar%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0014,41.6732,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14804,6 +15194,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Ruggie's Breakfast and Lunch Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ruggie%27s%20Breakfast%20and%20Lunch%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Breakfast-and-lunch spot near Harwich Port.<br/><br/>[!info] Rating note<br/>reported as Google figure, not independently verified<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Ruggie%27s%20Breakfast%20and%20Lunch%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0658,41.6695,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Runa Bistro New Paltz, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Runa%20Bistro%20New%20Paltz%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Runa Bistro<br/><br/>📍 New Paltz, NY<br/><br/>A creative Latin-inflected New American restaurant with one of the valley's most distinctive menus and a rapidly growing reputation.<br/><br/>Must Order<br/>- Ceviche — bright and properly acidulated<br/>- Roasted chicken — with Latin spice rubs and seasonal sides<br/><br/>Tips<br/>- Reserve for weekend dinner<br/>- The cocktail program is strong — start with one of their house originals<br/><br/>More info: https://www.google.com/maps/search/Runa+Bistro+New+Paltz,+NY]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
@@ -14931,6 +15334,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.11452,44.0079563,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sacred Cod Tavern Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sacred%20Cod%20Tavern%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Tavern at the Chatham Bars Inn.<br/><br/>[!info] Rating note<br/>at Chatham Bars Inn<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Sacred%20Cod%20Tavern%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9521,41.6871,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16741,6 +17157,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Subway Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Subway%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Sandwich chain location in the Chatham area.<br/><br/>[!info] Rating note<br/>multiple Subway locations nearby, couldn't confidently pin exact store<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Subway%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0248,41.7011,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Sugar Hill Errol NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sugar%20Hill%20Errol%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sugar Hill<br/><br/>📍 Near Errol, NH<br/><br/>A peak near Errol, along the Moose Path Trail corridor — the third distinct "Sugar Hill" in this vault, unrelated to the town near Franconia or the Kancamagus overlook of the same name.<br/><br/>Tips<br/>- No well-documented public trail found — treat as a landmark rather than a planned hike unless you find current access info locally.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.6837%2C%20-71.1942]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -17063,6 +17492,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.666,44.0033,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szechuan Delight Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Szechuan%20Delight%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Chinese restaurant near Chatham/Harwich -- address needs verification, see Rating note.<br/><br/>[!info] Rating note<br/>TripAdvisor (Harwich); coordinates nearly identical to 400 East Restaurant -- verify address before relying on this<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Szechuan%20Delight%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0251,41.6972,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -17833,6 +18275,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Lanyard Restaurant Harwich MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Lanyard%20Restaurant%20Harwich%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Restaurant near Harwich Port.<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=The%20Lanyard%20Restaurant%20Harwich%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-70.0799,41.6679,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Legendary Drive - The Kancamagus Highway &amp; Lincoln Loop North Conway NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Legendary%20Drive%20-%20The%20Kancamagus%20Highway%20%26%20Lincoln%20Loop%20North%20Conway%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Legendary Drive: The Kancamagus Highway & Lincoln Loop<br/><br/>Affectionately known to locals as "The Kank" (Route 112), this nationally designated scenic byway cuts directly through a 34-mile stretch of uninterrupted, protected White Mountain National Forest with zero commercial development.<br/><br/>- The Route: Take Route 16 South down to Conway, then turn west onto the Kancamagus Highway (Route 112), taking it all the way over the pass to Lincoln, and return via Route 3 North to Route 302 East.<br/>    <br/>- Top Stops Along the Highway:<br/>    <br/>    - Sabbaday Falls: An exceptionally easy, 15-minute gravel path walk leading to a striking, multi-tiered waterfall rushing through a tight granite gorge.<br/>        <br/>    - Sugar Hill Overlook: Offers sweeping, multi-layered panoramic vistas of the swift Saco River valley below and the peaks above.<br/>        <br/>- The Destination (Lincoln/North Woodstock): Once you hit the western end of the highway, stop for a hearty pub lunch at the _Moat Mountain Smoke House_ or cross over into North Woodstock to see the spectacular Flume Gorge—a natural, 800-foot chasm at the base of Mount Liberty featuring towering granite walls and covered bridges.]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -18454,6 +18909,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2525666,43.6588463,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Thoreau's Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Thoreau%27s%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Likely a dining venue at the Wequassett Resort -- location inferred from matching coordinates, not independently confirmed.<br/><br/>[!info] Rating note<br/>likely at Wequassett Resort (coordinates match Outer Bar/twenty-eight Atlantic exactly); no numeric rating located<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Thoreau%27s%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9943,41.729,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20001,6 +20469,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.20783,44.362097,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wild Goose Tavern Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wild%20Goose%20Tavern%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Find on Google Maps<br/><br/>Tavern in downtown Chatham.<br/><br/>[!info] Rating note<br/>TripAdvisor/Birdeye, not Google-isolated<br/><br/>Not independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=Wild%20Goose%20Tavern%20Chatham%20MA]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.9585,41.6799,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>

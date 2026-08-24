@@ -64,6 +64,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "3 Monkeys Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Restaurant near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nRestaurant near Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=3%20Monkeys%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0728,
+          41.6691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400 East Restaurant Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Restaurant on Route 28 (400 East Main St area), Chatham/Harwich line.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nRestaurant on Route 28 (400 East Main St area), Chatham/Harwich line.\n\n[!info] Rating note\nTripAdvisor shows lower (3.9), some inconsistency\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=400%20East%20Restaurant%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0253,
+          41.6971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "4Guys llc",
         "icon": "utensils",
         "color": "red",
@@ -726,6 +766,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Aplaya Kitchen + Tiki Bar Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Filipino-inspired kitchen and tiki bar near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nFilipino-inspired kitchen and tiki bar near Harwich Port.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Aplaya%20Kitchen%20%2B%20Tiki%20Bar%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0765,
+          41.6687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Appalachian Gap Waitsfield VT",
         "icon": "mountain",
         "color": "green",
@@ -1031,6 +1091,26 @@
         "coordinates": [
           -68.0975,
           44.4104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asian Paradise Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Asian restaurant in the Chatham area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nAsian restaurant in the Chatham area.\n\n[!info] Rating note\nwide variance across platforms, no confirmed rating\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Asian%20Paradise%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0031,
+          41.6842
         ]
       }
     },
@@ -2027,6 +2107,26 @@
         "coordinates": [
           -69.95101475081492,
           41.68485089246143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beacon & Buoy Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Newly opened (2026) coastal-themed restaurant near Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nNewly opened (2026) coastal-themed restaurant near Chatham.\n\n[!info] Rating note\nnew 2026, TripAdvisor on only 5 reviews\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Beacon%20%26%20Buoy%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9801,
+          41.6823
         ]
       }
     },
@@ -3444,6 +3544,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Brax Landing Restaurant Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Waterfront seafood restaurant on Saquatucket Harbor, Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nWaterfront seafood restaurant on Saquatucket Harbor, Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Brax%20Landing%20Restaurant%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0661,
+          41.6696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bred in the Bone Damariscotta ME",
         "icon": "utensils",
         "color": "purple",
@@ -3693,6 +3813,26 @@
         "coordinates": [
           -69.964,
           43.9148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buca's Tuscan Roadhouse Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Italian roadhouse serving Tuscan-style pasta and steak dishes.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nItalian roadhouse serving Tuscan-style pasta and steak dishes.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Buca%27s%20Tuscan%20Roadhouse%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0763,
+          41.6882
         ]
       }
     },
@@ -4539,6 +4679,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Captain's Table Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual seafood restaurant in downtown Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCasual seafood restaurant in downtown Chatham.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Captain%27s%20Table%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96,
+          41.6801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Carriage House",
         "icon": "sandwich",
         "color": "red",
@@ -5248,6 +5408,46 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Chatham Cookware Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Kitchen/cookware shop with a small prepared-food counter in downtown Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nKitchen/cookware shop with a small prepared-food counter in downtown Chatham.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Chatham%20Cookware%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9589,
+          41.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatham Filling Station Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual restaurant in a former gas-station building in Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCasual restaurant in a former gas-station building in Chatham.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Chatham%20Filling%20Station%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9612,
+          41.6923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Chatham Fish Pier Chatham MA",
         "icon": "star",
         "color": "green",
@@ -5305,6 +5505,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Chatham Moods Cafe and Grill Chatham MA",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "Casual cafe and grill in Chatham serving breakfast, lunch, and dinner fare.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCasual cafe and grill in Chatham serving breakfast, lunch, and dinner fare.\n\n[!info] Rating note\naggregator-reported, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Chatham%20Moods%20Cafe%20and%20Grill%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0051,
+          41.6845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Chatham Squire Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -5319,6 +5539,26 @@
         "coordinates": [
           -69.95722,
           41.67965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatham Sunrise Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Breakfast/brunch spot in Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBreakfast/brunch spot in Chatham.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Chatham%20Sunrise%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9691,
+          41.6978
         ]
       }
     },
@@ -5857,6 +6097,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Codo Mexican Kitchen Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Mexican kitchen in the Chatham/West Chatham area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nMexican kitchen in the Chatham/West Chatham area.\n\n[!info] Rating note\nTripAdvisor has only 2 reviews\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Codo%20Mexican%20Kitchen%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0385,
+          41.6772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Colby & Gale Service Station Damariscotta ME",
         "icon": "fuel",
         "color": "purple",
@@ -6121,6 +6381,26 @@
         "coordinates": [
           -71.4382686,
           43.8065585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corner Store Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Neighborhood market and sandwich/deli counter.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nNeighborhood market and sandwich/deli counter.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Corner%20Store%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0245,
+          41.6961
         ]
       }
     },
@@ -6616,6 +6896,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cuv\u00e9e Bistro Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Bistro at the Chatham Inn.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBistro at the Chatham Inn.\n\n[!info] Rating note\nat Chatham Inn\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Cuv%C3%A9e%20Bistro%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9538,
+          41.6789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "D.T. Sheridan Shipwreck Monhegan Island ME",
         "icon": "footprints",
         "color": "green",
@@ -6629,6 +6929,26 @@
         "coordinates": [
           -69.3224,
           43.7563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DIVE Dine & Drink Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Restaurant and bar in the Chatham/Harwich area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nRestaurant and bar in the Chatham/Harwich area.\n\n[!info] Rating note\nTripAdvisor only, ranging 2.7-3.0, no confirmed rating\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=DIVE%20Dine%20%26%20Drink%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0321,
+          41.6788
         ]
       }
     },
@@ -6669,6 +6989,26 @@
         "coordinates": [
           -68.28185970243827,
           44.30405135704498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dairy Queen Grill & Chill Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Fast-food/ice cream chain location near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nFast-food/ice cream chain location near Harwich Port.\n\n[!info] Rating note\nno confirmed rating found; conflicting figures across platforms\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0788,
+          41.6682
         ]
       }
     },
@@ -7106,6 +7446,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Depot Dogs Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual hot dog and quick-bite stand near the Harwich Port area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCasual hot dog and quick-bite stand near the Harwich Port area.\n\n[!info] Rating note\nFacebook/TripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Depot%20Dogs%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0763,
+          41.6882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Depuy Canal House High Falls, NY",
         "icon": "coffee",
         "color": "red",
@@ -7323,6 +7683,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dockside Cafe Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Cafe near Saquatucket Harbor, Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCafe near Saquatucket Harbor, Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Dockside%20Cafe%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0652,
+          41.6697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dodge Point Preserve Newcastle ME",
         "icon": "footprints",
         "color": "green",
@@ -7355,6 +7735,26 @@
         "coordinates": [
           -72.001,
           44.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dogfish Taco Co Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Taco restaurant in the Chatham/West Chatham area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nTaco restaurant in the Chatham/West Chatham area.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Dogfish%20Taco%20Co%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0089,
+          41.6791
         ]
       }
     },
@@ -7687,6 +8087,26 @@
         "coordinates": [
           -69.009,
           44.281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunkin' (Pleasant Lake) Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Dunkin' location near Pleasant Lake, Harwich.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nDunkin' location near Pleasant Lake, Harwich.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Dunkin%27%20%28Pleasant%20Lake%29%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0792,
+          41.7018
         ]
       }
     },
@@ -9514,6 +9934,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "George's Pizza House Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Pizza house near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nPizza house near Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=George%27s%20Pizza%20House%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0721,
+          41.6692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Georges River Land Trust",
         "icon": "landmark",
         "color": "purple",
@@ -10385,6 +10825,26 @@
         "coordinates": [
           -71.516449,
           44.034771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hangar B Eatery Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Eatery near the Chatham Municipal Airport.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nEatery near the Chatham Municipal Airport.\n\n[!info] Rating note\nTripAdvisor, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Hangar%20B%20Eatery%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9897,
+          41.6908
         ]
       }
     },
@@ -12074,6 +12534,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "J. Bar Harwich Port Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Bar and restaurant in Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBar and restaurant in Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=J.%20Bar%20Harwich%20Port%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0739,
+          41.6689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "JB Brown Memorial Block Portland ME",
         "icon": "star",
         "color": "green",
@@ -13251,6 +13731,26 @@
         "coordinates": [
           -69.9905137029166,
           41.78869004748795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larry's PX Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual eatery in Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nCasual eatery in Chatham.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Larry%27s%20PX%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0035,
+          41.6843
         ]
       }
     },
@@ -14627,6 +15127,26 @@
         "coordinates": [
           -70.2321,
           43.7008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mad Minnow Bar & Kitchen Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Bar and kitchen near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBar and kitchen near Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Mad%20Minnow%20Bar%20%26%20Kitchen%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0728,
+          41.6691
         ]
       }
     },
@@ -19344,6 +19864,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pleasant Lake Pizza Shark Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Pizza Shark location near Pleasant Lake, Harwich.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nPizza Shark location near Pleasant Lake, Harwich.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Pleasant%20Lake%20Pizza%20Shark%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0821,
+          41.7129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pleasant Plains Presbyterian Church Clinton NY",
         "icon": "landmark",
         "color": "purple",
@@ -20540,6 +21080,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Red Nun Bar & Grill Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Bar and grill in downtown Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBar and grill in downtown Chatham.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Red%20Nun%20Bar%20%26%20Grill%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9638,
+          41.6809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Red Onion Saugerties, NY",
         "icon": "utensils",
         "color": "red",
@@ -20554,6 +21114,26 @@
         "coordinates": [
           -74.1058,
           42.0789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red River BBQ Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Barbecue joint serving smoked meats and Southern-style sides.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBarbecue joint serving smoked meats and Southern-style sides.\n\n[!info] Rating note\nSirved, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Red%20River%20BBQ%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0425,
+          41.6748
         ]
       }
     },
@@ -20868,6 +21448,26 @@
         "coordinates": [
           -72.5218,
           43.6237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ridgevale Beach Snack Bar Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Seasonal snack bar at Ridgevale Beach, Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nSeasonal snack bar at Ridgevale Beach, Chatham.\n\n[!info] Rating note\nno confirmed rating found\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Ridgevale%20Beach%20Snack%20Bar%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0014,
+          41.6732
         ]
       }
     },
@@ -21676,6 +22276,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ruggie's Breakfast and Lunch Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Breakfast-and-lunch spot near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nBreakfast-and-lunch spot near Harwich Port.\n\n[!info] Rating note\nreported as Google figure, not independently verified\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Ruggie%27s%20Breakfast%20and%20Lunch%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0658,
+          41.6695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Runa Bistro New Paltz, NY",
         "icon": "utensils",
         "color": "red",
@@ -21868,6 +22488,26 @@
         "coordinates": [
           -71.11452,
           44.0079563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Cod Tavern Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Tavern at the Chatham Bars Inn.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nTavern at the Chatham Bars Inn.\n\n[!info] Rating note\nat Chatham Bars Inn\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Sacred%20Cod%20Tavern%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9521,
+          41.6871
         ]
       }
     },
@@ -24591,6 +25231,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Subway Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Sandwich chain location in the Chatham area.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nSandwich chain location in the Chatham area.\n\n[!info] Rating note\nmultiple Subway locations nearby, couldn't confidently pin exact store\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Subway%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0248,
+          41.7011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sugar Hill Errol NH",
         "icon": "mountain",
         "color": "green",
@@ -25080,6 +25740,26 @@
         "coordinates": [
           -69.666,
           44.0033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szechuan Delight Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Chinese restaurant near Chatham/Harwich -- address needs verification, see Rating note.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nChinese restaurant near Chatham/Harwich -- address needs verification, see Rating note.\n\n[!info] Rating note\nTripAdvisor (Harwich); coordinates nearly identical to 400 East Restaurant -- verify address before relying on this\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Szechuan%20Delight%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0251,
+          41.6972
         ]
       }
     },
@@ -26246,6 +26926,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Lanyard Restaurant Harwich MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Restaurant near Harwich Port.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nRestaurant near Harwich Port.\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=The%20Lanyard%20Restaurant%20Harwich%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0799,
+          41.6679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Legendary Drive - The Kancamagus Highway & Lincoln Loop North Conway NH",
         "icon": "route",
         "color": "orange",
@@ -27177,6 +27877,26 @@
         "coordinates": [
           -70.2525666,
           43.6588463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thoreau's Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Likely a dining venue at the Wequassett Resort -- location inferred from matching coordinates, not independently confirmed.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nLikely a dining venue at the Wequassett Resort -- location inferred from matching coordinates, not independently confirmed.\n\n[!info] Rating note\nlikely at Wequassett Resort (coordinates match Outer Bar/twenty-eight Atlantic exactly); no numeric rating located\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Thoreau%27s%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9943,
+          41.729
         ]
       }
     },
@@ -29504,6 +30224,26 @@
         "coordinates": [
           -68.20783,
           44.362097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wild Goose Tavern Chatham MA",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Tavern in downtown Chatham.",
+        "start_date_time": "",
+        "detail": "Find on Google Maps\n\nTavern in downtown Chatham.\n\n[!info] Rating note\nTripAdvisor/Birdeye, not Google-isolated\n\nNot independently deep-researched (no Tips/Must-Order content) -- added as a takeout candidate for the Chatham base camp's Takeouts view. Verify hours/closures directly before relying on them for a specific date.",
+        "website": "https://www.google.com/maps/search/?api=1&query=Wild%20Goose%20Tavern%20Chatham%20MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9585,
+          41.6799
         ]
       }
     },
