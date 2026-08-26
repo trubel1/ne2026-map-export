@@ -4560,6 +4560,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Cold Mountain Cafe Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cold%20Mountain%20Cafe%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Cold Mountain Cafe<br/><br/>📍 2015 Main St, Bethlehem, NH<br/><br/>A hidden gem of the White Mountains since 1999 — inventive, internationally-inspired cuisine and craft cocktails, friendly and informed staff, local artwork on display. Open Mon–Wed and Fri–Sat 4–9 PM, closed Thu/Sun. Ranked #1 of 10 restaurants in Bethlehem on Tripadvisor. Free off-street and street parking, free WiFi (4.6★, 349 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695505,44.2799545,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Colonial Pemaquid State Historic Site ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Colonial%20Pemaquid%20State%20Historic%20Site%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-07T10:15:00<br/><br/>Colonial Pemaquid State Historic Site<br/><br/>📍 Colonial Pemaquid Rd, New Harbor, ME<br/><br/>A state historic site preserving the archaeological remains of a 17th- and 18th-century colonial settlement on the Pemaquid River, with a small on-site museum displaying artifacts found here (musket balls, coins, pottery, early hardware). The reconstructed Fort William Henry stands nearby — see Fort William Henry.<br/><br/>Tips<br/>- Rating in question: listed at 4.8, but independently I could only confirm Tripadvisor's figure (4.4 over 154 reviews) — Google itself tends to run noticeably higher than Tripadvisor, so 4.8 on Google is plausible, just not independently confirmed here.<br/>- Combine with Fort William Henry and Pemaquid Point Lighthouse for a full New Harbor colonial-history loop.]]></description>
     <styleUrl>#s-scroll-purple</styleUrl>
@@ -4947,6 +4960,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-73.8889601,41.7863004,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Crumb Bum Bakery Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Crumb%20Bum%20Bakery%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Crumb Bum Bakery<br/><br/>📍 97 Main St, Littleton, NH<br/><br/>A highly rated artisanal bakeshop (4.6★, 299 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <styleUrl>#s-coffee-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.77382,44.30697,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -7225,6 +7251,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Gold House Pizza Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Gold%20House%20Pizza%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Gold House Pizza<br/><br/>📍 87 Main St, Littleton, NH<br/><br/>A highly rated pizza and Greek comfort-food restaurant (4.5★, 596 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.<br/><br/>More info: https://www.goldhousepizza.com/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.7735,44.3069,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Good Food Store &amp; Bakery Bethel ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Good%20Food%20Store%20%26%20Bakery%20Bethel%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Good Food Store & Bakery<br/><br/>📍 212 Mayville Rd, Bethel ME<br/><br/>A specialty grocer, bakery, and catering company that's been Bethel's unique grocer since 1994 — organic/gourmet foods, bulk goods, and a bakery counter especially known for cookies and whoopie pies.<br/><br/>Must Order<br/>- Whoopie pies<br/>- Cookies<br/><br/>Tips<br/>- Open Monday–Saturday, 9am–8pm.<br/>- Good grab-and-go option heading into or out of Bethel village.<br/><br/>More info: https://www.goodfoodbethel.com/]]></description>
     <styleUrl>#s-coffee-red</styleUrl>
@@ -8821,6 +8860,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2625,43.6548,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jack &amp; Fin's Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jack%20%26%20Fin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jack & Fin's<br/><br/>📍 42 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 112 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — address, rating, and review count confirmed, but not independently deep-researched for menu highlights yet.]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.772062,44.306598,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11252,6 +11304,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.0903,41.7465,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mill Street Kitchen Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mill%20Street%20Kitchen%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mill Street Kitchen<br/><br/>📍 16 Mill St, Littleton, NH<br/><br/>An American restaurant on Mill Street, listed on Schilling Beer Co.'s own site as a companion location — likely the same operators (4.5★, 45 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates borrowed from Schilling Beer Co.'s own listing (same street, very close by) rather than a separately confirmed geocode.<br/><br/>More info: https://schillingbeer.com/location/mill-st-kitchen/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.772917,44.305895,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13907,6 +13972,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Porfido's Market &amp; Deli Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Porfido%27s%20Market%20%26%20Deli%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Porfido's Market & Deli<br/><br/>📍 84 Main St, Littleton, NH<br/><br/>A highly rated market and deli (4.6★, 437 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.7734,44.30688,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Port Clyde ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Port%20Clyde%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>View website<br/><br/>Monhegan Boat Line — Port Clyde<br/><br/>📍 880 Port Clyde Road, Port Clyde, ME<br/><br/>The only year-round ferry service to Monhegan Island, a 10-mile crossing of Muscongus Bay. Port Clyde is the closest of the three mainland departure points to Camden (~45 min drive) and the most established/reliable option.<br/><br/>Tips<br/>- Phone (207) 372-8848 for current schedule/fares; book online via their ticketing system<br/>- Check the Ferry Schedule page for current departure times<br/>- Closest departure point to Camden of the three options (Port Clyde, New Harbor, Boothbay Harbor)<br/><br/>More info: https://monheganboat.com/]]></description>
     <styleUrl>#s-anchor-green</styleUrl>
@@ -14635,6 +14713,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Rek-Lis Brewing Company Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Brewing%20Company%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Brewing Company<br/><br/>📍 2085 Main St, Bethlehem, NH<br/><br/>A lively brewpub/microbrewery — eclectic pub grub, rotating house and guest craft beers on tap, and live music. Open Mon–Fri 12–9 PM; offers take-out, reservations, and delivery (4.6★, 1,571 reviews — the most-reviewed spot in this whole batch).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.<br/><br/>More info: https://www.reklisbrewing.com/]]></description>
+    <styleUrl>#s-beer-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Brewery</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695505,44.2799545,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rek-Lis Pint House Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Pint%20House%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Pint House<br/><br/>📍 2087 Main St, Bethlehem, NH<br/><br/>A highly rated bar right next to Rek-Lis Brewing Company (2085 Main St) — likely a companion venue under the same ownership (4.7★, 54 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched beyond confirming the address is Bethlehem, not Littleton.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.]]></description>
+    <styleUrl>#s-beer-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Brewery</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695505,44.2799545,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Remich Park Littleton NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Remich%20Park%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Remich Park<br/><br/>📍 Littleton, NH<br/><br/>A town recreation park with an easy out-and-back walking trail (Remich Park and Pine Hill Trail — 1.7 miles, about 320 ft elevation gain, roughly 45–50 minutes) alongside ballfields, tennis courts, and a public pool. A good low-key option for a relaxed morning rather than a real hike.<br/><br/>Tips<br/>- Combine with The Dells, a separate nearby town park with its own pond-edge walking trails, for a longer easy nature outing.<br/><br/>More info: https://www.alltrails.com/trail/us/new-hampshire/remich-park-and-pine-hill-trail]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -15191,6 +15295,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.0069,41.9188,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rooted on Main Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rooted%20on%20Main%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rooted on Main<br/><br/>📍 30 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 62 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.77168,44.30652,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16650,6 +16767,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Slim Pickin's Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Slim%20Pickin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Slim Pickin's<br/><br/>📍 289 Main St, Littleton, NH<br/><br/>A cozy dive bar (open Thu–Mon 3–11 PM) with budget-friendly drinks, food including grilled cheese with bacon, and frequent live music (4.7★, 59 reviews per web search — pasted list showed a slightly different review count/description).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.775,44.30722,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Smashed Burgers &amp; Brews Damariscotta ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Smashed%20Burgers%20%26%20Brews%20Damariscotta%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Smashed Burgers & Brews<br/><br/>📍 85 Parking Lot Lane, Damariscotta, ME<br/><br/>A casual burger-and-brews spot known for its smashed-burger technique and house-made components — bacon jam, herb cheese, thick-cut house corned beef for the Reuben. Also does fish and chips, a Haddock Rachel, pizza, and wings. Reviewers consistently call out prompt, friendly, knowledgeable service and generous portions at reasonable prices, with a happy hour that makes an evening out especially affordable.<br/><br/>Must Order<br/>- French Herb Burger — topped with bacon jam and herb cheese, both house-made<br/>- Reuben — thick-cut house-made corned beef<br/>- Haddock Rachel<br/><br/>Tips<br/>- Happy hour is worth timing your visit around if you're budget-conscious.<br/>- Good option if the group wants a casual, no-fuss meal after an active day rather than a sit-down dinner.]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
@@ -16868,6 +16998,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.102199,43.467964,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Spruce &amp; Ivy Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Spruce%20%26%20Ivy%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Spruce & Ivy Restaurant and Catering<br/><br/>📍 25 Main St, Littleton, NH<br/><br/>A new American restaurant and catering business (4.4★, only 5 reviews so far — a genuinely new spot, not yet widely reviewed). Occupies the same 25 Main St address previously home to Topic of the Town Restaurant.<br/><br/>Tips<br/>- Specifically requested despite falling under the 4.5 cutoff otherwise applied to this batch.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet; being brand-new, there may be little to find.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.77152,44.30648,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -17258,6 +17401,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.573822,43.895035,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Street Feeder Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Street%20Feeder%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Street Feeder<br/><br/>📍 1268 Main St, Bethlehem, NH<br/><br/>A highly rated street-food food truck run by Chef Josh Beemer (4.8★, 11 reviews — small review count, genuinely a food truck, not a full restaurant).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — the pasted address ("Main St," no town given) turned out to be Bethlehem, not Littleton; confirmed via web search.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note) — not a precise geocode for this specific address, which sits noticeably further from the village center per its street number.]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695505,44.2799545,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18067,6 +18223,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Beal House Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Beal%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Beal House<br/><br/>📍 2 W Main St, Littleton, NH<br/><br/>An 1833 Colonial-Federal inn in downtown Littleton — 7 inn rooms plus a 55-seat restaurant and lounge serving American tavern fare, with a copper-top bar and a wide beer/wine/cocktail list. Recently reopened to the public after a year of renovations (4.6★, 303 reviews — ranked #6 of 37 restaurants in Littleton per Tripadvisor).<br/><br/>Tips<br/>- Also operates as a small inn (7 rooms) — worth knowing if Littleton lodging options are ever revisited, not just as a dinner stop.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.<br/><br/>More info: https://thebealhouse.com/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.775,44.30722,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Blind Monk West Palm Beach FL</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Blind%20Monk%20West%20Palm%20Beach%20FL.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Restaurant<br/><br/>Best known for: Small plates, drinks, live music.<br/><br/>Location context: West Palm Beach, FL.<br/><br/>Price level: $20–80 per person.<br/><br/>Visit timing: Typically open for dinner; hours are 5–10 PM, closed Sundays.<br/><br/>Typical Customers<br/>Demographics: Locals and visitors.<br/><br/>Group types: Couples, friends, families.<br/><br/>Common occasions: Casual dinners, date nights.<br/><br/>Vibe & Setting<br/>Atmosphere: Quaint and welcoming.<br/><br/>Noise level: Moderate.<br/><br/>Decor & setting: Indoor and outdoor seating available.<br/><br/>Service style: Friendly; some reviews mention variable service.<br/><br/>Recommended Dishes<br/>Overall dish consensus  <br/>Popular items include the Charcuterie Board and Spaghetti, frequently praised for taste and presentation.<br/><br/>How “top dishes” are determined  <br/>Top dishes were selected based on menu mentions, user reviews indicating favorites, and dishes appearing often in photos.<br/><br/>| Rank | Dish                | Why it stands out                          | How often it’s mentioned         | Ideal for                 |<br/>|------|---------------------|-------------------------------------------|---------------------------------|---------------------------|<br/>| 1    | Charcuterie Board   | Praised for variety and flavor combination.| Mentioned in numerous reviews. | Sharing at the table      |<br/>| 2    | Spaghetti           | Known for rich sauce and satisfying portion. | Repeatedly called out as a favorite. | Hearty main              |<br/>| 3    | Avocado Toast       | Liked for freshness and presentation.    | Mentioned multiple times.     | Lighter option            |<br/><br/>Good alternates / backup choices  <br/>- Shakshouka: Noted for its comforting flavors.<br/>- Juice: Liked for being refreshing and a good accompaniment.<br/><br/>Highlights (non-dish positives from reviews)<br/>Live music: The venue features live music, contributing to a lively atmosphere.<br/><br/>Outdoor seating: Many reviewers appreciate the availability of outdoor seating, especially in good weather.<br/><br/>Common Issues (from reviews)<br/>Inconsistent service: Some reviewers noted variability in service quality during busy times.<br/><br/>Food quality: A few patrons have commented that certain dishes did not meet their expectations.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly but reservations are recommended.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Street parking available; details not specified.<br/><br/>Best use case: Great for casual dinners with friends or a date night.<br/><br/>More info: https://www.google.com/maps/place/The+Blind+Monk/@26.7073064,-80.0548012,17z/data=!3m1!4b1!4m6!3m5!1s0x88d8d661f1e50ca1:0x478246f106237670!8m2!3d26.7073064!4d-80.0522263!16s%2Fg%2F1thsb4bz?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -18379,6 +18548,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Inkwell Coffee House Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Inkwell%20Coffee%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Inkwell Coffee House<br/><br/>📍 24 Beacon St, Littleton, NH<br/><br/>A well-loved local coffee shop (open Mon–Fri 6:30 AM–3:00 PM), near the Rail Trail Village area of Littleton. Craft espresso, nitro brews, fruit-based drinks, in-house baked goods, plus breakfast/brunch, made-to-order sandwiches, wraps, salads, and soups — vegan and gluten-free options available (4.7★, 481 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.<br/><br/>More info: https://www.inkwellnh.com/beacon-street]]></description>
+    <styleUrl>#s-coffee-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.775,44.30722,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Inn on Park Row Brunswick ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Inn%20on%20Park%20Row%20Brunswick%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Inn on Park Row (BISTRO165 / PUB165)<br/><br/>📍 165 Park Row, Brunswick, ME<br/><br/>A historic-inn dining room and evening pub, not just for inn guests — leans into partnerships with local Maine farms and purveyors. Cozy fireplace pub atmosphere in the evening, good for a relaxed dinner or cocktails.<br/><br/>Must Order<br/>- Maine wild blueberry pancakes and farm-fresh eggs (breakfast)<br/>- Charcuterie board with Maine cheeses and house-made dips<br/>- Weekly chef specials (Fri/Sat nights)<br/>- Maine Beer Company and Banded Brewery on tap<br/><br/>Tips<br/>- Reservations not strictly required — open to the public, not just inn guests<br/>- Dinner service daily 4-9pm; breakfast served in the front parlors mornings<br/>- Phone (207) 729-4914<br/><br/>More info: https://www.onesixtyfivemaine.com/eat-drink]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
@@ -18545,6 +18727,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.79846028596855,44.19681980369087,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Maia Papaya Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Maia%20Papaya%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Maia Papaya<br/><br/>📍 2161 Main St, Bethlehem, NH<br/><br/>A friendly local vegetarian cafe, established 2007 — espresso, coffee, smoothies, light breakfast, and organic vegetarian lunch, with vegan and gluten-free options and locally-sourced ingredients. Open Sun/Mon/Thu–Sat 7 AM–3 PM, closed Tue/Wed (4.7★, 388 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — actually located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.<br/><br/>More info: https://www.themaiapapaya.com/]]></description>
+    <styleUrl>#s-coffee-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.695505,44.2799545,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20511,6 +20706,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>White Mountains Canning Company Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountains%20Canning%20Company%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountains Canning Company<br/><br/>📍 69 W Main St, Littleton, NH<br/><br/>A highly rated local food products supplier (4.8★, 105 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched yet beyond confirming address and rating.<br/><br/>More info: https://whitemountainscanning.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.78406,44.309021,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>White Mountains Visitor Center North Woodstock NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountains%20Visitor%20Center%20North%20Woodstock%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountains Visitor Center<br/><br/>📍 North Woodstock, NH (western end of the Kancamagus Highway)<br/><br/>The main trip-planning stop at the western end of the Kancamagus Highway, with trail condition updates, National Forest parking permits, and staff who can advise on foliage timing and current road/trail closures.<br/><br/>Tips<br/>- Good first stop before heading east on the Kancamagus — pick up a parking pass here if you'll be stopping at any of the trailheads along the way.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.0354%2C%20-71.6771]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -20651,6 +20859,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.9585,41.6799,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wildbloom Beer Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wildbloom%20Beer%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wildbloom Beer<br/><br/>📍 42 Main St, 2nd Fl, Littleton, NH<br/><br/>A highly rated brewery on the second floor of 42 Main St, above/alongside Jack & Fin's (4.7★, 61 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu/tap-list highlights yet.]]></description>
+    <styleUrl>#s-beer-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Brewery</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.772062,44.306598,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>

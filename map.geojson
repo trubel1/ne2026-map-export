@@ -6234,6 +6234,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cold Mountain Cafe Bethlehem NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A hidden-gem restaurant in Bethlehem, NH since 1999, offering creative, internationally-inspired cuisine and craft cocktails.",
+        "start_date_time": "",
+        "detail": "Cold Mountain Cafe\n\n\ud83d\udccd 2015 Main St, Bethlehem, NH\n\nA hidden gem of the White Mountains since 1999 \u2014 inventive, internationally-inspired cuisine and craft cocktails, friendly and informed staff, local artwork on display. Open Mon\u2013Wed and Fri\u2013Sat 4\u20139 PM, closed Thu/Sun. Ranked #1 of 10 restaurants in Bethlehem on Tripadvisor. Free off-street and street parking, free WiFi (4.6\u2605, 349 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search \u2014 located in Bethlehem, not Littleton, despite the pasted list's generic \"Main St\" address.\n- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695505,
+          44.2799545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Colonial Pemaquid State Historic Site ME",
         "icon": "scroll",
         "color": "purple",
@@ -6814,6 +6833,25 @@
         "coordinates": [
           -73.8889601,
           41.7863004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crumb Bum Bakery Littleton NH",
+        "icon": "coffee",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A highly rated artisanal bakeshop on Main Street in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Crumb Bum Bakery\n\n\ud83d\udccd 97 Main St, Littleton, NH\n\nA highly rated artisanal bakeshop (4.6\u2605, 299 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet.\n- Coordinates are approximate \u2014 interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77382,
+          44.30697
         ]
       }
     },
@@ -10249,6 +10287,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gold House Pizza Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A highly rated pizza and Greek comfort-food restaurant on Main Street in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Gold House Pizza\n\n\ud83d\udccd 87 Main St, Littleton, NH\n\nA highly rated pizza and Greek comfort-food restaurant (4.5\u2605, 596 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet.\n- Coordinates are approximate \u2014 interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.",
+        "website": "https://www.goldhousepizza.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7735,
+          44.3069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Good Food Store & Bakery Bethel ME",
         "icon": "coffee",
         "color": "red",
@@ -12648,6 +12706,25 @@
         "coordinates": [
           -70.2625,
           43.6548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack & Fin's Littleton NH",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A highly rated Main Street restaurant in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Jack & Fin's\n\n\ud83d\udccd 42 Main St, Littleton, NH\n\nA highly rated restaurant on Main Street in downtown Littleton (4.9\u2605, 112 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) \u2014 address, rating, and review count confirmed, but not independently deep-researched for menu highlights yet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.772062,
+          44.306598
         ]
       }
     },
@@ -16327,6 +16404,26 @@
         "coordinates": [
           -74.0903,
           41.7465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mill Street Kitchen Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "An American restaurant on Mill Street in downtown Littleton, run by the same team as Schilling Beer Co. next door.",
+        "start_date_time": "",
+        "detail": "Mill Street Kitchen\n\n\ud83d\udccd 16 Mill St, Littleton, NH\n\nAn American restaurant on Mill Street, listed on Schilling Beer Co.'s own site as a companion location \u2014 likely the same operators (4.5\u2605, 45 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet.\n- Coordinates borrowed from Schilling Beer Co.'s own listing (same street, very close by) rather than a separately confirmed geocode.",
+        "website": "https://schillingbeer.com/location/mill-st-kitchen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.772917,
+          44.305895
         ]
       }
     },
@@ -20336,6 +20433,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Porfido's Market & Deli Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A highly rated market and deli on Main Street in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Porfido's Market & Deli\n\n\ud83d\udccd 84 Main St, Littleton, NH\n\nA highly rated market and deli (4.6\u2605, 437 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet.\n- Coordinates are approximate \u2014 interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7734,
+          44.30688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Port Clyde ME",
         "icon": "ship",
         "color": "green",
@@ -21437,6 +21553,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rek-Lis Brewing Company Bethlehem NH",
+        "icon": "beer",
+        "color": "red",
+        "vault_type": "Brewery",
+        "description": "A lively brewpub/microbrewery in Bethlehem, NH, with eclectic pub grub, rotating house and guest craft beers, and live music.",
+        "start_date_time": "",
+        "detail": "Rek-Lis Brewing Company\n\n\ud83d\udccd 2085 Main St, Bethlehem, NH\n\nA lively brewpub/microbrewery \u2014 eclectic pub grub, rotating house and guest craft beers on tap, and live music. Open Mon\u2013Fri 12\u20139 PM; offers take-out, reservations, and delivery (4.6\u2605, 1,571 reviews \u2014 the most-reviewed spot in this whole batch).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search \u2014 located in Bethlehem, not Littleton, despite the pasted list's generic \"Main St\" address.\n- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.",
+        "website": "https://www.reklisbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695505,
+          44.2799545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rek-Lis Pint House Bethlehem NH",
+        "icon": "beer",
+        "color": "purple",
+        "vault_type": "Brewery",
+        "description": "A highly rated bar on Main Street in Bethlehem, NH, adjacent to Rek-Lis Brewing Company.",
+        "start_date_time": "",
+        "detail": "Rek-Lis Pint House\n\n\ud83d\udccd 2087 Main St, Bethlehem, NH\n\nA highly rated bar right next to Rek-Lis Brewing Company (2085 Main St) \u2014 likely a companion venue under the same ownership (4.7\u2605, 54 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched beyond confirming the address is Bethlehem, not Littleton.\n- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695505,
+          44.2799545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Remich Park Littleton NH",
         "icon": "footprints",
         "color": "green",
@@ -22273,6 +22428,25 @@
         "coordinates": [
           -74.0069,
           41.9188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rooted on Main Littleton NH",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A highly rated Main Street restaurant in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Rooted on Main\n\n\ud83d\udccd 30 Main St, Littleton, NH\n\nA highly rated restaurant on Main Street in downtown Littleton (4.9\u2605, 62 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet.\n- Coordinates are approximate \u2014 interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77168,
+          44.30652
         ]
       }
     },
@@ -24472,6 +24646,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Slim Pickin's Littleton NH",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A cozy dive bar in Littleton with budget-friendly drinks, grilled-cheese-style food, and frequent live music.",
+        "start_date_time": "",
+        "detail": "Slim Pickin's\n\n\ud83d\udccd 289 Main St, Littleton, NH\n\nA cozy dive bar (open Thu\u2013Mon 3\u201311 PM) with budget-friendly drinks, food including grilled cheese with bacon, and frequent live music (4.7\u2605, 59 reviews per web search \u2014 pasted list showed a slightly different review count/description).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.\n- Coordinates are approximate \u2014 no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.775,
+          44.30722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Smashed Burgers & Brews Damariscotta ME",
         "icon": "utensils",
         "color": "purple",
@@ -24799,6 +24992,25 @@
         "coordinates": [
           -72.102199,
           43.467964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spruce & Ivy Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A new American restaurant and catering business on Main Street in downtown Littleton, in the space that formerly housed Topic of the Town Restaurant.",
+        "start_date_time": "",
+        "detail": "Spruce & Ivy Restaurant and Catering\n\n\ud83d\udccd 25 Main St, Littleton, NH\n\nA new American restaurant and catering business (4.4\u2605, only 5 reviews so far \u2014 a genuinely new spot, not yet widely reviewed). Occupies the same 25 Main St address previously home to Topic of the Town Restaurant.\n\nTips\n- Specifically requested despite falling under the 4.5 cutoff otherwise applied to this batch.\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu highlights yet; being brand-new, there may be little to find.\n- Coordinates are approximate \u2014 interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77152,
+          44.30648
         ]
       }
     },
@@ -25385,6 +25597,25 @@
         "coordinates": [
           -69.573822,
           43.895035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Feeder Bethlehem NH",
+        "icon": "utensils",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A highly rated street-food food truck run by Chef Josh Beemer, based in Bethlehem, NH.",
+        "start_date_time": "",
+        "detail": "Street Feeder\n\n\ud83d\udccd 1268 Main St, Bethlehem, NH\n\nA highly rated street-food food truck run by Chef Josh Beemer (4.8\u2605, 11 reviews \u2014 small review count, genuinely a food truck, not a full restaurant).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 the pasted address (\"Main St,\" no town given) turned out to be Bethlehem, not Littleton; confirmed via web search.\n- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note) \u2014 not a precise geocode for this specific address, which sits noticeably further from the village center per its street number."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695505,
+          44.2799545
         ]
       }
     },
@@ -26615,6 +26846,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Beal House Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "An 1833 Colonial-Federal inn in downtown Littleton with a 55-seat restaurant and lounge serving American tavern fare, recently reopened after a year of renovations.",
+        "start_date_time": "",
+        "detail": "The Beal House\n\n\ud83d\udccd 2 W Main St, Littleton, NH\n\nAn 1833 Colonial-Federal inn in downtown Littleton \u2014 7 inn rooms plus a 55-seat restaurant and lounge serving American tavern fare, with a copper-top bar and a wide beer/wine/cocktail list. Recently reopened to the public after a year of renovations (4.6\u2605, 303 reviews \u2014 ranked #6 of 37 restaurants in Littleton per Tripadvisor).\n\nTips\n- Also operates as a small inn (7 rooms) \u2014 worth knowing if Littleton lodging options are ever revisited, not just as a dinner stop.\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.\n- Coordinates are approximate \u2014 no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.",
+        "website": "https://thebealhouse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.775,
+          44.30722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Blind Monk West Palm Beach FL",
         "icon": "sandwich",
         "color": "red",
@@ -27087,6 +27338,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Inkwell Coffee House Littleton NH",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A well-loved local coffee shop near the Rail Trail Village area of Littleton, serving craft espresso, nitro brews, and made-to-order breakfast and lunch fare.",
+        "start_date_time": "",
+        "detail": "The Inkwell Coffee House\n\n\ud83d\udccd 24 Beacon St, Littleton, NH\n\nA well-loved local coffee shop (open Mon\u2013Fri 6:30 AM\u20133:00 PM), near the Rail Trail Village area of Littleton. Craft espresso, nitro brews, fruit-based drinks, in-house baked goods, plus breakfast/brunch, made-to-order sandwiches, wraps, salads, and soups \u2014 vegan and gluten-free options available (4.7\u2605, 481 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.\n- Coordinates are approximate \u2014 no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.",
+        "website": "https://www.inkwellnh.com/beacon-street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.775,
+          44.30722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Inn on Park Row Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -27336,6 +27607,26 @@
         "coordinates": [
           -72.79846028596855,
           44.19681980369087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Maia Papaya Bethlehem NH",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Restaurant",
+        "description": "A friendly local vegetarian cafe in Bethlehem, NH, serving espresso, coffee, smoothies, light breakfast, and organic vegetarian lunch since 2007.",
+        "start_date_time": "",
+        "detail": "The Maia Papaya\n\n\ud83d\udccd 2161 Main St, Bethlehem, NH\n\nA friendly local vegetarian cafe, established 2007 \u2014 espresso, coffee, smoothies, light breakfast, and organic vegetarian lunch, with vegan and gluten-free options and locally-sourced ingredients. Open Sun/Mon/Thu\u2013Sat 7 AM\u20133 PM, closed Tue/Wed (4.7\u2605, 388 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search \u2014 actually located in Bethlehem, not Littleton, despite the pasted list's generic \"Main St\" address.\n- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.",
+        "website": "https://www.themaiapapaya.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.695505,
+          44.2799545
         ]
       }
     },
@@ -30296,6 +30587,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "White Mountains Canning Company Littleton NH",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "A highly rated local food products supplier in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "White Mountains Canning Company\n\n\ud83d\udccd 69 W Main St, Littleton, NH\n\nA highly rated local food products supplier (4.8\u2605, 105 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched yet beyond confirming address and rating.",
+        "website": "https://whitemountainscanning.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.78406,
+          44.309021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "White Mountains Visitor Center North Woodstock NH",
         "icon": "landmark",
         "color": "green",
@@ -30504,6 +30815,25 @@
         "coordinates": [
           -69.9585,
           41.6799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildbloom Beer Littleton NH",
+        "icon": "beer",
+        "color": "purple",
+        "vault_type": "Brewery",
+        "description": "A highly rated brewery on Main Street in downtown Littleton.",
+        "start_date_time": "",
+        "detail": "Wildbloom Beer\n\n\ud83d\udccd 42 Main St, 2nd Fl, Littleton, NH\n\nA highly rated brewery on the second floor of 42 Main St, above/alongside Jack & Fin's (4.7\u2605, 61 reviews).\n\nTips\n- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) \u2014 not independently deep-researched for menu/tap-list highlights yet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.772062,
+          44.306598
         ]
       }
     },
