@@ -2779,6 +2779,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bethlehem Heritage Society Museum Bethlehem NH",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Museum",
+        "description": "A small local-history museum housed in the restored Ranlet Cafe, covering Bethlehem's industries, notable residents, and cultural heritage; also serves as the town's visitor center.",
+        "start_date_time": "",
+        "detail": "Bethlehem Heritage Society Museum\n\n\ud83d\udccd 2182 Main Street, Bethlehem, NH\n\nRun by the Bethlehem Heritage Society (established 1997), this small museum is housed in the restored Ranlet Cafe \u2014 a historic building relocated to this site in 1895. Exhibits cover Bethlehem's local industries, notable residents, and cultural heritage, drawn from donated personal and town business memorabilia. Also functions as the town's visitor center, across from the Post Office.\n\nTips\n- Combine with The Rocks Estate for a Bethlehem half-day.\n- Non-profit, donation/membership funded \u2014 a quick stop, not a long visit.",
+        "website": "https://bethlehemhistoricalnh.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6859,
+          44.2803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bickford Hill Milan NH",
         "icon": "mountain",
         "color": "green",
@@ -13244,6 +13264,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kilburn Crags Trail Littleton NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A short, locals'-favorite hike gaining about 400 feet to open ledges around 1,300 feet, with sweeping views over Littleton and the surrounding White Mountains.",
+        "start_date_time": "",
+        "detail": "Kilburn Crags Trail\n\n\ud83d\udccd St. Johnsbury Road (NH Route 18/135), Littleton, NH\n\nA locals'-favorite hike right in Littleton \u2014 1.7 miles round trip with about 400 feet of elevation gain to open ledges around 1,300 feet, with sweeping views over the town and surrounding White Mountains. Short enough for a half-day, and quieter than the bigger Franconia Notch trailheads.\n\nTips\n- Trailhead and small parking area are directly off St. Johnsbury Road (NH Route 18/135) \u2014 arrive early, the lot is small.\n- About 30\u201360 minutes round trip; a good pick for a quiet morning before a bigger day elsewhere.",
+        "website": "https://www.alltrails.com/trail/us/new-hampshire/kilburn-crags"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8111,
+          44.3116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Killington Resort VT",
         "icon": "route",
         "color": "orange",
@@ -16762,6 +16802,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Moore Reservoir Littleton NH",
+        "icon": "waves",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A large reservoir on the Connecticut River spanning Littleton/Dalton NH and Vermont, formed by the 1956 Moore Dam \u2014 fishing, boating, and picnic areas.",
+        "start_date_time": "",
+        "detail": "Moore Reservoir\n\n\ud83d\udccd Littleton/Dalton, NH (extending into VT)\n\nA roughly 3,181-acre reservoir on the Connecticut River, created by the 1956 completion of Moore Dam. Multiple boat launches (Pine Island, North Littleton, Pattenville, Dodge Hill, and the Moore Dam Visitor Center) offer picnic areas and trailer ramps. Fished for brook, rainbow, and brown trout, largemouth and smallmouth bass, pickerel, northern pike, and hornpout.\n\nTips\n- Coordinates pin the Moore Dam Visitor Center/boat launch area \u2014 other access points (Pine Island, North Littleton, Pattenville, Dodge Hill) are scattered around the reservoir's NH shore.\n- Parking at the main boat ramp is a dirt lot that can fill up on busy days.",
+        "website": "https://en.wikipedia.org/wiki/Moore_Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.875685,
+          44.33435721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Moose Brook State Park Gorham NH",
         "icon": "leaf",
         "color": "green",
@@ -20038,6 +20098,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pollyanna Statue Littleton NH",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A bronze statue of Pollyanna in front of the Littleton Public Library, honoring hometown author Eleanor H. Porter, who created the character in her 1913 novel.",
+        "start_date_time": "",
+        "detail": "Pollyanna Statue\n\n\ud83d\udccd 92 Main Street, Littleton, NH (in front of the Littleton Public Library)\n\nA bronze statue of a joyful girl with arms spread wide, created by NH artist Emile Birch and unveiled in 2002. It honors Eleanor H. Porter (1868\u20131920), who was born and raised in Littleton and created the endlessly optimistic character Pollyanna in her 1913 novel \u2014 famous for \"The Glad Game,\" finding something to be glad about even in hard times. Promoted locally as \"New Hampshire's most welcoming attraction.\"\n\nTips\n- A quick stop on a Main Street walk \u2014 pairs naturally with the Riverwalk or a downtown shopping/dining loop.",
+        "website": "https://golittleton.com/pollyanna.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7736,
+          44.3071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pomelia Brunswick ME",
         "icon": "utensils",
         "color": "purple",
@@ -21251,6 +21331,26 @@
         "coordinates": [
           -71.120467,
           44.39606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remich Park Littleton NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A town recreation park in Littleton with an easy 1.7-mile walking trail (Remich Park and Pine Hill Trail) alongside ballfields, tennis courts, and a public pool.",
+        "start_date_time": "",
+        "detail": "Remich Park\n\n\ud83d\udccd Littleton, NH\n\nA town recreation park with an easy out-and-back walking trail (Remich Park and Pine Hill Trail \u2014 1.7 miles, about 320 ft elevation gain, roughly 45\u201350 minutes) alongside ballfields, tennis courts, and a public pool. A good low-key option for a relaxed morning rather than a real hike.\n\nTips\n- Combine with The Dells, a separate nearby town park with its own pond-edge walking trails, for a longer easy nature outing.",
+        "website": "https://www.alltrails.com/trail/us/new-hampshire/remich-park-and-pine-hill-trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76814,
+          44.31034
         ]
       }
     },
@@ -26710,6 +26810,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Dells Littleton NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "A town-owned park given to Littleton in 1917 \"to be kept as a park forever,\" with easy walking trails following the edge of a pond.",
+        "start_date_time": "",
+        "detail": "The Dells\n\n\ud83d\udccd 109 Dells Road, Littleton, NH\n\nDaniel Remich gave this land to the Town of Littleton in 1917 to be kept as a \"park forever.\" Easy, well-marked walking trails follow the edge of a pond, open year-round for walking, picnicking, snowmobiling, cross-country skiing, and fishing.\n\nTips\n- Two entrances: one off Route 18 (about 1.2 miles northwest of the Post Office), one off Dells Road \u2014 parking at both.\n- Combine with Remich Park, a separate nearby town park, for a longer easy outing.",
+        "website": "https://discoverlittleton.com/the-dells"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7970335,
+          44.3108945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Den at Stowe VT",
         "icon": "beer",
         "color": "green",
@@ -27464,6 +27584,26 @@
         "coordinates": [
           -70.9810769,
           44.0165424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rocks Estate Bethlehem NH",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A 1,400-acre historic estate (the former John Jacob Glessner estate) now the North Country headquarters of the Society for the Protection of NH Forests \u2014 scenic trails, gardens, wildlife, and views of the Presidential Range.",
+        "start_date_time": "",
+        "detail": "The Rocks Estate\n\n\ud83d\udccd 113 Glessner Road, Bethlehem, NH\n\nA 1,400-acre historic summer estate assembled by John Jacob Glessner in the 1880s as a private conservation initiative \u2014 one of the largest and best-preserved surviving private estates in New Hampshire. Now the North Country headquarters of the Society for the Protection of New Hampshire Forests, with scenic trails, terraced gardens, wildlife (moose, coyote, bear, kestrels, bobolink), and views of the Presidential Range. Also a well-known Christmas tree farm in season.\n\nTips\n- Free to walk the trails and gardens; educational programs run seasonally.\n- Combine with a stop at the nearby Bethlehem Heritage Society Museum on Main Street.",
+        "website": "https://www.forestsociety.org/property/rocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73417,
+          44.28111
         ]
       }
     },
@@ -28290,6 +28430,26 @@
         "coordinates": [
           -69.0811,
           44.1703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traveler's Gourmet Littleton NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Farm-to-table contemporary restaurant in downtown Littleton (formerly Tim-Bir Alley), chef-owned since 2017 by Val and Nancy Fortin \u2014 casual-to-upscale, $45-65 range.",
+        "start_date_time": "",
+        "detail": "Traveler's Gourmet (Tim-Bir Alley)\n\n\ud83d\udccd 7 Main Street, Littleton, NH\n\nA farm-to-table contemporary restaurant in the heart of downtown Littleton, chef-owned since 2017 by Val and Nancy Fortin. Chef Val brings over 35 years of experience (Mount Washington Hotel, Sunset Hill House, private country clubs) and is a DiRoNA award recipient and American Culinary Federation member. Casual-to-upscale, good for special occasions or a romantic dinner; local beer and wine served.\n\nTips\n- Still widely known and listed under its former name, Tim-Bir Alley \u2014 same restaurant, same owners.\n- Price range runs $45\u201365; worth booking ahead given the small, chef-driven format.",
+        "website": "https://travelers-gourmet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.770537,
+          44.306079
         ]
       }
     },
@@ -31154,8 +31314,8 @@
         "color": "blue",
         "vault_type": "Lodging",
         "description": "Rocko's Cottage is the actual home of longtime Bar Harbor locals Lisa and Rick, rented out by the week each summer \u2014 a 2-bedroom, 1-bath cottage in the heart of downtown, walkable to everything.",
-        "start_date_time": "2026-08-15T00:00:00",
-        "detail": "Time: 2026-08-15T00:00:00\n\nRocko's Cottage, Bar Harbor \u2013 Review\nOverall: A genuinely local, hosted-with-care downtown cottage rather than an anonymous rental \u2014 consistently praised for cleanliness, hospitality, and an unbeatable walk-everywhere location.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home (2BR/1BA), ~900 sq ft\n- Sleeps: 4\n- Host: Lisa and Rick \u2014 Bar Harbor locals (Lisa 60+ years in town; Rick a recently-retired Jackson Laboratory engineer). This is their actual home, rented by the week only in summer.\n- Rate seen: ~$295/night (subject to change)\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: full kitchen, living room\n- Laundry: washer & dryer on site\n- Outdoor: deck/patio\n- Climate: A/C, heater, fireplace\n- Connectivity: internet, cable/satellite\n- Parking: on-site; pets welcome\n\n---\n\n\ud83d\udccd Location & Neighborhood\nDowntown Bar Harbor, an easy walk to nearly everything \u2014 the free Island Explorer bus hub is two blocks away, and restaurants, the Village Green, Abbe Museum, Bar Harbor Historical Society, and Jesup Memorial Library are all within about 0.2\u20130.4 miles. No need to worry about parking once you're settled in.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nHosts live locally and have historically greeted guests in person at arrival. Confirmed via VRBO's pre-arrival email (2026-08-12):\n- Self check-in, no meeting required: house is left unlocked on arrival day, with 2 keys on the kitchen table alongside a Welcome Book (read it \u2014 \"wealth of information,\" including Wi-Fi network/password).\n- Driving directions from Elisa/Lisa: from Ellsworth, take Route 3 East into Bar Harbor to Main Street. At the corner of Main and Mt. Desert Streets (park on one side, Cherrystones Restaurant on the other), turn right \u2014 still Route 3 E. Go two to two-and-a-half blocks to a large green hotel (Bar Harbor Grand), take the next right onto First South Street. It's the third house on the left, a small house behind a two-story \u2014 you share the driveway with the tenants in the front house, but there's plenty of room.\n- Host contacts: Lisa/Elisa \u2014 207-266-9668; Rick \u2014 207-669-0955. Both answer texts most anytime; Rick's retired and usually around.\n- Checkout: strict 10:00 AM \u2014 no late checkouts, since housekeeping arrives promptly at 10:00 for the next guests.\n\n---\n\n\u2b50 Host & Reviews\nReviews consistently highlight excellent communication, an immaculately clean home, and hosts who \"think of every little thing\" \u2014 guests describe it as a step above typical VRBO stays. Everything in town is described as an easy, quiet walk from the cottage.\n\n---\n\n\ud83d\udc4d Pros\n- Real local hosts with a strong hospitality track record\n- Unbeatable walkable downtown location\n- Consistently spotless\n\n---\n\n\ud83d\udc4e Cons\n- Small footprint (900 sq ft, 1 bath) \u2014 best for a couple or small family, not a large group\n- Only available by the week in summer (less flexible for short stays)\n\n---\n\n\ud83c\udfaf Best For\nCouples or small families who want to walk everywhere in downtown Bar Harbor without a car.\n\n---\n\n\ud83d\udd17 Sources\n- Rocko's Cottage Nestled in the Heart of Downtown Bar Harbor",
+        "start_date_time": "2026-08-15T15:00:00",
+        "detail": "Time: 2026-08-15T15:00:00\n\nRocko's Cottage, Bar Harbor \u2013 Review\nOverall: A genuinely local, hosted-with-care downtown cottage rather than an anonymous rental \u2014 consistently praised for cleanliness, hospitality, and an unbeatable walk-everywhere location.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home (2BR/1BA), ~900 sq ft\n- Sleeps: 4\n- Host: Lisa and Rick \u2014 Bar Harbor locals (Lisa 60+ years in town; Rick a recently-retired Jackson Laboratory engineer). This is their actual home, rented by the week only in summer.\n- Rate seen: ~$295/night (subject to change)\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: full kitchen, living room\n- Laundry: washer & dryer on site\n- Outdoor: deck/patio\n- Climate: A/C, heater, fireplace\n- Connectivity: internet, cable/satellite\n- Parking: on-site; pets welcome\n\n---\n\n\ud83d\udccd Location & Neighborhood\nDowntown Bar Harbor, an easy walk to nearly everything \u2014 the free Island Explorer bus hub is two blocks away, and restaurants, the Village Green, Abbe Museum, Bar Harbor Historical Society, and Jesup Memorial Library are all within about 0.2\u20130.4 miles. No need to worry about parking once you're settled in.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nHosts live locally and have historically greeted guests in person at arrival. Confirmed via VRBO's pre-arrival email (2026-08-12):\n- Self check-in, no meeting required: house is left unlocked on arrival day, with 2 keys on the kitchen table alongside a Welcome Book (read it \u2014 \"wealth of information,\" including Wi-Fi network/password).\n- Driving directions from Elisa/Lisa: from Ellsworth, take Route 3 East into Bar Harbor to Main Street. At the corner of Main and Mt. Desert Streets (park on one side, Cherrystones Restaurant on the other), turn right \u2014 still Route 3 E. Go two to two-and-a-half blocks to a large green hotel (Bar Harbor Grand), take the next right onto First South Street. It's the third house on the left, a small house behind a two-story \u2014 you share the driveway with the tenants in the front house, but there's plenty of room.\n- Host contacts: Lisa/Elisa \u2014 207-266-9668; Rick \u2014 207-669-0955. Both answer texts most anytime; Rick's retired and usually around.\n- Checkout: strict 10:00 AM \u2014 no late checkouts, since housekeeping arrives promptly at 10:00 for the next guests.\n\n---\n\n\u2b50 Host & Reviews\nReviews consistently highlight excellent communication, an immaculately clean home, and hosts who \"think of every little thing\" \u2014 guests describe it as a step above typical VRBO stays. Everything in town is described as an easy, quiet walk from the cottage.\n\n---\n\n\ud83d\udc4d Pros\n- Real local hosts with a strong hospitality track record\n- Unbeatable walkable downtown location\n- Consistently spotless\n\n---\n\n\ud83d\udc4e Cons\n- Small footprint (900 sq ft, 1 bath) \u2014 best for a couple or small family, not a large group\n- Only available by the week in summer (less flexible for short stays)\n\n---\n\n\ud83c\udfaf Best For\nCouples or small families who want to walk everywhere in downtown Bar Harbor without a car.\n\n---\n\n\ud83d\udd17 Sources\n- Rocko's Cottage Nestled in the Heart of Downtown Bar Harbor",
         "website": "https://www.vrbo.com/232330?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783459962610&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=561&destination=Bar+Harbor%2C+Maine%2C+United+States+of+America&destType=MARKET&neighborhoodId=890182262554296320&selected=33486288&latLong=44.387673%2C-68.205357&searchId=3dc8cc51-f527-45da-b347-f283a7671201&sort=RECOMMENDED&userIntent=&expediaPropertyId=33486288"
       },
       "geometry": {
@@ -31174,8 +31334,8 @@
         "color": "purple",
         "vault_type": "Lodging",
         "description": "Home in Littleton \u2014 a 3BR/1.5BA colonial hosted by Superhost Deborah A, at 46 Jackson Street. Walkable to Main Street.",
-        "start_date_time": "2026-08-26T00:00:00",
-        "detail": "Time: 2026-08-26T00:00:00\n\nHome in Littleton \u2013 Review\nOverall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91\u2605, 56 reviews) \u2014 walkable to Main Street with a mountain view.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home, colonial\n- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)\n- Bathrooms: 1.5\n- Max guests: 6\n- Host: Deborah A \u2014 Superhost, 8 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: yes\n- Laundry: washer & dryer\n- Outdoor: mountain view\n- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace\n- Parking: free driveway parking (4 spaces)\n- Other: 40\" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed\n- Note: must climb stairs\n\n---\n\n\ud83d\udccd Location & Neighborhood\nWalk to award-winning Main Street \u2014 shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nCheck-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad \u2014 code: 1546 (received from host Deborah A via email, 2026-08-25).\n\n---\n\n\u2b50 Host & Reviews\nDeborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.\n\n---\n\n\ud83d\udc4d Pros\n- Superhost with a strong, well-established review record\n- Spacious for a group (3BR/7 beds/6 guests)\n- Free driveway parking and fast Wi-Fi/workspace \u2014 good for remote work days\n- Walkable to Main Street\n\n---\n\n\ud83d\udc4e Cons\n- Only 1.5 baths for up to 6 guests\n- Some bedrooms have less conventional bed setups (bunk/single mixed in) \u2014 check fit for your group\n\n---\n\n\ud83c\udfaf Best For\nA group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.",
+        "start_date_time": "2026-08-26T15:00:00",
+        "detail": "Time: 2026-08-26T15:00:00\n\nHome in Littleton \u2013 Review\nOverall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91\u2605, 56 reviews) \u2014 walkable to Main Street with a mountain view.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home, colonial\n- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)\n- Bathrooms: 1.5\n- Max guests: 6\n- Host: Deborah A \u2014 Superhost, 8 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: yes\n- Laundry: washer & dryer\n- Outdoor: mountain view\n- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace\n- Parking: free driveway parking (4 spaces)\n- Other: 40\" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed\n- Note: must climb stairs\n\n---\n\n\ud83d\udccd Location & Neighborhood\nWalk to award-winning Main Street \u2014 shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nCheck-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad \u2014 code: 1546 (received from host Deborah A via email, 2026-08-25).\n\n---\n\n\u2b50 Host & Reviews\nDeborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.\n\n---\n\n\ud83d\udc4d Pros\n- Superhost with a strong, well-established review record\n- Spacious for a group (3BR/7 beds/6 guests)\n- Free driveway parking and fast Wi-Fi/workspace \u2014 good for remote work days\n- Walkable to Main Street\n\n---\n\n\ud83d\udc4e Cons\n- Only 1.5 baths for up to 6 guests\n- Some bedrooms have less conventional bed setups (bunk/single mixed in) \u2014 check fit for your group\n\n---\n\n\ud83c\udfaf Best For\nA group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.",
         "website": "https://www.airbnb.com/rooms/626085727753547407"
       },
       "geometry": {
@@ -31194,8 +31354,8 @@
         "color": "purple",
         "vault_type": "Lodging",
         "description": "Full Renovation! Amazing Spot with Views! \u2014 a fully renovated 2BR/1BA second-story condo right on Main Street, managed by Del Mar Vacations (Superhost, 10 years).",
-        "start_date_time": "2026-09-09T00:00:00",
-        "detail": "Time: 2026-09-09T00:00:00\n\nFull Renovation! Amazing Spot with Views! \u2013 Review\nOverall: A bright, fully renovated second-story condo right on Main Street, professionally managed by a long-established Superhost with an excellent review record (4.93\u2605, 151 reviews) \u2014 modern and turnkey, walkable to everything downtown.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire condominium, second-story walkup\n- Bedrooms / Beds: 2 bedrooms, 2 beds (1 king, 1 double)\n- Bathrooms: 1\n- Max guests: 4\n- Host: Del Mar Vacations \u2014 Superhost, 10 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: bright kitchen/living area, new appliances, island seating\n- Laundry: washer & dryer\n- Outdoor: deck with a gas grill\n- Climate: central A/C\n- Living area: large flat-screen TV, sectional couch\n- Pets: dogs welcomed, $40/night per dog fee\n- Linens: sheets and bath towels provided, beds made upon arrival\n\n---\n\n\ud83d\udccd Location & Neighborhood\nRight on Main Street \u2014 walkable to local shops, galleries, a movie theater, and restaurants (Impudent Oyster, Chatham Squire, Bluefins Sushi & Sake Bar, Wild Goose Tavern). About a 3-minute drive to Lighthouse Beach and Oyster Pond Beach.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nSelf check-in via smartlock, after 4:00 PM. Checkout before 9:00 AM (early \u2014 plan accordingly). Dogs allowed with a $40/night fee.\n\n---\n\n\u2b50 Host & Reviews\nDel Mar Vacations, Superhost with 10 years of hosting experience. 4.93 out of 5 stars across 151 reviews \u2014 a well-established, professionally managed property.\n\n---\n\n\ud83d\udc4d Pros\n- Completely renovated, modern condo right on Main Street\n- Strong, well-established review record\n- Outdoor deck with gas grill \u2014 good for cooking in\n- Linens/towels provided, beds made on arrival\n\n---\n\n\ud83d\udc4e Cons\n- Only 1 bathroom for 4 guests\n- Early checkout (9:00 AM)\n- Second-story walkup \u2014 worth checking for stairs if that's a concern\n- Extra pet fee if bringing a dog\n\n---\n\n\ud83c\udfaf Best For\nA couple or small family wanting a modern, low-maintenance, walkable Main Street base in Chatham.",
+        "start_date_time": "2026-09-09T16:00:00",
+        "detail": "Time: 2026-09-09T16:00:00\n\nFull Renovation! Amazing Spot with Views! \u2013 Review\nOverall: A bright, fully renovated second-story condo right on Main Street, professionally managed by a long-established Superhost with an excellent review record (4.93\u2605, 151 reviews) \u2014 modern and turnkey, walkable to everything downtown.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire condominium, second-story walkup\n- Bedrooms / Beds: 2 bedrooms, 2 beds (1 king, 1 double)\n- Bathrooms: 1\n- Max guests: 4\n- Host: Del Mar Vacations \u2014 Superhost, 10 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: bright kitchen/living area, new appliances, island seating\n- Laundry: washer & dryer\n- Outdoor: deck with a gas grill\n- Climate: central A/C\n- Living area: large flat-screen TV, sectional couch\n- Pets: dogs welcomed, $40/night per dog fee\n- Linens: sheets and bath towels provided, beds made upon arrival\n\n---\n\n\ud83d\udccd Location & Neighborhood\nRight on Main Street \u2014 walkable to local shops, galleries, a movie theater, and restaurants (Impudent Oyster, Chatham Squire, Bluefins Sushi & Sake Bar, Wild Goose Tavern). About a 3-minute drive to Lighthouse Beach and Oyster Pond Beach.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nSelf check-in via smartlock, after 4:00 PM. Checkout before 9:00 AM (early \u2014 plan accordingly). Dogs allowed with a $40/night fee.\n\n---\n\n\u2b50 Host & Reviews\nDel Mar Vacations, Superhost with 10 years of hosting experience. 4.93 out of 5 stars across 151 reviews \u2014 a well-established, professionally managed property.\n\n---\n\n\ud83d\udc4d Pros\n- Completely renovated, modern condo right on Main Street\n- Strong, well-established review record\n- Outdoor deck with gas grill \u2014 good for cooking in\n- Linens/towels provided, beds made on arrival\n\n---\n\n\ud83d\udc4e Cons\n- Only 1 bathroom for 4 guests\n- Early checkout (9:00 AM)\n- Second-story walkup \u2014 worth checking for stairs if that's a concern\n- Extra pet fee if bringing a dog\n\n---\n\n\ud83c\udfaf Best For\nA couple or small family wanting a modern, low-maintenance, walkable Main Street base in Chatham.",
         "website": "https://www.airbnb.com/rooms/32892701"
       },
       "geometry": {
@@ -31794,8 +31954,8 @@
         "color": "purple",
         "vault_type": "Lodging",
         "description": "The Heartwood at Vassar is a boutique hotel located in New York's scenic Hudson Valley. It offers a menu of local and seasonal fare and serves breakfast and lunch, with some dinner options available. The hotel features a bar that serves alcohol. Pricing is moderate, with hotel rates around $174 per night.",
-        "start_date_time": "2026-09-21T00:00:00",
-        "detail": "Time: 2026-09-21T00:00:00\n\nThe Heartwood at Vassar is a boutique hotel located in New York's scenic Hudson Valley. It offers a menu of local and seasonal fare and serves breakfast and lunch, with some dinner options available. The hotel features a bar that serves alcohol. Pricing is moderate, with hotel rates around $174 per night.",
+        "start_date_time": "2026-09-21T15:00:00",
+        "detail": "Time: 2026-09-21T15:00:00\n\nTips\n- Check-in/checkout times (3:00 PM / 11:00 AM) are the standard hotel default, not explicitly stated in the confirmation email (confirmation #21606 only names dates) \u2014 verify at check-in if it matters.",
         "website": "https://www.google.com/maps/place/The+Heartwood+at+Vassar/@41.6912527,-73.9103075,1679m/data=!3m1!1e3!4m18!1m6!2m5!1sHotels!5m3!5m2!1s2026-09-21!2i4!3m10!1s0x89dd3e50a011abff:0x44f9066fb98a01c!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d41.6905804!4d-73.9007203!16s%2Fg%2F11w1kf88xw?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -31894,8 +32054,8 @@
         "color": "blue",
         "vault_type": "Lodging",
         "description": "",
-        "start_date_time": "2026-09-04T00:00:00",
-        "detail": "Time: 2026-09-04T00:00:00\n\nWoodstock Carriage House \u2013 Review\nOverall: A secluded, fully-renovated carriage house on a private 280-acre working estate \u2014 a quiet, scenic retreat rather than a downtown stay, about 2 miles from Woodstock village.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing name: Woodstock Carriage House (280 acres, views, gardens, skiing, farm)\n- Property type: Converted carriage house, formerly the horse caretaker's residence\n- Distance to town: ~2 miles from downtown Woodstock\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Fully furnished\n- Outdoor: deck with views over the estate's fields and mountains\n- Practical: slate-floor ski/mud entrance, separate back entrance for storing bikes/ski gear and changing out of active wear\n- Parking: doorstep parking\n\n---\n\n\ud83d\udccd Location & Neighborhood\nSet within a private, undeveloped 280-acre property with multiple secluded ponds (trout fishing, and wildlife viewing \u2014 deer, ducks, birds of prey). Convenient to Killington, Pico, Okemo, and Suicide Six ski areas, plus downtown Woodstock restaurants, shopping, fishing, and hiking.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nNot confirmed from available sources \u2014 check the listing directly.\n\n---\n\n\u2b50 Host & Reviews\nNot confirmed from available sources, but the listing appears frequently and prominently in Woodstock, VT vacation rental searches.\n\n---\n\n\ud83d\udc4d Pros\n- Genuinely secluded, private setting rare for a base camp this close to town\n- Real outdoor access \u2014 ponds, fields, wildlife, mountain views\n- Practical mudroom/gear entrance suited to an active outdoor trip\n\n---\n\n\ud83d\udc4e Cons\n- 2 miles from downtown means a car is needed for anything in town (not a walkable base camp)\n- Remote setting may not suit travelers wanting quick in-town access\n\n---\n\n\ud83c\udfaf Best For\nTravelers who want a quiet, scenic retreat near Woodstock and easy access to the surrounding ski areas, rather than a walkable in-town stay.\n\n---\n\n\ud83d\udd17 Sources\n- Woodstock Carriage House-280 acres-Views-Gardens-Skiing-Farm",
+        "start_date_time": "2026-09-04T15:00:00",
+        "detail": "Time: 2026-09-04T15:00:00\n\nWoodstock Carriage House \u2013 Review\nOverall: A secluded, fully-renovated carriage house on a private 280-acre working estate \u2014 a quiet, scenic retreat rather than a downtown stay, about 2 miles from Woodstock village.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing name: Woodstock Carriage House (280 acres, views, gardens, skiing, farm)\n- Property type: Converted carriage house, formerly the horse caretaker's residence\n- Distance to town: ~2 miles from downtown Woodstock\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Fully furnished\n- Outdoor: deck with views over the estate's fields and mountains\n- Practical: slate-floor ski/mud entrance, separate back entrance for storing bikes/ski gear and changing out of active wear\n- Parking: doorstep parking\n\n---\n\n\ud83d\udccd Location & Neighborhood\nSet within a private, undeveloped 280-acre property with multiple secluded ponds (trout fishing, and wildlife viewing \u2014 deer, ducks, birds of prey). Convenient to Killington, Pico, Okemo, and Suicide Six ski areas, plus downtown Woodstock restaurants, shopping, fishing, and hiking.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nNot confirmed from available sources \u2014 check the listing directly.\n\n---\n\n\u2b50 Host & Reviews\nNot confirmed from available sources, but the listing appears frequently and prominently in Woodstock, VT vacation rental searches.\n\n---\n\n\ud83d\udc4d Pros\n- Genuinely secluded, private setting rare for a base camp this close to town\n- Real outdoor access \u2014 ponds, fields, wildlife, mountain views\n- Practical mudroom/gear entrance suited to an active outdoor trip\n\n---\n\n\ud83d\udc4e Cons\n- 2 miles from downtown means a car is needed for anything in town (not a walkable base camp)\n- Remote setting may not suit travelers wanting quick in-town access\n\n---\n\n\ud83c\udfaf Best For\nTravelers who want a quiet, scenic retreat near Woodstock and easy access to the surrounding ski areas, rather than a walkable in-town stay.\n\n---\n\n\ud83d\udd17 Sources\n- Woodstock Carriage House-280 acres-Views-Gardens-Skiing-Farm",
         "website": "https://www.vrbo.com/104613ha?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1783460599483&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=10868&destination=Woodstock%2C+Vermont%2C+United+States+of+America&destType=MARKET&latLong=43.624245%2C-72.518509&searchId=955cf04a-220f-43f0-9779-dc43f2c80688&sort=RECOMMENDED&userIntent=&expediaPropertyId=33559745"
       },
       "geometry": {
