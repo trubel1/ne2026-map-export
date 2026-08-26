@@ -4561,7 +4561,7 @@
   </Placemark>
   <Placemark>
     <name>Cold Mountain Cafe Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cold%20Mountain%20Cafe%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Cold Mountain Cafe<br/><br/>📍 2015 Main St, Bethlehem, NH<br/><br/>A hidden gem of the White Mountains since 1999 — inventive, internationally-inspired cuisine and craft cocktails, friendly and informed staff, local artwork on display. Open Mon–Wed and Fri–Sat 4–9 PM, closed Thu/Sun. Ranked #1 of 10 restaurants in Bethlehem on Tripadvisor. Free off-street and street parking, free WiFi (4.6★, 349 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cold%20Mountain%20Cafe%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Cold Mountain Cafe<br/><br/>📍 2015 Main St, Bethlehem, NH<br/><br/>A hidden gem of the White Mountains since 1999 — inventive, internationally-inspired cuisine and craft cocktails, friendly and informed staff, local artwork on display. Open Mon–Wed and Fri–Sat 4–9 PM, closed Thu/Sun. Ranked #1 of 10 restaurants in Bethlehem on Tripadvisor. Free off-street and street parking, free WiFi (4.6★, 349 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -4569,7 +4569,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.695505,44.2799545,0</coordinates>
+      <coordinates>-71.6903,44.2799,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4964,7 +4964,7 @@
   </Placemark>
   <Placemark>
     <name>Crumb Bum Bakery Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Crumb%20Bum%20Bakery%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Crumb Bum Bakery<br/><br/>📍 97 Main St, Littleton, NH<br/><br/>A highly rated artisanal bakeshop (4.6★, 299 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Crumb%20Bum%20Bakery%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Crumb Bum Bakery<br/><br/>📍 97 Main St, Littleton, NH<br/><br/>A highly rated artisanal bakeshop (4.6★, 299 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-coffee-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -4972,7 +4972,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.77382,44.30697,0</coordinates>
+      <coordinates>-71.7724,44.307,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -7252,7 +7252,7 @@
   </Placemark>
   <Placemark>
     <name>Gold House Pizza Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Gold%20House%20Pizza%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Gold House Pizza<br/><br/>📍 87 Main St, Littleton, NH<br/><br/>A highly rated pizza and Greek comfort-food restaurant (4.5★, 596 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.<br/><br/>More info: https://www.goldhousepizza.com/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Gold%20House%20Pizza%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Gold House Pizza<br/><br/>📍 87 Main St, Littleton, NH<br/><br/>A highly rated pizza and Greek comfort-food restaurant (4.5★, 596 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).<br/><br/>More info: https://www.goldhousepizza.com/]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -7260,7 +7260,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.7735,44.3069,0</coordinates>
+      <coordinates>-71.772,44.3069,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -8864,7 +8864,7 @@
   </Placemark>
   <Placemark>
     <name>Jack &amp; Fin's Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jack%20%26%20Fin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jack & Fin's<br/><br/>📍 42 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 112 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — address, rating, and review count confirmed, but not independently deep-researched for menu highlights yet.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Jack%20%26%20Fin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Jack & Fin's<br/><br/>📍 42 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 112 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — address, rating, and review count confirmed, but not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -8872,7 +8872,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.772062,44.306598,0</coordinates>
+      <coordinates>-71.7698,44.306,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11308,7 +11308,7 @@
   </Placemark>
   <Placemark>
     <name>Mill Street Kitchen Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mill%20Street%20Kitchen%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mill Street Kitchen<br/><br/>📍 16 Mill St, Littleton, NH<br/><br/>An American restaurant on Mill Street, listed on Schilling Beer Co.'s own site as a companion location — likely the same operators (4.5★, 45 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates borrowed from Schilling Beer Co.'s own listing (same street, very close by) rather than a separately confirmed geocode.<br/><br/>More info: https://schillingbeer.com/location/mill-st-kitchen/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mill%20Street%20Kitchen%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mill Street Kitchen<br/><br/>📍 16 Mill St, Littleton, NH<br/><br/>An American restaurant on Mill Street, listed on Schilling Beer Co.'s own site as a companion location — likely the same operators (4.5★, 45 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).<br/><br/>More info: https://schillingbeer.com/location/mill-st-kitchen/]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -11316,7 +11316,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.772917,44.305895,0</coordinates>
+      <coordinates>-71.7723,44.3071,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13973,7 +13973,7 @@
   </Placemark>
   <Placemark>
     <name>Porfido's Market &amp; Deli Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Porfido%27s%20Market%20%26%20Deli%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Porfido's Market & Deli<br/><br/>📍 84 Main St, Littleton, NH<br/><br/>A highly rated market and deli (4.6★, 437 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Porfido%27s%20Market%20%26%20Deli%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Porfido's Market & Deli<br/><br/>📍 84 Main St, Littleton, NH<br/><br/>A highly rated market and deli (4.6★, 437 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -13981,7 +13981,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.7734,44.30688,0</coordinates>
+      <coordinates>-71.7718,44.3068,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14714,7 +14714,7 @@
   </Placemark>
   <Placemark>
     <name>Rek-Lis Brewing Company Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Brewing%20Company%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Brewing Company<br/><br/>📍 2085 Main St, Bethlehem, NH<br/><br/>A lively brewpub/microbrewery — eclectic pub grub, rotating house and guest craft beers on tap, and live music. Open Mon–Fri 12–9 PM; offers take-out, reservations, and delivery (4.6★, 1,571 reviews — the most-reviewed spot in this whole batch).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.<br/><br/>More info: https://www.reklisbrewing.com/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Brewing%20Company%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Brewing Company<br/><br/>📍 2085 Main St, Bethlehem, NH<br/><br/>A lively brewpub/microbrewery — eclectic pub grub, rotating house and guest craft beers on tap, and live music. Open Mon–Fri 12–9 PM; offers take-out, reservations, and delivery (4.6★, 1,571 reviews — the most-reviewed spot in this whole batch).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided — now nearly identical to Rek-Lis Pint House's, consistent with the two being next door.<br/><br/>More info: https://www.reklisbrewing.com/]]></description>
     <styleUrl>#s-beer-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Brewery</value></Data>
@@ -14722,12 +14722,12 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.695505,44.2799545,0</coordinates>
+      <coordinates>-71.6889,44.2801,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Rek-Lis Pint House Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Pint%20House%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Pint House<br/><br/>📍 2087 Main St, Bethlehem, NH<br/><br/>A highly rated bar right next to Rek-Lis Brewing Company (2085 Main St) — likely a companion venue under the same ownership (4.7★, 54 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched beyond confirming the address is Bethlehem, not Littleton.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rek-Lis%20Pint%20House%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rek-Lis Pint House<br/><br/>📍 2087 Main St, Bethlehem, NH<br/><br/>A highly rated bar right next to Rek-Lis Brewing Company (2085 Main St) — likely a companion venue under the same ownership (4.7★, 54 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched beyond confirming the address is Bethlehem, not Littleton.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided — now nearly identical to Rek-Lis Brewing Company's, consistent with the two being next door.]]></description>
     <styleUrl>#s-beer-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Brewery</value></Data>
@@ -14735,7 +14735,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.695505,44.2799545,0</coordinates>
+      <coordinates>-71.6888,44.2801,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -15299,7 +15299,7 @@
   </Placemark>
   <Placemark>
     <name>Rooted on Main Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rooted%20on%20Main%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rooted on Main<br/><br/>📍 30 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 62 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Rooted%20on%20Main%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Rooted on Main<br/><br/>📍 30 Main St, Littleton, NH<br/><br/>A highly rated restaurant on Main Street in downtown Littleton (4.9★, 62 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area restaurant research list (2026-08-26) — not independently deep-researched for menu highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -15307,7 +15307,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.77168,44.30652,0</coordinates>
+      <coordinates>-71.7693,44.3058,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16768,7 +16768,7 @@
   </Placemark>
   <Placemark>
     <name>Slim Pickin's Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Slim%20Pickin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Slim Pickin's<br/><br/>📍 289 Main St, Littleton, NH<br/><br/>A cozy dive bar (open Thu–Mon 3–11 PM) with budget-friendly drinks, food including grilled cheese with bacon, and frequent live music (4.7★, 59 reviews per web search — pasted list showed a slightly different review count/description).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Slim%20Pickin%27s%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Slim Pickin's<br/><br/>📍 289 Main St, Littleton, NH<br/><br/>A cozy dive bar (open Thu–Mon 3–11 PM) with budget-friendly drinks, food including grilled cheese with bacon, and frequent live music (4.7★, 59 reviews per web search — pasted list showed a slightly different review count/description).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Town conflict resolved 2026-08-26: a follow-up address-geocoding pass had listed this as "289 Main St, Bethlehem, NH," but Tom confirmed via Google that it's 289 Main St, Littleton, NH 03561 — matching the original research. Filed under Littleton; the Bethlehem-area coordinate from that pass was discarded rather than kept.<br/>- Coordinates are still approximate — no precise per-address geocode found even after re-searching with the confirmed town; placed at the downtown Littleton reference point (other businesses at this address — Portland Glass, a U-Haul dealer — suggest it's a more commercial stretch of Main St, possibly further from downtown than this pin shows).]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -17002,7 +17002,7 @@
   </Placemark>
   <Placemark>
     <name>Spruce &amp; Ivy Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Spruce%20%26%20Ivy%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Spruce & Ivy Restaurant and Catering<br/><br/>📍 25 Main St, Littleton, NH<br/><br/>A new American restaurant and catering business (4.4★, only 5 reviews so far — a genuinely new spot, not yet widely reviewed). Occupies the same 25 Main St address previously home to Topic of the Town Restaurant.<br/><br/>Tips<br/>- Specifically requested despite falling under the 4.5 cutoff otherwise applied to this batch.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet; being brand-new, there may be little to find.<br/>- Coordinates are approximate — interpolated along Main St from nearby confirmed addresses, not a precise per-address geocode.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Spruce%20%26%20Ivy%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Spruce & Ivy Restaurant and Catering<br/><br/>📍 25 Main St, Littleton, NH<br/><br/>A new American restaurant and catering business (4.4★, only 5 reviews so far — a genuinely new spot, not yet widely reviewed). Occupies the same 25 Main St address previously home to Topic of the Town Restaurant.<br/><br/>Tips<br/>- Specifically requested despite falling under the 4.5 cutoff otherwise applied to this batch.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu highlights yet; being brand-new, there may be little to find.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -17010,7 +17010,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.77152,44.30648,0</coordinates>
+      <coordinates>-71.7689,44.3057,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -17405,7 +17405,7 @@
   </Placemark>
   <Placemark>
     <name>Street Feeder Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Street%20Feeder%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Street Feeder<br/><br/>📍 1268 Main St, Bethlehem, NH<br/><br/>A highly rated street-food food truck run by Chef Josh Beemer (4.8★, 11 reviews — small review count, genuinely a food truck, not a full restaurant).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — the pasted address ("Main St," no town given) turned out to be Bethlehem, not Littleton; confirmed via web search.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note) — not a precise geocode for this specific address, which sits noticeably further from the village center per its street number.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Street%20Feeder%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Street Feeder<br/><br/>📍 1268 Main St, Bethlehem, NH<br/><br/>A highly rated street-food food truck run by Chef Josh Beemer (4.8★, 11 reviews — small review count, genuinely a food truck, not a full restaurant).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — the pasted address ("Main St," no town given) turned out to be Bethlehem, not Littleton; confirmed via web search.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided — noticeably further from the village center than the earlier borrowed value, consistent with this address's much lower street number.]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -17413,7 +17413,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.695505,44.2799545,0</coordinates>
+      <coordinates>-71.7082,44.2755,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18224,7 +18224,7 @@
   </Placemark>
   <Placemark>
     <name>The Beal House Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Beal%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Beal House<br/><br/>📍 2 W Main St, Littleton, NH<br/><br/>An 1833 Colonial-Federal inn in downtown Littleton — 7 inn rooms plus a 55-seat restaurant and lounge serving American tavern fare, with a copper-top bar and a wide beer/wine/cocktail list. Recently reopened to the public after a year of renovations (4.6★, 303 reviews — ranked #6 of 37 restaurants in Littleton per Tripadvisor).<br/><br/>Tips<br/>- Also operates as a small inn (7 rooms) — worth knowing if Littleton lodging options are ever revisited, not just as a dinner stop.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.<br/><br/>More info: https://thebealhouse.com/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Beal%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Beal House<br/><br/>📍 2 W Main St, Littleton, NH<br/><br/>An 1833 Colonial-Federal inn in downtown Littleton — 7 inn rooms plus a 55-seat restaurant and lounge serving American tavern fare, with a copper-top bar and a wide beer/wine/cocktail list. Recently reopened to the public after a year of renovations (4.6★, 303 reviews — ranked #6 of 37 restaurants in Littleton per Tripadvisor).<br/><br/>Tips<br/>- Also operates as a small inn (7 rooms) — worth knowing if Littleton lodging options are ever revisited, not just as a dinner stop.<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).<br/><br/>More info: https://thebealhouse.com/]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -18232,7 +18232,7 @@
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.775,44.30722,0</coordinates>
+      <coordinates>-71.7675,44.3051,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18549,7 +18549,7 @@
   </Placemark>
   <Placemark>
     <name>The Inkwell Coffee House Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Inkwell%20Coffee%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Inkwell Coffee House<br/><br/>📍 24 Beacon St, Littleton, NH<br/><br/>A well-loved local coffee shop (open Mon–Fri 6:30 AM–3:00 PM), near the Rail Trail Village area of Littleton. Craft espresso, nitro brews, fruit-based drinks, in-house baked goods, plus breakfast/brunch, made-to-order sandwiches, wraps, salads, and soups — vegan and gluten-free options available (4.7★, 481 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — no precise geocode found for this specific address; placed at the downtown Littleton reference point rather than guessed exactly.<br/><br/>More info: https://www.inkwellnh.com/beacon-street]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Inkwell%20Coffee%20House%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Inkwell Coffee House<br/><br/>📍 24 Beacon St, Littleton, NH<br/><br/>A well-loved local coffee shop (open Mon–Fri 6:30 AM–3:00 PM), near the Rail Trail Village area of Littleton. Craft espresso, nitro brews, fruit-based drinks, in-house baked goods, plus breakfast/brunch, made-to-order sandwiches, wraps, salads, and soups — vegan and gluten-free options available (4.7★, 481 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).<br/><br/>More info: https://www.inkwellnh.com/beacon-street]]></description>
     <styleUrl>#s-coffee-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -18557,7 +18557,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.775,44.30722,0</coordinates>
+      <coordinates>-71.7708,44.3048,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18731,7 +18731,7 @@
   </Placemark>
   <Placemark>
     <name>The Maia Papaya Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Maia%20Papaya%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Maia Papaya<br/><br/>📍 2161 Main St, Bethlehem, NH<br/><br/>A friendly local vegetarian cafe, established 2007 — espresso, coffee, smoothies, light breakfast, and organic vegetarian lunch, with vegan and gluten-free options and locally-sourced ingredients. Open Sun/Mon/Thu–Sat 7 AM–3 PM, closed Tue/Wed (4.7★, 388 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — actually located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates approximate the Bethlehem village center (borrowed from the already-confirmed El Mirador Restaurante note), not a precise geocode for this specific address.<br/><br/>More info: https://www.themaiapapaya.com/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Maia%20Papaya%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Maia Papaya<br/><br/>📍 2161 Main St, Bethlehem, NH<br/><br/>A friendly local vegetarian cafe, established 2007 — espresso, coffee, smoothies, light breakfast, and organic vegetarian lunch, with vegan and gluten-free options and locally-sourced ingredients. Open Sun/Mon/Thu–Sat 7 AM–3 PM, closed Tue/Wed (4.7★, 388 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26); confirmed via web search — actually located in Bethlehem, not Littleton, despite the pasted list's generic "Main St" address.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).<br/><br/>More info: https://www.themaiapapaya.com/]]></description>
     <styleUrl>#s-coffee-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -18739,7 +18739,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.695505,44.2799545,0</coordinates>
+      <coordinates>-71.6871,44.2804,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20707,7 +20707,7 @@
   </Placemark>
   <Placemark>
     <name>White Mountains Canning Company Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountains%20Canning%20Company%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountains Canning Company<br/><br/>📍 69 W Main St, Littleton, NH<br/><br/>A highly rated local food products supplier (4.8★, 105 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched yet beyond confirming address and rating.<br/><br/>More info: https://whitemountainscanning.com/]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/White%20Mountains%20Canning%20Company%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>White Mountains Canning Company<br/><br/>📍 69 W Main St, Littleton, NH<br/><br/>A highly rated local food products supplier (4.8★, 105 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched yet beyond confirming address and rating.<br/>- Coordinates corrected 2026-08-26: an earlier web search had returned a "69 W Main St" listing that geocoded well outside downtown; Tom's dedicated address-geocoding pass placed it back in the compact Main St cluster, which matches the address far better.<br/><br/>More info: https://whitemountainscanning.com/]]></description>
     <styleUrl>#s-shopping-bag-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Shop</value></Data>
@@ -20715,7 +20715,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.78406,44.309021,0</coordinates>
+      <coordinates>-71.7712,44.3066,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20863,7 +20863,7 @@
   </Placemark>
   <Placemark>
     <name>Wildbloom Beer Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wildbloom%20Beer%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wildbloom Beer<br/><br/>📍 42 Main St, 2nd Fl, Littleton, NH<br/><br/>A highly rated brewery on the second floor of 42 Main St, above/alongside Jack & Fin's (4.7★, 61 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu/tap-list highlights yet.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wildbloom%20Beer%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wildbloom Beer<br/><br/>📍 42 Main St, 2nd Fl, Littleton, NH<br/><br/>A highly rated brewery on the second floor of 42 Main St, above/alongside Jack & Fin's (4.7★, 61 reviews).<br/><br/>Tips<br/>- Bulk-imported from an AI-generated Littleton-area research list (2026-08-26) — not independently deep-researched for menu/tap-list highlights yet.<br/>- Coordinates refined 2026-08-26 from a dedicated address-geocoding pass Tom provided (still an approximation, not a precise pin).]]></description>
     <styleUrl>#s-beer-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Brewery</value></Data>
@@ -20871,7 +20871,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-71.772062,44.306598,0</coordinates>
+      <coordinates>-71.7698,44.306,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
