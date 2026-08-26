@@ -14643,6 +14643,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Littleton NH Riverwalk",
+        "icon": "landmark",
+        "color": "red",
+        "vault_type": "Attraction",
+        "description": "A half-mile paved and gravel riverside walking loop along the Ammonoosuc River in downtown Littleton, bookended by the Riverwalk Covered Bridge and the Curran Suspension Bridge.",
+        "start_date_time": "",
+        "detail": "Littleton, NH Riverwalk\n\n\ud83d\udccd Downtown Littleton, NH \u2014 stretches from Riverside Drive (west) to Riverglen Lane (east)\n\nA half-mile paved and gravel riverside walking loop along the Ammonoosuc River, distinct from (but connected to) the Riverwalk Covered Bridge itself \u2014 the bridge is one bookend of the walk, with the Curran Suspension Bridge (a bouncy steel footbridge to Saranac Street) as the other. Beloved by tourists visiting the covered bridge and locals looking for a tranquil moment (4.5\u2605, 6 reviews).\n\nTips\n- Park on Mill Road (near the covered bridge) or at the lot at the end of Riverglen Lane, west of the Senior Center.\n- Combine with the covered bridge and the suspension bridge for the full loop rather than treating this as a separate destination.\n- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); confirmed via web search.\n- Coordinates are approximate \u2014 placed along the river corridor near the covered bridge, not a precise per-point geocode for the full loop.",
+        "website": "http://www.upstatenh.com/Recreation/LittletonNHDowntownRiverWalk.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7735,
+          44.3061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lobster Landing Clinton CT",
         "icon": "utensils",
         "color": "purple",
@@ -19100,6 +19120,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "PRKR MTN Trails Access Point Littleton NH",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "The main School Street trailhead and parking for PRKR MTN Trails \u2014 a 22-mile, community-built trail network across 1,000 acres in Littleton, open to hiking, trail running, mountain biking, skiing, and snowmobiling.",
+        "start_date_time": "",
+        "detail": "PRKR MTN Trails Access Point and Parking\n\n\ud83d\udccd End of School St, Littleton, NH\n\nThe main trailhead and parking lot for PRKR MTN Trails \u2014 over 25 miles (per the trail organization's own site) of year-round, community-built trails across 1,000 acres, primarily used for mountain biking but open to hiking, trail running, skiing, and snowmobiling too. \"Linda's Lookout,\" a cliff along the network, has views of the entire northern Presidential Range. ~1.5 miles north of downtown Littleton, about a 4-minute drive (4.6\u2605, 43 reviews \u2014 one reviewer noted it was \"not as scenic as what we were looking for,\" so expectations should be set as a trail network first, scenic-overlook second).\n\nTips\n- If the main lot fills, overflow parking is available courtesy of neighbors (marked with a sign near the top of School St), or at Remich Park / Littleton High School, both a short distance away.\n- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); confirmed via web search.\n- Coordinates are approximate \u2014 derived from the pasted list's stated distance/direction from downtown Littleton, not a precise geocode.",
+        "website": "https://www.prkrmtn.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7703,
+          44.3278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pack Monadnock Peterborough NH",
         "icon": "mountain",
         "color": "green",
@@ -23437,6 +23477,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Scenic Picnic Area US-2 Lunenburg VT",
+        "icon": "trees",
+        "color": "purple",
+        "vault_type": "Park",
+        "description": "A picnic ground along US-2 near the Lunenburg/Gilman, VT border, praised in reviews for its views \u2014 exact identity not independently confirmed beyond the source listing.",
+        "start_date_time": "",
+        "detail": "Scenic Picnic Area\n\n\ud83d\udccd Along US-2, near the Lunenburg / Gilman, VT border\n\nA picnic ground with reviews describing \"stunning views and a clean picnic area\" (4.9\u2605, 47 reviews). ~8.5 miles northwest of Littleton, about a 12-minute drive.\n\nTips\n- Low-confidence note: unlike the other spots in this batch, a web search for this specific location turned up nothing beyond general information about Lunenburg/Gilman, VT \u2014 no named picnic area, park listing, or independent review site matched it. It's a real place in Google's database (the pasted list linked its actual Google Maps entry), just one without much of an independent web presence \u2014 treat this listing as unverified beyond what the source list itself said.\n- Coordinates are a rough estimate \u2014 derived from the pasted list's stated distance/direction from downtown Littleton, not a real geocode; treat this pin as directional only.\n- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8916,
+          44.3933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schilling Beer Co. Littleton NH",
         "icon": "beer",
         "color": "purple",
@@ -25703,12 +25762,12 @@
       "type": "Feature",
       "properties": {
         "name": "Sugar Hill Overlook NH",
-        "icon": "route",
-        "color": "orange",
-        "vault_type": "destination",
-        "description": "",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "A famous scenic overlook on Sunset Hill Road in Sugar Hill, NH \u2014 the Lupine Field, one of the most photographed vistas in New England, looking out over Franconia Notch, Cannon Mountain, and Mount Lafayette to the distant Presidential Range.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "Sugar Hill Overlook\n\n\ud83d\udccd Sunset Hill Rd, Sugar Hill, NH\n\nPanoramic views over Franconia Notch, Cannon Mountain, and Mount Lafayette to the distant Presidential Range \u2014 one of the most photographed scenic vistas in New England. Peak visual impact in June, when the open fields are covered with purple and pink lupines (Sugar Hill's annual Fields of Lupine Festival). ~9.5 miles south of Littleton, about a 15-minute drive (4.8\u2605, 8 reviews).\n\nTips\n- Note: there's an unrelated, differently-located \"Sugar Hill Overlook\" on the Kancamagus Highway near North Conway \u2014 already its own vault note, Sugar Hill Scenic Vista. This one is the Sunset Hill Road / lupine-field viewpoint near Franconia, a different place entirely despite the similar name.\n- One review noted the view was about 2/3 obscured by trees when visited in June \u2014 worth checking current foliage/season expectations rather than assuming an unobstructed panorama.\n- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); this note previously existed as a near-empty placeholder (wrong base camp/destination) and has been corrected and filled in."
       },
       "geometry": {
         "type": "Point",

@@ -200,6 +200,15 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="s-landmark-red">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>0.6</scale>
+      <Icon>
+        <href>https://raw.githubusercontent.com/trubel1/ne2026-map-export/main/icons/landmark.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="s-leaf-green">
     <IconStyle>
       <color>ff008000</color>
@@ -10137,6 +10146,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Littleton NH Riverwalk</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Littleton%20NH%20Riverwalk.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Littleton, NH Riverwalk<br/><br/>📍 Downtown Littleton, NH — stretches from Riverside Drive (west) to Riverglen Lane (east)<br/><br/>A half-mile paved and gravel riverside walking loop along the Ammonoosuc River, distinct from (but connected to) the Riverwalk Covered Bridge itself — the bridge is one bookend of the walk, with the Curran Suspension Bridge (a bouncy steel footbridge to Saranac Street) as the other. Beloved by tourists visiting the covered bridge and locals looking for a tranquil moment (4.5★, 6 reviews).<br/><br/>Tips<br/>- Park on Mill Road (near the covered bridge) or at the lot at the end of Riverglen Lane, west of the Senior Center.<br/>- Combine with the covered bridge and the suspension bridge for the full loop rather than treating this as a separate destination.<br/>- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — placed along the river corridor near the covered bridge, not a precise per-point geocode for the full loop.<br/><br/>More info: http://www.upstatenh.com/Recreation/LittletonNHDowntownRiverWalk.html]]></description>
+    <styleUrl>#s-landmark-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.7735,44.3061,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Lobster Landing Clinton CT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Lobster%20Landing%20Clinton%20CT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Lobster Landing<br/><br/>📍 152 Commerce St, Clinton, CT<br/><br/>A rustic, weathered shack on the dock at Clinton Harbor, established in 1995 — the menu is deliberately tiny (lobster rolls, hot dogs, chowder, or sausage & peppers) and built entirely around one thing: a hot buttered lobster roll widely considered among the best in Connecticut. Seating is inside or outside among the boats and waterway. BYOB. Rated 4.5 on Google across 1,569 reviews, ranked #1 of 30 Clinton restaurants on Tripadvisor.<br/><br/>Must Order<br/>- Hot buttered lobster roll — the entire reason to go; there isn't much else on the menu<br/><br/>Tips<br/>- BYOB — bring your own drinks and sides if you want them.<br/>- The menu is genuinely limited (four items) — know that going in rather than expecting variety.<br/>- Right on the Chatham → Hudson Valley transfer route — a natural stop for that drive.<br/>- Reviews are mixed on service speed at peak times; go a little outside the lunch rush if possible.]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
@@ -13088,6 +13110,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>PRKR MTN Trails Access Point Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/PRKR%20MTN%20Trails%20Access%20Point%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>PRKR MTN Trails Access Point and Parking<br/><br/>📍 End of School St, Littleton, NH<br/><br/>The main trailhead and parking lot for PRKR MTN Trails — over 25 miles (per the trail organization's own site) of year-round, community-built trails across 1,000 acres, primarily used for mountain biking but open to hiking, trail running, skiing, and snowmobiling too. "Linda's Lookout," a cliff along the network, has views of the entire northern Presidential Range. ~1.5 miles north of downtown Littleton, about a 4-minute drive (4.6★, 43 reviews — one reviewer noted it was "not as scenic as what we were looking for," so expectations should be set as a trail network first, scenic-overlook second).<br/><br/>Tips<br/>- If the main lot fills, overflow parking is available courtesy of neighbors (marked with a sign near the top of School St), or at Remich Park / Littleton High School, both a short distance away.<br/>- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); confirmed via web search.<br/>- Coordinates are approximate — derived from the pasted list's stated distance/direction from downtown Littleton, not a precise geocode.<br/><br/>More info: https://www.prkrmtn.org/]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.7703,44.3278,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pack Monadnock Peterborough NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pack%20Monadnock%20Peterborough%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pack Monadnock<br/><br/>📍 Miller State Park, Peterborough, NH<br/><br/>Miller State Park's 2,290-foot summit (New Hampshire's oldest state park), reached by a 1.3-mile auto road, with a fire tower and views to Boston, Mount Washington, and Mount Monadnock.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=42.86206%2C%20-71.878457]]></description>
     <styleUrl>#s-mountain-green</styleUrl>
@@ -15961,6 +15996,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Scenic Picnic Area US-2 Lunenburg VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Scenic%20Picnic%20Area%20US-2%20Lunenburg%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Scenic Picnic Area<br/><br/>📍 Along US-2, near the Lunenburg / Gilman, VT border<br/><br/>A picnic ground with reviews describing "stunning views and a clean picnic area" (4.9★, 47 reviews). ~8.5 miles northwest of Littleton, about a 12-minute drive.<br/><br/>Tips<br/>- Low-confidence note: unlike the other spots in this batch, a web search for this specific location turned up nothing beyond general information about Lunenburg/Gilman, VT — no named picnic area, park listing, or independent review site matched it. It's a real place in Google's database (the pasted list linked its actual Google Maps entry), just one without much of an independent web presence — treat this listing as unverified beyond what the source list itself said.<br/>- Coordinates are a rough estimate — derived from the pasted list's stated distance/direction from downtown Littleton, not a real geocode; treat this pin as directional only.<br/>- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26).]]></description>
+    <styleUrl>#s-leaf-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Park</value></Data>
+      <Data name="icon"><value>trees</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.8916,44.3933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Schilling Beer Co. Littleton NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Schilling%20Beer%20Co.%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Brewery and Restaurant<br/><br/>Best known for: Wood-fired pizza and a cozy atmosphere.<br/><br/>Location context: Littleton, NH.<br/><br/>Price level: Not mentioned.<br/><br/>Visit timing: Not mentioned.<br/><br/>Typical Customers<br/>Demographics: Tourists and locals, couples.<br/><br/>Group types: Couples and friends.<br/><br/>Common occasions: Casual dinner and date night.<br/><br/>Vibe & Setting<br/>Atmosphere: Casual and cozy.<br/><br/>Noise level: Moderate.<br/><br/>Decor & setting: Indoor seating with a homey feel.<br/><br/>Service style: Friendly and attentive.<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Reviewers highly recommend the wood-fired pizzas, especially those with unique toppings such as chicken, bacon, apples, and maple syrup.<br/><br/>How “top dishes” are determined<br/>Top dishes are selected based on mentions in reviews and the menu. Popular items are highlighted through frequent praise and visual representation in customer photos.<br/><br/>| Rank | Dish               | Why it stands out                       | How often it’s mentioned                     | Ideal for           |<br/>|------|--------------------|----------------------------------------|----------------------------------------------|---------------------|<br/>| 1    | Gabagool pizza     | Unique flavor combination; very tasty. | Repeatedly called out as a favorite.       | Sharing at the table|<br/>| 2    | Bratwurst plate    | Delicious and well-prepared.          | Mentioned in some reviews.                    | Hearty main        |<br/>| 3    | Wood-fired pizza    | High quality and comforting.          | Appears in numerous photos.                   | Casual dinner      |<br/><br/>Good alternates / backup choices<br/>- Pretzel roll: Crispy outside, soft inside, praised for its texture.<br/>- Chicken, bacon, and apple pizza: Noted for its sweet and savory mix.<br/><br/>Highlights (non‑dish positives from reviews)<br/>Atmosphere: The brewery offers a cozy home-like feel which is appreciated by patrons.<br/><br/>Customer Service: Guests frequently comment on the friendly and knowledgeable staff.<br/><br/>Common Issues (from reviews)<br/>Wait times: Some reviews mention longer wait times during busy periods, especially weekends.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly; not mentioned if reservations are needed.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Not mentioned.<br/><br/>Best use case: Great for casual dinners with friends or a date night.<br/><br/>More info: https://www.google.com/maps/place/Schilling+Beer+Co./@44.305925,-71.7758702,874m/data=!3m1!1e3!4m6!3m5!1s0x4cb46f2e07241205:0xe617d706cfd9dc28!8m2!3d44.3059539!4d-71.7728488!16s%2Fg%2F11b5pjxgby?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-beer-purple</styleUrl>
@@ -17470,12 +17518,12 @@
   </Placemark>
   <Placemark>
     <name>Sugar Hill Overlook NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sugar%20Hill%20Overlook%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sugar%20Hill%20Overlook%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sugar Hill Overlook<br/><br/>📍 Sunset Hill Rd, Sugar Hill, NH<br/><br/>Panoramic views over Franconia Notch, Cannon Mountain, and Mount Lafayette to the distant Presidential Range — one of the most photographed scenic vistas in New England. Peak visual impact in June, when the open fields are covered with purple and pink lupines (Sugar Hill's annual Fields of Lupine Festival). ~9.5 miles south of Littleton, about a 15-minute drive (4.8★, 8 reviews).<br/><br/>Tips<br/>- Note: there's an unrelated, differently-located "Sugar Hill Overlook" on the Kancamagus Highway near North Conway — already its own vault note, Sugar Hill Scenic Vista. This one is the Sunset Hill Road / lupine-field viewpoint near Franconia, a different place entirely despite the similar name.<br/>- One review noted the view was about 2/3 obscured by trees when visited in June — worth checking current foliage/season expectations rather than assuming an unobstructed panorama.<br/>- Bulk-imported from an AI-generated Littleton-area scenic-spot research list (2026-08-26); this note previously existed as a near-empty placeholder (wrong base camp/destination) and has been corrected and filled in.]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
       <coordinates>-71.7972672,44.2156804,0</coordinates>
