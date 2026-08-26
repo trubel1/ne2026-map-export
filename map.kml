@@ -816,6 +816,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Ammonoosuc Recreational Rail Trail Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ammonoosuc%20Recreational%20Rail%20Trail%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Ammonoosuc Recreational Rail Trail<br/><br/>📍 Industrial Park Road, Littleton, NH (Littleton end)<br/><br/>A gravel former rail bed running roughly 19 miles along the Ammonoosuc River between Littleton and Woodsville, NH. Wide, mostly level, and low-effort — pick any out-and-back distance from 2 to 6+ miles depending on the day. The closest of the pet-friendly options to the Littleton base camp itself.<br/><br/>Tips<br/>- Littleton trailhead is off Industrial Park Road; the Woodsville end starts at Central Street.<br/>- Good river-corridor scenery without needing to drive anywhere first.<br/><br/>More info: https://www.nhstateparks.org/find-parks-trails/recreational-rail-trails/ammonoosuc-recreational-rail-trail]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.03434,44.149,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Anderson School Staatsburg NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Anderson%20School%20Staatsburg%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Anderson School<br/><br/>📍 Hyde Park, NY<br/><br/>A school for children and young adults with special needs. The house was named Mansewood because it was the original "Manse" of the parish of St. James in Hyde Park.<br/><br/>Tips<br/>- Stop 7 of 26 on the Hyde Park, Clinton & Pleasant Valley Scenic Tour (Tour 3) — a drive-by point of interest, not a public visitor site.]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -2278,6 +2291,19 @@
     <ExtendedData>
       <Data name="vault_type"><value>Museum</value></Data>
       <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.6859,44.2803,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bethlehem Trails Association Bethlehem NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bethlehem%20Trails%20Association%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bethlehem Trails Association Network<br/><br/>📍 Bethlehem, NH (trail info/Gear Library at Rek-Lis Brewing, 2085 Main Street)<br/><br/>Formed in 2017 to promote mountain biking and other non-motorized outdoor activity in Bethlehem, the Bethlehem Trails Association maintains 25+ miles across 36 trails — everything from high-adrenaline downhill mountain-bike runs to family-friendly multi-use paths, including a 3-mile Downtown Trail winding through the village itself. Since it's a mixed-use network, pick a broad, easy route at the trailhead rather than assuming any trail is walking/dog-friendly.<br/><br/>Tips<br/>- Coordinates pin downtown Bethlehem/Main Street — the network fans out from there; check a current trail map at the trailhead or bethlehemtrails. before choosing a route.<br/>- Combine with The Rocks Estate or Bethlehem Heritage Society Museum for a fuller Bethlehem day.<br/><br/>More info: https://www.bethlehemtrails.org/the-network]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
       <Data name="color"><value>green</value></Data>
     </ExtendedData>
     <Point>
@@ -6819,6 +6845,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.75167537445247,44.19951944801851,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Franconia Notch Recreation Path Franconia NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Franconia%20Notch%20Recreation%20Path%20Franconia%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Franconia Notch Recreation Path<br/><br/>📍 Franconia Notch State Park, Franconia, NH (largest parking at Cannon Mountain Aerial Tramway, 103 Tramway Drive)<br/><br/>An 8.8-mile paved path running the length of Franconia Notch State Park, from the Skookumchuck Trailhead south to the Flume Visitor Center, passing hiking trailheads, Echo Lake, the Cannon Mountain Aerial Tramway, The Basin, and Flume Gorge along the way. Smooth pavement and flat grades make it the easiest way to see a lot of the Notch without committing to a real hike — pick any out-and-back length that fits the day.<br/><br/>Tips<br/>- Dogs are only permitted in the park's designated dog-walk areas at the Flume and Tramway parking lots — not the broader hiking trail network. Stick to the recreation path itself near those two areas.<br/>- Largest parking lot is at the base of the Cannon Mountain Tramway, off Exit 34B.<br/><br/>More info: https://www.cannonmt.com/attractions/franconia-notch-recreation-path]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.6985,44.1598,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13803,6 +13842,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pondicherry Wildlife Refuge Whitefield NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pondicherry%20Wildlife%20Refuge%20Whitefield%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pondicherry Wildlife Refuge<br/><br/>📍 289 Airport Road, Whitefield, NH<br/><br/>An 8-foot-wide, gravel-surfaced former Maine Central Railroad bed with very smooth footing and minimal grade (about 2%) — suitable even for wheelchair users and others with mobility challenges. The main rail trail (an extension of the Presidential Rail Trail) leads about 1.5 miles to Cherry Pond and Waumbek Junction, opening onto sweeping views of the Presidential Range and strong birdlife. A shorter alternative, the Mud Pond Trail, is a compact boardwalk loop just over a mile round trip.<br/><br/>Tips<br/>- Parking lot is off Airport Road, about 1.5 miles from NH-115 — look for a brown Pondicherry sign, then cross a small bridge into the lot.<br/>- Leash specifically required on the Mud Pond Trail, even though the main rail trail only requires "owner control."<br/>- About 25–30 minutes from Littleton — a low-effort day with a big scenic payoff.<br/><br/>More info: https://www.friendsofpondicherry.org/hiking]]></description>
+    <styleUrl>#s-waves-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>waves</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.54025,44.35837,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Poore Family Homestead Historic Farm Museum Colebrook NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Poore%20Family%20Homestead%20Historic%20Farm%20Museum%20Colebrook%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Poore Family Homestead Historic Farm Museum<br/><br/>📍 Colebrook, NH<br/><br/>A remarkable 100-acre time capsule: one family's working farm from the 1830s through the 1980s, preserved with its original buildings, artifacts, and land largely untouched by modern development. A rare, authentic look at 150 years of rural North Country life through a single family's story.<br/><br/>Tips<br/>- Check current open hours/season before visiting — small rural museums like this often run limited schedules.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.9022%2C%20-71.4910]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
@@ -18718,7 +18770,7 @@
   </Placemark>
   <Placemark>
     <name>The Rocks Estate Bethlehem NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Rocks%20Estate%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Rocks Estate<br/><br/>📍 113 Glessner Road, Bethlehem, NH<br/><br/>A 1,400-acre historic summer estate assembled by John Jacob Glessner in the 1880s as a private conservation initiative — one of the largest and best-preserved surviving private estates in New Hampshire. Now the North Country headquarters of the Society for the Protection of New Hampshire Forests, with scenic trails, terraced gardens, wildlife (moose, coyote, bear, kestrels, bobolink), and views of the Presidential Range. Also a well-known Christmas tree farm in season.<br/><br/>Tips<br/>- Free to walk the trails and gardens; educational programs run seasonally.<br/>- Combine with a stop at the nearby Bethlehem Heritage Society Museum on Main Street.<br/><br/>More info: https://www.forestsociety.org/property/rocks]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Rocks%20Estate%20Bethlehem%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Rocks Estate<br/><br/>📍 113 Glessner Road, Bethlehem, NH<br/><br/>A 1,400-acre historic summer estate assembled by John Jacob Glessner in the 1880s as a private conservation initiative — one of the largest and best-preserved surviving private estates in New Hampshire. Now the North Country headquarters of the Society for the Protection of New Hampshire Forests, with scenic trails, terraced gardens, wildlife (moose, coyote, bear, kestrels, bobolink), and views of the Presidential Range. Also a well-known Christmas tree farm in season.<br/><br/>Tips<br/>- Free to walk the trails and gardens; educational programs run seasonally.<br/>- The Christmas Tree Trail is the easiest loop — 0.8 miles, only about 84 feet of elevation gain, and dog-friendly.<br/>- Combine with a stop at the nearby Bethlehem Heritage Society Museum on Main Street.<br/><br/>More info: https://www.forestsociety.org/property/rocks]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Attraction</value></Data>
