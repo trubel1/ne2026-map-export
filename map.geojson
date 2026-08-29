@@ -1240,7 +1240,7 @@
         "vault_type": "Restaurant",
         "description": "Au Comptoir is a cocktail bar offering a range of drinks with prices between $20\u201350 per person. It is open from 3 PM to 10 PM on Thursday to Saturday and has a cozy vibe, serving alcohol.",
         "start_date_time": "",
-        "detail": "Au Comptoir is a cocktail bar offering a range of drinks with prices between $20\u201350 per person. It is open from 3 PM to 10 PM on Thursday to Saturday and has a cozy vibe, serving alcohol.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Restaurant's own policy is walk-in only -- explicitly does not offer takeout.",
         "website": "https://www.google.com/maps/place/Au+Comptoir/@43.6249607,-72.5243349,1203m/data=!3m1!1e3!4m12!1m5!2m4!1srestaurants+with+reservations.+!5m1!4e9!6e5!3m5!1s0x89e1d99b7360666d:0x5c5ce8604b178fe1!8m2!3d43.6249595!4d-72.5175018!16s%2Fg%2F11t80flmqj?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -2786,7 +2786,7 @@
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "",
-        "detail": ""
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- About 25 miles from Woodstock in a different town (Bethel) -- serves only hot dogs/brats and directs food orders to a neighboring restaurant next door -- not a real takeout candidate for this base camp."
       },
       "geometry": {
         "type": "Point",
@@ -3775,6 +3775,26 @@
         "coordinates": [
           -68.909496,
           44.111764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brownsville Butcher and Pantry VT",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "A specialty butcher, market, and cafe in Brownsville (West Windsor), near Mount Ascutney -- a bit further out than the core Woodstock cluster.",
+        "start_date_time": "",
+        "detail": "Brownsville Butcher & Pantry\n\n\ud83d\udccd 871 VT-44, Brownsville, VT 05037\n\nA butcher shop, market, and cafe in the small village of Brownsville (part of West Windsor), near the Mount Ascutney area -- about 20+ minutes south of Woodstock village, further than most other candidates in this pass.\n\nTips\n- No dedicated `Woodstock, VT` destination note exists for Brownsville/West Windsor specifically -- filed under Woodstock as the nearest existing hub, matching how Hartland and Pomfret places are handled elsewhere in this project.\n- Coordinates are approximate (West Windsor/Brownsville village).",
+        "website": "https://www.butcherandpantry.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6212,
+          43.4802
         ]
       }
     },
@@ -6065,7 +6085,7 @@
         "vault_type": "Restaurant",
         "description": "Cloudland Farm is a farm-to-table restaurant that serves locally sourced, flavorful American cuisine. It typically opens for dinner on Friday and Saturday from 5 PM to 9 PM. Alcohol is likely served, enhancing the dining experience.",
         "start_date_time": "",
-        "detail": "Cloudland Farm is a farm-to-table restaurant that serves locally sourced, flavorful American cuisine. It typically opens for dinner on Friday and Saturday from 5 PM to 9 PM. Alcohol is likely served, enhancing the dining experience.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Reservation-only fixed 3-course farm dinner, dine-in only -- the on-site farm store sells raw meat/produce, but that's not restaurant takeout.",
         "website": "https://www.google.com/maps/place/Cloudland+Farm/@43.6903898,-72.5025598,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4d270b94f8c9b:0xff1ffee63ee8020f!8m2!3d43.6903898!4d-72.4999849!16s%2Fg%2F1tcyx0fw?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -7825,8 +7845,9 @@
         "color": "purple",
         "vault_type": "Footpath",
         "description": "150-acre nonprofit dog park with hiking trails, ponds, and the famous folk-art Dog Chapel built by Stephen Huneck.",
-        "start_date_time": "",
-        "detail": "Dog Mountain\n\n\ud83d\udccd Saint Johnsbury VT\n\n150-acre nonprofit dog park with hiking trails, ponds, and the famous folk-art Dog Chapel built by Stephen Huneck.\n\nTips\n- Free to visit \u2014 bring the dog and let them roam off-leash.\n- The Dog Chapel is covered wall-to-wall in visitor notes and photos of pets \u2014 worth a slow walk through."
+        "start_date_time": "2026-08-31T10:30:00",
+        "detail": "Time: 2026-08-31T10:30:00\n\nDog Mountain\n\n\ud83d\udccd Saint Johnsbury VT\n\n150-acre nonprofit dog park with hiking trails, ponds, and the famous folk-art Dog Chapel built by Stephen Huneck. About 45\u201355 minutes from Littleton \u2014 the main stop of the day, not a full hike.\n\nTips\n- Free to visit \u2014 bring the dog and let them roam off-leash.\n- Picnic here with Robby: pick up sandwiches to go at Eastern & Main Market Deli downtown on the way in (~10 min detour), then eat in the meadow near the chapel and ponds \u2014 this is a well-known picnic spot for people and dogs together, and combines lunch with the dog stop instead of two separate stops.\n- The Dog Chapel is covered wall-to-wall in visitor notes and photos of pets \u2014 worth a slow walk through.\n- Trail length: ~3 miles of trails total on the property. The main marked Yellow/Green/Blue Trail Loop is 1.5 miles, easy, ~265 ft elevation gain, ~42 minutes \u2014 starts at the Angel Dog Overlook near the chapel. Plenty of shorter meadow paths too if the full loop isn't wanted that day.\n- Best approach: start at the Dog Chapel and Angel Dog memorial area, then take the gentlest paths through the meadow and woods. Turn around after about 30 minutes outward.\n- Mobility note: stay close to the chapel, fields, and lower paths \u2014 this is not a summit hike. The setting gives a very good outing without needing to cover much distance.\n- Allow 90 minutes total, including the picnic.",
+        "website": "https://www.dogmt.com/visit/"
       },
       "geometry": {
         "type": "Point",
@@ -8339,6 +8360,26 @@
         "coordinates": [
           -68.250634,
           44.376513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern & Main Market Deli Saint Johnsbury VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Made-to-order sandwich and deli counter on Main Street in downtown St. Johnsbury \u2014 open daily including Monday. Grab sandwiches to go here, then picnic at Dog Mountain.",
+        "start_date_time": "2026-08-31T10:00:00",
+        "detail": "Time: 2026-08-31T10:00:00\n\nEastern & Main Market - Deli\n\n\ud83d\udccd 1194 Main St Ste 101, Saint Johnsbury, VT 05819\n\nA made-to-order sandwich/deli counter right on Main Street in downtown St. Johnsbury. Chosen specifically because it's open Monday (7:30am\u20138pm) \u2014 three other dog-friendly-patio candidates researched for this stop (Ledges Restaurant, 98 Mill, Papa Tirozzi Bakery & Pizza) all turned out to be closed Mondays or dinner-only, which a first pass at this recommendation missed.\n\nTips\n- Order to go here first, then drive the ~10 minutes to Dog Mountain and picnic there with Robby \u2014 combines lunch and the dog stop into one relaxed outing instead of two separate stops, and lets Robby actually be part of the meal.\n- Right on Main Street, an easy walk from the St. Johnsbury Athenaeum (exterior only worth a quick look while waiting on the order \u2014 the dog can't go inside) and the historic downtown.\n- Coordinates are the downtown St. Johnsbury center, not the exact storefront \u2014 close enough for GPS, not pixel-precise.\n\nSources: Eastern & Main Market Deli",
+        "website": "https://www.easternandmaindeli.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0148,
+          44.4195
         ]
       }
     },
@@ -10658,6 +10699,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Green Mountain Horse Association South Woodstock VT",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "A 65-acre equestrian competition and education facility in South Woodstock, with a 400+ mile trail network and events across five riding disciplines.",
+        "start_date_time": "",
+        "detail": "Green Mountain Horse Association\n\n\ud83d\udccd South Woodstock, VT\n\nA nonprofit equestrian center in South Woodstock hosting clinics and competitions in dressage, driving, eventing, hunter/jumper, and endurance/trail riding, with stabling for nearly 200 horses. Worth a look for anyone interested in horses even without attending a scheduled event -- check their calendar for open competitions during the stay.\n\nTips\n- Near The Ransom Tavern in South Woodstock -- easy to combine if there's an event on.\n- Check gmhainc. for the current event calendar before making a special trip -- it's primarily a competition venue, not a walk-in attraction.",
+        "website": "http://www.gmhainc.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.535,
+          43.573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Green Mountain Railroad White River Junction VT",
         "icon": "train",
         "color": "green",
@@ -10867,6 +10928,26 @@
         "coordinates": [
           -70.0369,
           43.6558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hall Art Foundation Reading VT",
+        "icon": "scroll",
+        "color": "green",
+        "vault_type": "Museum",
+        "description": "A contemporary art museum in a converted dairy barn complex in Reading, VT -- seasonal, weekends only, timed self-guided entry.",
+        "start_date_time": "",
+        "detail": "Hall Art Foundation\n\n\ud83d\udccd 544 VT Route 106, Reading, VT 05062\n\nA contemporary art museum housed in a converted historic dairy barn complex, showing works from the Hall Collection -- a surprising find of serious contemporary art in a rural Vermont setting.\n\nTips\n- Seasonal, weekends only: open May through November, Saturdays and Sundays, with timed self-guided entry (11am/12pm/1pm/2pm/3pm, last entry 3:30pm, galleries close 4pm). Reserve a timed entry rather than just showing up.\n- Doesn't apply outside the May-November season -- check current-year dates before planning.",
+        "website": "https://hallartfoundation.org/vermont/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5813,
+          43.5197
         ]
       }
     },
@@ -14603,13 +14684,33 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Littleton Freehouse Taproom & Eatery 1 Littleton NH",
+        "icon": "beer",
+        "color": "red",
+        "vault_type": "Brewery",
+        "description": "Casual restaurant in Littleton, NH, specializing in American cuisine with a price range of $20\u201330 per person. It is open for lunch and dinner.",
+        "start_date_time": "",
+        "detail": "Overview\nType: Restaurant\n\nBest known for: Excellent salmon and a great selection of beer.\n\nLocation context: Littleton, NH\n\nPrice level: $20\u201330 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Families and groups.\n\nGroup types: Couples, friends, families, larger groups.\n\nCommon occasions: Casual dinner, family outings.\n\nVibe & Setting\nAtmosphere: Casual and family-friendly.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor seating with a bar area.\n\nService style: Attentive and friendly.\n\nRecommended Dishes\nOverall dish consensus\nReviewers highlight the macaroni and cheese, chicken sandwich, and ahi tuna tacos as must-order items due to their flavor and presentation.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are selected based on their appearance in menu items, reviews mentioning their quality, and their presence in photographs shared by visitors.\n\n| Rank | Dish                    | Why it stands out                                      | How often it\u2019s mentioned      | Ideal for                |\n|------|-------------------------|------------------------------------------------------|------------------------------|--------------------------|\n| 1    | Macaroni and cheese     | Creamy texture and rich flavor, often praised.       | Mentioned in many reviews    | Sharing at the table     |\n| 2    | Ahi tuna tacos          | Fresh and full of flavor, called a favorite.         | Repeatedly called out as a favorite | Light meal option        |\n| 3    | Chicken sandwich        | Tender chicken with great seasoning.                  | Appears in numerous photos   | Hearty main              |\n\nGood alternates / backup choices\n- Chicken wings: Known for being crispy and flavorful.\n- Hamburger: Generous portions and well-cooked.\n\nHighlights (non\u2011dish positives from reviews)\nGreat selection of beer: Many reviewers enjoy the variety and quality of beer available.\n\nFriendly service: Staff consistently praised for being welcoming and attentive.\n\nCommon Issues (from reviews)\nSlower service during peak hours: Some reviews mention longer wait times when the restaurant is busy.\n\nPractical Notes\nReservation / wait: Walk-in friendly.\n\nAccessibility: Not mentioned.\n\nParking / transit: Street parking available.\n\nBest use case: Great for family dinners or casual outings with friends.",
+        "website": "https://www.google.com/maps/place/Littleton+Freehouse+Taproom+%26+Eatery/@44.3032808,-71.7697128,616m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46fbe7c871e43:0xcacc403553108b64!8m2!3d44.3051537!4d-71.7701103!16s%2Fg%2F11g22yf8qr?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77005103022607,
+          44.30510515151872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Littleton Freehouse Taproom & Eatery Littleton NH",
         "icon": "beer",
         "color": "red",
         "vault_type": "Brewery",
         "description": "American cuisine with a price range of $20-$30. Open for lunch and dinner, serving a variety of alcoholic beverages.",
         "start_date_time": "",
-        "detail": "Overview\nType: Restaurant\n\nBest known for: Excellent salmon, great selection of beer\n\nLocation context: Littleton, New Hampshire\n\nPrice level: $20\u201330 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Mixed\n\nGroup types: Families, couples, friends\n\nCommon occasions: Casual dinner, family-friendly outings\n\nVibe & Setting\nAtmosphere: Casual, friendly\n\nNoise level: Moderate\n\nDecor & setting: Indoor and outdoor seating, bar area\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nPopular dishes include the salmon, chicken wing, and bacon habanero burger, noted for their flavors and serving sizes. Reviewers specifically mentioned the enjoyment of food and drinks.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are chosen based on those frequently highlighted in reviews and visible in photos, alongside being frequently praised. \n\n| Rank | Dish                        | Why it stands out                       | How often it\u2019s mentioned         | Ideal for                 |\n|------|-----------------------------|-----------------------------------------|----------------------------------|---------------------------|\n| 1    | Salmon                      | Excellent flavor and preparation        | Mentioned in several reviews     | Hearty main               |\n| 2    | Bacon Habanero Burger       | Unique flavor, well-loved by patrons   | Repeatedly called out as a favorite | Spice lovers              |\n| 3    | Chicken Wings               | Tasty and well-cooked                  | Appears in numerous photos      | Sharing at the table      |\n\nGood alternates / backup choices\n- Ahi Tuna Tacos: Notably delicious and praised for its flavor.\n- Macaroni and Cheese: Creamy and rich, called a favorite in some reviews.\n- Chicken Sandwich: Tender chicken with great seasoning.\n- Beet and Goat Cheese Salad: Mixed reviews; some found it mediocre.\n\nHighlights (non\u2011dish positives from reviews)\nService: Short wait time, attentive staff noted across reviews.\n\nAtmosphere: Family-friendly ambiance has been frequently praised.\n\nBeer selection: Reviewers also note a great selection of beer.\n\nCommon Issues (from reviews)\nQuality inconsistency: Some dishes, like the beet salad, received mixed feedback.\n\nPeak-hour service: Some reviews mention slower service when the restaurant is busy.\n\nPractical Notes\nReservation / wait: Walk-in friendly\n\nAccessibility: Not mentioned\n\nParking / transit: Street parking available\n\nBest use case: Good for family dinners and casual gatherings.",
+        "detail": "Overview\nType: Restaurant\n\nBest known for: Excellent salmon, great selection of beer\n\nLocation context: Littleton, New Hampshire\n\nPrice level: $20\u201330 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Mixed\n\nGroup types: Families, couples, friends\n\nCommon occasions: Casual dinner, family-friendly outings\n\nVibe & Setting\nAtmosphere: Casual, friendly\n\nNoise level: Moderate\n\nDecor & setting: Indoor and outdoor seating, bar area\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus\nPopular dishes include the salmon, chicken wing, and bacon habanero burger, noted for their flavors and serving sizes. Reviewers specifically mentioned the enjoyment of food and drinks.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are chosen based on those frequently highlighted in reviews and visible in photos, alongside being frequently praised. \n\n| Rank | Dish                        | Why it stands out                       | How often it\u2019s mentioned         | Ideal for                 |\n|------|-----------------------------|-----------------------------------------|----------------------------------|---------------------------|\n| 1    | Salmon                      | Excellent flavor and preparation        | Mentioned in several reviews     | Hearty main               |\n| 2    | Bacon Habanero Burger       | Unique flavor, well-loved by patrons   | Repeatedly called out as a favorite | Spice lovers              |\n| 3    | Chicken Wings               | Tasty and well-cooked                  | Appears in numerous photos      | Sharing at the table      |\n\nGood alternates / backup choices\n- Ahi Tuna Tacos: Notably delicious and praised for its flavor.\n- Beet and Goat Cheese Salad: Mixed reviews; some found it mediocre.\n\nHighlights (non\u2011dish positives from reviews)\nService: Short wait time, attentive staff noted across reviews.\n\nAtmosphere: Family-friendly ambiance has been frequently praised.\n\nCommon Issues (from reviews)\nQuality inconsistency: Some dishes, like the beet salad, received mixed feedback.\n\nPractical Notes\nReservation / wait: Not mentioned\n\nAccessibility: Not mentioned\n\nParking / transit: Not mentioned\n\nBest use case: Good for family dinners and casual gatherings.",
         "website": "https://www.google.com/maps/place/Littleton+Freehouse+Taproom+%26+Eatery/@44.3051537,-71.7726852,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb46fbe7c871e43:0xcacc403553108b64!8m2!3d44.3051537!4d-71.7701103!16s%2Fg%2F11g22yf8qr?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -15729,7 +15830,7 @@
         "vault_type": "Restaurant",
         "description": "Mangalitsa is a farm-to-table restaurant specializing in American cuisine, known for its use of Mangalitsa pork. It is currently temporarily closed. Typically, it operates for dinner service. The restaurant is known to serve alcohol.",
         "start_date_time": "",
-        "detail": "Mangalitsa is a farm-to-table restaurant specializing in American cuisine, known for its use of Mangalitsa pork. It is currently temporarily closed. Typically, it operates for dinner service. The restaurant is known to serve alcohol.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- This note's own makerez field flags the restaurant as temporarily closed for renovation as of this pass -- takeout is otherwise offered, but don't recommend a currently-closed restaurant. Re-check before excluding permanently.",
         "website": "https://www.google.com/maps/place/Mangalitsa/@43.6255418,-72.5163748,146m/data=!3m2!1e3!5s0x89e1d821c0bf85f9:0x104c9f0578ee2d0d!4m6!3m5!1s0x89e1d821c1b66ab5:0xe9210bdc5c9beae9!8m2!3d43.6257705!4d-72.5163879!16s%2Fg%2F11fzf5dql7?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -17786,6 +17887,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Munroe's Family Restaurant Twin Mountain NH",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Cozy family-style breakfast & lunch diner in Twin Mountain, NH \u2014 hearty pancakes and classic American comfort food.",
+        "start_date_time": "2026-08-29T12:30:00",
+        "detail": "Time: 2026-08-29T12:30:00\n\nMunroe's Family Restaurant\n\n\ud83d\udccd 633 Rt 3 S, Twin Mountain, NH 03595\n\nA long-running family diner at the US-3/US-302 crossroads in Twin Mountain \u2014 breakfast and lunch only, known for hearty pancakes and classic American comfort food in a no-frills, family-friendly setting.\n\nTips\n- Lunch served 11am\u20133pm Fri/Sat, 11am\u20132pm Sun\u2013Thu \u2014 confirmed for a Saturday visit.\n- Sits right on the natural route between Littleton/Bethlehem and Whitefield/Jefferson \u2014 convenient stop coming back from Pondicherry Wildlife Refuge without a real detour.\n- Coordinates are the Twin Mountain village center (no confirmed exact coordinates for the building itself as of 2026-08-29) \u2014 close enough for GPS, not pixel-precise.\n\nSources:\n- Munroe's Family Restaurant official site\n- Munroe's Family Restaurant \u2014 Twin Mountain & Bretton Woods",
+        "website": "https://www.munroestwinmountain.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53889,
+          44.27222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Murray Preserve Lincolnville ME",
         "icon": "footprints",
         "color": "green",
@@ -18772,7 +18893,7 @@
         "vault_type": "Restaurant",
         "description": "Ottauquechee Yacht Club serves American cuisine with comfort food options, pricing around $20-30 per person. It is open for dinner until 9 PM and serves alcohol.",
         "start_date_time": "",
-        "detail": "Ottauquechee Yacht Club serves American cuisine with comfort food options, pricing around $20-30 per person. It is open for dinner until 9 PM and serves alcohol.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Counter-service, order-at-the-kitchen-window model, but no confirmed to-go/takeout option found in a real search.",
         "website": "https://www.google.com/maps/place/Ottauquechee+Yacht+Club/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9a7942a1531:0x856eccc3bf9740d4!8m2!3d43.6287615!4d-72.5063864!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJmY3poSGRsQlJFQUXgAQD6AQQIABA6!16s%2Fg%2F11vklg4mcz?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -20061,6 +20182,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pizza Chef of Woodstock VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual pizza, subs, and Italian entrees on Route 4 just east of downtown Woodstock.",
+        "start_date_time": "",
+        "detail": "Pizza Chef of Woodstock\n\n\ud83d\udccd 450 Woodstock Rd, Woodstock, VT 05091\n\nA straightforward local pizza-and-subs spot -- signature crust, zesty red sauce, customizable toppings, plus buffalo wings and Italian entrees. A practical, casual counterpoint to Woodstock's fine-dining cluster.\n\nTips\n- Hours found: Mon-Fri 11am-8pm -- no weekend hours were confirmed in this pass, worth verifying directly (802-457-1444) since that would be unusual for a pizza place.\n- Coordinates are approximate (Route 4 corridor east of the village green), not pixel-precise.",
+        "website": "https://www.sirved.com/restaurant/woodstock-vermont-usa/pizza-chef/385373/menus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5051,
+          43.6335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pizza Shark Chatham MA",
         "icon": "sandwich",
         "color": "red",
@@ -20212,6 +20353,26 @@
         "coordinates": [
           -69.565285,
           43.896118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plymouth Artisan Cheese Plymouth VT",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "A historic cheese factory and retail store in Plymouth Notch, founded by Calvin Coolidge's father -- open year-round, self-guided tour included.",
+        "start_date_time": "",
+        "detail": "Plymouth Artisan Cheese\n\n\ud83d\udccd 106 Messer Hill Road, Plymouth Notch, VT 05056\n\nA working cheese factory and retail store right next to the Coolidge Historic Site -- self-guided tour includes viewing windows into the cheese-making rooms and an antique cheese-equipment display upstairs, alongside the retail shop.\n\nTips\n- Open daily 11am-5pm year-round -- unlike the adjacent Coolidge Historic Site, which closes for the winter. A good stop even outside the historic site's open season.\n- Call ahead (802-672-3650) since hours/staffing can vary.",
+        "website": "https://plymouthcheese.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7062,
+          43.5427
         ]
       }
     },
@@ -20379,8 +20540,8 @@
         "color": "green",
         "vault_type": "Footpath",
         "description": "An 8-foot-wide, gravel former rail bed leading 1.5 miles to Cherry Pond, with sweeping views of the Presidential Range \u2014 smooth, minimal grade, suitable for a wide range of abilities.",
-        "start_date_time": "",
-        "detail": "Pondicherry Wildlife Refuge\n\n\ud83d\udccd 289 Airport Road, Whitefield, NH\n\nAn 8-foot-wide, gravel-surfaced former Maine Central Railroad bed with very smooth footing and minimal grade (about 2%) \u2014 suitable even for wheelchair users and others with mobility challenges. The main rail trail (an extension of the Presidential Rail Trail) leads about 1.5 miles to Cherry Pond and Waumbek Junction, opening onto sweeping views of the Presidential Range and strong birdlife. A shorter alternative, the Mud Pond Trail, is a compact boardwalk loop just over a mile round trip.\n\nTips\n- Parking lot is off Airport Road, about 1.5 miles from NH-115 \u2014 look for a brown Pondicherry sign, then cross a small bridge into the lot.\n- Leash specifically required on the Mud Pond Trail, even though the main rail trail only requires \"owner control.\"\n- About 25\u201330 minutes from Littleton \u2014 a low-effort day with a big scenic payoff.\n- Rated 4.5/5 from 24 Tripadvisor reviews under the \"Presidential Rail Trail\" name \u2014 that's the corridor this refuge's main trail extends from, not a rating of Pondicherry specifically.",
+        "start_date_time": "2026-08-29T09:30:00",
+        "detail": "Time: 2026-08-29T09:30:00\n\nPondicherry Wildlife Refuge\n\n\ud83d\udccd 289 Airport Road, Whitefield, NH\n\nAn 8-foot-wide, gravel-surfaced former Maine Central Railroad bed with very smooth footing and minimal grade (about 2%) \u2014 suitable even for wheelchair users and others with mobility challenges. The main rail trail (an extension of the Presidential Rail Trail) leads about 1.5 miles to Cherry Pond and Waumbek Junction, opening onto sweeping views of the Presidential Range and strong birdlife. A shorter alternative, the Mud Pond Trail, is a compact boardwalk loop just over a mile round trip.\n\nTips\n- Parking lot is off Airport Road, about 1.5 miles from NH-115 \u2014 look for a brown Pondicherry sign, then cross a small bridge into the lot.\n- Leash specifically required on the Mud Pond Trail, even though the main rail trail only requires \"owner control.\"\n- About 25\u201330 minutes from Littleton \u2014 a low-effort day with a big scenic payoff.\n- Rated 4.5/5 from 24 Tripadvisor reviews under the \"Presidential Rail Trail\" name \u2014 that's the corridor this refuge's main trail extends from, not a rating of Pondicherry specifically.",
         "website": "https://www.friendsofpondicherry.org/hiking"
       },
       "geometry": {
@@ -20860,6 +21021,26 @@
         "coordinates": [
           -71.1197,
           44.0527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "President Calvin Coolidge State Historic Site Plymouth VT",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "The birthplace and boyhood home of the 30th U.S. President, preserved as a Vermont State Historic Site in Plymouth Notch -- homestead, museum, church, schoolhouse, and general store.",
+        "start_date_time": "",
+        "detail": "President Calvin Coolidge State Historic Site\n\n\ud83d\udccd 3780 Route 100A, Plymouth, VT 05056\n\nPreserves the birthplace and childhood home of Calvin Coolidge, the 30th U.S. President, as a cluster of original 19th-century buildings -- homestead, museum, church, one-room schoolhouse, and general store -- essentially a preserved 1920s Vermont village.\n\nTips\n- Seasonal: open late May through late October, Tuesday-Sunday 10am-5pm (daily in October). Closed in the off-season -- doesn't apply during a late-August/September visit, but worth flagging for future reference.\n- Right next to Plymouth Artisan Cheese -- easy to combine both in one stop.",
+        "website": "https://historicsites.vermont.gov/calvin-coolidge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7062,
+          43.5427
         ]
       }
     },
@@ -21488,6 +21669,26 @@
         "coordinates": [
           -69.6645,
           44.0006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redcan White River Junction VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A polished, contemporary small-plates restaurant with a raw bar in downtown White River Junction -- opened 2024, already booking 3-4 weeks out.",
+        "start_date_time": "",
+        "detail": "REDCAN\n\n\ud83d\udccd 129 S Main St, White River Junction, VT 05001\n\nA vegetable-forward, contemporary small-plates restaurant with a raw bar and a converted-speakeasy back room, named for owner Jason Merrill's late mother's favorite drink (Coca-Cola in a red can). Open Tue-Sat 4-9pm.\n\nTips\n- Books out 3-4 weeks in advance per recent reports -- reserve well ahead if planning to go.\n- Part of the same downtown WRJ cluster as Tuckerbox, Big Fatty's BBQ, Elixir, Wolf Tree, and Thyme.",
+        "website": "https://www.greateruppervalley.com/businesses/vt-white-river-junction-redcan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3178,
+          43.6486
         ]
       }
     },
@@ -23245,7 +23446,7 @@
         "vault_type": "Restaurant",
         "description": "Sant\u00e9 is an American restaurant with a focus on upscale dining. The expected prices range from $50 to $100 per person. It serves dinner and is currently closed until 5 PM.",
         "start_date_time": "",
-        "detail": "Sant\u00e9 is an American restaurant with a focus on upscale dining. The expected prices range from $50 to $100 per person. It serves dinner and is currently closed until 5 PM.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Restaurant's own site says online ordering is coming soon -- not yet live as of this search, so not counted as a current takeout option.",
         "website": "https://www.google.com/maps/place/Sant%C3%A9/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9bafb7dec73:0x68236c7ba713fb50!8m2!3d43.6258419!4d-72.5162398!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyJkUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNSMC9nZW8vdHlwZS9lc3RhYmxpc2htZW50X3BvaS9hY2NlcHRzX3Jlc2VydmF0aW9uc1ofIh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9uc5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjV3VkZGc1kzbE5hMDB3V1c1ak0xbFVTVEphUlhkNVQxZE9jR1JHUlJBQuABAPoBBAgmEEQ!16s%2Fg%2F11tc0r39kp?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -25193,6 +25394,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "St. Johnsbury Athenaeum Saint Johnsbury VT",
+        "icon": "landmark",
+        "color": "green",
+        "vault_type": "Historical",
+        "description": "An 1871 library and art gallery funded by Horace Fairbanks \u2014 Time Magazine called it \"the United States' oldest unaltered art gallery still standing.",
+        "start_date_time": "",
+        "detail": "St. Johnsbury Athenaeum\n\n\ud83d\udccd 1171 Main St, Saint Johnsbury, VT 05819\n\nAn 1871 library and art gallery, funded by Horace Fairbanks (of the platform-scale manufacturing family), with an art gallery added in 1873 \u2014 Time Magazine called it \"the United States' oldest unaltered art gallery still standing.\" Classic New England architecture worth a quick exterior look on a walk down Main Street.\n\nTips\n- Open Mon/Wed/Fri 10am\u20135:30pm, Tue/Thu 12\u20137pm, Sat 10am\u20133pm \u2014 the interior can't accommodate a dog, so treat this as a five-minute exterior stop unless traveling without the dog.\n- A few doors down from Eastern & Main Market Deli on Main Street \u2014 easy to combine with lunch.\n\nSources: St. Johnsbury Athenaeum, Wikipedia",
+        "website": "https://www.stjathenaeum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0161,
+          44.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "St. Patrick's Catholic Church Newcastle ME",
         "icon": "scroll",
         "color": "green",
@@ -25604,12 +25825,13 @@
       "type": "Feature",
       "properties": {
         "name": "Stowe Recreation Path Stowe VT",
-        "icon": "beer",
+        "icon": "footprints",
         "color": "green",
-        "vault_type": "Brewery",
+        "vault_type": "Footpath",
         "description": "Paved 5.5-mile nonmotorized greenway from the village along the West Branch River \u2014 flat, family-friendly, passing restaurants, a brewery, and picnic areas.",
-        "start_date_time": "",
-        "detail": "Stowe Recreation Path\n\n\ud83d\udccd Stowe VT\n\nPaved 5.5-mile nonmotorized greenway from the village along the West Branch River \u2014 flat, family-friendly, passing restaurants, a brewery, and picnic areas.\n\nTips\n- Rent bikes in the village for the best experience.\n- The path runs past several restaurants and shops \u2014 easy to stop en route."
+        "start_date_time": "2026-08-31T17:30:00",
+        "detail": "Time: 2026-08-31T17:30:00\n\nStowe Recreation Path\n\n\ud83d\udccd Stowe VT\n\nPaved 5.5-mile nonmotorized greenway from the village along the West Branch River \u2014 flat, family-friendly, passing restaurants, a brewery, and picnic areas. A gentle evening stroll after a transfer day rather than another drive.\n\nTips\n- Rent bikes in the village for the best experience.\n- The path runs past several restaurants and shops \u2014 easy to stop en route.\n- Easy access point: park near Lintilhac Park behind Stowe Community Church and walk 20\u201340 minutes out and back \u2014 level, low-stress, a good way to see the village after check-in.",
+        "website": "https://www.stowevt.gov/Departments/Parks-Recreation/Parks-Facilities/Stowe-Recreation-Path"
       },
       "geometry": {
         "type": "Point",
@@ -26281,7 +26503,7 @@
         "vault_type": "Restaurant",
         "description": "This restaurant serves a variety of dishes with a price range of $20\u201330 per person. It is open for both lunch and dinner and is known to be LGBTQ+ friendly. Alcohol is served.",
         "start_date_time": "",
-        "detail": "This restaurant serves a variety of dishes with a price range of $20\u201330 per person. It is open for both lunch and dinner and is known to be LGBTQ+ friendly. Alcohol is served.",
+        "detail": "[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Previously marked takeout: true without verification. A real search found no online-ordering platform, delivery listing, or any other evidence of takeout service -- corrected per the project's verify-before-flagging rule (Chatham 2026-08-24 precedent).",
         "website": "https://www.google.com/maps/place/TWO+Bistro+%26+Cafe/@43.6446646,-72.4070374,4333m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb4ca509c04c4e5:0x2919955d13aeb40b!2sBig+Fatty's+BBQ!8m2!3d43.6461808!4d-72.3182871!16s%2Fg%2F1tgnwty6!3m5!1s0x4cb4cd000c55bf97:0xf1f97999b529a9db!8m2!3d43.6524955!4d-72.391678!16s%2Fg%2F11n9lz3fvv?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -27495,13 +27717,33 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Little Grille 1 Littleton NH",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Casual restaurant serving burgers, tacos, and more; prices range from $20\u201330. Open for lunch and dinner.",
+        "start_date_time": "",
+        "detail": "Overview\nType: Restaurant\n\nBest known for: Good food with varied menu options including burgers and tacos.\n\nLocation context: Not specified \n\nPrice level: $20\u201330 per person\n\nVisit timing: Not mentioned\n\nTypical Customers\nDemographics: Locals and families\n\nGroup types: Couples, families, groups\n\nCommon occasions: Casual dinner, date night, quick bite\n\nVibe & Setting\nAtmosphere: Cozy, casual\n\nNoise level: Moderate\n\nDecor & setting: Outdoor seating available\n\nService style: Attentive and friendly\n\nRecommended Dishes\nOverall dish consensus  \nPopular dishes include tacos and chicken fajitas, often highlighted for freshness and arrangement.\n\nHow \u201ctop dishes\u201d are determined  \nTop dishes are identified based on mentions in reviews and popularity noted on the Google Maps page, particularly those that are frequently praised. \n\n| Rank | Dish                     | Why it stands out                  | How often it\u2019s mentioned        | Ideal for          |\n|------|--------------------------|-----------------------------------|---------------------------------|--------------------|\n| 1    | Chicken Fajitas          | Fresh ingredients, well-arranged. | Mentioned in a few reviews.     | Sharing at the table|\n| 2    | Tacos (beef, chicken, shrimp, vegetarian) | Generous portions and good flavor. | Mentioned in multiple reviews. | Quick bite         |\n| 3    | Steak Tips               | Delicious and well-cooked.       | Mentioned a few times.          | Hearty main       |\n\nGood alternates / backup choices  \n- Ravioli: Comforting and hearty.\n- Burgers: Noted for good flavor.\n\nHighlights (non\u2011dish positives from reviews)\nAtmosphere: The ambiance is comfortable and inviting, ideal for a relaxed dining experience.\n\nService: Waitstaff is noted as attentive, often providing extras without prompt.\n\nCommon Issues (from reviews)\nWait times: Not mentioned.\n\nPractical Notes\nReservation / wait: Walk-in friendly.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Great for casual family dinners.",
+        "website": "https://www.google.com/maps/place/The+Little+Grille/@44.3032808,-71.7697128,616m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.77040426898584,
+          44.30426138592668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Little Grille Littleton NH",
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
         "description": "Casual dining with a focus on burgers, tacos, and seafood. Prices are typically between $20\u201330 per person. Open for lunch and dinner service.",
         "start_date_time": "",
-        "detail": "Overview\nType: Casual dining restaurant\n\nBest known for: Variety of burgers, tacos, and seafood dishes.\n\nLocation context: Not mentioned.\n\nPrice level: $20\u201330 per person\n\nVisit timing: Not specified.\n\nTypical Customers\nDemographics: Mostly locals and families.\n\nGroup types: Couples, families, and friends.\n\nCommon occasions: Casual dinner, quick bites, date night.\n\nVibe & Setting\nAtmosphere: Casual and comfortable.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor and outdoor seating available.\n\nService style: Attentive and friendly staff.\n\nRecommended Dishes\nOverall dish consensus\nReviewers highlight the burgers and tacos as must-try items, particularly praising the Chicken Fajitas and Taco Tuesday specials.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are identified based on mentions in reviews and menu popularity, noting particularly praised items and those that appear in photos frequently.\n\n| Rank | Dish                | Why it stands out                                | How often it\u2019s mentioned            | Ideal for               |\n|------|---------------------|-------------------------------------------------|------------------------------------|-------------------------|\n| 1    | Chicken Fajitas     | Fresh and well-arranged garnishes, delicious   | Mentioned in several reviews       | Sharing at the table    |\n| 2    | Taco Tuesday Special | Great value and variety of options              | Repeatedly called out as a favorite| Casual dinner           |\n| 3    | Burgers             | Good variety and tasty flavors                  | Appears in numerous photos         | Hearty main            |\n\nGood alternates / backup choices\n- Sticky Vermonter: Noted for its unique flavor.\n- Ravioli: Praised for its texture and taste.\n- Steak Tips: Delicious and well-cooked.\n\nHighlights (non-dish positives from reviews)\nGood service: Many reviewers commend the attentiveness and friendliness of the staff, often providing extras without prompt.\n\nOutdoor seating: Reviewers enjoy the option to dine outside, enhancing the overall experience.\n\nCommon Issues (from reviews)\nNot mentioned: No significant issues reported in reviews.\n\nPractical Notes\nReservation / wait: Walk-in friendly.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Best for casual dinners with friends or family.",
+        "detail": "Overview\nType: Casual dining restaurant\n\nBest known for: Variety of burgers, tacos, and seafood dishes.\n\nLocation context: Not mentioned.\n\nPrice level: $20\u201330 per person\n\nVisit timing: Not specified.\n\nTypical Customers\nDemographics: Mostly locals and families.\n\nGroup types: Couples, families, and friends.\n\nCommon occasions: Casual dinner, quick bites.\n\nVibe & Setting\nAtmosphere: Casual and comfortable.\n\nNoise level: Moderate.\n\nDecor & setting: Indoor and outdoor seating available.\n\nService style: Attentive and friendly staff.\n\nRecommended Dishes\nOverall dish consensus\nReviewers highlight the burgers and tacos as must-try items, particularly praising the Chicken Fajitas and Taco Tuesday specials.\n\nHow \u201ctop dishes\u201d are determined\nTop dishes are identified based on mentions in reviews and menu popularity, noting particularly praised items and those that appear in photos frequently.\n\n| Rank | Dish                | Why it stands out                                | How often it\u2019s mentioned            | Ideal for               |\n|------|---------------------|-------------------------------------------------|------------------------------------|-------------------------|\n| 1    | Chicken Fajitas     | Fresh and well-arranged garnishes, delicious   | Mentioned in several reviews       | Sharing at the table    |\n| 2    | Taco Tuesday Special | Great value and variety of options              | Repeatedly called out as a favorite| Casual dinner           |\n| 3    | Burgers             | Good variety and tasty flavors                  | Appears in numerous photos         | Hearty main            |\n\nGood alternates / backup choices\n- Sticky Vermonter: Noted for its unique flavor.\n- Ravioli: Praised for its texture and taste.\n\nHighlights (non-dish positives from reviews)\nGood service: Many reviewers commend the attentiveness and friendliness of the staff.\n\nOutdoor seating: Reviewers enjoy the option to dine outside, enhancing the overall experience.\n\nCommon Issues (from reviews)\nNot mentioned: No significant issues reported in reviews.\n\nPractical Notes\nReservation / wait: Not mentioned.\n\nAccessibility: Not mentioned.\n\nParking / transit: Not mentioned.\n\nBest use case: Best for casual dinners with friends or family.",
         "website": "https://www.google.com/maps/place/The+Little+Grille/@44.304239,-71.7730099,793m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!2sThe+Little+Grille!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w!3m5!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -27922,6 +28164,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Prince & The Pauper Woodstock VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A long-running prix-fixe fine dining institution in downtown Woodstock -- but confirmed closing as of a Feb 2026 Valley News report.",
+        "start_date_time": "",
+        "detail": "The Prince & The Pauper\n\n\ud83d\udccd 24 Elm St, Woodstock, VT 05091\n\nA Woodstock fixture for decades, known for a nightly-changing three-course prix-fixe dinner served Tuesday through Saturday, globally-inspired but built on local ingredients.\n\nTips\n- Closing -- a February 2026 Valley News report confirms the restaurant is preparing to close at this location, though the ownership is considering what comes next for the team and legacy. Call ahead (802-457-1818) or check princeandpauper. before planning around this -- don't treat it as a reliable current option.",
+        "website": "https://www.princeandpauper.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5187,
+          43.6249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Quechee Inn at Marshland Farm Hartford VT",
         "icon": "beer",
         "color": "red",
@@ -28251,6 +28513,26 @@
         "coordinates": [
           -69.06397419507566,
           44.20937828401972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Village Butcher Woodstock VT",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "A specialty butcher shop and market on Elm Street in downtown Woodstock, good for picnic/charcuterie supplies.",
+        "start_date_time": "",
+        "detail": "The Village Butcher\n\n\ud83d\udccd 18 Elm St, Woodstock, VT 05091\n\nA downtown Woodstock butcher and specialty market -- good source for picnic supplies, local meats, and prepared foods if a sit-down meal isn't the plan.\n\nTips\n- Right in the downtown core, an easy walk from Richardson's Tavern and The Prince & The Pauper.\n- Coordinates are approximate.",
+        "website": "https://www.thevillagebutchervt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5194,
+          43.6251
         ]
       }
     },
@@ -28589,6 +28871,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Thyme White River Junction VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A New American restaurant on Main Street in downtown White River Junction.",
+        "start_date_time": "",
+        "detail": "Thyme\n\n\ud83d\udccd 85 N Main St, White River Junction, VT 05001\n\nA New American restaurant in the heart of downtown White River Junction's small dining cluster, alongside Tuckerbox, Big Fatty's BBQ, Elixir, Wolf Tree, and REDCAN.\n\nTips\n- Check thymevermont. for the current weekly menu and reservations -- format is seasonal/rotating rather than a fixed menu.",
+        "website": "https://www.thymevermont.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3175,
+          43.6497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Tidal Falls Preserve Hancock ME",
         "icon": "gem",
         "color": "green",
@@ -28800,6 +29102,26 @@
         "coordinates": [
           -69.572555,
           43.876491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trail Break Taps and Tacos Quechee VT",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Scratch-made tacos and a rotating craft beer list in Quechee, near Simon Pearce -- closed Tue/Wed and Saturday.",
+        "start_date_time": "",
+        "detail": "Trail Break Taps + Tacos\n\n\ud83d\udccd 5945 Woodstock Rd, Quechee, VT 05059\n\nScratch-made tacos (fish, mahi mahi, jackfruit, tuna) on 6\" corn tortillas, a rotating list of Vermont/New England craft beer, house-made agua frescas, and Abracadabra coffee on tap. A casual, kid-friendly counterpoint to Simon Pearce's upscale dining right nearby.\n\nTips\n- Hours: Mon 11:30am-8:30pm, Thu 4-8:30pm, Fri 11:30am-8:30pm, Sun 11:30am-8:30pm -- closed Tue, Wed, and Sat, an unusual schedule worth double-checking before planning around it.\n- Has a kids' menu (\"Little Chompers\") -- good option if traveling with children.",
+        "website": "https://www.trailbreakvt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4204,
+          43.6459
         ]
       }
     },
@@ -31272,6 +31594,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wolf Tree White River Junction VT",
+        "icon": "beer",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "A 24-seat craft cocktail bar in downtown White River Junction using found and foraged ingredients -- snacks only, not a full dinner menu.",
+        "start_date_time": "",
+        "detail": "Wolf Tree\n\n\ud83d\udccd 40 Currier St, White River Junction, VT 05001\n\nA small, inventive craft cocktail bar built around found and foraged regional ingredients -- cheese and meat snacks rather than a full menu. Open Tue-Sat 4-10pm, closed Sun-Mon. Indoor/outdoor seating and to-go cocktails available.\n\nTips\n- A drinks-and-snacks stop, not a dinner destination -- pair with Thyme, REDCAN, or Tuckerbox nearby for an actual meal.\n- Closed Sunday and Monday.",
+        "website": "https://www.wolftreevt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3178,
+          43.6489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wolfeboro Historical Society NH",
         "icon": "landmark",
         "color": "green",
@@ -31784,7 +32126,7 @@
         "vault_type": "Lodging",
         "description": "Home in Littleton \u2014 a 3BR/1.5BA colonial hosted by Superhost Deborah A, at 46 Jackson Street. Walkable to Main Street.",
         "start_date_time": "2026-08-26T15:00:00",
-        "detail": "Time: 2026-08-26T15:00:00\n\nHome in Littleton \u2013 Review\nOverall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91\u2605, 56 reviews) \u2014 walkable to Main Street with a mountain view.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home, colonial\n- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)\n- Bathrooms: 1.5\n- Max guests: 6\n- Host: Deborah A \u2014 Superhost, 8 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: yes\n- Laundry: washer & dryer\n- Outdoor: mountain view\n- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace\n- Parking: free driveway parking (4 spaces)\n- Other: 40\" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed\n- Note: must climb stairs\n\n---\n\n\ud83d\udccd Location & Neighborhood\nWalk to award-winning Main Street \u2014 shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nCheck-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad \u2014 code: 1546 (received from host Deborah A via email, 2026-08-25).\n\n---\n\n\u2b50 Host & Reviews\nDeborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.\n\n---\n\n\ud83d\udc4d Pros\n- Superhost with a strong, well-established review record\n- Spacious for a group (3BR/7 beds/6 guests)\n- Free driveway parking and fast Wi-Fi/workspace \u2014 good for remote work days\n- Walkable to Main Street\n\n---\n\n\ud83d\udc4e Cons\n- Only 1.5 baths for up to 6 guests\n- Some bedrooms have less conventional bed setups (bunk/single mixed in) \u2014 check fit for your group\n\n---\n\n\ud83c\udfaf Best For\nA group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.",
+        "detail": "Time: 2026-08-26T15:00:00\n\nHome in Littleton \u2013 Review\nOverall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91\u2605, 56 reviews) \u2014 walkable to Main Street with a mountain view.\n\n---\n\n\ud83d\udccb Fast Facts\n- Listing type: Entire home, colonial\n- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)\n- Bathrooms: 1.5\n- Max guests: 6\n- Host: Deborah A \u2014 Superhost, 8 years hosting\n\n---\n\n\ud83d\udecb\ufe0f Space & Amenities\n- Kitchen: yes\n- Laundry: washer & dryer\n- Outdoor: mountain view\n- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace\n- Parking: free driveway parking (4 spaces)\n- Other: 40\" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed\n- Note: must climb stairs\n\n---\n\n\ud83d\udccd Location & Neighborhood\nWalk to award-winning Main Street \u2014 shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.\n\n---\n\n\ud83d\udd11 Check-in & House Rules\nCheck-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad \u2014 code: 1546 (received from host Deborah A via email, 2026-08-25).\n\n---\n\n\u2b50 Host & Reviews\nDeborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.\n\n---\n\n\ud83d\udc4d Pros\n- Superhost with a strong, well-established review record\n- Spacious for a group (3BR/7 beds/6 guests)\n- Free driveway parking and fast Wi-Fi/workspace \u2014 good for remote work days\n- Walkable to Main Street\n\n---\n\n\ud83d\udc4e Cons\n- Only 1.5 baths for up to 6 guests\n- Some bedrooms have less conventional bed setups (bunk/single mixed in) \u2014 check fit for your group\n\n---\n\n\ud83c\udfaf Best For\nA group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.\n\nMarkdown\n\n```\nAirbnb Communication Thread\n\nReservation: Littleton, NH (Aug 26 \u2013 31, 2026)  \nHost: Deborah A & Kurt W  \nGuest: Tom Rubel  \n\n---\n\nMarch 14, 2026\n\nDeborah A \u00b7 Host (1:57 PM):  \nHey Tom, Thank you for choosing our spot for your stay. We hope you'll love it as much as we do. If you\u2019re wondering about local events going on while you\u2019re staying with us, check out golittleton.com! A few days before your trip starts, Airbnb will usually send you some guest resource Info including check in instructions. We will also send you info to remind you of our contact information and door lock steps. Our door lock is a bit different so be sure to take a look! If you have any questions, please feel free to contact us before or during your stay. So welcome and have a blast! Deb & Kurt\n\n---\n\nMonday, August 24, 2026\n\nDeborah A \u00b7 Host (10:46 AM):  \nHi Tom, your stay is coming up soon. You can check in anytime after 3:00 PM on Aug 26, 2026.  \nHere\u2019s the address:  \n46 Jackson Street, Littleton, New Hampshire, 03561  \nHere are the wifi details:  \nName: Ellison  \nPassword: bella4853  \nIf you have any questions, I\u2019m here to help. Hope you enjoy your stay!  \nHey Joanna, Thank you for choosing our spot for your stay. We hope you'll love it as much as we do. If you\u2019re wondering about local events going on while you\u2019re staying with us, check out golittleton.com! A few days before your trip starts, Airbnb will usually send you some guest resource Info including check in instructions. We will also send you info to remind you of our contact information and door lock steps. Our door lock is a bit different so be sure to take a look! If you have any questions, please feel free to contact us before or during your stay. So welcome and have a blast! Deb & Kurt\n\nDeborah A \u00b7 Host (10:47 AM):  \nHi Alicia, Thank you for choosing our Historic Gem in the Heart of Littleton, we are excited to welcome you! Your check-in is scheduled for 3pm and check-out is 11am on the 20th. The address is 46 Jackson St, Littleton, NH 03561. Your door access code is 1546. To unlock, enter the four-digit code, then press the checkmark button at the bottom. To lock, press the \"Yale\" button at the top of the keypad. It will be active from the time of check-in.  \nTrash instructions: Please place the trash in the wooden storage container on the left side of the driveway. Inside, you\u2019ll find a QR code for Wi-Fi access.  \nTo ensure everyone\u2019s comfort, we kindly ask that you observe the following house rules: smoking is prohibited inside and outside the home, parties and events are not allowed, only registered guests are permitted, and quiet hours begin after 10:00 PM.  \nIf you need anything at all, feel free to call us at (866) 563 4476 \u2014 we\u2019re available 24/7. Safe travels\u2014we look forward to hosting you soon! Thank you, The Lodgism Team\n\nDeborah A \u00b7 Host (10:52 AM):  \nHey Tom, Deb Ellison here. I apologize for this mishmash of information you have received. After we accepted your reservation we hired a management company Lodgism to take over managing our property. The text from them is the one you need, please ignore any conflicting information in the other texts. Feel free to get back to me if you have any questions. Thank you and have a great stay!! Deb\n\nTom Rubel (5:34 PM):  \nI have not received any texts from you, but I have received some confusing emails some of which apparently were intended for another guest. I am assuming that the key code that was sent to Alicia will be changed and I will be informed of the one I am to be using soon? Thx for keeping me informed Tom\n\nDeborah A \u00b7 Host (5:57 PM):  \nHi Tom, your stay is coming up soon. You can check in anytime after 3:00 PM on Aug 26, 2026.  \nHere\u2019s the address:  \n46 Jackson Street, Littleton, New Hampshire, 03561  \nHere are the wifi details:  \nName: Ellison  \nPassword: bella4853  \nIf you have any questions, I\u2019m here to help. Hope you enjoy your stay!  \nHey Tom, did you receive the message that began Hey Tom, Deb Ellison here?\n\nDeborah A \u00b7 Host (9:17 PM):  \nHey Tom, the key code will be 1546, let me know if you have any other questions. Thank you.\n\n---\n\nTuesday, August 25, 2026\n\nTom Rubel (8:10 AM):  \nThank you for your follow-up. We look forward to our stay  \nTom and Ellen Rubel\n\n---\n\nWednesday, August 26, 2026\n\nTom Rubel (5:07 PM):  \nHi Deborah,  \nI am writing to bring a serious cleanliness and sanitation issue to your attention. Upon entering the house, we immediately noticed an overpowering, foul odor coming from the kitchen. When we tracked it down and opened the trash compactor, a large swarm of flying insects flew directly into the kitchen, and we discovered rotting, weeks-old garbage sitting inside.  \nTo make the home habitable, I had to empty the compactor myself. However, the outdoor wooden storage bin was also overflowing, indicating that waste removal has been neglected across previous turnovers. I attach pictures.  \nWhile we have taken steps to air out the home and handle the immediate mess, and the bugs will eventually go away, this was a severe health and hygiene failure on arrival. Given that you recently transitioned management to Lodgism, you need to know that their turnover and cleaning protocols completely failed here.  \nI have calmed my wife down. We intend to fulfill our contract. But we could not have possibly gotten off to worst start in Littleton. You should really let Lodgism have it over this disaster.  \nRegards,  \nTom\n\nDeborah A \u00b7 Host (6:23 PM):  \nHey Tom, I'm terribly sorry about this mess. I have a call into my counter part in the management company and will sort things out with them but would like to comp you for your stay. I will get back to you shortly. And again please accept our apologies, it really is a lovely town and we hope you can enjoy the rest of your time there.\n\n---\n\nThursday, August 27, 2026\n\nTom Rubel (7:01 AM):  \nDeborah,  \nThank you very much for your kind offer, but accepting it is not a desired outcome\u2014you shouldn't have to take a financial hit when you acted in good faith and your vendor dropped the ball. I did not write to seek a refund or concession, but rather to ensure you were aware of a serious breakdown in service.  \nIt is clear to us that you are a caring and well-intentioned host, and what happened was entirely the fault of a third-party vendor failing to do their job\u2014not a reflection of your standards or decisions. You shouldn't have to bear a financial penalty for their negligence.  \nPlease also rest assured that I have no intention of leaving a negative public review. If I DID submit one, honesty would require me to mention the incident. But I have no desire to harm your business or reputation over a vendor's mistake. I will simply bypass the review prompts when they arrive.  \nWe are settled in, looking forward to enjoying our time in Littleton, and wish you the best in getting things sorted out with your management company.  \nRegards,  \nTom Rubel\n\nDeborah A \u00b7 Host (9:21 AM):  \nHey Tom, thank you for your understanding and generosity. You are very kind. The management company would like to come by this morning between 11 and 12 to sanitize the trash compactor and remove the trash. Would you be amenable to that?\n\nTom Rubel (11:22 AM):  \nSorry, I just received this. We were out for a walk. They're welcome to come by whenever convenient. I received your invoice, which I will honor immediately upon confirmation that the refund has hit my account.\n\nDeborah A \u00b7 Host (11:23 AM):  \nThank you Tom.\n```",
         "website": "https://www.airbnb.com/rooms/626085727753547407"
       },
       "geometry": {
@@ -32184,7 +32526,7 @@
         "vault_type": "Restaurant",
         "description": "Oakes & Evelyn is a fine dining restaurant in Woodstock specializing in American cuisine. Expected prices range from $30 to $60. It is open for dinner from 5 PM and serves alcohol.",
         "start_date_time": "2026-09-04T18:30:00",
-        "detail": "Time: 2026-09-04T18:30:00\n\nNote: First of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-DN4D0JGB. The second is Sep 8 (Visit 2), confirmation #TOCK-R-7VEJHCD3.",
+        "detail": "Time: 2026-09-04T18:30:00\n\nNote: First of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-DN4D0JGB. The second is Sep 8 (Visit 2), confirmation #TOCK-R-7VEJHCD3.\n\n[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Fine-dining, reservation-based format -- no takeout evidence found in a real search.",
         "website": "https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -32204,7 +32546,7 @@
         "vault_type": "Restaurant",
         "description": "Oakes & Evelyn is a fine dining restaurant in Woodstock specializing in American cuisine. Expected prices range from $30 to $60. It is open for dinner from 5 PM and serves alcohol.",
         "start_date_time": "2026-09-08T18:30:00",
-        "detail": "Time: 2026-09-08T18:30:00\n\nNote: Second of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-7VEJHCD3, booked Aug 24, 2026. The first visit is Sep 4 (Visit 1), confirmation #TOCK-R-DN4D0JGB. Fills the previously-open Sep 8 dinner gap.",
+        "detail": "Time: 2026-09-08T18:30:00\n\nNote: Second of two visits to Oakes & Evelyn during the Woodstock VT stay \u2014 confirmation #TOCK-R-7VEJHCD3, booked Aug 24, 2026. The first visit is Sep 4 (Visit 1), confirmation #TOCK-R-DN4D0JGB. Fills the previously-open Sep 8 dinner gap.\n\n[!info] Takeout verification note (2026-08-29)\nNot shown in the Woodstock base camp's Takeouts view -- Fine-dining, reservation-based format -- no takeout evidence found in a real search.",
         "website": "https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -37695,6 +38037,25 @@
         "coordinates": [
           -71.3042,
           43.6891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Mountain, NH",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "A small crossroads village at the junction of US-3 and US-302, in the town of Carroll, NH \u2014 a natural waypoint between Littleton/Bethlehem and the Whitefield/Jefferson area.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53889,
+          44.27222
         ]
       }
     },
