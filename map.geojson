@@ -2941,18 +2941,18 @@
       "properties": {
         "name": "Billings Farm & Museum Woodstock VT",
         "icon": "landmark",
-        "color": "orange",
-        "vault_type": "destination",
-        "description": "Billings Farm & Museum is a historical museum focused on agriculture and local history. It offers homemade ice cream, seasonal beverages, and is suitable for families. The price for admission is $23. It is open for lunch and dinner, but primarily serves during the day.",
+        "color": "purple",
+        "vault_type": "Museum",
+        "description": "Premier outdoor living history museum and world-class operating Jersey dairy farm established in 1871, featuring heritage barns, farm manager's 1890 farmhouse, draft horses, and artisan cheddar tastings.",
         "start_date_time": "",
-        "detail": "Billings Farm & Museum is a historical museum focused on agriculture and local history. It offers homemade ice cream, seasonal beverages, and is suitable for families. The price for admission is $23. It is open for lunch and dinner, but primarily serves during the day.",
-        "website": "https://www.google.com/maps/place/Billings+Farm+%26+Museum/@43.628482,-72.5249256,2212m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!2sMarsh-Billings-Rockefeller+National+Historical+Park!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx!3m5!1s0x89e1d81b8412d4cb:0xda0480210577c0d5!8m2!3d43.6316007!4d-72.5157636!16s%2Fg%2F122qxzvc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "Billings Farm & Museum\n\n\ud83d\udccd 69 Old River Rd, Woodstock, VT 05091\n\nEstablished in 1871 by Frederick Billings as a model for sustainable agriculture and progressive dairy breeding, Billings Farm & Museum is widely recognized as one of the finest operating dairy farms and outdoor agricultural history museums in North America. Located just a short stroll across the Ottauquechee River from central Woodstock, the site maintains a world-renowned herd of purebred Jersey dairy cows, Southdown sheep, and gentle Belgian draft horses. Visitors explore the restored 1890 Farm Manager's House (showcasing 19th-century domestic life and an operational creamery), authentic timber barns, interactive agricultural exhibits, and the Dairy Bar.\n\nHighlights\n- Active Jersey Dairy Barns: Meet the award-winning Jersey dairy cows; daily milking demonstrations take place in the afternoon (typically 3:15 PM).\n- 1890 Farm Manager's House: Restored multi-story Victorian farmhouse, modern kitchen for its era, creamery cellars, and heritage garden.\n- Dairy Bar: Sample award-winning Billings Farm cheddar cheeses (made exclusively with milk from the herd) and artisan Vermont ice cream.\n\nTips\n- Directly across Old River Road from Marsh-Billings-Rockefeller National Historical Park\u2014both properties can easily be combined in a single morning or afternoon.\n- The visitor center features a theater screening an orientation film (A Place in the Land) detailing the legacy of conservation in Woodstock.\n- Flat, paved walking surfaces throughout make it an easy, accessible stop for visitors of all mobility levels.",
+        "website": "https://billingsfarm.org/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.51562474444776,
-          43.63195823219116
+          -72.5158,
+          43.6316
         ]
       }
     },
@@ -3288,26 +3288,6 @@
         "coordinates": [
           -72.835,
           44.0812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bluefins Sushi & Sake Bar Chatham MA",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Bluefins Sushi & Sake Bar offers sushi and seafood, with prices ranging from $50 to $100 per person. It is open for dinner daily with a closing time at 8:30 PM or 9 PM on weekends. Alcohol is served.",
-        "start_date_time": "",
-        "detail": "Bluefins Sushi & Sake Bar offers sushi and seafood, with prices ranging from $50 to $100 per person. It is open for dinner daily with a closing time at 8:30 PM or 9 PM on weekends. Alcohol is served.",
-        "website": "https://www.google.com/maps/place/Bluefins+Sushi+%26+Sake+Bar/@41.6801125,-69.9681313,3321m/data=!3m1!1e3!4m6!3m5!1s0x89fb149fa21e4951:0xa56af4b33b22606f!8m2!3d41.6801225!4d-69.9576711!16s%2Fg%2F11bbsz39xk?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.95756199327533,
-          41.68066541362257
         ]
       }
     },
@@ -8100,7 +8080,7 @@
         "vault_type": "Restaurant",
         "description": "Restaurant serving seafood and Mediterranean cuisine, with prices from $30 to $50 per person. Open for dinner, starting at 5 PM.",
         "start_date_time": "",
-        "detail": "Overview  \nType: Restaurant  \n  \nBest known for: Fresh oysters and delicious pasta dishes.  \n  \nLocation context: 2642 Main St  \n  \nPrice level: $30\u201350 per person  \n  \nVisit timing: Opens at 5 PM daily  \n  \nTypical Customers  \nDemographics: Locals and tourists  \n  \nGroup types: Couples, friends, families  \n  \nCommon occasions: Casual dinner, date night  \n  \nVibe & Setting  \nAtmosphere: Casual, cozy with a pub vibe  \n  \nNoise level: Moderate  \n  \nDecor & setting: Indoor seating, warm ambiance  \n  \nService style: Attentive and friendly  \n  \nRecommended Dishes  \nOverall dish consensus  \nReviewers consistently praise the moules frites, wings, and pasta dishes like the short rib pasta.  \n  \nHow \u201ctop dishes\u201d are determined  \nTop dishes are identified based on items frequently mentioned in reviews, noted as popular, or highlighted in photos.  \n  \n| Rank | Dish                | Why it stands out                                     | How often it\u2019s mentioned         | Ideal for                  |\n|------|--------------------|------------------------------------------------------|----------------------------------|-----------------------------|\n| 1    | Moules Frites      | Praised for fresh flavor and perfect preparation.    | Mentioned in many reviews        | Sharing at the table       |\n| 2    | Short Rib Pasta    | Celebrated for rich taste and hearty portion size.   | Repeatedly called out as a favorite| Hearty main               |\n| 3    | Buffalo Wings      | Known for excellent flavor and crispy texture.       | Appears in numerous reviews      | Casual snacks              |\n  \nGood alternates / backup choices  \n- Jayne Burger: Noted for its satisfying flavor, ideal for burger enthusiasts.  \n- Chicken Wings: Consistently good for sharing or as snacks.  \n- Espresso Martini: Complimented for a strong, delightful flavor.  \n  \nHighlights (non\u2011dish positives from reviews)  \nService quality: Staff is described as personable and knowledgeable, enhancing the dining experience.  \n  \nAtmosphere: The cozy pub-like environment contributes to a laid-back dining vibe, making it inviting.  \n  \nCommon Issues (from reviews)  \nTiming of service: Some reviews mention occasional slower service, but it's not considered a significant issue.  \n  \nPractical Notes  \nReservation / wait: Walk-in friendly, but reservations are advisable during peak times.  \n  \nAccessibility: Not mentioned  \n  \nParking / transit: Street parking available; not mentioned if there's valet.  \n  \nBest use case: Great for casual dinner dates or meals with friends.",
+        "detail": "[!warning] Hours correction (2026-08-30)\nOriginal research had `Days Closed: Mon\u2013Tue`, which was wrong \u2014 confirmed via hyperlocalcapecod. that Drifters is actually closed Sundays, open Mon\u2013Sat 5PM\u2013midnight (off-season hours). Caught while trying to book a Sunday dinner.\n\nOverview  \nType: Restaurant  \n  \nBest known for: Fresh oysters and delicious pasta dishes.  \n  \nLocation context: 2642 Main St  \n  \nPrice level: $30\u201350 per person  \n  \nVisit timing: Opens at 5 PM daily  \n  \nTypical Customers  \nDemographics: Locals and tourists  \n  \nGroup types: Couples, friends, families  \n  \nCommon occasions: Casual dinner, date night  \n  \nVibe & Setting  \nAtmosphere: Casual, cozy with a pub vibe  \n  \nNoise level: Moderate  \n  \nDecor & setting: Indoor seating, warm ambiance  \n  \nService style: Attentive and friendly  \n  \nRecommended Dishes  \nOverall dish consensus  \nReviewers consistently praise the moules frites, wings, and pasta dishes like the short rib pasta.  \n  \nHow \u201ctop dishes\u201d are determined  \nTop dishes are identified based on items frequently mentioned in reviews, noted as popular, or highlighted in photos.  \n  \n| Rank | Dish                | Why it stands out                                     | How often it\u2019s mentioned         | Ideal for                  |\n|------|--------------------|------------------------------------------------------|----------------------------------|-----------------------------|\n| 1    | Moules Frites      | Praised for fresh flavor and perfect preparation.    | Mentioned in many reviews        | Sharing at the table       |\n| 2    | Short Rib Pasta    | Celebrated for rich taste and hearty portion size.   | Repeatedly called out as a favorite| Hearty main               |\n| 3    | Buffalo Wings      | Known for excellent flavor and crispy texture.       | Appears in numerous reviews      | Casual snacks              |\n  \nGood alternates / backup choices  \n- Jayne Burger: Noted for its satisfying flavor, ideal for burger enthusiasts.  \n- Chicken Wings: Consistently good for sharing or as snacks.  \n- Espresso Martini: Complimented for a strong, delightful flavor.  \n  \nHighlights (non\u2011dish positives from reviews)  \nService quality: Staff is described as personable and knowledgeable, enhancing the dining experience.  \n  \nAtmosphere: The cozy pub-like environment contributes to a laid-back dining vibe, making it inviting.  \n  \nCommon Issues (from reviews)  \nTiming of service: Some reviews mention occasional slower service, but it's not considered a significant issue.  \n  \nPractical Notes  \nReservation / wait: Walk-in friendly, but reservations are advisable during peak times.  \n  \nAccessibility: Not mentioned  \n  \nParking / transit: Street parking available; not mentioned if there's valet.  \n  \nBest use case: Great for casual dinner dates or meals with friends.",
         "website": "https://www.google.com/maps/place/Drifters/@41.6784654,-70.0288148,351m/data=!3m1!1e3!4m11!1m3!2m2!1sfresh+oysters!6e5!3m6!1s0x89fb154b06b94e55:0x5c6ec2bf8e3b840b!8m2!3d41.6789929!4d-70.0268719!15sCg1mcmVzaCBveXN0ZXJzWg8iDWZyZXNoIG95c3RlcnOSAQpyZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwa05sVlVVbFJqVkZKdlRtMDRkRmt5YkhCT1ZHUjZZbFJzWmxZeFJSQULgAQD6AQUIugEQNA!16s%2Fg%2F11s2l4371s?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -9000,15 +8980,16 @@
         "icon": "shopping-bag",
         "color": "purple",
         "vault_type": "Shop",
-        "description": "",
+        "description": "Iconic, family-run Vermont general store operating continuously since 1886, renowned for artisanal farmstead cheeses, pure maple syrup, fine wines, hardware, and classic New England specialty goods.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "F.H. Gillingham & Sons\n\n\ud83d\udccd 16 Elm St, Woodstock, VT 05091\n\nFounded by Frank Henry Gillingham in 1886 and operated continuously by the same family for generations, F.H. Gillingham & Sons is a quintessential Vermont country emporium. Occupying an authentic brick building with original hardwood floors, high tin ceilings, and antique wood counters, Gillingham\u2019s embodies the classic New England general store tradition: under one roof you'll find everything from local farmstead cheeses cut to order to classic workwear, cast iron cookware, and gardening tools. The specialty food department is widely recognized as one of the best in northern New England, curated with local preserves, small-batch maple syrups, Vermont wines, and artisan provisions.\n\nHighlights\n- Cheese Counter: Extensive collection of aged Vermont cheddars (including Grafton Village, Cabot Clothbound, and local Woodstock cheeses) available for sampling and custom cutting.\n- Maple & Provisions: Premium small-batch pure Vermont maple syrup, maple candy, local honey, and house-blended seasonings.\n- Wine & Craft Beverages: Curated cellar section featuring Vermont hard ciders, regional craft beers, and imported wines.\n\nTips\n- Located just half a block north of the Middle Covered Bridge on Elm Street.\n- Staff will vacuum-pack cheeses or prepare gift boxes for safe travel and shipping back home.\n- Don't miss exploring the back rooms, where classic hardware, gardening supplies, and kitchen goods maintain the store's practical 19th-century utility.",
+        "website": "https://www.gillinghams.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5187746,
-          43.6255361
+          -72.5188,
+          43.6255
         ]
       }
     },
@@ -9068,25 +9049,6 @@
         "coordinates": [
           -73.9343,
           41.7821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "FH Gillingham Woodstock VT",
-        "icon": "shopping-bag",
-        "color": "purple",
-        "vault_type": "Shop",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5187746,
-          43.6255361
         ]
       }
     },
@@ -13503,12 +13465,13 @@
       "type": "Feature",
       "properties": {
         "name": "Killington Resort VT",
-        "icon": "route",
-        "color": "orange",
-        "vault_type": "destination",
-        "description": "",
+        "icon": "mountain",
+        "color": "green",
+        "vault_type": "Attraction",
+        "description": "Vermont's largest ski resort runs a summer/fall operation too \u2014 the K-1 Gondola to the 4,241-ft summit, and the Killington Bike Park, one of the largest lift-served mountain-bike parks in the eastern US.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "Killington Resort\n\n\ud83d\udccd 4763 Killington Rd, Killington, VT\n\nVermont's largest ski resort keeps running through the warmer months: the K-1 Gondola carries riders to Killington Peak's 4,241-foot summit for panoramic views across the Green Mountains, and the Killington Bike Park \u2014 one of the largest lift-served mountain-bike parks in the eastern US \u2014 covers dozens of downhill trails for all skill levels. The resort sits right at Sherburne Pass, the historic gap through the Green Mountains where the Appalachian and Long Trails cross Route 4 \u2014 the trailhead for Deer Leap Mountain starts here, and the pass itself is a well-known hiking hub independent of the resort's lift-served activities.\n\nTips\n- The K-1 Gondola runs seasonally (typically late spring through fall foliage) \u2014 confirm operating dates before counting on it.\n- The bike park requires its own lift ticket/rental setup, separate from the gondola sightseeing ticket \u2014 decide in advance which experience is wanted.\n- Sherburne Pass, right at the base, is the same trailhead used for Deer Leap Mountain \u2014 an easy pairing if a short hike is wanted alongside the resort's own activities.",
+        "website": "https://www.killington.com"
       },
       "geometry": {
         "type": "Point",
@@ -13554,6 +13517,26 @@
         "coordinates": [
           -69.531547866169,
           44.033090990902835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Farm Woodstock VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "154-acre Vermont Land Trust property rising from the Ottauquechee River with sweeping valley views \u2014 miles of easy, open trails that connect seamlessly into Marsh-Billings-Rockefeller National Historical Park next door.",
+        "start_date_time": "",
+        "detail": "King Farm\n\n\ud83d\udccd King Farm, Woodstock, VT\n\nOwned and managed by the Vermont Land Trust since 1986, King Farm is a 154-acre working and conserved landscape rising from the Ottauquechee River to open, sweeping views across the valley. Its trail network is free and open to the public \u2014 no fees, no reservations \u2014 and links directly into the neighboring Marsh-Billings-Rockefeller National Historical Park's carriage-road system, making it easy to combine both properties into one longer, entirely easy walk. Community gardens and occasional public art/events add some local color beyond the trails themselves.\n\nTips\n- Trails are free, open, and genuinely easy \u2014 wide farm-road and field-edge walking, not technical terrain.\n- Dogs are welcome throughout; leash up specifically near the farmstead buildings, where the property still functions as a working farm.\n- Connects directly to Marsh-Billings-Rockefeller's own carriage roads (Mt Tom / The Pogue / Aqueduct Trails) \u2014 a good add-on rather than a separate outing if more mileage is wanted.\n- The river-valley views from the upper fields are considered among the best easy-access views in the Woodstock area.",
+        "website": "https://vlt.org/featured-properties/king-farm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5504,
+          43.6247
         ]
       }
     },
@@ -15980,20 +15963,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Marsh-Billings-Rockefeller National Historical Park 1 Woodstock VT",
-        "icon": "landmark",
-        "color": "orange",
-        "vault_type": "destination",
-        "description": "Carriage Barn Visitor Center is a historical landmark offering educational tours about dairy farming. It does not appear to serve food. The information about lunch or dinner service is not available. It does not specify alcohol service.",
+        "name": "Marsh-Billings-Rockefeller National Historical Park Woodstock VT",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Park",
+        "description": "Vermont's only national park, preserving one of America's earliest planned conservation forests, 20 miles of scenic carriage roads, the historic Queen Anne mansion, and trails climbing up to The Pogue.",
         "start_date_time": "",
-        "detail": "Carriage Barn Visitor Center is a historical landmark offering educational tours about dairy farming. It does not appear to serve food. The information about lunch or dinner service is not available. It does not specify alcohol service.",
-        "website": "https://www.google.com/maps/place/Marsh-Billings-Rockefeller+National+Historical+Park/@43.628482,-72.5249256,2212m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!2sMarsh-Billings-Rockefeller+National+Historical+Park!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx!3m5!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "Marsh-Billings-Rockefeller National Historical Park\n\n\ud83d\udccd 54 Elm St, Woodstock, VT 05091\n\nEstablished in 1998, Marsh-Billings-Rockefeller National Historical Park is Vermont\u2019s only national park and the only unit in the National Park System dedicated to the history and evolution of conservation stewardship. The property was the boyhood home of George Perkins Marsh (pioneering conservationist and author of Man and Nature), later developed into a sustainable scientific tree plantation and estate by railway magnate Frederick Billings, and finally preserved by Billings\u2019s granddaughter Mary French Rockefeller and her husband Laurance Rockefeller. The park encompasses 550 acres of managed woodland laced with 20 miles of gently graded 19th-century carriage roads that wind through towering hemlock, spruce, and sugar maple groves up to The Pogue, a tranquil 14-acre pond nestled high in the forest hills.\n\nHighlights\n- Carriage Road Network: Twenty miles of wide, smooth gravel and packed-earth carriage roads engineered in the 1880s for horse-drawn travel, providing exceptionally smooth, gentle walking.\n- The Pogue: A pristine, 14-acre hilltop pond surrounded by dense forest, reachable via an easy 1.5-mile carriage road walk from the Forest Center.\n- Mansion & Grounds: Tours of the opulent Queen Anne-style mansion, formal gardens, and historic greenhouse filled with orchid collections.\n\nTips\n- Stop first at the Carriage Barn Visitor Center for trail maps, ranger advice, and estate grounds history.\n- Parking at the park's Forest Center is limited; overflow parking is readily available across the road at Billings Farm & Museum.\n- The carriage roads offer some of the most accessible, high-grade walking in the region with wide pathways and manageable slopes.\n- Dogs are welcome on all carriage roads on a 6-foot leash; carry waste bags.\n- Seamlessly connects with trails ascending Mount Tom and across Old River Road to Billings Farm & Museum.",
+        "website": "https://www.nps.gov/mabi/index.htm"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.51788961559217,
-          43.63157681584403
+          -72.5178,
+          43.6311
         ]
       }
     },
@@ -16471,6 +16454,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Middle Covered Bridge & Village Green Woodstock VT",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "Iconic traditional covered bridge with separate pedestrian walkway crossing the Ottauquechee River right in the center of town, connecting Mountain Avenue to the historic Village Green and Elm Street.",
+        "start_date_time": "",
+        "detail": "Middle Covered Bridge & Village Green\n\n\ud83d\udccd Mountain Avenue & Elm Street, Woodstock, VT 05091\n\nThe Middle Covered Bridge sits at the very heart of Woodstock, spanning the Ottauquechee River between Mountain Avenue and the head of the historic Village Green. Constructed in 1969 by renowned master bridge-builder Milton Graton, it was the first traditional timber covered bridge erected in the state of Vermont in over 80 years. Built using authentic Town lattice truss engineering held together with wooden treenails (trunnels) rather than modern metal spikes, the bridge features a 139-foot roadway with an adjoining covered pedestrian walkway along its south flank. It serves as the primary gateway linking the residential neighborhood at the foot of Mount Tom directly with the shops, historic brick townhouses, and cafes of Central Street.\n\nHighlights\n- Pedestrian Walkway: Stroll safely through the dedicated timber-framed foot passage with river views through rectangular observation ports.\n- Village Green: Woodstock's classic oval green, laid out in 1793, surrounded by Federal, Greek Revival, and Georgian architecture, including the Norman Williams Public Library and the Woodstock Inn.\n- Fall & Winter Character: Beautifully framed by sugar maples in autumn and illuminated with festive wreaths and holiday greenery in winter.\n\nTips\n- Park once in the municipal lot behind Central Street or along the Village Green to explore the bridge and downtown shops entirely on foot.\n- Directly adjacent to Elm Street shops (including F.H. Gillingham & Sons) and a five-minute stroll to the historic Riverwalk trail.\n- Great photography vantage point from the riverbanks or looking east through the portals toward the town's historic spires.",
+        "website": "https://www.woodstockvt.com/things-to-do/covered-bridges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5186,
+          43.6261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mill Brook Preserve Searsport ME",
         "icon": "footprints",
         "color": "green",
@@ -16869,18 +16872,19 @@
       "type": "Feature",
       "properties": {
         "name": "Mon Vert Caf\u00e9 Woodstock VT",
-        "icon": "star",
-        "color": "green",
-        "vault_type": "Attraction",
-        "description": "",
+        "icon": "coffee",
+        "color": "purple",
+        "vault_type": "Cafe",
+        "description": "Woodstock's premier morning gathering spot on Central Street, serving 100% organic fair-trade espresso, scratch-baked pastries, and hearty breakfast sandwiches crafted with local Vermont ingredients.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "Mon Vert Cafe\n\n\ud83d\udccd 28 Central St, Woodstock, VT 05091\n\nPositioned along Central Street in the heart of downtown Woodstock, Mon Vert Cafe is the town\u2019s undisputed daily morning hub. Serving 100% certified organic fair-trade coffee and espresso drinks, the cafe is dedicated to supporting regional agriculture, sourcing dairy, meats, eggs, and produce directly from local Vermont family farms. The interior features exposed brick walls, warm wooden seating, a sunlit upstairs loft, and sidewalk bistro tables overlooking Central Street.\n\nMust Order\n- The Vermonter Breakfast Sandwich \u2014 Local pasture-raised egg, thick-cut cob-smoked bacon, sharp Vermont cheddar, and pure maple butter on a warm house-baked buttermilk biscuit or toasted sourdough.\n- Cardamom Knot or Cinnamon Brioche \u2014 Baked fresh every morning in the pastry case.\n- Maple Latte \u2014 Rich double espresso steamed with local organic milk and sweetened with pure Grade A Vermont maple syrup.\n- Farmstead Lunch Bowls & Soups \u2014 Rotating seasonal grain bowls, warm quiches, and homemade tomato basil soup.\n\nTips\n- Morning lines can stretch onto Central Street during peak foliage and summer weekends; order ahead online via their website for express counter pickup.\n- The upstairs seating loft offers a quiet, relaxed perch for coffee away from the front counter buzz.\n- Dog-friendly sidewalk seating out front during warm weather.",
+        "website": "https://monvertcafe.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5169875,
-          43.6258687
+          -72.517,
+          43.6259
         ]
       }
     },
@@ -17592,6 +17596,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mount Peg Woodstock VT",
+        "icon": "footprints",
+        "color": "green",
+        "vault_type": "Footpath",
+        "description": "Town-owned conservation park on the south side of town, laced with historic carriage-era foot and bridle trails providing broad vistas toward the Pomfret hills and gentle, easy walking.",
+        "start_date_time": "",
+        "detail": "Mount Peg\n\n\ud83d\udccd Mount Peg Park, Woodstock, VT\n\nMount Peg Park is a Town of Woodstock conservation property managed by the Billings Park Commission, grown to its current size in part through a 2002 community land addition. Its network of historic foot and bridle trails \u2014 literally built for horse-drawn carriage-era use, the same genre of wide, smooth walking surface as the carriage roads at Marsh-Billings-Rockefeller \u2014 makes it one of the easiest, most reliable dog-walking destinations right at the edge of the village, without needing to drive out to the National Historical Park.\n\nTips\n- Two main options: the Mount Peg Loop (1.4 miles, ~344 ft gain) and the longer Foot and Bridle Trails loop (1.9 miles, ~341 ft gain) \u2014 both easy, rolling, well-graded walking.\n- Dogs must stay leashed here \u2014 this is not the same as the nearby Aqueduct Trails, which are Woodstock's one off-leash exception.\n- A good lower-key alternative to Mt Tom/The Pogue on a day when the Marsh-Billings-Rockefeller carriage roads feel too busy.",
+        "website": "https://www.woodstockvt.com/things-to-do/hiking-running/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.515,
+          43.616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mount Percival Preserve Northport ME",
         "icon": "footprints",
         "color": "green",
@@ -17606,6 +17630,26 @@
         "coordinates": [
           -68.95575,
           44.35783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Tom South Peak via Carriage Road Woodstock VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A gentle 30-to-45-minute uphill walk along shaded, historic carriage roads starting directly from the edge of town, culminating at South Peak's panoramic stone overlook above Woodstock village and green.",
+        "start_date_time": "",
+        "detail": "Mount Tom (South Peak via Carriage Road)\n\n\ud83d\udccd Marsh-Billings-Rockefeller National Historical Park / River Road, Woodstock, VT\n\nAscending Mount Tom to its South Peak (1,250 ft) is Woodstock's signature scenic walk. Unlike steep, rocky mountain scrambles elsewhere in New England, this ascent utilizes the impeccably engineered 19th-century carriage road system of Marsh-Billings-Rockefeller National Historical Park. Graded in the 1880s for horse-drawn carriages, the wide, smooth gravel road switchbacks at a gentle, steady incline through mature sugar maple and hemlock stands. The walk takes roughly 30 to 45 minutes from the trailhead, terminating at an open rock ledge anchored by an iconic stone bench and summit cross, revealing a breathtaking bird's-eye panorama of Woodstock\u2019s village green, historic church spires, covered bridge, and the surrounding Ottauquechee River valley.\n\nHighlights\n- Panoramic Summit Overlook: Unobstructed vistas directly overlooking Woodstock's oval green and historic rooftops, framed by the rolling southern Vermont hills.\n- Carriage Road Grading: Exceptionally smooth, wide, and well-maintained treadway\u2014ideal for walkers who want expansive mountain views without navigating technical roots or boulders.\n- Historic Estate Forest: Passes through managed stands of northern hardwoods and Norway spruces planted during Frederick Billings's pioneering reforestation efforts.\n\nTips\n- Trailhead Access: Begin directly from the Marsh-Billings-Rockefeller Forest Center / Carriage Barn (54 Elm St) or from Mountain Avenue via the River Road entrance.\n- Round-Trip Distance: Approximately 2.2 to 2.5 miles round trip with about 500 feet of gentle elevation gain; plan for 1 to 1.5 hours total leisurely walking time.\n- Combining with The Pogue: At the upper carriage junction, you can easily continue on a level carriage road an extra 0.5 miles to circle The Pogue before looping back.\n- Benches are thoughtfully placed at scenic switchback turns along the route for resting.\n- Leashed dogs are warmly welcomed throughout the park's carriage road network.",
+        "website": "https://www.nps.gov/mabi/planyourvisit/hiking-and-trails.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5215,
+          43.6285
         ]
       }
     },
@@ -17805,25 +17849,6 @@
         "coordinates": [
           -71.823971,
           43.295793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mt Tom trailhead Woodstock VT",
-        "icon": "footprints",
-        "color": "green",
-        "vault_type": "Footpath",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9234516,
-          44.0546643
         ]
       }
     },
@@ -19489,6 +19514,26 @@
         "coordinates": [
           -69.458267,
           43.9459391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking - Woodstock Central Village VT",
+        "icon": "parking",
+        "color": "gray",
+        "vault_type": "Parking",
+        "description": "Central municipal parking lot and street parking around the Village Green; the ideal single park-and-walk hub for exploring Woodstock's compact village core, covered bridge, shops, and dining on foot.",
+        "start_date_time": "",
+        "detail": "Parking - Woodstock Central Village\n\n\ud83d\udccd Mechanic Street & The Green, Woodstock, VT 05091\n\nThe Town of Woodstock is an exceptionally compact, walkable 19th-century village designed long before automobiles. The single best strategy for visitors is to park once upon arrival and explore the village core, Middle Covered Bridge, historic Elm Street brick storefronts, Yankee Bookshop, Gillingham's, and dining completely on foot.\n\nParking Locations\n- Mechanic Street Municipal Lot: Located directly behind the south side of Central Street (accessed via Mechanic St off Central St or Elm St). This is the largest public off-street parking lot in the downtown core, offering metered spaces (pay-by-plate kiosk or mobile app) and free parking on Sundays and holidays.\n- Village Green Perimeter: Two-hour metered on-street parking lines the perimeter of the historic oval Green directly in front of the Woodstock Inn and town offices.\n- Mountain Avenue & River Road (North End): Limited free on-street parking near Faulkner Park and the Riverwalk bridge for walkers heading up Mount Tom.\n- Billings Farm & Museum Overflow: When visiting the national historical park or farm, the spacious paved visitor parking lot at Billings Farm & Museum (across Old River Road) provides ample space for cars and larger vehicles.\n\nWalkability Tips\n- Once parked in the Mechanic Street lot or along The Green, all downtown shops, galleries, Mon Vert Cafe, F.H. Gillingham & Sons, Yankee Bookshop, and the Middle Covered Bridge are within a leisurely 2- to 5-minute walk.\n- Avoid circling narrow side streets during peak autumn foliage weekends; head directly to the Mechanic Street lot or consider parking at Billings Farm if starting your day with carriage road walks.",
+        "website": "https://www.woodstockvt.com/plan-your-visit/parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5181,
+          43.6247
         ]
       }
     },
@@ -21264,6 +21309,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Quechee Gorge VT",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "Vermont's deepest gorge, carved 165 feet deep through bedrock by the Ottauquechee River, offering dramatic vistas from the Route 4 bridge and gentle walking paths along the pine-forested rim.",
+        "start_date_time": "",
+        "detail": "Quechee Gorge\n\n\ud83d\udccd Route 4, Quechee, VT 05059\n\nOften called \"Vermont's Little Grand Canyon,\" Quechee Gorge is the deepest natural gorge in the state. Formed roughly 13,000 years ago during the retreat of the Laurentide Ice Sheet, the glacial meltwaters carved a dramatic 165-foot chasm through solid bedrock along the course of the Ottauquechee River. The gorge is spanned by the historic Quechee Gorge Bridge on Route 4, which offers dizzying vertical perspectives looking directly down into the rushing whitewater rapids and rocky flumes below.\n\nHighlights\n- Bridge Overlook: Safe pedestrian sidewalks on both sides of the Route 4 bridge provide the classic direct photo view plunging straight down into the depths of the gorge.\n- Quechee Gorge Trail: An easy, well-maintained 1.3-mile out-and-back trail through Quechee State Park that leads gently down along the western rim to the riverbank and gentle swimming holes at the base.\n- Proximity to Simon Pearce: Located only 2 miles (a 5-minute drive) east of the Simon Pearce glassblowing mill and restaurant.\n\nTips\n- Park for free in the large visitor center lot on the south side of Route 4 or in the Quechee State Park picnic day-use area.\n- The top bridge views require no hiking whatsoever and are fully wheelchair and stroller accessible.\n- An ideal stop to pair with an afternoon visit to Simon Pearce for glassblowing demonstrations and dinner.\n- Leashed dogs are permitted throughout the state park trails and overlook walkways.",
+        "website": "https://vtstateparks.com/quechee.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4081,
+          43.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Quechee Gorge Village shops VT",
         "icon": "shopping-bag",
         "color": "green",
@@ -21638,18 +21703,19 @@
       "type": "Feature",
       "properties": {
         "name": "Red Rooster (Woodstock Inn) VT",
-        "icon": "star",
-        "color": "green",
-        "vault_type": "Attraction",
-        "description": "",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "The signature AAA Four Diamond dining room inside the historic Woodstock Inn & Resort, showcasing upscale farm-to-table cuisine, Vermont heritage meats, and vegetables harvested from the resort's Kelly Way Gardens.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "The Red Rooster (Woodstock Inn & Resort)\n\n\ud83d\udccd 14 The Green, Woodstock, VT 05091\n\nThe Red Rooster is the premier culinary centerpiece of the historic Woodstock Inn & Resort. Awarded AAA Four Diamond status, the dining room pairs relaxed New England elegance with an uncompromising farm-to-table philosophy. Executive chefs work closely with the master gardener at the resort\u2019s nearby 3-acre Kelly Way Gardens, integrating just-picked heirloom produce, edible blossoms, and herbs into seasonal menus alongside local Vermont dairy, heritage poultry, and pasture-raised meats.\n\nMust Order\n- Seasonal Garden Tasting Starters \u2014 Featuring freshly harvested produce from Kelly Way Gardens paired with local ch\u00e8vre and house vinaigrettes.\n- Pan-Seared Day-Boat Halibut or Salmon \u2014 Served with sweet corn succotash and herb-infused emulsions.\n- Braised Vermont Short Ribs \u2014 Slow-cooked to melting tenderness over creamy polenta with glazed root vegetables.\n- Artisan Cheese Cart \u2014 Curated selection of Vermont's finest cave-aged cheddars and bloomy rinds with honeycomb.\n\nTips\n- Located on the main lobby level of the Woodstock Inn, steps from Richardson's Tavern (the inn's cozier, casual fireside pub alternative).\n- Resort casual attire; reservations are strongly recommended for dinner, particularly in summer and autumn foliage seasons.\n- Perfect option for a celebratory dinner or a refined lunch overlooking the south terrace.",
+        "website": "https://www.woodstockinn.com/dining/red-rooster"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.518896,
-          43.623174
+          -72.5189,
+          43.6232
         ]
       }
     },
@@ -21985,45 +22051,6 @@
         "coordinates": [
           -68.97796193691404,
           44.43167243957917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Richardson\u2019s Tavern 1 Woodstock VT",
-        "icon": "utensils",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Richardson\u2019s Tavern is a fine dining restaurant offering American cuisine. The expected price range is $50\u2013100 per person. It is open for dinner from 5 PM, seven days a week, and serves alcohol.",
-        "start_date_time": "",
-        "detail": "Richardson\u2019s Tavern is a fine dining restaurant offering American cuisine. The expected price range is $50\u2013100 per person. It is open for dinner from 5 PM, seven days a week, and serves alcohol.",
-        "website": "https://www.google.com/maps/place/Richardson%E2%80%99s+Tavern/@43.6241228,-72.5208001,17.56z/data=!4m13!1m5!2m4!1sTake+out+food+woodstock.+!5m1!15shas_takeout!6e5!3m6!1s0x89e1d820c9d59f7d:0x3d2df1080af8902e!8m2!3d43.6230555!4d-72.5189981!15sChhUYWtlIG91dCBmb29kIHdvb2RzdG9jay4iVVInL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2hhc190YWtlb3V0UicvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvaGFzX3Rha2VvdXS4AQFaGSIXdGFrZSBvdXQgZm9vZCB3b29kc3RvY2uSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sY21WSVRUSkJSUkFC4AEA-gEFCKEDEEo!16s%2Fg%2F11hb389wr4?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.51900563822892,
-          43.62314855956515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Richardson\u2019s Tavern Woodstock VT",
-        "icon": "utensils",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5218,
-          43.6237
         ]
       }
     },
@@ -24674,38 +24701,19 @@
       "type": "Feature",
       "properties": {
         "name": "Simon Pearce Quechee VT",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Scenic restaurant in a restored mill in Quechee serving creative American cuisine with local ingredients and views of the Ottauquechee River waterfall and covered bridge.",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Attraction",
+        "description": "Historic 19th-century restored mill on the Ottauquechee River waterfall, renowned for live master glassblowing demonstrations, handcrafted pottery, retail showroom, and fine dining.",
         "start_date_time": "",
-        "detail": "Scenic restaurant in a restored mill in Quechee serving creative American cuisine with local ingredients and views of the Ottauquechee River waterfall and covered bridge.",
-        "website": "https://simonpearce.com/pages/restaurant"
+        "detail": "Simon Pearce (The Mill at Quechee)\n\n\ud83d\udccd 1760 Quechee Main St, Quechee, VT 05059\n\nOccupying a lovingly restored 19th-century brick woolen mill perched dramatically over the Ottauquechee River waterfall, Simon Pearce is one of Vermont's premier artisan destinations. Driven completely by clean hydroelectric power generated on-site from the roaring waterfall, the mill houses master glassblowers who demonstrate the ancient art of hand-shaping glowing 2,100\u00b0F molten crystal into elegant stemware, bowls, and vases right before visitors' eyes. Downstairs, a spacious viewing catwalk lets guests watch the glass furnaces and glassblowers at work, while adjacent studios display handcrafted pottery. Upstairs, an expansive flagship showroom and the acclaimed riverside restaurant overlook the tumbling falls and the historic Quechee Covered Bridge.\n\nHighlights\n- Live Glassblowing Demonstrations: Watch master artisans gather, blow, tool, and anneal crystal glassware from the observation catwalk. Free and open daily (check daily furnace schedule).\n- Hydroelectric Turbine: View the functioning vintage hydro turbine that powers the mill's glassblowing furnaces using the river's current.\n- Riverside Dining & Covered Bridge: The on-site restaurant and bar feature floor-to-ceiling windows cantilevered directly over the roaring falls and covered bridge.\n\nTips\n- Located just 10 minutes east of Woodstock village; ideal to combine with a walk along the rim of nearby Quechee Gorge.\n- Watching the glassblowers is completely free and requires no reservation\u2014simply walk down to the furnace viewing area.\n- For dining, reservations are booked weeks or months in advance (dinner confirmed for Sunday, September 6, 2026).",
+        "website": "https://simonpearce.com/pages/the-mill"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.41936166672106,
-          43.64609339064115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Simon Pearce Restaurant Woodstock VT",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.419462,
-          43.646055
+          -72.4194,
+          43.6461
         ]
       }
     },
@@ -24880,6 +24888,26 @@
         "coordinates": [
           -69.7902799,
           44.2856241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sleepy Hollow Farm Pomfret VT",
+        "icon": "alert-triangle",
+        "color": "yellow",
+        "vault_type": "Attraction",
+        "description": "Iconic private 115-acre farm on Cloudland Road. CRITICAL VISITOR ADVISORY: Cloudland Road is legally closed to non-resident vehicular and pedestrian traffic during peak foliage season due to town ordinances and sheriff enforcement. Stick to public scenic drives like Route 106 or public Pomfret backroads.",
+        "start_date_time": "",
+        "detail": "Sleepy Hollow Farm (Visitor Advisory & Road Closures)\n\n\ud83d\udccd Cloudland Road, Pomfret, VT 05067\n\nSleepy Hollow Farm is a picturesque private 115-acre farm estate located along narrow, unpaved Cloudland Road in neighboring Pomfret, formerly owned by Aerosmith guitarist Joe Perry. In recent years, viral social media imagery turned the private driveway and winding rustic road into one of the most congested \"Instagram tourism\" flashpoints in New England, drawing thousands of tour buses, rideshare drops, drones, and illegal parking on private fields.\n\n\u26a0\ufe0f Critical Foliage Road Closure Advisory\n- Seasonal Road Closure: In response to severe safety hazards, gridlock blocking emergency vehicles, and resident petitioning, the Town of Pomfret and Town of Woodstock have enacted strict municipal emergency ordinances closing Cloudland Road and Barber Hill Road to all non-resident vehicular and pedestrian traffic during peak autumn foliage (typically from late September through mid-October).\n- Sheriff Checkpoints & Heavy Fines: The Windsor County Sheriff\u2019s Department mans active physical checkpoints and temporary electronic monitoring barricades at the road entrances. Violators trespassing or bypassing road-closure barriers face citations, towing, and substantial municipal fines.\n- Local Sentiment: As reflected in regional forums (e.g., r/vermont's discussions on town pettiness vs. preserving peace), local frustration over trespassing and influencer crowding is extremely high. Respect all posted private property and road closure signage.\n\nRecommended Public Scenic Alternatives\nInstead of attempting to navigate Cloudland Road, enjoy Vermont\u2019s world-class foliage along designated, fully public scenic highways and pastoral backroads:\n- Route 106 Scenic Corridor: Drive south from Woodstock through South Woodstock, Reading, and Felchville for sweeping valley pastures, red barns, and hilltop views.\n- Pomfret Public Loop (Route 12 & Stage Road): Follow Route 12 north from Woodstock to Pomfret and Barnard, taking public township-maintained secondary roads past authentic operating dairy farms and sugarhouses.\n- Sugarbush Farm (Woodstock): Located on public Hillside Road, offering legitimate farm visitor access, maple syrup tasting, and pasture walks.",
+        "website": "https://www.townofpomfretvermont.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5273,
+          43.6668
         ]
       }
     },
@@ -28147,17 +28175,18 @@
       "properties": {
         "name": "The Pogue trailhead Woodstock VT",
         "icon": "footprints",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Footpath",
-        "description": "",
+        "description": "Serene 14-acre pond secluded deep in the forested hills of Marsh-Billings-Rockefeller National Historical Park, reached via a gentle carriage road loop through hemlock and spruce groves.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "The Pogue\n\n\ud83d\udccd Marsh-Billings-Rockefeller National Historical Park, Woodstock, VT\n\nThe Pogue is an idyllic 14-acre natural body of water cradled in a forested bowl high on Mount Tom within Vermont's only national park. The pond was originally created and expanded in the 1880s by Frederick Billings to serve as a scenic water reservoir and recreational retreat for the estate. A wide, level carriage path circles the entire perimeter of the water, shaded by tall white pines, hemlocks, and northern hardwoods. The shoreline features wooden benches and rustic overlooks where water lilies bloom and painted turtles sunbathe on submerged logs.\n\nTips\n- The classic route begins from the Marsh-Billings-Rockefeller Forest Center/Carriage Barn: follow the gently ascending Mountain Road and Carriage Road to the pond (~1.5 miles each way, 3 miles round trip).\n- The loop trail encircling The Pogue is virtually flat, smooth, and exceptionally easy walking.\n- Can easily be extended by taking the spur trail to Mount Tom's South Peak for views over Woodstock village.\n- Leashed dogs are welcome along the entire carriage road route.",
+        "website": "https://www.nps.gov/mabi/planyourvisit/hiking-and-trails.htm"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5185112,
-          43.6242442
+          -72.5312,
+          43.6394
         ]
       }
     },
@@ -28166,11 +28195,11 @@
       "properties": {
         "name": "The Prince & The Pauper Woodstock VT",
         "icon": "utensils",
-        "color": "red",
+        "color": "purple",
         "vault_type": "Restaurant",
-        "description": "A long-running prix-fixe fine dining institution in downtown Woodstock -- but confirmed closing as of a Feb 2026 Valley News report.",
+        "description": "Woodstock's premier fine-dining institution for over 45 years, famous for its nightly prix-fixe menu of classic French-American cuisine and an intimate, quiet tavern room (advisory: ownership transition/closure reported in 2026).",
         "start_date_time": "",
-        "detail": "The Prince & The Pauper\n\n\ud83d\udccd 24 Elm St, Woodstock, VT 05091\n\nA Woodstock fixture for decades, known for a nightly-changing three-course prix-fixe dinner served Tuesday through Saturday, globally-inspired but built on local ingredients.\n\nTips\n- Closing -- a February 2026 Valley News report confirms the restaurant is preparing to close at this location, though the ownership is considering what comes next for the team and legacy. Call ahead (802-457-1818) or check princeandpauper. before planning around this -- don't treat it as a reliable current option.",
+        "detail": "The Prince & The Pauper\n\n\ud83d\udccd 24 Elm St, Woodstock, VT 05091\n\nFor more than four decades, The Prince & The Pauper stood as Woodstock\u2019s premier fine-dining establishment, setting the gold standard for romantic village dining. Tucked down an alleyway off Elm Street in an 1820s building, the restaurant became legendary for its nightly-changing three-course prix-fixe dinner celebrating classic French-American culinary traditions, complemented by a cozy tavern room with hand-hewn beams, intimate wooden booths, and an unhurried, warm atmosphere.\n\nMust Order\n- Rack of Lamb in Puff Pastry \u2014 The restaurant\u2019s signature preparation, tender lamb loin wrapped in duxelles and flaky pastry with a rich port wine demi-glace.\n- Crispy Duck Breast \u2014 Pan-roasted with seasonal fruit gastrique and wild rice.\n- Tavern Burger & Craft Cocktails \u2014 Classic casual tavern offerings served at the historic wood bar.\n\nTips\n- Current Operating Advisory: A 2026 Valley News report noted an ownership transition and potential closure/relocation of the restaurant at this specific site. Always call ahead (802-457-1818) or verify their current status at princeandpauper. before making dining plans.\n- If open during your visit, reservations are essential weeks in advance for the dining room; the walk-in tavern room opens at 5:00 PM for casual seating.",
         "website": "https://www.princeandpauper.com/"
       },
       "geometry": {
@@ -29893,26 +29922,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Viera on Main Chatham MA",
-        "icon": "coffee",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "Seafood Restaurant, with average prices between $50 and $100 per person. Open for dinner starting at 5 PM and also serves brunch on weekends.",
-        "start_date_time": "",
-        "detail": "Overview\nType: Seafood Restaurant  \nBest known for: Fresh shucked oysters, skilled steak preparation  \nLocation context: Chatham, MA  \nPrice level: $50\u2013100 per person  \nVisit timing: Dinner hours are busier; brunch is also popular\n\nTypical Customers  \nDemographics: Mix of locals and tourists  \nGroup types: Couples, families, friends  \nCommon occasions: Brunch, casual dinners, special occasions  \n\nVibe & Setting  \nAtmosphere: Casual, cozy with a nautical theme  \nNoise level: Moderate  \nDecor & setting: Indoor seating, well-decorated interior  \nService style: Generally attentive and friendly\n\nRecommended Dishes  \nOverall dish consensus  \nCritics agree that oysters and steak dishes are standout options. The swordfish, however, received mixed reviews, being described as bland by some.  \n\nHow \u201ctop dishes\u201d are determined  \nTop dishes were chosen based on frequency in reviews, mentions in photos, and noted popularity on the Google Maps place page. \n\n| Rank | Dish              | Why it stands out                                   | How often it\u2019s mentioned      | Ideal for                     |\n|------|-------------------|----------------------------------------------------|-------------------------------|-------------------------------|\n| 1    | Fresh Shucked Oysters | Highly praised for freshness and flavor.          | Mentioned in many reviews     | Sharing at the table          |\n| 2    | Steak Frites      | Consistently praised for perfect cooking and flavor.  | Appears in numerous photos     | Hearty main                  |\n| 3    | Swordfish         | Mixed reviews; specifically noted as bland by some.| Repeatedly noted as featured   | Lighter option                |\n\nGood alternates / backup choices  \n- Lobster Ravioli: Described as good but not exceptional.  \n- Steak Hash: Noted for being well-cooked and flavorful, especially during brunch.  \n\nHighlights (non\u2011dish positives from reviews)  \nFood Quality: Many reviewers enjoyed the taste of the food and specific dishes, particularly during brunch.  \nService: Generally characterized as friendly and attentive, enhancing the dining experience.  \n\nCommon Issues (from reviews)  \nService Speed: Reports of slow service during busy hours were noted.  \nDish Quality: Some dishes, like the swordfish, have been labeled as bland, indicating inconsistency in preparation.  \n\nPractical Notes  \nReservation / wait: Reservations recommended, especially during busy dinner hours.  \nAccessibility: Not mentioned  \nParking / transit: Not mentioned  \nBest use case: Best for brunch with friends or casual dinners.",
-        "website": "https://www.google.com/maps/place/Viera+on+Main/@41.6816607,-69.96143,256m/data=!3m1!1e3!4m6!3m5!1s0x89fb14a1df4435d1:0x470de43a93b90b5d!8m2!3d41.6816658!4d-69.9601791!16s%2Fg%2F1thqhszl?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.96016347582975,
-          41.6816945027531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Vigneto Cafe",
         "icon": "wine",
         "color": "red",
@@ -31104,6 +31113,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wiessner Woods Stowe VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "Stowe Land Trust's flagship preserve \u2014 a mature hardwood/softwood forest donated by the Wiessner family, with wide, gentle, well-maintained trails explicitly welcoming dog walking.",
+        "start_date_time": "",
+        "detail": "Wiessner Woods\n\n\ud83d\udccd Edson Hill Rd, Stowe, VT\n\nWiessner Woods is Stowe Land Trust's best-known conserved property \u2014 a mature stand of hemlock, spruce, white pine, maple, beech, and birch, donated by the Wiessner family specifically to preserve the land's natural beauty for public enjoyment. It's the organization's go-to answer for an easy, reliable dog walk close to Stowe village: wide, gentle forest paths with none of the exposed scrambling found at higher trails like Sterling Falls Gorge, making it a genuinely low-effort, carriage-road-style outing rather than a hike.\n\nTips\n- Hiking, snowshoeing, cross-country skiing, and dog walking are all explicitly listed uses \u2014 this is a preserve built for exactly this kind of easy outing.\n- Trails are wide and gentle throughout, a good match for older travelers or an off-day from more strenuous hikes like Mount Mansfield.\n- A short drive from Stowe village off Edson Hill Road, with a small trailhead parking area.",
+        "website": "https://www.stowelandtrust.org/work/land-protection/conserved/wiessner-woods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7332,
+          44.4995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wilcox Memorial Hall & Milan Town Hall NY",
         "icon": "landmark",
         "color": "green",
@@ -31771,6 +31800,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Woodstock Farmers' Market Woodstock VT",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Legendary year-round specialty grocery, scratch bakery, and gourmet prepared-foods deli on Route 4, celebrated for creative artisan sandwiches, local farm produce, and Vermont cheeses.",
+        "start_date_time": "",
+        "detail": "Woodstock Farmers' Market\n\n\ud83d\udccd 979 W Woodstock Rd (Route 4), Woodstock, VT 05091\n\nDespite its name suggesting an outdoor seasonal event, the Woodstock Farmers' Market is an indispensable, permanent, year-round gourmet food market and culinary hub located just west of the village on Route 4. Since 1992, the market has championed sustainable, organic, and small-producer New England agriculture. Inside the cedar-shingled store, shoppers find a bustling deli counter turning out nationally acclaimed sandwiches, a scratch bakery producing fresh pies, sourdough breads, and cookies, an extensive farmstead cheese case, organic local produce, and a curated selection of Vermont craft beers, ciders, and natural wines.\n\nMust Order\n- The Turkey & Brie Sandwich \u2014 House-roasted turkey breast, creamy French brie, tart green apples, and sweet cranberry chutney on freshly baked cranberry-walnut bread.\n- The Meatloaf Special or Roast Beef Chimichurri \u2014 Fan favorites from the hot and cold prepared deli cases.\n- Fresh-Baked Pies & Cookies \u2014 Heirloom apple, wild Maine blueberry, or the famous ginger molasses cookies.\n- Prepared Picnic Salads \u2014 Sesame peanut noodles, roasted seasonal beet salad, and local grain salads perfect for trail excursions.\n\nTips\n- The premier spot in the Woodstock area to pick up a gourmet picnic lunch before heading out to hike Mount Tom, walk The Pogue, or explore Quechee Gorge.\n- Call ahead or order sandwiches online via their website to skip the bustling midday deli counter line.\n- Outdoor picnic tables sit along the banks of the Ottauquechee River out back when weather is nice.\n- Closed Mondays; plan grocery provisioning accordingly.",
+        "website": "https://woodstockmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5441,
+          43.6198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Woodstock Farmers\u2019 Market VT",
         "icon": "leaf",
         "color": "green",
@@ -31791,19 +31840,19 @@
       "type": "Feature",
       "properties": {
         "name": "Worthy Kitchen Woodstock VT",
-        "icon": "beer",
+        "icon": "utensils",
         "color": "red",
-        "vault_type": "Brewery",
-        "description": "Worthy Kitchen is an American restaurant offering casual dining with prices ranging from $20 to $30 per person. It opens at 4 PM for dinner and offers a variety of dishes, including craft beers and burgers. It serves alcohol.",
+        "vault_type": "Restaurant",
+        "description": "Woodstock's vibrant craft beer bar and farm-to-table diner, renowned for an extraordinary Vermont draft beer list, buttermilk fried chicken, grass-fed burgers, and local draft ciders.",
         "start_date_time": "",
-        "detail": "Worthy Kitchen is an American restaurant offering casual dining with prices ranging from $20 to $30 per person. It opens at 4 PM for dinner and offers a variety of dishes, including craft beers and burgers. It serves alcohol.",
-        "website": "https://www.google.com/maps/place/Worthy+Kitchen/@43.6223817,-72.5377723,5128m/data=!3m1!1e3!4m14!1m6!2m5!1srestaurants+with+reservations!5m2!4e9!15saccepts_reservations!6e5!3m6!1s0x89e1d81196d5ec01:0x5dd7950ee4b6f0ca!8m2!3d43.6326556!4d-72.5038667!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyJkUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNSMC9nZW8vdHlwZS9lc3RhYmxpc2htZW50X3BvaS9hY2NlcHRzX3Jlc2VydmF0aW9uc1ofIh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9uc5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmxYemRQYlVoQkVBReABAPoBBQiRAhA5!16s%2Fg%2F1pp2vgks_?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "Worthy Kitchen\n\n\ud83d\udccd 442 Woodstock Rd (Route 4), Woodstock, VT 05091\n\nLocated just east of downtown Woodstock along Route 4, Worthy Kitchen is a beloved farm-to-table craft beer diner. Boasting one of the most celebrated draft lists in the state\u2014often featuring rare pours from Hill Farmstead, Lawson\u2019s Finest Liquids, Fiddlehead, and Zero Gravity, alongside regional hard ciders\u2014it pairs world-class brews with elevated, casual comfort food. Food is ordered at the counter, prepared with local Vermont farm ingredients, and delivered to rustic communal wood tables.\n\nMust Order\n- Worthy Fried Chicken \u2014 Buttermilk-brined chicken, golden-crispy, served with house hot honey and seasoned slaw.\n- Worthy Burger \u2014 Local grass-fed beef cooked to order, topped with secret sauce and melted Plymouth artisan cheddar on a brioche bun.\n- Parmesan Truffle Fries \u2014 Hand-cut potatoes tossed in white truffle oil, grated parmesan, and fresh herbs.\n- Draft Cider Flight \u2014 Rotating selection of dry Vermont heritage ciders (Citizen Cider, Shacksbury, Eden Specialty Ciders).\n\nTips\n- Counter-service model: find a table first, order at the counter, and your food is brought out hot.\n- Very popular with locals and travelers alike; arrive right around 4:30\u20135:00 PM for dinner to avoid long counter lines on weekends.\n- Excellent takeout option if you prefer to take dinner back to your lodging patio.",
+        "website": "https://www.worthyvermont.com/worthy-kitchen"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.50380892190245,
-          43.63354334507945
+          -72.5039,
+          43.6327
         ]
       }
     },
@@ -31844,6 +31893,26 @@
         "coordinates": [
           -69.131394,
           44.0966822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yankee Bookshop Woodstock VT",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Vermont's oldest continuously running independent bookstore, operating on Central Street since 1935, offering curated literature, regional titles, artisan stationery, and literary gifts.",
+        "start_date_time": "",
+        "detail": "Yankee Bookshop\n\n\ud83d\udccd 12 Central St, Woodstock, VT 05091\n\nServing readers continuously since 1935, the Yankee Bookshop is the oldest independent bookstore in the state of Vermont. Located in a historic storefront right along central Woodstock's main shopping corridor, the shop offers a carefully curated selection of contemporary fiction, non-fiction, poetry, and children's literature, alongside a dedicated Vermont and New England regional section covering local history, foraging, hiking, and cuisine. The shop also features handcrafted stationery, greeting cards, literary puzzles, and locally designed gifts.\n\nHighlights\n- Staff Recommendations: Thoughtful shelf-talkers and handwritten review tags throughout every section.\n- Vermont & New England Collection: Deep selection of local history, nature writing, trail maps, and Vermont authors (including works on the Rockefellers and Vermont conservation).\n- Author Events: Frequent community readings, book signings, and book clubs.\n\nTips\n- Open daily in the center of town; perfect to browse while waiting for a table or walking Central Street.\n- The staff is exceptionally knowledgeable about regional guides, foliage driving maps, and local walking trails.",
+        "website": "https://www.yankeebookshop.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5181,
+          43.6254
         ]
       }
     },
@@ -32024,63 +32093,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Sep 13 Chatham MA",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-09-13T18:00:00",
-        "detail": "Time: 2026-09-13T18:00:00\n\nDinner Reservation Needed \u2014 Sun, Sep 13\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.95527097087479,
-          41.679431795564206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Sep 20 Chatham MA",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date. Candidate already researched \u2014 The Rooftop at Pelham House Resort (4.3 rating).",
-        "start_date_time": "2026-09-20T18:00:00",
-        "detail": "Time: 2026-09-20T18:00:00\n\nDinner Reservation Needed \u2014 Sun, Sep 20\n\nNo dinner reservation has been booked yet for this date. A candidate has already been researched \u2014 The Rooftop at Pelham House Resort (4.3 rating) \u2014 just needs an actual booking. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.95527097087479,
-          41.679431795564206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Sep 7 Woodstock VT",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date.",
-        "start_date_time": "2026-09-07T18:00:00",
-        "detail": "Time: 2026-09-07T18:00:00\n\nDinner Reservation Needed \u2014 Mon, Sep 7\n\nNo dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5218,
-          43.6237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Salt Line planned closed Mondays - Sep 21 Hudson Valley",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -32214,6 +32226,26 @@
         "coordinates": [
           -69.09781,
           44.26899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Bluefins Sushi & Sake Bar Chatham MA",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Bluefins Sushi & Sake Bar offers sushi and seafood, with prices ranging from $50 to $100 per person. It is open for dinner daily with a closing time at 8:30 PM or 9 PM on weekends. Alcohol is served.",
+        "start_date_time": "2026-09-13T18:30:00",
+        "detail": "Time: 2026-09-13T18:30:00\n\nBluefins Sushi & Sake Bar\n\n\ud83d\udccd 513 Main St, Chatham, MA 02633\n\nUpscale, cozy sushi and seafood spot on Main St, $50\u2013100/person. Known for the toro nigiri and freshness of the fish; a few reviews note portions can feel small for the price.\n\nMust Order\n- Toro Nigiri \u2014 the most frequently praised dish\n\nTips\n- OpenTable confirmation #146082, 2 guests, Sun Sep 13 at 6:30 PM.\n- Reservations required for all dining/bar seating \u2014 can't be booked more than 14 days ahead; parties of 6 or fewer can book online, larger by phone.\n- 10-minute grace period; strict 90-minute table limit once seated.\n- Cancellation fee ($25 + tax/guest) applies to parties of 7+ that don't cancel by the morning of.\n- Phone: (508) 348-1573",
+        "website": "https://www.google.com/maps/place/Bluefins+Sushi+%26+Sake+Bar/@41.6801125,-69.9681313,3321m/data=!3m1!1e3!4m6!3m5!1s0x89fb149fa21e4951:0xa56af4b33b22606f!8m2!3d41.6801225!4d-69.9576711!16s%2Fg%2F11bbsz39xk?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95756199327533,
+          41.68066541362257
         ]
       }
     },
@@ -32600,6 +32632,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u2705 Richardson\u2019s Tavern Woodstock VT",
+        "icon": "utensils",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Richardson\u2019s Tavern is a fine dining restaurant offering American cuisine. The expected price range is $50\u2013100 per person. It is open for dinner from 5 PM, seven days a week, and serves alcohol.",
+        "start_date_time": "2026-09-07T18:30:00",
+        "detail": "Time: 2026-09-07T18:30:00\n\nRichardson\u2019s Tavern\n\n\ud83d\udccd 14 The Grn, Woodstock, VT 05091\n\nRichardson\u2019s Tavern is a fine dining restaurant offering American cuisine, part of the Woodstock Inn. Cozy and laid-back, open for dinner from 5 PM daily, $50\u2013100/person.\n\nMust Order\n- Baked oysters \u2014 a standout per reviews\n- Duck \u2014 another frequently praised dish\n- Reviews advise against the brown butter parsnips\n\nTips\n- Resy reservation, 2 guests, Mon Sep 7 at 6:30 PM, Dining Room.\n- Cashless restaurant \u2014 credit, debit, gift cards, and tap-to-pay accepted.\n- Cancellation fee ($25 + tax per guest) applies if cancelled after Sat Sep 5, 6:30 PM.\n- Phone: +1 802-457-6671 (call if running more than 15 min late)",
+        "website": "https://www.google.com/maps/place/Richardson%E2%80%99s+Tavern/@43.6241228,-72.5208001,17.56z/data=!4m13!1m5!2m4!1sTake+out+food+woodstock.+!5m1!15shas_takeout!6e5!3m6!1s0x89e1d820c9d59f7d:0x3d2df1080af8902e!8m2!3d43.6230555!4d-72.5189981!15sChhUYWtlIG91dCBmb29kIHdvb2RzdG9jay4iVVInL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2hhc190YWtlb3V0UicvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvaGFzX3Rha2VvdXS4AQFaGSIXdGFrZSBvdXQgZm9vZCB3b29kc3RvY2uSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sY21WSVRUSkJSUkFC4AEA-gEFCKEDEEo!16s%2Fg%2F11hb389wr4?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.51900563822892,
+          43.62314855956515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\u2705 Salt Wharf Camden ME",
         "icon": "sandwich",
         "color": "red",
@@ -32834,6 +32886,26 @@
         "coordinates": [
           -70.26414478187155,
           43.654795157599246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705 Viera on Main Chatham MA",
+        "icon": "coffee",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "Seafood Restaurant, with average prices between $50 and $100 per person. Open for dinner starting at 5 PM and also serves brunch on weekends.",
+        "start_date_time": "2026-09-20T18:30:00",
+        "detail": "Time: 2026-09-20T18:30:00\n\nOverview\nType: Seafood Restaurant  \nBest known for: Fresh shucked oysters, skilled steak preparation  \nLocation context: Chatham, MA  \nPrice level: $50\u2013100 per person  \nVisit timing: Dinner hours are busier; brunch is also popular\n\nTypical Customers  \nDemographics: Mix of locals and tourists  \nGroup types: Couples, families, friends  \nCommon occasions: Brunch, casual dinners, special occasions  \n\nVibe & Setting  \nAtmosphere: Casual, cozy with a nautical theme  \nNoise level: Moderate  \nDecor & setting: Indoor seating, well-decorated interior  \nService style: Generally attentive and friendly\n\nRecommended Dishes  \nOverall dish consensus  \nCritics agree that oysters and steak dishes are standout options. The swordfish, however, received mixed reviews, being described as bland by some.  \n\nHow \u201ctop dishes\u201d are determined  \nTop dishes were chosen based on frequency in reviews, mentions in photos, and noted popularity on the Google Maps place page. \n\n| Rank | Dish              | Why it stands out                                   | How often it\u2019s mentioned      | Ideal for                     |\n|------|-------------------|----------------------------------------------------|-------------------------------|-------------------------------|\n| 1    | Fresh Shucked Oysters | Highly praised for freshness and flavor.          | Mentioned in many reviews     | Sharing at the table          |\n| 2    | Steak Frites      | Consistently praised for perfect cooking and flavor.  | Appears in numerous photos     | Hearty main                  |\n| 3    | Swordfish         | Mixed reviews; specifically noted as bland by some.| Repeatedly noted as featured   | Lighter option                |\n\nGood alternates / backup choices  \n- Lobster Ravioli: Described as good but not exceptional.  \n- Steak Hash: Noted for being well-cooked and flavorful, especially during brunch.  \n\nHighlights (non\u2011dish positives from reviews)  \nFood Quality: Many reviewers enjoyed the taste of the food and specific dishes, particularly during brunch.  \nService: Generally characterized as friendly and attentive, enhancing the dining experience.  \n\nCommon Issues (from reviews)  \nService Speed: Reports of slow service during busy hours were noted.  \nDish Quality: Some dishes, like the swordfish, have been labeled as bland, indicating inconsistency in preparation.  \n\nPractical Notes  \nReservation / wait: OpenTable confirmation #63046, 2 guests, Sun Sep 20 at 6:30 PM. 15-minute grace period.  \nAccessibility: Not mentioned  \nParking / transit: Not mentioned  \nBest use case: Best for brunch with friends or casual dinners.",
+        "website": "https://www.google.com/maps/place/Viera+on+Main/@41.6816607,-69.96143,256m/data=!3m1!1e3!4m6!3m5!1s0x89fb14a1df4435d1:0x470de43a93b90b5d!8m2!3d41.6816658!4d-69.9601791!16s%2Fg%2F1thqhszl?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96016347582975,
+          41.6816945027531
         ]
       }
     },
@@ -38485,10 +38557,10 @@
       "type": "Feature",
       "properties": {
         "name": "Woodstock, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "",
+        "description": "Quintessential Vermont shire town renowned for its pristine 19th-century Village Green, covered bridges, preserved carriage roads, farmstead cuisine, and Marsh-Billings-Rockefeller National Historical Park.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },

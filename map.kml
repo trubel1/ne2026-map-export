@@ -182,15 +182,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="s-landmark-orange">
-    <IconStyle>
-      <color>ff00a5ff</color>
-      <scale>0.6</scale>
-      <Icon>
-        <href>https://raw.githubusercontent.com/trubel1/ne2026-map-export/main/icons/landmark.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="s-landmark-purple">
     <IconStyle>
       <color>ff800080</color>
@@ -1255,7 +1246,7 @@
   </Placemark>
   <Placemark>
     <name>Au Comptoir Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Au%20Comptoir%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Au Comptoir is a cocktail bar offering a range of drinks with prices between $20–50 per person. It is open from 3 PM to 10 PM on Thursday to Saturday and has a cozy vibe, serving alcohol.<br/><br/>More info: https://www.google.com/maps/place/Au+Comptoir/@43.6249607,-72.5243349,1203m/data=!3m1!1e3!4m12!1m5!2m4!1srestaurants+with+reservations.+!5m1!4e9!6e5!3m5!1s0x89e1d99b7360666d:0x5c5ce8604b178fe1!8m2!3d43.6249595!4d-72.5175018!16s%2Fg%2F11t80flmqj?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Au%20Comptoir%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Restaurant's own policy is walk-in only -- explicitly does not offer takeout.<br/><br/>More info: https://www.google.com/maps/place/Au+Comptoir/@43.6249607,-72.5243349,1203m/data=!3m1!1e3!4m12!1m5!2m4!1srestaurants+with+reservations.+!5m1!4e9!6e5!3m5!1s0x89e1d99b7360666d:0x5c5ce8604b178fe1!8m2!3d43.6249595!4d-72.5175018!16s%2Fg%2F11t80flmqj?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-beer-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -2282,7 +2273,7 @@
   </Placemark>
   <Placemark>
     <name>Bethel’s Babe’s Bar Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bethel%E2%80%99s%20Babe%E2%80%99s%20Bar%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bethel%E2%80%99s%20Babe%E2%80%99s%20Bar%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- About 25 miles from Woodstock in a different town (Bethel) -- serves only hot dogs/brats and directs food orders to a neighboring restaurant next door -- not a real takeout candidate for this base camp.]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -2386,15 +2377,15 @@
   </Placemark>
   <Placemark>
     <name>Billings Farm &amp; Museum Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Billings%20Farm%20%26%20Museum%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Billings Farm & Museum is a historical museum focused on agriculture and local history. It offers homemade ice cream, seasonal beverages, and is suitable for families. The price for admission is $23. It is open for lunch and dinner, but primarily serves during the day.<br/><br/>More info: https://www.google.com/maps/place/Billings+Farm+%26+Museum/@43.628482,-72.5249256,2212m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!2sMarsh-Billings-Rockefeller+National+Historical+Park!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx!3m5!1s0x89e1d81b8412d4cb:0xda0480210577c0d5!8m2!3d43.6316007!4d-72.5157636!16s%2Fg%2F122qxzvc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-landmark-orange</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Billings%20Farm%20%26%20Museum%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Billings Farm & Museum<br/><br/>📍 69 Old River Rd, Woodstock, VT 05091<br/><br/>Established in 1871 by Frederick Billings as a model for sustainable agriculture and progressive dairy breeding, Billings Farm & Museum is widely recognized as one of the finest operating dairy farms and outdoor agricultural history museums in North America. Located just a short stroll across the Ottauquechee River from central Woodstock, the site maintains a world-renowned herd of purebred Jersey dairy cows, Southdown sheep, and gentle Belgian draft horses. Visitors explore the restored 1890 Farm Manager's House (showcasing 19th-century domestic life and an operational creamery), authentic timber barns, interactive agricultural exhibits, and the Dairy Bar.<br/><br/>Highlights<br/>- Active Jersey Dairy Barns: Meet the award-winning Jersey dairy cows; daily milking demonstrations take place in the afternoon (typically 3:15 PM).<br/>- 1890 Farm Manager's House: Restored multi-story Victorian farmhouse, modern kitchen for its era, creamery cellars, and heritage garden.<br/>- Dairy Bar: Sample award-winning Billings Farm cheddar cheeses (made exclusively with milk from the herd) and artisan Vermont ice cream.<br/><br/>Tips<br/>- Directly across Old River Road from Marsh-Billings-Rockefeller National Historical Park—both properties can easily be combined in a single morning or afternoon.<br/>- The visitor center features a theater screening an orientation film (A Place in the Land) detailing the legacy of conservation in Woodstock.<br/>- Flat, paved walking surfaces throughout make it an easy, accessible stop for visitors of all mobility levels.<br/><br/>More info: https://billingsfarm.org/]]></description>
+    <styleUrl>#s-landmark-purple</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="vault_type"><value>Museum</value></Data>
       <Data name="icon"><value>landmark</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.51562474444776,43.63195823219116,0</coordinates>
+      <coordinates>-72.5158,43.6316,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2616,19 +2607,6 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.835,44.0812,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Bluefins Sushi &amp; Sake Bar Chatham MA</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Bluefins%20Sushi%20%26%20Sake%20Bar%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Bluefins Sushi & Sake Bar offers sushi and seafood, with prices ranging from $50 to $100 per person. It is open for dinner daily with a closing time at 8:30 PM or 9 PM on weekends. Alcohol is served.<br/><br/>More info: https://www.google.com/maps/place/Bluefins+Sushi+%26+Sake+Bar/@41.6801125,-69.9681313,3321m/data=!3m1!1e3!4m6!3m5!1s0x89fb149fa21e4951:0xa56af4b33b22606f!8m2!3d41.6801225!4d-69.9576711!16s%2Fg%2F11bbsz39xk?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-sandwich-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-69.95756199327533,41.68066541362257,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2941,6 +2919,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.909496,44.111764,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brownsville Butcher and Pantry VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Brownsville%20Butcher%20and%20Pantry%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Brownsville Butcher & Pantry<br/><br/>📍 871 VT-44, Brownsville, VT 05037<br/><br/>A butcher shop, market, and cafe in the small village of Brownsville (part of West Windsor), near the Mount Ascutney area -- about 20+ minutes south of Woodstock village, further than most other candidates in this pass.<br/><br/>Tips<br/>- No dedicated `Woodstock, VT` destination note exists for Brownsville/West Windsor specifically -- filed under Woodstock as the nearest existing hub, matching how Hartland and Pomfret places are handled elsewhere in this project.<br/>- Coordinates are approximate (West Windsor/Brownsville village).<br/><br/>More info: https://www.butcherandpantry.com/]]></description>
+    <styleUrl>#s-shopping-bag-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-basket</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6212,43.4802,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -4453,7 +4444,7 @@
   </Placemark>
   <Placemark>
     <name>Cloudland Farm Pomfret VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cloudland%20Farm%20Pomfret%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Cloudland Farm is a farm-to-table restaurant that serves locally sourced, flavorful American cuisine. It typically opens for dinner on Friday and Saturday from 5 PM to 9 PM. Alcohol is likely served, enhancing the dining experience.<br/><br/>More info: https://www.google.com/maps/place/Cloudland+Farm/@43.6903898,-72.5025598,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4d270b94f8c9b:0xff1ffee63ee8020f!8m2!3d43.6903898!4d-72.4999849!16s%2Fg%2F1tcyx0fw?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Cloudland%20Farm%20Pomfret%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Reservation-only fixed 3-course farm dinner, dine-in only -- the on-site farm store sells raw meat/produce, but that's not restaurant takeout.<br/><br/>More info: https://www.google.com/maps/place/Cloudland+Farm/@43.6903898,-72.5025598,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4d270b94f8c9b:0xff1ffee63ee8020f!8m2!3d43.6903898!4d-72.4999849!16s%2Fg%2F1tcyx0fw?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -5623,7 +5614,7 @@
   </Placemark>
   <Placemark>
     <name>Dog Mountain Saint Johnsbury VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dog%20Mountain%20Saint%20Johnsbury%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Dog Mountain<br/><br/>📍 Saint Johnsbury VT<br/><br/>150-acre nonprofit dog park with hiking trails, ponds, and the famous folk-art Dog Chapel built by Stephen Huneck.<br/><br/>Tips<br/>- Free to visit — bring the dog and let them roam off-leash.<br/>- The Dog Chapel is covered wall-to-wall in visitor notes and photos of pets — worth a slow walk through.]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Dog%20Mountain%20Saint%20Johnsbury%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-31T10:30:00<br/><br/>Dog Mountain<br/><br/>📍 Saint Johnsbury VT<br/><br/>150-acre nonprofit dog park with hiking trails, ponds, and the famous folk-art Dog Chapel built by Stephen Huneck. About 45–55 minutes from Littleton — the main stop of the day, not a full hike.<br/><br/>Tips<br/>- Free to visit — bring the dog and let them roam off-leash.<br/>- Picnic here with Robby: pick up sandwiches to go at Eastern & Main Market Deli downtown on the way in (~10 min detour), then eat in the meadow near the chapel and ponds — this is a well-known picnic spot for people and dogs together, and combines lunch with the dog stop instead of two separate stops.<br/>- The Dog Chapel is covered wall-to-wall in visitor notes and photos of pets — worth a slow walk through.<br/>- Trail length: ~3 miles of trails total on the property. The main marked Yellow/Green/Blue Trail Loop is 1.5 miles, easy, ~265 ft elevation gain, ~42 minutes — starts at the Angel Dog Overlook near the chapel. Plenty of shorter meadow paths too if the full loop isn't wanted that day.<br/>- Best approach: start at the Dog Chapel and Angel Dog memorial area, then take the gentlest paths through the meadow and woods. Turn around after about 30 minutes outward.<br/>- Mobility note: stay close to the chapel, fields, and lower paths — this is not a summit hike. The setting gives a very good outing without needing to cover much distance.<br/>- Allow 90 minutes total, including the picnic.<br/><br/>More info: https://www.dogmt.com/visit/]]></description>
     <styleUrl>#s-footprints-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Footpath</value></Data>
@@ -5792,7 +5783,7 @@
   </Placemark>
   <Placemark>
     <name>Drifters Chatham MA</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Drifters%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview  <br/>Type: Restaurant  <br/>  <br/>Best known for: Fresh oysters and delicious pasta dishes.  <br/>  <br/>Location context: 2642 Main St  <br/>  <br/>Price level: $30–50 per person  <br/>  <br/>Visit timing: Opens at 5 PM daily  <br/>  <br/>Typical Customers  <br/>Demographics: Locals and tourists  <br/>  <br/>Group types: Couples, friends, families  <br/>  <br/>Common occasions: Casual dinner, date night  <br/>  <br/>Vibe & Setting  <br/>Atmosphere: Casual, cozy with a pub vibe  <br/>  <br/>Noise level: Moderate  <br/>  <br/>Decor & setting: Indoor seating, warm ambiance  <br/>  <br/>Service style: Attentive and friendly  <br/>  <br/>Recommended Dishes  <br/>Overall dish consensus  <br/>Reviewers consistently praise the moules frites, wings, and pasta dishes like the short rib pasta.  <br/>  <br/>How “top dishes” are determined  <br/>Top dishes are identified based on items frequently mentioned in reviews, noted as popular, or highlighted in photos.  <br/>  <br/>| Rank | Dish                | Why it stands out                                     | How often it’s mentioned         | Ideal for                  |<br/>|------|--------------------|------------------------------------------------------|----------------------------------|-----------------------------|<br/>| 1    | Moules Frites      | Praised for fresh flavor and perfect preparation.    | Mentioned in many reviews        | Sharing at the table       |<br/>| 2    | Short Rib Pasta    | Celebrated for rich taste and hearty portion size.   | Repeatedly called out as a favorite| Hearty main               |<br/>| 3    | Buffalo Wings      | Known for excellent flavor and crispy texture.       | Appears in numerous reviews      | Casual snacks              |<br/>  <br/>Good alternates / backup choices  <br/>- Jayne Burger: Noted for its satisfying flavor, ideal for burger enthusiasts.  <br/>- Chicken Wings: Consistently good for sharing or as snacks.  <br/>- Espresso Martini: Complimented for a strong, delightful flavor.  <br/>  <br/>Highlights (non‑dish positives from reviews)  <br/>Service quality: Staff is described as personable and knowledgeable, enhancing the dining experience.  <br/>  <br/>Atmosphere: The cozy pub-like environment contributes to a laid-back dining vibe, making it inviting.  <br/>  <br/>Common Issues (from reviews)  <br/>Timing of service: Some reviews mention occasional slower service, but it's not considered a significant issue.  <br/>  <br/>Practical Notes  <br/>Reservation / wait: Walk-in friendly, but reservations are advisable during peak times.  <br/>  <br/>Accessibility: Not mentioned  <br/>  <br/>Parking / transit: Street parking available; not mentioned if there's valet.  <br/>  <br/>Best use case: Great for casual dinner dates or meals with friends.<br/><br/>More info: https://www.google.com/maps/place/Drifters/@41.6784654,-70.0288148,351m/data=!3m1!1e3!4m11!1m3!2m2!1sfresh+oysters!6e5!3m6!1s0x89fb154b06b94e55:0x5c6ec2bf8e3b840b!8m2!3d41.6789929!4d-70.0268719!15sCg1mcmVzaCBveXN0ZXJzWg8iDWZyZXNoIG95c3RlcnOSAQpyZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwa05sVlVVbFJqVkZKdlRtMDRkRmt5YkhCT1ZHUjZZbFJzWmxZeFJSQULgAQD6AQUIugEQNA!16s%2Fg%2F11s2l4371s?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Drifters%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!warning] Hours correction (2026-08-30)<br/>Original research had `Days Closed: Mon–Tue`, which was wrong — confirmed via hyperlocalcapecod. that Drifters is actually closed Sundays, open Mon–Sat 5PM–midnight (off-season hours). Caught while trying to book a Sunday dinner.<br/><br/>Overview  <br/>Type: Restaurant  <br/>  <br/>Best known for: Fresh oysters and delicious pasta dishes.  <br/>  <br/>Location context: 2642 Main St  <br/>  <br/>Price level: $30–50 per person  <br/>  <br/>Visit timing: Opens at 5 PM daily  <br/>  <br/>Typical Customers  <br/>Demographics: Locals and tourists  <br/>  <br/>Group types: Couples, friends, families  <br/>  <br/>Common occasions: Casual dinner, date night  <br/>  <br/>Vibe & Setting  <br/>Atmosphere: Casual, cozy with a pub vibe  <br/>  <br/>Noise level: Moderate  <br/>  <br/>Decor & setting: Indoor seating, warm ambiance  <br/>  <br/>Service style: Attentive and friendly  <br/>  <br/>Recommended Dishes  <br/>Overall dish consensus  <br/>Reviewers consistently praise the moules frites, wings, and pasta dishes like the short rib pasta.  <br/>  <br/>How “top dishes” are determined  <br/>Top dishes are identified based on items frequently mentioned in reviews, noted as popular, or highlighted in photos.  <br/>  <br/>| Rank | Dish                | Why it stands out                                     | How often it’s mentioned         | Ideal for                  |<br/>|------|--------------------|------------------------------------------------------|----------------------------------|-----------------------------|<br/>| 1    | Moules Frites      | Praised for fresh flavor and perfect preparation.    | Mentioned in many reviews        | Sharing at the table       |<br/>| 2    | Short Rib Pasta    | Celebrated for rich taste and hearty portion size.   | Repeatedly called out as a favorite| Hearty main               |<br/>| 3    | Buffalo Wings      | Known for excellent flavor and crispy texture.       | Appears in numerous reviews      | Casual snacks              |<br/>  <br/>Good alternates / backup choices  <br/>- Jayne Burger: Noted for its satisfying flavor, ideal for burger enthusiasts.  <br/>- Chicken Wings: Consistently good for sharing or as snacks.  <br/>- Espresso Martini: Complimented for a strong, delightful flavor.  <br/>  <br/>Highlights (non‑dish positives from reviews)  <br/>Service quality: Staff is described as personable and knowledgeable, enhancing the dining experience.  <br/>  <br/>Atmosphere: The cozy pub-like environment contributes to a laid-back dining vibe, making it inviting.  <br/>  <br/>Common Issues (from reviews)  <br/>Timing of service: Some reviews mention occasional slower service, but it's not considered a significant issue.  <br/>  <br/>Practical Notes  <br/>Reservation / wait: Walk-in friendly, but reservations are advisable during peak times.  <br/>  <br/>Accessibility: Not mentioned  <br/>  <br/>Parking / transit: Street parking available; not mentioned if there's valet.  <br/>  <br/>Best use case: Great for casual dinner dates or meals with friends.<br/><br/>More info: https://www.google.com/maps/place/Drifters/@41.6784654,-70.0288148,351m/data=!3m1!1e3!4m11!1m3!2m2!1sfresh+oysters!6e5!3m6!1s0x89fb154b06b94e55:0x5c6ec2bf8e3b840b!8m2!3d41.6789929!4d-70.0268719!15sCg1mcmVzaCBveXN0ZXJzWg8iDWZyZXNoIG95c3RlcnOSAQpyZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwa05sVlVVbFJqVkZKdlRtMDRkRmt5YkhCT1ZHUjZZbFJzWmxZeFJSQULgAQD6AQUIugEQNA!16s%2Fg%2F11s2l4371s?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -5970,6 +5961,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.250634,44.376513,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eastern &amp; Main Market Deli Saint Johnsbury VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Eastern%20%26%20Main%20Market%20Deli%20Saint%20Johnsbury%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-31T10:00:00<br/><br/>Eastern & Main Market - Deli<br/><br/>📍 1194 Main St Ste 101, Saint Johnsbury, VT 05819<br/><br/>A made-to-order sandwich/deli counter right on Main Street in downtown St. Johnsbury. Chosen specifically because it's open Monday (7:30am–8pm) — three other dog-friendly-patio candidates researched for this stop (Ledges Restaurant, 98 Mill, Papa Tirozzi Bakery & Pizza) all turned out to be closed Mondays or dinner-only, which a first pass at this recommendation missed.<br/><br/>Tips<br/>- Order to go here first, then drive the ~10 minutes to Dog Mountain and picnic there with Robby — combines lunch and the dog stop into one relaxed outing instead of two separate stops, and lets Robby actually be part of the meal.<br/>- Right on Main Street, an easy walk from the St. Johnsbury Athenaeum (exterior only worth a quick look while waiting on the order — the dog can't go inside) and the historic downtown.<br/>- Coordinates are the downtown St. Johnsbury center, not the exact storefront — close enough for GPS, not pixel-precise.<br/><br/>Sources: Eastern & Main Market Deli<br/><br/>More info: https://www.easternandmaindeli.com/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.0148,44.4195,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -6377,7 +6381,7 @@
   </Placemark>
   <Placemark>
     <name>F. H. Gillingham &amp; Sons Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/F.%20H.%20Gillingham%20%26%20Sons%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/F.%20H.%20Gillingham%20%26%20Sons%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>F.H. Gillingham & Sons<br/><br/>📍 16 Elm St, Woodstock, VT 05091<br/><br/>Founded by Frank Henry Gillingham in 1886 and operated continuously by the same family for generations, F.H. Gillingham & Sons is a quintessential Vermont country emporium. Occupying an authentic brick building with original hardwood floors, high tin ceilings, and antique wood counters, Gillingham’s embodies the classic New England general store tradition: under one roof you'll find everything from local farmstead cheeses cut to order to classic workwear, cast iron cookware, and gardening tools. The specialty food department is widely recognized as one of the best in northern New England, curated with local preserves, small-batch maple syrups, Vermont wines, and artisan provisions.<br/><br/>Highlights<br/>- Cheese Counter: Extensive collection of aged Vermont cheddars (including Grafton Village, Cabot Clothbound, and local Woodstock cheeses) available for sampling and custom cutting.<br/>- Maple & Provisions: Premium small-batch pure Vermont maple syrup, maple candy, local honey, and house-blended seasonings.<br/>- Wine & Craft Beverages: Curated cellar section featuring Vermont hard ciders, regional craft beers, and imported wines.<br/><br/>Tips<br/>- Located just half a block north of the Middle Covered Bridge on Elm Street.<br/>- Staff will vacuum-pack cheeses or prepare gift boxes for safe travel and shipping back home.<br/>- Don't miss exploring the back rooms, where classic hardware, gardening supplies, and kitchen goods maintain the store's practical 19th-century utility.<br/><br/>More info: https://www.gillinghams.com/]]></description>
     <styleUrl>#s-shopping-bag-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Shop</value></Data>
@@ -6385,7 +6389,7 @@
       <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.5187746,43.6255361,0</coordinates>
+      <coordinates>-72.5188,43.6255,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -6425,19 +6429,6 @@
     </ExtendedData>
     <Point>
       <coordinates>-73.9343,41.7821,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>FH Gillingham Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/FH%20Gillingham%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-shopping-bag-purple</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Shop</value></Data>
-      <Data name="icon"><value>shopping-bag</value></Data>
-      <Data name="color"><value>purple</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.5187746,43.6255361,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -7507,6 +7498,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Green Mountain Horse Association South Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Green%20Mountain%20Horse%20Association%20South%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Green Mountain Horse Association<br/><br/>📍 South Woodstock, VT<br/><br/>A nonprofit equestrian center in South Woodstock hosting clinics and competitions in dressage, driving, eventing, hunter/jumper, and endurance/trail riding, with stabling for nearly 200 horses. Worth a look for anyone interested in horses even without attending a scheduled event -- check their calendar for open competitions during the stay.<br/><br/>Tips<br/>- Near The Ransom Tavern in South Woodstock -- easy to combine if there's an event on.<br/>- Check gmhainc. for the current event calendar before making a special trip -- it's primarily a competition venue, not a walk-in attraction.<br/><br/>More info: http://www.gmhainc.org/]]></description>
+    <styleUrl>#s-landmark-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.535,43.573,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Green Mountain Railroad White River Junction VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Green%20Mountain%20Railroad%20White%20River%20Junction%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Green Mountain Railroad (White River Junction)<br/><br/>📍 106 Railroad Row, White River Junction, VT<br/><br/>The Green Mountain Railroad runs three Vermont excursion routes; the White River Flyer departed Union Depot here for Norwich and the Montshire Museum of Science, tracing the Connecticut River with White Mountain foothill views and passing a causeway wildlife sanctuary. A historic 1892 steam engine, "Old 494," is displayed in the adjacent Depot Park.<br/><br/>Tips<br/>- Recent listings mark the White River Junction operation as closed — verify current status before planning around it; the Green Mountain Railroad's other routes (Burlington–Charlotte, Bellows Falls–Chester) may still be running.<br/>- Depot Park and "Old 494" are worth a quick look even if the excursion train isn't operating.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.6487%2C%20-72.3179]]></description>
     <styleUrl>#s-fuel-green</styleUrl>
@@ -7647,6 +7651,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.0369,43.6558,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hall Art Foundation Reading VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Hall%20Art%20Foundation%20Reading%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Hall Art Foundation<br/><br/>📍 544 VT Route 106, Reading, VT 05062<br/><br/>A contemporary art museum housed in a converted historic dairy barn complex, showing works from the Hall Collection -- a surprising find of serious contemporary art in a rural Vermont setting.<br/><br/>Tips<br/>- Seasonal, weekends only: open May through November, Saturdays and Sundays, with timed self-guided entry (11am/12pm/1pm/2pm/3pm, last entry 3:30pm, galleries close 4pm). Reserve a timed entry rather than just showing up.<br/>- Doesn't apply outside the May-November season -- check current-year dates before planning.<br/><br/>More info: https://hallartfoundation.org/vermont/]]></description>
+    <styleUrl>#s-scroll-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Museum</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5813,43.5197,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -9341,12 +9358,12 @@
   </Placemark>
   <Placemark>
     <name>Killington Resort VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Killington%20Resort%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Killington%20Resort%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Killington Resort<br/><br/>📍 4763 Killington Rd, Killington, VT<br/><br/>Vermont's largest ski resort keeps running through the warmer months: the K-1 Gondola carries riders to Killington Peak's 4,241-foot summit for panoramic views across the Green Mountains, and the Killington Bike Park — one of the largest lift-served mountain-bike parks in the eastern US — covers dozens of downhill trails for all skill levels. The resort sits right at Sherburne Pass, the historic gap through the Green Mountains where the Appalachian and Long Trails cross Route 4 — the trailhead for Deer Leap Mountain starts here, and the pass itself is a well-known hiking hub independent of the resort's lift-served activities.<br/><br/>Tips<br/>- The K-1 Gondola runs seasonally (typically late spring through fall foliage) — confirm operating dates before counting on it.<br/>- The bike park requires its own lift ticket/rental setup, separate from the gondola sightseeing ticket — decide in advance which experience is wanted.<br/>- Sherburne Pass, right at the base, is the same trailhead used for Deer Leap Mountain — an easy pairing if a short hike is wanted alongside the resort's own activities.<br/><br/>More info: https://www.killington.com]]></description>
+    <styleUrl>#s-mountain-green</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>green</value></Data>
     </ExtendedData>
     <Point>
       <coordinates>-72.7967711,43.6094233,0</coordinates>
@@ -9376,6 +9393,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.531547866169,44.033090990902835,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>King Farm Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/King%20Farm%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>King Farm<br/><br/>📍 King Farm, Woodstock, VT<br/><br/>Owned and managed by the Vermont Land Trust since 1986, King Farm is a 154-acre working and conserved landscape rising from the Ottauquechee River to open, sweeping views across the valley. Its trail network is free and open to the public — no fees, no reservations — and links directly into the neighboring Marsh-Billings-Rockefeller National Historical Park's carriage-road system, making it easy to combine both properties into one longer, entirely easy walk. Community gardens and occasional public art/events add some local color beyond the trails themselves.<br/><br/>Tips<br/>- Trails are free, open, and genuinely easy — wide farm-road and field-edge walking, not technical terrain.<br/>- Dogs are welcome throughout; leash up specifically near the farmstead buildings, where the property still functions as a working farm.<br/>- Connects directly to Marsh-Billings-Rockefeller's own carriage roads (Mt Tom / The Pogue / Aqueduct Trails) — a good add-on rather than a separate outing if more mileage is wanted.<br/>- The river-valley views from the upper fields are considered among the best easy-access views in the Woodstock area.<br/><br/>More info: https://vlt.org/featured-properties/king-farm/]]></description>
+    <styleUrl>#s-footprints-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5504,43.6247,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -10120,8 +10150,21 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Littleton Freehouse Taproom &amp; Eatery 1 Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Littleton%20Freehouse%20Taproom%20%26%20Eatery%201%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Restaurant<br/><br/>Best known for: Excellent salmon and a great selection of beer.<br/><br/>Location context: Littleton, NH<br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not mentioned<br/><br/>Typical Customers<br/>Demographics: Families and groups.<br/><br/>Group types: Couples, friends, families, larger groups.<br/><br/>Common occasions: Casual dinner, family outings.<br/><br/>Vibe & Setting<br/>Atmosphere: Casual and family-friendly.<br/><br/>Noise level: Moderate.<br/><br/>Decor & setting: Indoor seating with a bar area.<br/><br/>Service style: Attentive and friendly.<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Reviewers highlight the macaroni and cheese, chicken sandwich, and ahi tuna tacos as must-order items due to their flavor and presentation.<br/><br/>How “top dishes” are determined<br/>Top dishes are selected based on their appearance in menu items, reviews mentioning their quality, and their presence in photographs shared by visitors.<br/><br/>| Rank | Dish                    | Why it stands out                                      | How often it’s mentioned      | Ideal for                |<br/>|------|-------------------------|------------------------------------------------------|------------------------------|--------------------------|<br/>| 1    | Macaroni and cheese     | Creamy texture and rich flavor, often praised.       | Mentioned in many reviews    | Sharing at the table     |<br/>| 2    | Ahi tuna tacos          | Fresh and full of flavor, called a favorite.         | Repeatedly called out as a favorite | Light meal option        |<br/>| 3    | Chicken sandwich        | Tender chicken with great seasoning.                  | Appears in numerous photos   | Hearty main              |<br/><br/>Good alternates / backup choices<br/>- Chicken wings: Known for being crispy and flavorful.<br/>- Hamburger: Generous portions and well-cooked.<br/><br/>Highlights (non‑dish positives from reviews)<br/>Great selection of beer: Many reviewers enjoy the variety and quality of beer available.<br/><br/>Friendly service: Staff consistently praised for being welcoming and attentive.<br/><br/>Common Issues (from reviews)<br/>Slower service during peak hours: Some reviews mention longer wait times when the restaurant is busy.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Street parking available.<br/><br/>Best use case: Great for family dinners or casual outings with friends.<br/><br/>More info: https://www.google.com/maps/place/Littleton+Freehouse+Taproom+%26+Eatery/@44.3032808,-71.7697128,616m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46fbe7c871e43:0xcacc403553108b64!8m2!3d44.3051537!4d-71.7701103!16s%2Fg%2F11g22yf8qr?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-beer-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Brewery</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.77005103022607,44.30510515151872,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Littleton Freehouse Taproom &amp; Eatery Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Littleton%20Freehouse%20Taproom%20%26%20Eatery%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Restaurant<br/><br/>Best known for: Excellent salmon, great selection of beer<br/><br/>Location context: Littleton, New Hampshire<br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not mentioned<br/><br/>Typical Customers<br/>Demographics: Mixed<br/><br/>Group types: Families, couples, friends<br/><br/>Common occasions: Casual dinner, family-friendly outings<br/><br/>Vibe & Setting<br/>Atmosphere: Casual, friendly<br/><br/>Noise level: Moderate<br/><br/>Decor & setting: Indoor and outdoor seating, bar area<br/><br/>Service style: Attentive and friendly<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Popular dishes include the salmon, chicken wing, and bacon habanero burger, noted for their flavors and serving sizes. Reviewers specifically mentioned the enjoyment of food and drinks.<br/><br/>How “top dishes” are determined<br/>Top dishes are chosen based on those frequently highlighted in reviews and visible in photos, alongside being frequently praised. <br/><br/>| Rank | Dish                        | Why it stands out                       | How often it’s mentioned         | Ideal for                 |<br/>|------|-----------------------------|-----------------------------------------|----------------------------------|---------------------------|<br/>| 1    | Salmon                      | Excellent flavor and preparation        | Mentioned in several reviews     | Hearty main               |<br/>| 2    | Bacon Habanero Burger       | Unique flavor, well-loved by patrons   | Repeatedly called out as a favorite | Spice lovers              |<br/>| 3    | Chicken Wings               | Tasty and well-cooked                  | Appears in numerous photos      | Sharing at the table      |<br/><br/>Good alternates / backup choices<br/>- Ahi Tuna Tacos: Notably delicious and praised for its flavor.<br/>- Macaroni and Cheese: Creamy and rich, called a favorite in some reviews.<br/>- Chicken Sandwich: Tender chicken with great seasoning.<br/>- Beet and Goat Cheese Salad: Mixed reviews; some found it mediocre.<br/><br/>Highlights (non‑dish positives from reviews)<br/>Service: Short wait time, attentive staff noted across reviews.<br/><br/>Atmosphere: Family-friendly ambiance has been frequently praised.<br/><br/>Beer selection: Reviewers also note a great selection of beer.<br/><br/>Common Issues (from reviews)<br/>Quality inconsistency: Some dishes, like the beet salad, received mixed feedback.<br/><br/>Peak-hour service: Some reviews mention slower service when the restaurant is busy.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly<br/><br/>Accessibility: Not mentioned<br/><br/>Parking / transit: Street parking available<br/><br/>Best use case: Good for family dinners and casual gatherings.<br/><br/>More info: https://www.google.com/maps/place/Littleton+Freehouse+Taproom+%26+Eatery/@44.3051537,-71.7726852,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb46fbe7c871e43:0xcacc403553108b64!8m2!3d44.3051537!4d-71.7701103!16s%2Fg%2F11g22yf8qr?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Littleton%20Freehouse%20Taproom%20%26%20Eatery%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Restaurant<br/><br/>Best known for: Excellent salmon, great selection of beer<br/><br/>Location context: Littleton, New Hampshire<br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not mentioned<br/><br/>Typical Customers<br/>Demographics: Mixed<br/><br/>Group types: Families, couples, friends<br/><br/>Common occasions: Casual dinner, family-friendly outings<br/><br/>Vibe & Setting<br/>Atmosphere: Casual, friendly<br/><br/>Noise level: Moderate<br/><br/>Decor & setting: Indoor and outdoor seating, bar area<br/><br/>Service style: Attentive and friendly<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Popular dishes include the salmon, chicken wing, and bacon habanero burger, noted for their flavors and serving sizes. Reviewers specifically mentioned the enjoyment of food and drinks.<br/><br/>How “top dishes” are determined<br/>Top dishes are chosen based on those frequently highlighted in reviews and visible in photos, alongside being frequently praised. <br/><br/>| Rank | Dish                        | Why it stands out                       | How often it’s mentioned         | Ideal for                 |<br/>|------|-----------------------------|-----------------------------------------|----------------------------------|---------------------------|<br/>| 1    | Salmon                      | Excellent flavor and preparation        | Mentioned in several reviews     | Hearty main               |<br/>| 2    | Bacon Habanero Burger       | Unique flavor, well-loved by patrons   | Repeatedly called out as a favorite | Spice lovers              |<br/>| 3    | Chicken Wings               | Tasty and well-cooked                  | Appears in numerous photos      | Sharing at the table      |<br/><br/>Good alternates / backup choices<br/>- Ahi Tuna Tacos: Notably delicious and praised for its flavor.<br/>- Beet and Goat Cheese Salad: Mixed reviews; some found it mediocre.<br/><br/>Highlights (non‑dish positives from reviews)<br/>Service: Short wait time, attentive staff noted across reviews.<br/><br/>Atmosphere: Family-friendly ambiance has been frequently praised.<br/><br/>Common Issues (from reviews)<br/>Quality inconsistency: Some dishes, like the beet salad, received mixed feedback.<br/><br/>Practical Notes<br/>Reservation / wait: Not mentioned<br/><br/>Accessibility: Not mentioned<br/><br/>Parking / transit: Not mentioned<br/><br/>Best use case: Good for family dinners and casual gatherings.<br/><br/>More info: https://www.google.com/maps/place/Littleton+Freehouse+Taproom+%26+Eatery/@44.3051537,-71.7726852,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb46fbe7c871e43:0xcacc403553108b64!8m2!3d44.3051537!4d-71.7701103!16s%2Fg%2F11g22yf8qr?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-beer-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Brewery</value></Data>
@@ -10862,7 +10905,7 @@
   </Placemark>
   <Placemark>
     <name>Mangalitsa Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mangalitsa%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mangalitsa is a farm-to-table restaurant specializing in American cuisine, known for its use of Mangalitsa pork. It is currently temporarily closed. Typically, it operates for dinner service. The restaurant is known to serve alcohol.<br/><br/>More info: https://www.google.com/maps/place/Mangalitsa/@43.6255418,-72.5163748,146m/data=!3m2!1e3!5s0x89e1d821c0bf85f9:0x104c9f0578ee2d0d!4m6!3m5!1s0x89e1d821c1b66ab5:0xe9210bdc5c9beae9!8m2!3d43.6257705!4d-72.5163879!16s%2Fg%2F11fzf5dql7?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mangalitsa%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- This note's own makerez field flags the restaurant as temporarily closed for renovation as of this pass -- takeout is otherwise offered, but don't recommend a currently-closed restaurant. Re-check before excluding permanently.<br/><br/>More info: https://www.google.com/maps/place/Mangalitsa/@43.6255418,-72.5163748,146m/data=!3m2!1e3!5s0x89e1d821c0bf85f9:0x104c9f0578ee2d0d!4m6!3m5!1s0x89e1d821c1b66ab5:0xe9210bdc5c9beae9!8m2!3d43.6257705!4d-72.5163879!16s%2Fg%2F11fzf5dql7?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -10965,16 +11008,16 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Marsh-Billings-Rockefeller National Historical Park 1 Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Marsh-Billings-Rockefeller%20National%20Historical%20Park%201%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Carriage Barn Visitor Center is a historical landmark offering educational tours about dairy farming. It does not appear to serve food. The information about lunch or dinner service is not available. It does not specify alcohol service.<br/><br/>More info: https://www.google.com/maps/place/Marsh-Billings-Rockefeller+National+Historical+Park/@43.628482,-72.5249256,2212m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!2sMarsh-Billings-Rockefeller+National+Historical+Park!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx!3m5!1s0x89e1d81e634b8e5d:0xe286e927432ae57a!8m2!3d43.6311474!4d-72.5178484!16zL20vMDUzM2Yx?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-landmark-orange</styleUrl>
+    <name>Marsh-Billings-Rockefeller National Historical Park Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Marsh-Billings-Rockefeller%20National%20Historical%20Park%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Marsh-Billings-Rockefeller National Historical Park<br/><br/>📍 54 Elm St, Woodstock, VT 05091<br/><br/>Established in 1998, Marsh-Billings-Rockefeller National Historical Park is Vermont’s only national park and the only unit in the National Park System dedicated to the history and evolution of conservation stewardship. The property was the boyhood home of George Perkins Marsh (pioneering conservationist and author of Man and Nature), later developed into a sustainable scientific tree plantation and estate by railway magnate Frederick Billings, and finally preserved by Billings’s granddaughter Mary French Rockefeller and her husband Laurance Rockefeller. The park encompasses 550 acres of managed woodland laced with 20 miles of gently graded 19th-century carriage roads that wind through towering hemlock, spruce, and sugar maple groves up to The Pogue, a tranquil 14-acre pond nestled high in the forest hills.<br/><br/>Highlights<br/>- Carriage Road Network: Twenty miles of wide, smooth gravel and packed-earth carriage roads engineered in the 1880s for horse-drawn travel, providing exceptionally smooth, gentle walking.<br/>- The Pogue: A pristine, 14-acre hilltop pond surrounded by dense forest, reachable via an easy 1.5-mile carriage road walk from the Forest Center.<br/>- Mansion & Grounds: Tours of the opulent Queen Anne-style mansion, formal gardens, and historic greenhouse filled with orchid collections.<br/><br/>Tips<br/>- Stop first at the Carriage Barn Visitor Center for trail maps, ranger advice, and estate grounds history.<br/>- Parking at the park's Forest Center is limited; overflow parking is readily available across the road at Billings Farm & Museum.<br/>- The carriage roads offer some of the most accessible, high-grade walking in the region with wide pathways and manageable slopes.<br/>- Dogs are welcome on all carriage roads on a 6-foot leash; carry waste bags.<br/>- Seamlessly connects with trails ascending Mount Tom and across Old River Road to Billings Farm & Museum.<br/><br/>More info: https://www.nps.gov/mabi/index.htm]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>landmark</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="vault_type"><value>Park</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.51788961559217,43.63157681584403,0</coordinates>
+      <coordinates>-72.5178,43.6311,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11290,6 +11333,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Middle Covered Bridge &amp; Village Green Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Middle%20Covered%20Bridge%20%26%20Village%20Green%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Middle Covered Bridge & Village Green<br/><br/>📍 Mountain Avenue & Elm Street, Woodstock, VT 05091<br/><br/>The Middle Covered Bridge sits at the very heart of Woodstock, spanning the Ottauquechee River between Mountain Avenue and the head of the historic Village Green. Constructed in 1969 by renowned master bridge-builder Milton Graton, it was the first traditional timber covered bridge erected in the state of Vermont in over 80 years. Built using authentic Town lattice truss engineering held together with wooden treenails (trunnels) rather than modern metal spikes, the bridge features a 139-foot roadway with an adjoining covered pedestrian walkway along its south flank. It serves as the primary gateway linking the residential neighborhood at the foot of Mount Tom directly with the shops, historic brick townhouses, and cafes of Central Street.<br/><br/>Highlights<br/>- Pedestrian Walkway: Stroll safely through the dedicated timber-framed foot passage with river views through rectangular observation ports.<br/>- Village Green: Woodstock's classic oval green, laid out in 1793, surrounded by Federal, Greek Revival, and Georgian architecture, including the Norman Williams Public Library and the Woodstock Inn.<br/>- Fall & Winter Character: Beautifully framed by sugar maples in autumn and illuminated with festive wreaths and holiday greenery in winter.<br/><br/>Tips<br/>- Park once in the municipal lot behind Central Street or along the Village Green to explore the bridge and downtown shops entirely on foot.<br/>- Directly adjacent to Elm Street shops (including F.H. Gillingham & Sons) and a five-minute stroll to the historic Riverwalk trail.<br/>- Great photography vantage point from the riverbanks or looking east through the portals toward the town's historic spires.<br/><br/>More info: https://www.woodstockvt.com/things-to-do/covered-bridges]]></description>
+    <styleUrl>#s-landmark-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5186,43.6261,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mill Brook Preserve Searsport ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mill%20Brook%20Preserve%20Searsport%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mill Brook Preserve<br/><br/>📍 Goodell St, Searsport, ME (walk 0.3 mi in from the municipal lot — no parking currently at the preserve itself)<br/><br/>A 44 ft hemlock-decked bridge spans Mill Brook in a steep, forested valley — walking distance from Searsport's schools, used as an outdoor-education 'Learning Landscape.' Great for fishing. Conserved 2021, thanks to Linda and Jim Babb.<br/><br/>Tips<br/>- No parking at the preserve — park in the public lot on Goodell St and walk 0.3 mi (look for the grassy road entrance next to a red fire hydrant)<br/>- Trail currently dead-ends at 0.3 mi<br/><br/>More info: https://www.coastalmountains.org]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -11551,15 +11607,15 @@
   </Placemark>
   <Placemark>
     <name>Mon Vert Café Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mon%20Vert%20Caf%C3%A9%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-star-green</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mon%20Vert%20Caf%C3%A9%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mon Vert Cafe<br/><br/>📍 28 Central St, Woodstock, VT 05091<br/><br/>Positioned along Central Street in the heart of downtown Woodstock, Mon Vert Cafe is the town’s undisputed daily morning hub. Serving 100% certified organic fair-trade coffee and espresso drinks, the cafe is dedicated to supporting regional agriculture, sourcing dairy, meats, eggs, and produce directly from local Vermont family farms. The interior features exposed brick walls, warm wooden seating, a sunlit upstairs loft, and sidewalk bistro tables overlooking Central Street.<br/><br/>Must Order<br/>- The Vermonter Breakfast Sandwich — Local pasture-raised egg, thick-cut cob-smoked bacon, sharp Vermont cheddar, and pure maple butter on a warm house-baked buttermilk biscuit or toasted sourdough.<br/>- Cardamom Knot or Cinnamon Brioche — Baked fresh every morning in the pastry case.<br/>- Maple Latte — Rich double espresso steamed with local organic milk and sweetened with pure Grade A Vermont maple syrup.<br/>- Farmstead Lunch Bowls & Soups — Rotating seasonal grain bowls, warm quiches, and homemade tomato basil soup.<br/><br/>Tips<br/>- Morning lines can stretch onto Central Street during peak foliage and summer weekends; order ahead online via their website for express counter pickup.<br/>- The upstairs seating loft offers a quiet, relaxed perch for coffee away from the front counter buzz.<br/>- Dog-friendly sidewalk seating out front during warm weather.<br/><br/>More info: https://monvertcafe.com/]]></description>
+    <styleUrl>#s-coffee-purple</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>Attraction</value></Data>
-      <Data name="icon"><value>star</value></Data>
-      <Data name="color"><value>green</value></Data>
+      <Data name="vault_type"><value>Cafe</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.5169875,43.6258687,0</coordinates>
+      <coordinates>-72.517,43.6259,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -12031,6 +12087,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Mount Peg Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Peg%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Peg<br/><br/>📍 Mount Peg Park, Woodstock, VT<br/><br/>Mount Peg Park is a Town of Woodstock conservation property managed by the Billings Park Commission, grown to its current size in part through a 2002 community land addition. Its network of historic foot and bridle trails — literally built for horse-drawn carriage-era use, the same genre of wide, smooth walking surface as the carriage roads at Marsh-Billings-Rockefeller — makes it one of the easiest, most reliable dog-walking destinations right at the edge of the village, without needing to drive out to the National Historical Park.<br/><br/>Tips<br/>- Two main options: the Mount Peg Loop (1.4 miles, ~344 ft gain) and the longer Foot and Bridle Trails loop (1.9 miles, ~341 ft gain) — both easy, rolling, well-graded walking.<br/>- Dogs must stay leashed here — this is not the same as the nearby Aqueduct Trails, which are Woodstock's one off-leash exception.<br/>- A good lower-key alternative to Mt Tom/The Pogue on a day when the Marsh-Billings-Rockefeller carriage roads feel too busy.<br/><br/>More info: https://www.woodstockvt.com/things-to-do/hiking-running/]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.515,43.616,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mount Percival Preserve Northport ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Percival%20Preserve%20Northport%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Percival Preserve<br/><br/>📍 Upper Bluff Rd, Northport, ME (entrance across from the mailbox marked 220 Upper Bluff Rd)<br/><br/>A gradual climb to a 410 ft summit with the foundation of an early-1900s rusticator's tower and cistern — expansive Penobscot Bay/Camden Hills views existed then, though the grown-in forest mostly blocks them now. Donated by the Hildreth family, transferred from Maine Coast Heritage Trust in 2003.<br/><br/>Tips<br/>- Roadside parking only — no dedicated lot<br/>- Short trail (0.3 mi one-way) but real history at the summit ruins<br/><br/>More info: https://www.coastalmountains.org]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -12041,6 +12110,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.95575,44.35783,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Tom South Peak via Carriage Road Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mount%20Tom%20South%20Peak%20via%20Carriage%20Road%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mount Tom (South Peak via Carriage Road)<br/><br/>📍 Marsh-Billings-Rockefeller National Historical Park / River Road, Woodstock, VT<br/><br/>Ascending Mount Tom to its South Peak (1,250 ft) is Woodstock's signature scenic walk. Unlike steep, rocky mountain scrambles elsewhere in New England, this ascent utilizes the impeccably engineered 19th-century carriage road system of Marsh-Billings-Rockefeller National Historical Park. Graded in the 1880s for horse-drawn carriages, the wide, smooth gravel road switchbacks at a gentle, steady incline through mature sugar maple and hemlock stands. The walk takes roughly 30 to 45 minutes from the trailhead, terminating at an open rock ledge anchored by an iconic stone bench and summit cross, revealing a breathtaking bird's-eye panorama of Woodstock’s village green, historic church spires, covered bridge, and the surrounding Ottauquechee River valley.<br/><br/>Highlights<br/>- Panoramic Summit Overlook: Unobstructed vistas directly overlooking Woodstock's oval green and historic rooftops, framed by the rolling southern Vermont hills.<br/>- Carriage Road Grading: Exceptionally smooth, wide, and well-maintained treadway—ideal for walkers who want expansive mountain views without navigating technical roots or boulders.<br/>- Historic Estate Forest: Passes through managed stands of northern hardwoods and Norway spruces planted during Frederick Billings's pioneering reforestation efforts.<br/><br/>Tips<br/>- Trailhead Access: Begin directly from the Marsh-Billings-Rockefeller Forest Center / Carriage Barn (54 Elm St) or from Mountain Avenue via the River Road entrance.<br/>- Round-Trip Distance: Approximately 2.2 to 2.5 miles round trip with about 500 feet of gentle elevation gain; plan for 1 to 1.5 hours total leisurely walking time.<br/>- Combining with The Pogue: At the upper carriage junction, you can easily continue on a level carriage road an extra 0.5 miles to circle The Pogue before looping back.<br/>- Benches are thoughtfully placed at scenic switchback turns along the route for resting.<br/>- Leashed dogs are warmly welcomed throughout the park's carriage road network.<br/><br/>More info: https://www.nps.gov/mabi/planyourvisit/hiking-and-trails.htm]]></description>
+    <styleUrl>#s-footprints-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5215,43.6285,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -12174,19 +12256,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Mt Tom trailhead Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mt%20Tom%20trailhead%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-footprints-green</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Footpath</value></Data>
-      <Data name="icon"><value>footprints</value></Data>
-      <Data name="color"><value>green</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-70.9234516,44.0546643,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Mt. Desert Narrows Overlook Trenton ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mt.%20Desert%20Narrows%20Overlook%20Trenton%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mt. Desert Narrows Overlook<br/><br/>📍 1960 US-1, Trenton, ME<br/><br/>A Route 1 pull-off just before the Mount Desert Island bridge, with a great view across the narrows to MDI and Acadia — a good first (or last) look at the island. (4.7★, 85 reviews on Google Maps)<br/><br/>Tips<br/>- Right on Route 1 before the causeway/bridge onto MDI — easy to catch on the drive in or out]]></description>
     <styleUrl>#s-mountain-purple</styleUrl>
@@ -12223,6 +12292,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.22352532684904,44.289188043594066,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Munroe's Family Restaurant Twin Mountain NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Munroe%27s%20Family%20Restaurant%20Twin%20Mountain%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-29T12:30:00<br/><br/>Munroe's Family Restaurant<br/><br/>📍 633 Rt 3 S, Twin Mountain, NH 03595<br/><br/>A long-running family diner at the US-3/US-302 crossroads in Twin Mountain — breakfast and lunch only, known for hearty pancakes and classic American comfort food in a no-frills, family-friendly setting.<br/><br/>Tips<br/>- Lunch served 11am–3pm Fri/Sat, 11am–2pm Sun–Thu — confirmed for a Saturday visit.<br/>- Sits right on the natural route between Littleton/Bethlehem and Whitefield/Jefferson — convenient stop coming back from Pondicherry Wildlife Refuge without a real detour.<br/>- Coordinates are the Twin Mountain village center (no confirmed exact coordinates for the building itself as of 2026-08-29) — close enough for GPS, not pixel-precise.<br/><br/>Sources:<br/>- Munroe's Family Restaurant official site<br/>- Munroe's Family Restaurant — Twin Mountain & Bretton Woods<br/><br/>More info: https://www.munroestwinmountain.com/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.53889,44.27222,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -12877,7 +12959,7 @@
   </Placemark>
   <Placemark>
     <name>Ottauquechee Yacht Club Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ottauquechee%20Yacht%20Club%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Ottauquechee Yacht Club serves American cuisine with comfort food options, pricing around $20-30 per person. It is open for dinner until 9 PM and serves alcohol.<br/><br/>More info: https://www.google.com/maps/place/Ottauquechee+Yacht+Club/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9a7942a1531:0x856eccc3bf9740d4!8m2!3d43.6287615!4d-72.5063864!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJmY3poSGRsQlJFQUXgAQD6AQQIABA6!16s%2Fg%2F11vklg4mcz?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Ottauquechee%20Yacht%20Club%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Counter-service, order-at-the-kitchen-window model, but no confirmed to-go/takeout option found in a real search.<br/><br/>More info: https://www.google.com/maps/place/Ottauquechee+Yacht+Club/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9a7942a1531:0x856eccc3bf9740d4!8m2!3d43.6287615!4d-72.5063864!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJmY3poSGRsQlJFQUXgAQD6AQQIABA6!16s%2Fg%2F11vklg4mcz?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -13276,6 +13358,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.458267,43.9459391,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parking - Woodstock Central Village VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Parking%20-%20Woodstock%20Central%20Village%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Parking - Woodstock Central Village<br/><br/>📍 Mechanic Street & The Green, Woodstock, VT 05091<br/><br/>The Town of Woodstock is an exceptionally compact, walkable 19th-century village designed long before automobiles. The single best strategy for visitors is to park once upon arrival and explore the village core, Middle Covered Bridge, historic Elm Street brick storefronts, Yankee Bookshop, Gillingham's, and dining completely on foot.<br/><br/>Parking Locations<br/>- Mechanic Street Municipal Lot: Located directly behind the south side of Central Street (accessed via Mechanic St off Central St or Elm St). This is the largest public off-street parking lot in the downtown core, offering metered spaces (pay-by-plate kiosk or mobile app) and free parking on Sundays and holidays.<br/>- Village Green Perimeter: Two-hour metered on-street parking lines the perimeter of the historic oval Green directly in front of the Woodstock Inn and town offices.<br/>- Mountain Avenue & River Road (North End): Limited free on-street parking near Faulkner Park and the Riverwalk bridge for walkers heading up Mount Tom.<br/>- Billings Farm & Museum Overflow: When visiting the national historical park or farm, the spacious paved visitor parking lot at Billings Farm & Museum (across Old River Road) provides ample space for cars and larger vehicles.<br/><br/>Walkability Tips<br/>- Once parked in the Mechanic Street lot or along The Green, all downtown shops, galleries, Mon Vert Cafe, F.H. Gillingham & Sons, Yankee Bookshop, and the Middle Covered Bridge are within a leisurely 2- to 5-minute walk.<br/>- Avoid circling narrow side streets during peak autumn foliage weekends; head directly to the Mechanic Street lot or consider parking at Billings Farm if starting your day with carriage road walks.<br/><br/>More info: https://www.woodstockvt.com/plan-your-visit/parking]]></description>
+    <styleUrl>#s-parking-gray</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Parking</value></Data>
+      <Data name="icon"><value>parking</value></Data>
+      <Data name="color"><value>gray</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5181,43.6247,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13734,6 +13829,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pizza Chef of Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pizza%20Chef%20of%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pizza Chef of Woodstock<br/><br/>📍 450 Woodstock Rd, Woodstock, VT 05091<br/><br/>A straightforward local pizza-and-subs spot -- signature crust, zesty red sauce, customizable toppings, plus buffalo wings and Italian entrees. A practical, casual counterpoint to Woodstock's fine-dining cluster.<br/><br/>Tips<br/>- Hours found: Mon-Fri 11am-8pm -- no weekend hours were confirmed in this pass, worth verifying directly (802-457-1444) since that would be unusual for a pizza place.<br/>- Coordinates are approximate (Route 4 corridor east of the village green), not pixel-precise.<br/><br/>More info: https://www.sirved.com/restaurant/woodstock-vermont-usa/pizza-chef/385373/menus]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5051,43.6335,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pizza Shark Chatham MA</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pizza%20Shark%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Pizza Restaurant  <br/>Best known for: Delicious pizza options and a friendly vibe  <br/>Location context: Chatham, Cape Cod  <br/>Price level: $10–20 per person  <br/>Visit timing: Not mentioned  <br/><br/>Typical Customers<br/>Demographics: Locals and tourists  <br/>Group types: Families, couples, and friends  <br/>Common occasions: Casual dinner and quick bites  <br/><br/>Vibe & Setting<br/>Atmosphere: Casual, with a lively vibe  <br/>Noise level: Moderate  <br/>Decor & setting: Indoor seating with a cozy ambiance  <br/>Service style: Attentive and friendly  <br/><br/>Recommended Dishes<br/>Overall dish consensus  <br/>Reviewers highly recommend the Great White Pizza and Chicken Ranch for their flavor and generous portion sizes. Both dishes appear frequently in reviews and photos, suggesting strong popularity.<br/><br/>How “top dishes” are determined  <br/>Top dishes are identified based on mentions in the reviews, with specific items receiving repeated praise and marked as popular in the menu.  <br/><br/>| Rank | Dish                    | Why it stands out                               | How often it’s mentioned           | Ideal for                             |<br/>|------|------------------------|------------------------------------------------|-------------------------------------|---------------------------------------|<br/>| 1    | Great White Pizza      | Amazing flavor and often considered a must-try. | Repeatedly called out as a favorite | Sharing at the table                  |<br/>| 2    | Chicken Ranch          | Generous portion size and delicious taste.      | Mentioned in many reviews           | Hearty main                           |<br/>| 3    | Steak n Cheese         | Well-received for being fulfilling and tasty.   | Appears in numerous photos          | Quick bite                            |<br/><br/>Good alternates / backup choices  <br/>- Cheese Pizza: Known for its crispy texture and fresh flavor.  <br/>- Salad: A lighter option, noted for its freshness.  <br/><br/>Highlights (non‑dish positives from reviews)<br/>Atmosphere: The place has a great vibe, making it a pleasant dining experience.  <br/>Service: Staff are reported to be kind and attentive, enhancing the overall visit.  <br/><br/>Common Issues (from reviews)<br/>Parking: Some reviews mention that parking can be tight in the area.  <br/>Seating: Limited booth seating means it can fill up quickly during peak times.  <br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly; no mention of reservations needed.  <br/>Accessibility: Not mentioned  <br/>Parking / transit: Public lot nearby, but parking can be tight.  <br/>Best use case: Great for casual dinners and quick bites with friends.<br/><br/>More info: https://www.google.com/maps/place/Pizza+Shark+Chatham/@41.6815996,-69.9626855,511m/data=!3m1!1e3!4m6!3m5!1s0x89fb152bb675307b:0xb4d1fd3e53844c36!8m2!3d41.6822557!4d-69.9607566!16s%2Fg%2F11pkkw_09l?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -13835,6 +13943,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.565285,43.896118,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plymouth Artisan Cheese Plymouth VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Plymouth%20Artisan%20Cheese%20Plymouth%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Plymouth Artisan Cheese<br/><br/>📍 106 Messer Hill Road, Plymouth Notch, VT 05056<br/><br/>A working cheese factory and retail store right next to the Coolidge Historic Site -- self-guided tour includes viewing windows into the cheese-making rooms and an antique cheese-equipment display upstairs, alongside the retail shop.<br/><br/>Tips<br/>- Open daily 11am-5pm year-round -- unlike the adjacent Coolidge Historic Site, which closes for the winter. A good stop even outside the historic site's open season.<br/>- Call ahead (802-672-3650) since hours/staffing can vary.<br/><br/>More info: https://plymouthcheese.com/]]></description>
+    <styleUrl>#s-shopping-bag-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-basket</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.7062,43.5427,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -13943,7 +14064,7 @@
   </Placemark>
   <Placemark>
     <name>Pondicherry Wildlife Refuge Whitefield NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pondicherry%20Wildlife%20Refuge%20Whitefield%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Pondicherry Wildlife Refuge<br/><br/>📍 289 Airport Road, Whitefield, NH<br/><br/>An 8-foot-wide, gravel-surfaced former Maine Central Railroad bed with very smooth footing and minimal grade (about 2%) — suitable even for wheelchair users and others with mobility challenges. The main rail trail (an extension of the Presidential Rail Trail) leads about 1.5 miles to Cherry Pond and Waumbek Junction, opening onto sweeping views of the Presidential Range and strong birdlife. A shorter alternative, the Mud Pond Trail, is a compact boardwalk loop just over a mile round trip.<br/><br/>Tips<br/>- Parking lot is off Airport Road, about 1.5 miles from NH-115 — look for a brown Pondicherry sign, then cross a small bridge into the lot.<br/>- Leash specifically required on the Mud Pond Trail, even though the main rail trail only requires "owner control."<br/>- About 25–30 minutes from Littleton — a low-effort day with a big scenic payoff.<br/>- Rated 4.5/5 from 24 Tripadvisor reviews under the "Presidential Rail Trail" name — that's the corridor this refuge's main trail extends from, not a rating of Pondicherry specifically.<br/><br/>More info: https://www.friendsofpondicherry.org/hiking]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Pondicherry%20Wildlife%20Refuge%20Whitefield%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-29T09:30:00<br/><br/>Pondicherry Wildlife Refuge<br/><br/>📍 289 Airport Road, Whitefield, NH<br/><br/>An 8-foot-wide, gravel-surfaced former Maine Central Railroad bed with very smooth footing and minimal grade (about 2%) — suitable even for wheelchair users and others with mobility challenges. The main rail trail (an extension of the Presidential Rail Trail) leads about 1.5 miles to Cherry Pond and Waumbek Junction, opening onto sweeping views of the Presidential Range and strong birdlife. A shorter alternative, the Mud Pond Trail, is a compact boardwalk loop just over a mile round trip.<br/><br/>Tips<br/>- Parking lot is off Airport Road, about 1.5 miles from NH-115 — look for a brown Pondicherry sign, then cross a small bridge into the lot.<br/>- Leash specifically required on the Mud Pond Trail, even though the main rail trail only requires "owner control."<br/>- About 25–30 minutes from Littleton — a low-effort day with a big scenic payoff.<br/>- Rated 4.5/5 from 24 Tripadvisor reviews under the "Presidential Rail Trail" name — that's the corridor this refuge's main trail extends from, not a rating of Pondicherry specifically.<br/><br/>More info: https://www.friendsofpondicherry.org/hiking]]></description>
     <styleUrl>#s-waves-green</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Footpath</value></Data>
@@ -14267,6 +14388,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>President Calvin Coolidge State Historic Site Plymouth VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/President%20Calvin%20Coolidge%20State%20Historic%20Site%20Plymouth%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>President Calvin Coolidge State Historic Site<br/><br/>📍 3780 Route 100A, Plymouth, VT 05056<br/><br/>Preserves the birthplace and childhood home of Calvin Coolidge, the 30th U.S. President, as a cluster of original 19th-century buildings -- homestead, museum, church, one-room schoolhouse, and general store -- essentially a preserved 1920s Vermont village.<br/><br/>Tips<br/>- Seasonal: open late May through late October, Tuesday-Sunday 10am-5pm (daily in October). Closed in the off-season -- doesn't apply during a late-August/September visit, but worth flagging for future reference.<br/>- Right next to Plymouth Artisan Cheese -- easy to combine both in one stop.<br/><br/>More info: https://historicsites.vermont.gov/calvin-coolidge]]></description>
+    <styleUrl>#s-landmark-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.7062,43.5427,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Press Hotel Portland ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Press%20Hotel%20Portland%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Press Hotel<br/><br/>📍 119 Exchange Street, Portland, ME<br/><br/>The Press Hotel at 119 Exchange Street occupies the former Gannett Building, constructed in 1923. Until 2010, it housed the offices and printing plant of Maine's largest newspaper, the Portland Press Herald.<br/><br/>Local developer Jim Brady bought the building in 2012 and transformed it into a 110-room boutique hotel. Many of the building's original architectural details remain intact, and the hotel is filled with salvaged artifacts and print-themed decor that celebrate its "storied" history.<br/><br/>More info: https://www.google.com/maps/place/Press+Hotel,+119+Exchange+St,+Portland,+ME]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
@@ -14407,6 +14541,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.419,43.6455,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quechee Gorge VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Quechee%20Gorge%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Quechee Gorge<br/><br/>📍 Route 4, Quechee, VT 05059<br/><br/>Often called "Vermont's Little Grand Canyon," Quechee Gorge is the deepest natural gorge in the state. Formed roughly 13,000 years ago during the retreat of the Laurentide Ice Sheet, the glacial meltwaters carved a dramatic 165-foot chasm through solid bedrock along the course of the Ottauquechee River. The gorge is spanned by the historic Quechee Gorge Bridge on Route 4, which offers dizzying vertical perspectives looking directly down into the rushing whitewater rapids and rocky flumes below.<br/><br/>Highlights<br/>- Bridge Overlook: Safe pedestrian sidewalks on both sides of the Route 4 bridge provide the classic direct photo view plunging straight down into the depths of the gorge.<br/>- Quechee Gorge Trail: An easy, well-maintained 1.3-mile out-and-back trail through Quechee State Park that leads gently down along the western rim to the riverbank and gentle swimming holes at the base.<br/>- Proximity to Simon Pearce: Located only 2 miles (a 5-minute drive) east of the Simon Pearce glassblowing mill and restaurant.<br/><br/>Tips<br/>- Park for free in the large visitor center lot on the south side of Route 4 or in the Quechee State Park picnic day-use area.<br/>- The top bridge views require no hiking whatsoever and are fully wheelchair and stroller accessible.<br/>- An ideal stop to pair with an afternoon visit to Simon Pearce for glassblowing demonstrations and dinner.<br/>- Leashed dogs are permitted throughout the state park trails and overlook walkways.<br/><br/>More info: https://vtstateparks.com/quechee.html]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.4081,43.6375,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14658,15 +14805,15 @@
   </Placemark>
   <Placemark>
     <name>Red Rooster (Woodstock Inn) VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Red%20Rooster%20%28Woodstock%20Inn%29%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-star-green</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Red%20Rooster%20%28Woodstock%20Inn%29%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Red Rooster (Woodstock Inn & Resort)<br/><br/>📍 14 The Green, Woodstock, VT 05091<br/><br/>The Red Rooster is the premier culinary centerpiece of the historic Woodstock Inn & Resort. Awarded AAA Four Diamond status, the dining room pairs relaxed New England elegance with an uncompromising farm-to-table philosophy. Executive chefs work closely with the master gardener at the resort’s nearby 3-acre Kelly Way Gardens, integrating just-picked heirloom produce, edible blossoms, and herbs into seasonal menus alongside local Vermont dairy, heritage poultry, and pasture-raised meats.<br/><br/>Must Order<br/>- Seasonal Garden Tasting Starters — Featuring freshly harvested produce from Kelly Way Gardens paired with local chèvre and house vinaigrettes.<br/>- Pan-Seared Day-Boat Halibut or Salmon — Served with sweet corn succotash and herb-infused emulsions.<br/>- Braised Vermont Short Ribs — Slow-cooked to melting tenderness over creamy polenta with glazed root vegetables.<br/>- Artisan Cheese Cart — Curated selection of Vermont's finest cave-aged cheddars and bloomy rinds with honeycomb.<br/><br/>Tips<br/>- Located on the main lobby level of the Woodstock Inn, steps from Richardson's Tavern (the inn's cozier, casual fireside pub alternative).<br/>- Resort casual attire; reservations are strongly recommended for dinner, particularly in summer and autumn foliage seasons.<br/>- Perfect option for a celebratory dinner or a refined lunch overlooking the south terrace.<br/><br/>More info: https://www.woodstockinn.com/dining/red-rooster]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>Attraction</value></Data>
-      <Data name="icon"><value>star</value></Data>
-      <Data name="color"><value>green</value></Data>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.518896,43.623174,0</coordinates>
+      <coordinates>-72.5189,43.6232,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14680,6 +14827,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.6645,44.0006,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Redcan White River Junction VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Redcan%20White%20River%20Junction%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>REDCAN<br/><br/>📍 129 S Main St, White River Junction, VT 05001<br/><br/>A vegetable-forward, contemporary small-plates restaurant with a raw bar and a converted-speakeasy back room, named for owner Jason Merrill's late mother's favorite drink (Coca-Cola in a red can). Open Tue-Sat 4-9pm.<br/><br/>Tips<br/>- Books out 3-4 weeks in advance per recent reports -- reserve well ahead if planning to go.<br/>- Part of the same downtown WRJ cluster as Tuckerbox, Big Fatty's BBQ, Elixir, Wolf Tree, and Thyme.<br/><br/>More info: https://www.greateruppervalley.com/businesses/vt-white-river-junction-redcan]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3178,43.6486,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -14875,32 +15035,6 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.97796193691404,44.43167243957917,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Richardson’s Tavern 1 Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Richardson%E2%80%99s%20Tavern%201%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Richardson’s Tavern is a fine dining restaurant offering American cuisine. The expected price range is $50–100 per person. It is open for dinner from 5 PM, seven days a week, and serves alcohol.<br/><br/>More info: https://www.google.com/maps/place/Richardson%E2%80%99s+Tavern/@43.6241228,-72.5208001,17.56z/data=!4m13!1m5!2m4!1sTake+out+food+woodstock.+!5m1!15shas_takeout!6e5!3m6!1s0x89e1d820c9d59f7d:0x3d2df1080af8902e!8m2!3d43.6230555!4d-72.5189981!15sChhUYWtlIG91dCBmb29kIHdvb2RzdG9jay4iVVInL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2hhc190YWtlb3V0UicvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvaGFzX3Rha2VvdXS4AQFaGSIXdGFrZSBvdXQgZm9vZCB3b29kc3RvY2uSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sY21WSVRUSkJSUkFC4AEA-gEFCKEDEEo!16s%2Fg%2F11hb389wr4?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-utensils-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>utensils</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.51900563822892,43.62314855956515,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Richardson’s Tavern Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Richardson%E2%80%99s%20Tavern%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-utensils-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>utensils</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.5218,43.6237,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -15841,7 +15975,7 @@
   </Placemark>
   <Placemark>
     <name>Santé Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sant%C3%A9%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Santé is an American restaurant with a focus on upscale dining. The expected prices range from $50 to $100 per person. It serves dinner and is currently closed until 5 PM.<br/><br/>More info: https://www.google.com/maps/place/Sant%C3%A9/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9bafb7dec73:0x68236c7ba713fb50!8m2!3d43.6258419!4d-72.5162398!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyJkUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNSMC9nZW8vdHlwZS9lc3RhYmxpc2htZW50X3BvaS9hY2NlcHRzX3Jlc2VydmF0aW9uc1ofIh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9uc5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjV3VkZGc1kzbE5hMDB3V1c1ak0xbFVTVEphUlhkNVQxZE9jR1JHUlJBQuABAPoBBAgmEEQ!16s%2Fg%2F11tc0r39kp?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sant%C3%A9%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Restaurant's own site says online ordering is coming soon -- not yet live as of this search, so not counted as a current takeout option.<br/><br/>More info: https://www.google.com/maps/place/Sant%C3%A9/@43.6187904,-72.5455909,6145m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d9bafb7dec73:0x68236c7ba713fb50!8m2!3d43.6258419!4d-72.5162398!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyJkUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNSMC9nZW8vdHlwZS9lc3RhYmxpc2htZW50X3BvaS9hY2NlcHRzX3Jlc2VydmF0aW9uc1ofIh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9uc5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjV3VkZGc1kzbE5hMDB3V1c1ak0xbFVTVEphUlhkNVQxZE9jR1JHUlJBQuABAPoBBAgmEEQ!16s%2Fg%2F11tc0r39kp?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -16660,28 +16794,15 @@
   </Placemark>
   <Placemark>
     <name>Simon Pearce Quechee VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Simon%20Pearce%20Quechee%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Scenic restaurant in a restored mill in Quechee serving creative American cuisine with local ingredients and views of the Ottauquechee River waterfall and covered bridge.<br/><br/>More info: https://simonpearce.com/pages/restaurant]]></description>
-    <styleUrl>#s-sandwich-red</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Simon%20Pearce%20Quechee%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Simon Pearce (The Mill at Quechee)<br/><br/>📍 1760 Quechee Main St, Quechee, VT 05059<br/><br/>Occupying a lovingly restored 19th-century brick woolen mill perched dramatically over the Ottauquechee River waterfall, Simon Pearce is one of Vermont's premier artisan destinations. Driven completely by clean hydroelectric power generated on-site from the roaring waterfall, the mill houses master glassblowers who demonstrate the ancient art of hand-shaping glowing 2,100°F molten crystal into elegant stemware, bowls, and vases right before visitors' eyes. Downstairs, a spacious viewing catwalk lets guests watch the glass furnaces and glassblowers at work, while adjacent studios display handcrafted pottery. Upstairs, an expansive flagship showroom and the acclaimed riverside restaurant overlook the tumbling falls and the historic Quechee Covered Bridge.<br/><br/>Highlights<br/>- Live Glassblowing Demonstrations: Watch master artisans gather, blow, tool, and anneal crystal glassware from the observation catwalk. Free and open daily (check daily furnace schedule).<br/>- Hydroelectric Turbine: View the functioning vintage hydro turbine that powers the mill's glassblowing furnaces using the river's current.<br/>- Riverside Dining & Covered Bridge: The on-site restaurant and bar feature floor-to-ceiling windows cantilevered directly over the roaring falls and covered bridge.<br/><br/>Tips<br/>- Located just 10 minutes east of Woodstock village; ideal to combine with a walk along the rim of nearby Quechee Gorge.<br/>- Watching the glassblowers is completely free and requires no reservation—simply walk down to the furnace viewing area.<br/>- For dining, reservations are booked weeks or months in advance (dinner confirmed for Sunday, September 6, 2026).<br/><br/>More info: https://simonpearce.com/pages/the-mill]]></description>
+    <styleUrl>#s-landmark-purple</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>red</value></Data>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.41936166672106,43.64609339064115,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Simon Pearce Restaurant Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Simon%20Pearce%20Restaurant%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-sandwich-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.419462,43.646055,0</coordinates>
+      <coordinates>-72.4194,43.6461,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16799,6 +16920,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.7902799,44.2856241,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sleepy Hollow Farm Pomfret VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Sleepy%20Hollow%20Farm%20Pomfret%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Sleepy Hollow Farm (Visitor Advisory & Road Closures)<br/><br/>📍 Cloudland Road, Pomfret, VT 05067<br/><br/>Sleepy Hollow Farm is a picturesque private 115-acre farm estate located along narrow, unpaved Cloudland Road in neighboring Pomfret, formerly owned by Aerosmith guitarist Joe Perry. In recent years, viral social media imagery turned the private driveway and winding rustic road into one of the most congested "Instagram tourism" flashpoints in New England, drawing thousands of tour buses, rideshare drops, drones, and illegal parking on private fields.<br/><br/>⚠️ Critical Foliage Road Closure Advisory<br/>- Seasonal Road Closure: In response to severe safety hazards, gridlock blocking emergency vehicles, and resident petitioning, the Town of Pomfret and Town of Woodstock have enacted strict municipal emergency ordinances closing Cloudland Road and Barber Hill Road to all non-resident vehicular and pedestrian traffic during peak autumn foliage (typically from late September through mid-October).<br/>- Sheriff Checkpoints & Heavy Fines: The Windsor County Sheriff’s Department mans active physical checkpoints and temporary electronic monitoring barricades at the road entrances. Violators trespassing or bypassing road-closure barriers face citations, towing, and substantial municipal fines.<br/>- Local Sentiment: As reflected in regional forums (e.g., r/vermont's discussions on town pettiness vs. preserving peace), local frustration over trespassing and influencer crowding is extremely high. Respect all posted private property and road closure signage.<br/><br/>Recommended Public Scenic Alternatives<br/>Instead of attempting to navigate Cloudland Road, enjoy Vermont’s world-class foliage along designated, fully public scenic highways and pastoral backroads:<br/>- Route 106 Scenic Corridor: Drive south from Woodstock through South Woodstock, Reading, and Felchville for sweeping valley pastures, red barns, and hilltop views.<br/>- Pomfret Public Loop (Route 12 & Stage Road): Follow Route 12 north from Woodstock to Pomfret and Barnard, taking public township-maintained secondary roads past authentic operating dairy farms and sugarhouses.<br/>- Sugarbush Farm (Woodstock): Located on public Hillside Road, offering legitimate farm visitor access, maple syrup tasting, and pasture walks.<br/><br/>More info: https://www.townofpomfretvermont.org/]]></description>
+    <styleUrl>#s-alert-triangle-yellow</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Attraction</value></Data>
+      <Data name="icon"><value>alert-triangle</value></Data>
+      <Data name="color"><value>yellow</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5273,43.6668,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -17140,6 +17274,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>St. Johnsbury Athenaeum Saint Johnsbury VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/St.%20Johnsbury%20Athenaeum%20Saint%20Johnsbury%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>St. Johnsbury Athenaeum<br/><br/>📍 1171 Main St, Saint Johnsbury, VT 05819<br/><br/>An 1871 library and art gallery, funded by Horace Fairbanks (of the platform-scale manufacturing family), with an art gallery added in 1873 — Time Magazine called it "the United States' oldest unaltered art gallery still standing." Classic New England architecture worth a quick exterior look on a walk down Main Street.<br/><br/>Tips<br/>- Open Mon/Wed/Fri 10am–5:30pm, Tue/Thu 12–7pm, Sat 10am–3pm — the interior can't accommodate a dog, so treat this as a five-minute exterior stop unless traveling without the dog.<br/>- A few doors down from Eastern & Main Market Deli on Main Street — easy to combine with lunch.<br/><br/>Sources: St. Johnsbury Athenaeum, Wikipedia<br/><br/>More info: https://www.stjathenaeum.org/]]></description>
+    <styleUrl>#s-landmark-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.0161,44.42,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>St. Patrick's Catholic Church Newcastle ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/St.%20Patrick%27s%20Catholic%20Church%20Newcastle%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>St. Patrick's Catholic Church<br/><br/>📍 Academy Hill Road, Newcastle, ME<br/><br/>The oldest surviving Catholic church building in New England, built in 1808. A modest brick colonial structure on Academy Hill overlooking the Damariscotta River, listed on the National Register of Historic Places.<br/><br/>Tips<br/>- Coordinates are an approximate match to Academy Hill Road — no precise street-address geocode was available.<br/>- Still an active parish; check for open hours or services before visiting, and be respectful during services.]]></description>
     <styleUrl>#s-scroll-green</styleUrl>
@@ -17414,11 +17561,11 @@
   </Placemark>
   <Placemark>
     <name>Stowe Recreation Path Stowe VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Stowe%20Recreation%20Path%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Stowe Recreation Path<br/><br/>📍 Stowe VT<br/><br/>Paved 5.5-mile nonmotorized greenway from the village along the West Branch River — flat, family-friendly, passing restaurants, a brewery, and picnic areas.<br/><br/>Tips<br/>- Rent bikes in the village for the best experience.<br/>- The path runs past several restaurants and shops — easy to stop en route.]]></description>
-    <styleUrl>#s-beer-green</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Stowe%20Recreation%20Path%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-31T17:30:00<br/><br/>Stowe Recreation Path<br/><br/>📍 Stowe VT<br/><br/>Paved 5.5-mile nonmotorized greenway from the village along the West Branch River — flat, family-friendly, passing restaurants, a brewery, and picnic areas. A gentle evening stroll after a transfer day rather than another drive.<br/><br/>Tips<br/>- Rent bikes in the village for the best experience.<br/>- The path runs past several restaurants and shops — easy to stop en route.<br/>- Easy access point: park near Lintilhac Park behind Stowe Community Church and walk 20–40 minutes out and back — level, low-stress, a good way to see the village after check-in.<br/><br/>More info: https://www.stowevt.gov/Departments/Parks-Recreation/Parks-Facilities/Stowe-Recreation-Path]]></description>
+    <styleUrl>#s-footprints-green</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>Brewery</value></Data>
-      <Data name="icon"><value>beer</value></Data>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
       <Data name="color"><value>green</value></Data>
     </ExtendedData>
     <Point>
@@ -17856,7 +18003,7 @@
   </Placemark>
   <Placemark>
     <name>TWO Bistro &amp; Cafe Hartford VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/TWO%20Bistro%20%26%20Cafe%20Hartford%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>This restaurant serves a variety of dishes with a price range of $20–30 per person. It is open for both lunch and dinner and is known to be LGBTQ+ friendly. Alcohol is served.<br/><br/>More info: https://www.google.com/maps/place/TWO+Bistro+%26+Cafe/@43.6446646,-72.4070374,4333m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb4ca509c04c4e5:0x2919955d13aeb40b!2sBig+Fatty's+BBQ!8m2!3d43.6461808!4d-72.3182871!16s%2Fg%2F1tgnwty6!3m5!1s0x4cb4cd000c55bf97:0xf1f97999b529a9db!8m2!3d43.6524955!4d-72.391678!16s%2Fg%2F11n9lz3fvv?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/TWO%20Bistro%20%26%20Cafe%20Hartford%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Previously marked takeout: true without verification. A real search found no online-ordering platform, delivery listing, or any other evidence of takeout service -- corrected per the project's verify-before-flagging rule (Chatham 2026-08-24 precedent).<br/><br/>More info: https://www.google.com/maps/place/TWO+Bistro+%26+Cafe/@43.6446646,-72.4070374,4333m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb4ca509c04c4e5:0x2919955d13aeb40b!2sBig+Fatty's+BBQ!8m2!3d43.6461808!4d-72.3182871!16s%2Fg%2F1tgnwty6!3m5!1s0x4cb4cd000c55bf97:0xf1f97999b529a9db!8m2!3d43.6524955!4d-72.391678!16s%2Fg%2F11n9lz3fvv?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-coffee-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -18661,8 +18808,21 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Little Grille 1 Littleton NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Little%20Grille%201%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Restaurant<br/><br/>Best known for: Good food with varied menu options including burgers and tacos.<br/><br/>Location context: Not specified <br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not mentioned<br/><br/>Typical Customers<br/>Demographics: Locals and families<br/><br/>Group types: Couples, families, groups<br/><br/>Common occasions: Casual dinner, date night, quick bite<br/><br/>Vibe & Setting<br/>Atmosphere: Cozy, casual<br/><br/>Noise level: Moderate<br/><br/>Decor & setting: Outdoor seating available<br/><br/>Service style: Attentive and friendly<br/><br/>Recommended Dishes<br/>Overall dish consensus  <br/>Popular dishes include tacos and chicken fajitas, often highlighted for freshness and arrangement.<br/><br/>How “top dishes” are determined  <br/>Top dishes are identified based on mentions in reviews and popularity noted on the Google Maps page, particularly those that are frequently praised. <br/><br/>| Rank | Dish                     | Why it stands out                  | How often it’s mentioned        | Ideal for          |<br/>|------|--------------------------|-----------------------------------|---------------------------------|--------------------|<br/>| 1    | Chicken Fajitas          | Fresh ingredients, well-arranged. | Mentioned in a few reviews.     | Sharing at the table|<br/>| 2    | Tacos (beef, chicken, shrimp, vegetarian) | Generous portions and good flavor. | Mentioned in multiple reviews. | Quick bite         |<br/>| 3    | Steak Tips               | Delicious and well-cooked.       | Mentioned a few times.          | Hearty main       |<br/><br/>Good alternates / backup choices  <br/>- Ravioli: Comforting and hearty.<br/>- Burgers: Noted for good flavor.<br/><br/>Highlights (non‑dish positives from reviews)<br/>Atmosphere: The ambiance is comfortable and inviting, ideal for a relaxed dining experience.<br/><br/>Service: Waitstaff is noted as attentive, often providing extras without prompt.<br/><br/>Common Issues (from reviews)<br/>Wait times: Not mentioned.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Not mentioned.<br/><br/>Best use case: Great for casual family dinners.<br/><br/>More info: https://www.google.com/maps/place/The+Little+Grille/@44.3032808,-71.7697128,616m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cb469b6187f15c7:0xa9594392bb590b7f!2sLittleton,+NH+03561!3b1!8m2!3d44.3060969!4d-71.7703012!16zL20vMDFtOTV0!3m5!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-sandwich-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.77040426898584,44.30426138592668,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Little Grille Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Little%20Grille%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Casual dining restaurant<br/><br/>Best known for: Variety of burgers, tacos, and seafood dishes.<br/><br/>Location context: Not mentioned.<br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not specified.<br/><br/>Typical Customers<br/>Demographics: Mostly locals and families.<br/><br/>Group types: Couples, families, and friends.<br/><br/>Common occasions: Casual dinner, quick bites, date night.<br/><br/>Vibe & Setting<br/>Atmosphere: Casual and comfortable.<br/><br/>Noise level: Moderate.<br/><br/>Decor & setting: Indoor and outdoor seating available.<br/><br/>Service style: Attentive and friendly staff.<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Reviewers highlight the burgers and tacos as must-try items, particularly praising the Chicken Fajitas and Taco Tuesday specials.<br/><br/>How “top dishes” are determined<br/>Top dishes are identified based on mentions in reviews and menu popularity, noting particularly praised items and those that appear in photos frequently.<br/><br/>| Rank | Dish                | Why it stands out                                | How often it’s mentioned            | Ideal for               |<br/>|------|---------------------|-------------------------------------------------|------------------------------------|-------------------------|<br/>| 1    | Chicken Fajitas     | Fresh and well-arranged garnishes, delicious   | Mentioned in several reviews       | Sharing at the table    |<br/>| 2    | Taco Tuesday Special | Great value and variety of options              | Repeatedly called out as a favorite| Casual dinner           |<br/>| 3    | Burgers             | Good variety and tasty flavors                  | Appears in numerous photos         | Hearty main            |<br/><br/>Good alternates / backup choices<br/>- Sticky Vermonter: Noted for its unique flavor.<br/>- Ravioli: Praised for its texture and taste.<br/>- Steak Tips: Delicious and well-cooked.<br/><br/>Highlights (non-dish positives from reviews)<br/>Good service: Many reviewers commend the attentiveness and friendliness of the staff, often providing extras without prompt.<br/><br/>Outdoor seating: Reviewers enjoy the option to dine outside, enhancing the overall experience.<br/><br/>Common Issues (from reviews)<br/>Not mentioned: No significant issues reported in reviews.<br/><br/>Practical Notes<br/>Reservation / wait: Walk-in friendly.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Not mentioned.<br/><br/>Best use case: Best for casual dinners with friends or family.<br/><br/>More info: https://www.google.com/maps/place/The+Little+Grille/@44.304239,-71.7730099,793m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!2sThe+Little+Grille!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w!3m5!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Little%20Grille%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Casual dining restaurant<br/><br/>Best known for: Variety of burgers, tacos, and seafood dishes.<br/><br/>Location context: Not mentioned.<br/><br/>Price level: $20–30 per person<br/><br/>Visit timing: Not specified.<br/><br/>Typical Customers<br/>Demographics: Mostly locals and families.<br/><br/>Group types: Couples, families, and friends.<br/><br/>Common occasions: Casual dinner, quick bites.<br/><br/>Vibe & Setting<br/>Atmosphere: Casual and comfortable.<br/><br/>Noise level: Moderate.<br/><br/>Decor & setting: Indoor and outdoor seating available.<br/><br/>Service style: Attentive and friendly staff.<br/><br/>Recommended Dishes<br/>Overall dish consensus<br/>Reviewers highlight the burgers and tacos as must-try items, particularly praising the Chicken Fajitas and Taco Tuesday specials.<br/><br/>How “top dishes” are determined<br/>Top dishes are identified based on mentions in reviews and menu popularity, noting particularly praised items and those that appear in photos frequently.<br/><br/>| Rank | Dish                | Why it stands out                                | How often it’s mentioned            | Ideal for               |<br/>|------|---------------------|-------------------------------------------------|------------------------------------|-------------------------|<br/>| 1    | Chicken Fajitas     | Fresh and well-arranged garnishes, delicious   | Mentioned in several reviews       | Sharing at the table    |<br/>| 2    | Taco Tuesday Special | Great value and variety of options              | Repeatedly called out as a favorite| Casual dinner           |<br/>| 3    | Burgers             | Good variety and tasty flavors                  | Appears in numerous photos         | Hearty main            |<br/><br/>Good alternates / backup choices<br/>- Sticky Vermonter: Noted for its unique flavor.<br/>- Ravioli: Praised for its texture and taste.<br/><br/>Highlights (non-dish positives from reviews)<br/>Good service: Many reviewers commend the attentiveness and friendliness of the staff.<br/><br/>Outdoor seating: Reviewers enjoy the option to dine outside, enhancing the overall experience.<br/><br/>Common Issues (from reviews)<br/>Not mentioned: No significant issues reported in reviews.<br/><br/>Practical Notes<br/>Reservation / wait: Not mentioned.<br/><br/>Accessibility: Not mentioned.<br/><br/>Parking / transit: Not mentioned.<br/><br/>Best use case: Best for casual dinners with friends or family.<br/><br/>More info: https://www.google.com/maps/place/The+Little+Grille/@44.304239,-71.7730099,793m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!2sThe+Little+Grille!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w!3m5!1s0x4cb46f31b2d7ba13:0xaecafc1f47433a7c!8m2!3d44.304239!4d-71.770435!16s%2Fg%2F1tf5pv9w?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -18935,15 +19095,28 @@
   </Placemark>
   <Placemark>
     <name>The Pogue trailhead Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Pogue%20trailhead%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
-    <styleUrl>#s-footprints-green</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Pogue%20trailhead%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Pogue<br/><br/>📍 Marsh-Billings-Rockefeller National Historical Park, Woodstock, VT<br/><br/>The Pogue is an idyllic 14-acre natural body of water cradled in a forested bowl high on Mount Tom within Vermont's only national park. The pond was originally created and expanded in the 1880s by Frederick Billings to serve as a scenic water reservoir and recreational retreat for the estate. A wide, level carriage path circles the entire perimeter of the water, shaded by tall white pines, hemlocks, and northern hardwoods. The shoreline features wooden benches and rustic overlooks where water lilies bloom and painted turtles sunbathe on submerged logs.<br/><br/>Tips<br/>- The classic route begins from the Marsh-Billings-Rockefeller Forest Center/Carriage Barn: follow the gently ascending Mountain Road and Carriage Road to the pond (~1.5 miles each way, 3 miles round trip).<br/>- The loop trail encircling The Pogue is virtually flat, smooth, and exceptionally easy walking.<br/>- Can easily be extended by taking the spur trail to Mount Tom's South Peak for views over Woodstock village.<br/>- Leashed dogs are welcome along the entire carriage road route.<br/><br/>More info: https://www.nps.gov/mabi/planyourvisit/hiking-and-trails.htm]]></description>
+    <styleUrl>#s-footprints-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Footpath</value></Data>
       <Data name="icon"><value>footprints</value></Data>
-      <Data name="color"><value>green</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.5185112,43.6242442,0</coordinates>
+      <coordinates>-72.5312,43.6394,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Prince &amp; The Pauper Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Prince%20%26%20The%20Pauper%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Prince & The Pauper<br/><br/>📍 24 Elm St, Woodstock, VT 05091<br/><br/>For more than four decades, The Prince & The Pauper stood as Woodstock’s premier fine-dining establishment, setting the gold standard for romantic village dining. Tucked down an alleyway off Elm Street in an 1820s building, the restaurant became legendary for its nightly-changing three-course prix-fixe dinner celebrating classic French-American culinary traditions, complemented by a cozy tavern room with hand-hewn beams, intimate wooden booths, and an unhurried, warm atmosphere.<br/><br/>Must Order<br/>- Rack of Lamb in Puff Pastry — The restaurant’s signature preparation, tender lamb loin wrapped in duxelles and flaky pastry with a rich port wine demi-glace.<br/>- Crispy Duck Breast — Pan-roasted with seasonal fruit gastrique and wild rice.<br/>- Tavern Burger & Craft Cocktails — Classic casual tavern offerings served at the historic wood bar.<br/><br/>Tips<br/>- Current Operating Advisory: A 2026 Valley News report noted an ownership transition and potential closure/relocation of the restaurant at this specific site. Always call ahead (802-457-1818) or verify their current status at princeandpauper. before making dining plans.<br/>- If open during your visit, reservations are essential weeks in advance for the dining room; the walk-in tavern room opens at 5:00 PM for casual seating.<br/><br/>More info: https://www.princeandpauper.com/]]></description>
+    <styleUrl>#s-utensils-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5187,43.6249,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -19168,6 +19341,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Village Butcher Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Village%20Butcher%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Village Butcher<br/><br/>📍 18 Elm St, Woodstock, VT 05091<br/><br/>A downtown Woodstock butcher and specialty market -- good source for picnic supplies, local meats, and prepared foods if a sit-down meal isn't the plan.<br/><br/>Tips<br/>- Right in the downtown core, an easy walk from Richardson's Tavern and The Prince & The Pauper.<br/>- Coordinates are approximate.<br/><br/>More info: https://www.thevillagebutchervt.com/]]></description>
+    <styleUrl>#s-shopping-bag-green</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-basket</value></Data>
+      <Data name="color"><value>green</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5194,43.6251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Waterfront Restaurant Camden ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Waterfront%20Restaurant%20Camden%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Waterfront Restaurant<br/><br/>📍 48 Bay View St, Camden, ME<br/><br/>A long-established, high-volume harborfront restaurant — 3,885 reviews on Restaurant Guru, 1,830 on Tripadvisor (4.1/5, #6 of 36 Camden restaurants), which for a town this size signals a real local institution rather than a passing trend. New England clam chowder made from a 45-year-old recipe, plus crab cakes, lobster rolls, and haddock tacos.<br/><br/>Must Order<br/>- New England clam chowder (the 45-year-old house recipe)<br/>- Crab and artichoke fondue<br/>- Crab cakes<br/>- Key lime pie or the peachy lime pie for dessert<br/><br/>Tips<br/>- No reservations taken — walk in, and expect a wait at peak times given the volume of reviews/popularity.<br/>- Lunch 11:30am–4:30pm, dinner 5pm–8pm.<br/>- Good gluten-free, vegan, and vegetarian coverage.<br/><br/>More info: https://www.google.com/maps/place/The+Waterfront+Restaurant/@44.2085492,-69.0648416,1144m/data=!3m1!1e3!4m15!1m8!3m7!1s0x4cadd8093b8682c5:0x545acfe2a5130197!2sCamden,+ME!3b1!8m2!3d44.2097928!4d-69.0647838!16zL20vMDExeDIy!3m5!1s0x4cadd70e990224ad:0xbeee23d3285bc557!8m2!3d44.2085054!4d-69.0628735!16s%2Fg%2F1ty73w59?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-red</styleUrl>
@@ -19389,6 +19575,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Thyme White River Junction VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Thyme%20White%20River%20Junction%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Thyme<br/><br/>📍 85 N Main St, White River Junction, VT 05001<br/><br/>A New American restaurant in the heart of downtown White River Junction's small dining cluster, alongside Tuckerbox, Big Fatty's BBQ, Elixir, Wolf Tree, and REDCAN.<br/><br/>Tips<br/>- Check thymevermont. for the current weekly menu and reservations -- format is seasonal/rotating rather than a fixed menu.<br/><br/>More info: https://www.thymevermont.com/]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3175,43.6497,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Tidal Falls Preserve Hancock ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Tidal%20Falls%20Preserve%20Hancock%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Tidal Falls Preserve<br/><br/>📍 Tidal Falls Rd, Hancock, ME<br/><br/>A small, roughly 4-acre preserve managed by the Frenchman Bay Conservancy, built around a genuine reversing-falls phenomenon: strong tidal shifts through the narrow channel between Hancock and Sullivan create rapids and whirlpools that run one direction, slack, then reverse. Wildlife is a regular feature too — seals, osprey, kingfishers, and eagles are commonly spotted.<br/><br/>Tips<br/>- Time it right: arrive about an hour before the tide is due to change and stay an hour after, to see the falls run both directions.<br/>- The loop trail is short and wheelchair-accessible — an easy, low-effort stop.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=44.5195%2C%20-68.2217]]></description>
     <styleUrl>#s-gem-green</styleUrl>
@@ -19529,6 +19728,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.572555,43.876491,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Trail Break Taps and Tacos Quechee VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Trail%20Break%20Taps%20and%20Tacos%20Quechee%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Trail Break Taps + Tacos<br/><br/>📍 5945 Woodstock Rd, Quechee, VT 05059<br/><br/>Scratch-made tacos (fish, mahi mahi, jackfruit, tuna) on 6" corn tortillas, a rotating list of Vermont/New England craft beer, house-made agua frescas, and Abracadabra coffee on tap. A casual, kid-friendly counterpoint to Simon Pearce's upscale dining right nearby.<br/><br/>Tips<br/>- Hours: Mon 11:30am-8:30pm, Thu 4-8:30pm, Fri 11:30am-8:30pm, Sun 11:30am-8:30pm -- closed Tue, Wed, and Sat, an unusual schedule worth double-checking before planning around it.<br/>- Has a kids' menu ("Little Chompers") -- good option if traveling with children.<br/><br/>More info: https://www.trailbreakvt.com/]]></description>
+    <styleUrl>#s-sandwich-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.4204,43.6459,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20036,19 +20248,6 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2599,43.6554,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Viera on Main Chatham MA</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Viera%20on%20Main%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Overview<br/>Type: Seafood Restaurant  <br/>Best known for: Fresh shucked oysters, skilled steak preparation  <br/>Location context: Chatham, MA  <br/>Price level: $50–100 per person  <br/>Visit timing: Dinner hours are busier; brunch is also popular<br/><br/>Typical Customers  <br/>Demographics: Mix of locals and tourists  <br/>Group types: Couples, families, friends  <br/>Common occasions: Brunch, casual dinners, special occasions  <br/><br/>Vibe & Setting  <br/>Atmosphere: Casual, cozy with a nautical theme  <br/>Noise level: Moderate  <br/>Decor & setting: Indoor seating, well-decorated interior  <br/>Service style: Generally attentive and friendly<br/><br/>Recommended Dishes  <br/>Overall dish consensus  <br/>Critics agree that oysters and steak dishes are standout options. The swordfish, however, received mixed reviews, being described as bland by some.  <br/><br/>How “top dishes” are determined  <br/>Top dishes were chosen based on frequency in reviews, mentions in photos, and noted popularity on the Google Maps place page. <br/><br/>| Rank | Dish              | Why it stands out                                   | How often it’s mentioned      | Ideal for                     |<br/>|------|-------------------|----------------------------------------------------|-------------------------------|-------------------------------|<br/>| 1    | Fresh Shucked Oysters | Highly praised for freshness and flavor.          | Mentioned in many reviews     | Sharing at the table          |<br/>| 2    | Steak Frites      | Consistently praised for perfect cooking and flavor.  | Appears in numerous photos     | Hearty main                  |<br/>| 3    | Swordfish         | Mixed reviews; specifically noted as bland by some.| Repeatedly noted as featured   | Lighter option                |<br/><br/>Good alternates / backup choices  <br/>- Lobster Ravioli: Described as good but not exceptional.  <br/>- Steak Hash: Noted for being well-cooked and flavorful, especially during brunch.  <br/><br/>Highlights (non‑dish positives from reviews)  <br/>Food Quality: Many reviewers enjoyed the taste of the food and specific dishes, particularly during brunch.  <br/>Service: Generally characterized as friendly and attentive, enhancing the dining experience.  <br/><br/>Common Issues (from reviews)  <br/>Service Speed: Reports of slow service during busy hours were noted.  <br/>Dish Quality: Some dishes, like the swordfish, have been labeled as bland, indicating inconsistency in preparation.  <br/><br/>Practical Notes  <br/>Reservation / wait: Reservations recommended, especially during busy dinner hours.  <br/>Accessibility: Not mentioned  <br/>Parking / transit: Not mentioned  <br/>Best use case: Best for brunch with friends or casual dinners.<br/><br/>More info: https://www.google.com/maps/place/Viera+on+Main/@41.6816607,-69.96143,256m/data=!3m1!1e3!4m6!3m5!1s0x89fb14a1df4435d1:0x470de43a93b90b5d!8m2!3d41.6816658!4d-69.9601791!16s%2Fg%2F1thqhszl?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-coffee-red</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>coffee</value></Data>
-      <Data name="color"><value>red</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-69.96016347582975,41.6816945027531,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -20845,6 +21044,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Wiessner Woods Stowe VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wiessner%20Woods%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wiessner Woods<br/><br/>📍 Edson Hill Rd, Stowe, VT<br/><br/>Wiessner Woods is Stowe Land Trust's best-known conserved property — a mature stand of hemlock, spruce, white pine, maple, beech, and birch, donated by the Wiessner family specifically to preserve the land's natural beauty for public enjoyment. It's the organization's go-to answer for an easy, reliable dog walk close to Stowe village: wide, gentle forest paths with none of the exposed scrambling found at higher trails like Sterling Falls Gorge, making it a genuinely low-effort, carriage-road-style outing rather than a hike.<br/><br/>Tips<br/>- Hiking, snowshoeing, cross-country skiing, and dog walking are all explicitly listed uses — this is a preserve built for exactly this kind of easy outing.<br/>- Trails are wide and gentle throughout, a good match for older travelers or an off-day from more strenuous hikes like Mount Mansfield.<br/>- A short drive from Stowe village off Edson Hill Road, with a small trailhead parking area.<br/><br/>More info: https://www.stowelandtrust.org/work/land-protection/conserved/wiessner-woods]]></description>
+    <styleUrl>#s-footprints-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Footpath</value></Data>
+      <Data name="icon"><value>footprints</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.7332,44.4995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Wilcox Memorial Hall &amp; Milan Town Hall NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wilcox%20Memorial%20Hall%20%26%20Milan%20Town%20Hall%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wilcox Memorial Hall & Milan Town Hall<br/><br/>📍 Lafayetteville, Milan, NY 12581<br/><br/>A living monument to the Wilcox family, this white frame Neo-Colonial Revival hall, completed in 1966, is one of the most beautiful and well-appointed halls in Dutchess County.<br/><br/>Tips<br/>- Stop 22 of 33 on the Rhinebeck, Red Hook & Milan Scenic Tour (Tour 1).<br/>- For a side trip: Wilcox Park, a short distance on Rt. 199 East, is 615 acres of forested hills, streams and a lake for swimming, boating and other activities. Call 845/758-6100 for visitor information.]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -21170,6 +21382,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Wolf Tree White River Junction VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wolf%20Tree%20White%20River%20Junction%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wolf Tree<br/><br/>📍 40 Currier St, White River Junction, VT 05001<br/><br/>A small, inventive craft cocktail bar built around found and foraged regional ingredients -- cheese and meat snacks rather than a full menu. Open Tue-Sat 4-10pm, closed Sun-Mon. Indoor/outdoor seating and to-go cocktails available.<br/><br/>Tips<br/>- A drinks-and-snacks stop, not a dinner destination -- pair with Thyme, REDCAN, or Tuckerbox nearby for an actual meal.<br/>- Closed Sunday and Monday.<br/><br/>More info: https://www.wolftreevt.com/]]></description>
+    <styleUrl>#s-beer-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>beer</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3178,43.6489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Wolfeboro Historical Society NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Wolfeboro%20Historical%20Society%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Wolfeboro Historical Society<br/><br/>📍 Wolfeboro, NH<br/><br/>A local-history museum in downtown Wolfeboro, which bills itself as "the oldest summer resort in America" thanks to Royal Governor John Wentworth's 1768 estate on nearby Lake Wentworth.<br/><br/>Tips<br/>- Combine with the Wright Museum of WWII and Abenaki Tower for a Wolfeboro-area day.<br/><br/>More info: https://www.google.com/maps/search/?api=1&query=43.5809%2C%20-71.2023]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -21274,6 +21499,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Woodstock Farmers' Market Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Woodstock%20Farmers%27%20Market%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Woodstock Farmers' Market<br/><br/>📍 979 W Woodstock Rd (Route 4), Woodstock, VT 05091<br/><br/>Despite its name suggesting an outdoor seasonal event, the Woodstock Farmers' Market is an indispensable, permanent, year-round gourmet food market and culinary hub located just west of the village on Route 4. Since 1992, the market has championed sustainable, organic, and small-producer New England agriculture. Inside the cedar-shingled store, shoppers find a bustling deli counter turning out nationally acclaimed sandwiches, a scratch bakery producing fresh pies, sourdough breads, and cookies, an extensive farmstead cheese case, organic local produce, and a curated selection of Vermont craft beers, ciders, and natural wines.<br/><br/>Must Order<br/>- The Turkey & Brie Sandwich — House-roasted turkey breast, creamy French brie, tart green apples, and sweet cranberry chutney on freshly baked cranberry-walnut bread.<br/>- The Meatloaf Special or Roast Beef Chimichurri — Fan favorites from the hot and cold prepared deli cases.<br/>- Fresh-Baked Pies & Cookies — Heirloom apple, wild Maine blueberry, or the famous ginger molasses cookies.<br/>- Prepared Picnic Salads — Sesame peanut noodles, roasted seasonal beet salad, and local grain salads perfect for trail excursions.<br/><br/>Tips<br/>- The premier spot in the Woodstock area to pick up a gourmet picnic lunch before heading out to hike Mount Tom, walk The Pogue, or explore Quechee Gorge.<br/>- Call ahead or order sandwiches online via their website to skip the bustling midday deli counter line.<br/>- Outdoor picnic tables sit along the banks of the Ottauquechee River out back when weather is nice.<br/>- Closed Mondays; plan grocery provisioning accordingly.<br/><br/>More info: https://woodstockmarket.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5441,43.6198,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Woodstock Farmers’ Market VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Woodstock%20Farmers%E2%80%99%20Market%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
     <styleUrl>#s-leaf-green</styleUrl>
@@ -21288,15 +21526,15 @@
   </Placemark>
   <Placemark>
     <name>Worthy Kitchen Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Worthy%20Kitchen%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Worthy Kitchen is an American restaurant offering casual dining with prices ranging from $20 to $30 per person. It opens at 4 PM for dinner and offers a variety of dishes, including craft beers and burgers. It serves alcohol.<br/><br/>More info: https://www.google.com/maps/place/Worthy+Kitchen/@43.6223817,-72.5377723,5128m/data=!3m1!1e3!4m14!1m6!2m5!1srestaurants+with+reservations!5m2!4e9!15saccepts_reservations!6e5!3m6!1s0x89e1d81196d5ec01:0x5dd7950ee4b6f0ca!8m2!3d43.6326556!4d-72.5038667!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyJkUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNSMC9nZW8vdHlwZS9lc3RhYmxpc2htZW50X3BvaS9hY2NlcHRzX3Jlc2VydmF0aW9uc1ofIh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9uc5IBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmxYemRQYlVoQkVBReABAPoBBQiRAhA5!16s%2Fg%2F1pp2vgks_?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-beer-red</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Worthy%20Kitchen%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Worthy Kitchen<br/><br/>📍 442 Woodstock Rd (Route 4), Woodstock, VT 05091<br/><br/>Located just east of downtown Woodstock along Route 4, Worthy Kitchen is a beloved farm-to-table craft beer diner. Boasting one of the most celebrated draft lists in the state—often featuring rare pours from Hill Farmstead, Lawson’s Finest Liquids, Fiddlehead, and Zero Gravity, alongside regional hard ciders—it pairs world-class brews with elevated, casual comfort food. Food is ordered at the counter, prepared with local Vermont farm ingredients, and delivered to rustic communal wood tables.<br/><br/>Must Order<br/>- Worthy Fried Chicken — Buttermilk-brined chicken, golden-crispy, served with house hot honey and seasoned slaw.<br/>- Worthy Burger — Local grass-fed beef cooked to order, topped with secret sauce and melted Plymouth artisan cheddar on a brioche bun.<br/>- Parmesan Truffle Fries — Hand-cut potatoes tossed in white truffle oil, grated parmesan, and fresh herbs.<br/>- Draft Cider Flight — Rotating selection of dry Vermont heritage ciders (Citizen Cider, Shacksbury, Eden Specialty Ciders).<br/><br/>Tips<br/>- Counter-service model: find a table first, order at the counter, and your food is brought out hot.<br/>- Very popular with locals and travelers alike; arrive right around 4:30–5:00 PM for dinner to avoid long counter lines on weekends.<br/>- Excellent takeout option if you prefer to take dinner back to your lodging patio.<br/><br/>More info: https://www.worthyvermont.com/worthy-kitchen]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
     <ExtendedData>
-      <Data name="vault_type"><value>Brewery</value></Data>
-      <Data name="icon"><value>beer</value></Data>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
       <Data name="color"><value>red</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.50380892190245,43.63354334507945,0</coordinates>
+      <coordinates>-72.5039,43.6327,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -21323,6 +21561,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.131394,44.0966822,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yankee Bookshop Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Yankee%20Bookshop%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Yankee Bookshop<br/><br/>📍 12 Central St, Woodstock, VT 05091<br/><br/>Serving readers continuously since 1935, the Yankee Bookshop is the oldest independent bookstore in the state of Vermont. Located in a historic storefront right along central Woodstock's main shopping corridor, the shop offers a carefully curated selection of contemporary fiction, non-fiction, poetry, and children's literature, alongside a dedicated Vermont and New England regional section covering local history, foraging, hiking, and cuisine. The shop also features handcrafted stationery, greeting cards, literary puzzles, and locally designed gifts.<br/><br/>Highlights<br/>- Staff Recommendations: Thoughtful shelf-talkers and handwritten review tags throughout every section.<br/>- Vermont & New England Collection: Deep selection of local history, nature writing, trail maps, and Vermont authors (including works on the Rockefellers and Vermont conservation).<br/>- Author Events: Frequent community readings, book signings, and book clubs.<br/><br/>Tips<br/>- Open daily in the center of town; perfect to browse while waiting for a table or walking Central Street.<br/>- The staff is exceptionally knowledgeable about regional guides, foliage driving maps, and local walking trails.<br/><br/>More info: https://www.yankeebookshop.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5181,43.6254,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -21443,45 +21694,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>⚠️ Dinner Reservation Needed - Sep 13 Chatham MA</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Dinner%20Reservation%20Needed%20-%20Sep%2013%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-13T18:00:00<br/><br/>Dinner Reservation Needed — Sun, Sep 13<br/><br/>No dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made.]]></description>
-    <styleUrl>#s-alert-triangle-yellow</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>alert-triangle</value></Data>
-      <Data name="color"><value>yellow</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-69.95527097087479,41.679431795564206,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>⚠️ Dinner Reservation Needed - Sep 20 Chatham MA</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Dinner%20Reservation%20Needed%20-%20Sep%2020%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-20T18:00:00<br/><br/>Dinner Reservation Needed — Sun, Sep 20<br/><br/>No dinner reservation has been booked yet for this date. A candidate has already been researched — The Rooftop at Pelham House Resort (4.3 rating) — just needs an actual booking. Replace this placeholder once a real reservation is made.]]></description>
-    <styleUrl>#s-alert-triangle-yellow</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>alert-triangle</value></Data>
-      <Data name="color"><value>yellow</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-69.95527097087479,41.679431795564206,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>⚠️ Dinner Reservation Needed - Sep 7 Woodstock VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Dinner%20Reservation%20Needed%20-%20Sep%207%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-07T18:00:00<br/><br/>Dinner Reservation Needed — Mon, Sep 7<br/><br/>No dinner reservation has been booked yet for this date. Replace this placeholder once a real reservation is made.]]></description>
-    <styleUrl>#s-alert-triangle-yellow</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>alert-triangle</value></Data>
-      <Data name="color"><value>yellow</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.5218,43.6237,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>⚠️ Salt Line planned closed Mondays - Sep 21 Hudson Valley</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9A%A0%EF%B8%8F%20Salt%20Line%20planned%20closed%20Mondays%20-%20Sep%2021%20Hudson%20Valley.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-21T18:00:00<br/><br/>Dinner Reservation Needed — Mon, Sep 21<br/><br/>No dinner reservation has been booked yet for this date — the Chatham MA → Hudson Valley changeover day. Replace this placeholder once a real reservation is made.]]></description>
     <styleUrl>#s-alert-triangle-yellow</styleUrl>
@@ -21509,7 +21721,7 @@
   </Placemark>
   <Placemark>
     <name>✅ 46 Jackson St, Littleton NH</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%2046%20Jackson%20St%2C%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-26T15:00:00<br/><br/>Home in Littleton – Review<br/>Overall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91★, 56 reviews) — walkable to Main Street with a mountain view.<br/><br/>---<br/><br/>📋 Fast Facts<br/>- Listing type: Entire home, colonial<br/>- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)<br/>- Bathrooms: 1.5<br/>- Max guests: 6<br/>- Host: Deborah A — Superhost, 8 years hosting<br/><br/>---<br/><br/>🛋️ Space & Amenities<br/>- Kitchen: yes<br/>- Laundry: washer & dryer<br/>- Outdoor: mountain view<br/>- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace<br/>- Parking: free driveway parking (4 spaces)<br/>- Other: 40" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed<br/>- Note: must climb stairs<br/><br/>---<br/><br/>📍 Location & Neighborhood<br/>Walk to award-winning Main Street — shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.<br/><br/>---<br/><br/>🔑 Check-in & House Rules<br/>Check-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad — code: 1546 (received from host Deborah A via email, 2026-08-25).<br/><br/>---<br/><br/>⭐ Host & Reviews<br/>Deborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.<br/><br/>---<br/><br/>👍 Pros<br/>- Superhost with a strong, well-established review record<br/>- Spacious for a group (3BR/7 beds/6 guests)<br/>- Free driveway parking and fast Wi-Fi/workspace — good for remote work days<br/>- Walkable to Main Street<br/><br/>---<br/><br/>👎 Cons<br/>- Only 1.5 baths for up to 6 guests<br/>- Some bedrooms have less conventional bed setups (bunk/single mixed in) — check fit for your group<br/><br/>---<br/><br/>🎯 Best For<br/>A group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.<br/><br/>More info: https://www.airbnb.com/rooms/626085727753547407]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%2046%20Jackson%20St%2C%20Littleton%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-26T15:00:00<br/><br/>Home in Littleton – Review<br/>Overall: A spacious 3-bedroom colonial in the heart of Littleton, hosted by an 8-year Superhost with a strong review record (4.91★, 56 reviews) — walkable to Main Street with a mountain view.<br/><br/>---<br/><br/>📋 Fast Facts<br/>- Listing type: Entire home, colonial<br/>- Bedrooms / Beds: 3 bedrooms, 7 beds total (Bedroom 1: 1 double; Bedroom 2: 1 queen; Bedroom 3: 1 queen, 1 double, 1 single, 1 bunk)<br/>- Bathrooms: 1.5<br/>- Max guests: 6<br/>- Host: Deborah A — Superhost, 8 years hosting<br/><br/>---<br/><br/>🛋️ Space & Amenities<br/>- Kitchen: yes<br/>- Laundry: washer & dryer<br/>- Outdoor: mountain view<br/>- Connectivity: Fast Wi-Fi (251 Mbps), dedicated workspace<br/>- Parking: free driveway parking (4 spaces)<br/>- Other: 40" HDTV with Roku/Chromecast, pets allowed, smoke + CO alarms installed<br/>- Note: must climb stairs<br/><br/>---<br/><br/>📍 Location & Neighborhood<br/>Walk to award-winning Main Street — shops, restaurants, spas, a historic opera house, and a riverwalk. Hiking, biking, live theater and music, water sports, and other White Mountains activities are minutes away, along with a playground and pool within walking distance.<br/><br/>---<br/><br/>🔑 Check-in & House Rules<br/>Check-in after 3:00 PM, checkout before 12:00 PM. Pets allowed. Self check-in with keypad — code: 1546 (received from host Deborah A via email, 2026-08-25).<br/><br/>---<br/><br/>⭐ Host & Reviews<br/>Deborah A, Superhost with 8 years of hosting experience. 4.91 out of 5 stars across 56 reviews.<br/><br/>---<br/><br/>👍 Pros<br/>- Superhost with a strong, well-established review record<br/>- Spacious for a group (3BR/7 beds/6 guests)<br/>- Free driveway parking and fast Wi-Fi/workspace — good for remote work days<br/>- Walkable to Main Street<br/><br/>---<br/><br/>👎 Cons<br/>- Only 1.5 baths for up to 6 guests<br/>- Some bedrooms have less conventional bed setups (bunk/single mixed in) — check fit for your group<br/><br/>---<br/><br/>🎯 Best For<br/>A group or family wanting a spacious, walkable, well-reviewed base in downtown Littleton.<br/><br/>Markdown<br/><br/>```<br/>Airbnb Communication Thread<br/><br/>Reservation: Littleton, NH (Aug 26 – 31, 2026)  <br/>Host: Deborah A & Kurt W  <br/>Guest: Tom Rubel  <br/><br/>---<br/><br/>March 14, 2026<br/><br/>Deborah A · Host (1:57 PM):  <br/>Hey Tom, Thank you for choosing our spot for your stay. We hope you'll love it as much as we do. If you’re wondering about local events going on while you’re staying with us, check out golittleton.com! A few days before your trip starts, Airbnb will usually send you some guest resource Info including check in instructions. We will also send you info to remind you of our contact information and door lock steps. Our door lock is a bit different so be sure to take a look! If you have any questions, please feel free to contact us before or during your stay. So welcome and have a blast! Deb & Kurt<br/><br/>---<br/><br/>Monday, August 24, 2026<br/><br/>Deborah A · Host (10:46 AM):  <br/>Hi Tom, your stay is coming up soon. You can check in anytime after 3:00 PM on Aug 26, 2026.  <br/>Here’s the address:  <br/>46 Jackson Street, Littleton, New Hampshire, 03561  <br/>Here are the wifi details:  <br/>Name: Ellison  <br/>Password: bella4853  <br/>If you have any questions, I’m here to help. Hope you enjoy your stay!  <br/>Hey Joanna, Thank you for choosing our spot for your stay. We hope you'll love it as much as we do. If you’re wondering about local events going on while you’re staying with us, check out golittleton.com! A few days before your trip starts, Airbnb will usually send you some guest resource Info including check in instructions. We will also send you info to remind you of our contact information and door lock steps. Our door lock is a bit different so be sure to take a look! If you have any questions, please feel free to contact us before or during your stay. So welcome and have a blast! Deb & Kurt<br/><br/>Deborah A · Host (10:47 AM):  <br/>Hi Alicia, Thank you for choosing our Historic Gem in the Heart of Littleton, we are excited to welcome you! Your check-in is scheduled for 3pm and check-out is 11am on the 20th. The address is 46 Jackson St, Littleton, NH 03561. Your door access code is 1546. To unlock, enter the four-digit code, then press the checkmark button at the bottom. To lock, press the "Yale" button at the top of the keypad. It will be active from the time of check-in.  <br/>Trash instructions: Please place the trash in the wooden storage container on the left side of the driveway. Inside, you’ll find a QR code for Wi-Fi access.  <br/>To ensure everyone’s comfort, we kindly ask that you observe the following house rules: smoking is prohibited inside and outside the home, parties and events are not allowed, only registered guests are permitted, and quiet hours begin after 10:00 PM.  <br/>If you need anything at all, feel free to call us at (866) 563 4476 — we’re available 24/7. Safe travels—we look forward to hosting you soon! Thank you, The Lodgism Team<br/><br/>Deborah A · Host (10:52 AM):  <br/>Hey Tom, Deb Ellison here. I apologize for this mishmash of information you have received. After we accepted your reservation we hired a management company Lodgism to take over managing our property. The text from them is the one you need, please ignore any conflicting information in the other texts. Feel free to get back to me if you have any questions. Thank you and have a great stay!! Deb<br/><br/>Tom Rubel (5:34 PM):  <br/>I have not received any texts from you, but I have received some confusing emails some of which apparently were intended for another guest. I am assuming that the key code that was sent to Alicia will be changed and I will be informed of the one I am to be using soon? Thx for keeping me informed Tom<br/><br/>Deborah A · Host (5:57 PM):  <br/>Hi Tom, your stay is coming up soon. You can check in anytime after 3:00 PM on Aug 26, 2026.  <br/>Here’s the address:  <br/>46 Jackson Street, Littleton, New Hampshire, 03561  <br/>Here are the wifi details:  <br/>Name: Ellison  <br/>Password: bella4853  <br/>If you have any questions, I’m here to help. Hope you enjoy your stay!  <br/>Hey Tom, did you receive the message that began Hey Tom, Deb Ellison here?<br/><br/>Deborah A · Host (9:17 PM):  <br/>Hey Tom, the key code will be 1546, let me know if you have any other questions. Thank you.<br/><br/>---<br/><br/>Tuesday, August 25, 2026<br/><br/>Tom Rubel (8:10 AM):  <br/>Thank you for your follow-up. We look forward to our stay  <br/>Tom and Ellen Rubel<br/><br/>---<br/><br/>Wednesday, August 26, 2026<br/><br/>Tom Rubel (5:07 PM):  <br/>Hi Deborah,  <br/>I am writing to bring a serious cleanliness and sanitation issue to your attention. Upon entering the house, we immediately noticed an overpowering, foul odor coming from the kitchen. When we tracked it down and opened the trash compactor, a large swarm of flying insects flew directly into the kitchen, and we discovered rotting, weeks-old garbage sitting inside.  <br/>To make the home habitable, I had to empty the compactor myself. However, the outdoor wooden storage bin was also overflowing, indicating that waste removal has been neglected across previous turnovers. I attach pictures.  <br/>While we have taken steps to air out the home and handle the immediate mess, and the bugs will eventually go away, this was a severe health and hygiene failure on arrival. Given that you recently transitioned management to Lodgism, you need to know that their turnover and cleaning protocols completely failed here.  <br/>I have calmed my wife down. We intend to fulfill our contract. But we could not have possibly gotten off to worst start in Littleton. You should really let Lodgism have it over this disaster.  <br/>Regards,  <br/>Tom<br/><br/>Deborah A · Host (6:23 PM):  <br/>Hey Tom, I'm terribly sorry about this mess. I have a call into my counter part in the management company and will sort things out with them but would like to comp you for your stay. I will get back to you shortly. And again please accept our apologies, it really is a lovely town and we hope you can enjoy the rest of your time there.<br/><br/>---<br/><br/>Thursday, August 27, 2026<br/><br/>Tom Rubel (7:01 AM):  <br/>Deborah,  <br/>Thank you very much for your kind offer, but accepting it is not a desired outcome—you shouldn't have to take a financial hit when you acted in good faith and your vendor dropped the ball. I did not write to seek a refund or concession, but rather to ensure you were aware of a serious breakdown in service.  <br/>It is clear to us that you are a caring and well-intentioned host, and what happened was entirely the fault of a third-party vendor failing to do their job—not a reflection of your standards or decisions. You shouldn't have to bear a financial penalty for their negligence.  <br/>Please also rest assured that I have no intention of leaving a negative public review. If I DID submit one, honesty would require me to mention the incident. But I have no desire to harm your business or reputation over a vendor's mistake. I will simply bypass the review prompts when they arrive.  <br/>We are settled in, looking forward to enjoying our time in Littleton, and wish you the best in getting things sorted out with your management company.  <br/>Regards,  <br/>Tom Rubel<br/><br/>Deborah A · Host (9:21 AM):  <br/>Hey Tom, thank you for your understanding and generosity. You are very kind. The management company would like to come by this morning between 11 and 12 to sanitize the trash compactor and remove the trash. Would you be amenable to that?<br/><br/>Tom Rubel (11:22 AM):  <br/>Sorry, I just received this. We were out for a walk. They're welcome to come by whenever convenient. I received your invoice, which I will honor immediately upon confirmation that the refund has hit my account.<br/><br/>Deborah A · Host (11:23 AM):  <br/>Thank you Tom.<br/>```<br/><br/>More info: https://www.airbnb.com/rooms/626085727753547407]]></description>
     <styleUrl>#s-hotel-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Lodging</value></Data>
@@ -21570,6 +21782,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.09781,44.26899,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>✅ Bluefins Sushi &amp; Sake Bar Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Bluefins%20Sushi%20%26%20Sake%20Bar%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-13T18:30:00<br/><br/>Bluefins Sushi & Sake Bar<br/><br/>📍 513 Main St, Chatham, MA 02633<br/><br/>Upscale, cozy sushi and seafood spot on Main St, $50–100/person. Known for the toro nigiri and freshness of the fish; a few reviews note portions can feel small for the price.<br/><br/>Must Order<br/>- Toro Nigiri — the most frequently praised dish<br/><br/>Tips<br/>- OpenTable confirmation #146082, 2 guests, Sun Sep 13 at 6:30 PM.<br/>- Reservations required for all dining/bar seating — can't be booked more than 14 days ahead; parties of 6 or fewer can book online, larger by phone.<br/>- 10-minute grace period; strict 90-minute table limit once seated.<br/>- Cancellation fee ($25 + tax/guest) applies to parties of 7+ that don't cancel by the morning of.<br/>- Phone: (508) 348-1573<br/><br/>More info: https://www.google.com/maps/place/Bluefins+Sushi+%26+Sake+Bar/@41.6801125,-69.9681313,3321m/data=!3m1!1e3!4m6!3m5!1s0x89fb149fa21e4951:0xa56af4b33b22606f!8m2!3d41.6801225!4d-69.9576711!16s%2Fg%2F11bbsz39xk?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-sandwich-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.95756199327533,41.68066541362257,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -21769,7 +21994,7 @@
   </Placemark>
   <Placemark>
     <name>✅ Oakes &amp; Evelyn - Woodstock VT (Visit 1)</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Oakes%20%26%20Evelyn%20-%20Woodstock%20VT%20%28Visit%201%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-04T18:30:00<br/><br/>Note: First of two visits to Oakes & Evelyn during the Woodstock VT stay — confirmation #TOCK-R-DN4D0JGB. The second is Sep 8 (Visit 2), confirmation #TOCK-R-7VEJHCD3.<br/><br/>More info: https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Oakes%20%26%20Evelyn%20-%20Woodstock%20VT%20%28Visit%201%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-04T18:30:00<br/><br/>Note: First of two visits to Oakes & Evelyn during the Woodstock VT stay — confirmation #TOCK-R-DN4D0JGB. The second is Sep 8 (Visit 2), confirmation #TOCK-R-7VEJHCD3.<br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Fine-dining, reservation-based format -- no takeout evidence found in a real search.<br/><br/>More info: https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -21782,7 +22007,7 @@
   </Placemark>
   <Placemark>
     <name>✅ Oakes &amp; Evelyn - Woodstock VT (Visit 2)</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Oakes%20%26%20Evelyn%20-%20Woodstock%20VT%20%28Visit%202%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-08T18:30:00<br/><br/>Note: Second of two visits to Oakes & Evelyn during the Woodstock VT stay — confirmation #TOCK-R-7VEJHCD3, booked Aug 24, 2026. The first visit is Sep 4 (Visit 1), confirmation #TOCK-R-DN4D0JGB. Fills the previously-open Sep 8 dinner gap.<br/><br/>More info: https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Oakes%20%26%20Evelyn%20-%20Woodstock%20VT%20%28Visit%202%29.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-08T18:30:00<br/><br/>Note: Second of two visits to Oakes & Evelyn during the Woodstock VT stay — confirmation #TOCK-R-7VEJHCD3, booked Aug 24, 2026. The first visit is Sep 4 (Visit 1), confirmation #TOCK-R-DN4D0JGB. Fills the previously-open Sep 8 dinner gap.<br/><br/>[!info] Takeout verification note (2026-08-29)<br/>Not shown in the Woodstock base camp's Takeouts view -- Fine-dining, reservation-based format -- no takeout evidence found in a real search.<br/><br/>More info: https://www.google.com/maps/place/Oakes+%26+Evelyn+-+Woodstock/@43.6121784,-72.586042,6146m/data=!3m1!1e3!4m13!1m5!2m4!1srestaurants+with+reservations!5m1!4e9!6e5!3m6!1s0x89e1d7ccd29f62d1:0x2aede9445c85162!8m2!3d43.6121784!4d-72.5495581!15sCh1yZXN0YXVyYW50cyB3aXRoIHJlc2VydmF0aW9ucyIyUjAvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvYWNjZXB0c19yZXNlcnZhdGlvbnNaDSILcmVzdGF1cmFudHOSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwR01rMUZSbTlPYWs1NFlWYzFiRkpyVG1aU2F6bEVWVmRHVFZNell4QULgAQD6AQQIRBBK!16s%2Fg%2F11mdfscp7g?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>Restaurant</value></Data>
@@ -21817,6 +22042,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.98103665716778,41.68577101070748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>✅ Richardson’s Tavern Woodstock VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Richardson%E2%80%99s%20Tavern%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-07T18:30:00<br/><br/>Richardson’s Tavern<br/><br/>📍 14 The Grn, Woodstock, VT 05091<br/><br/>Richardson’s Tavern is a fine dining restaurant offering American cuisine, part of the Woodstock Inn. Cozy and laid-back, open for dinner from 5 PM daily, $50–100/person.<br/><br/>Must Order<br/>- Baked oysters — a standout per reviews<br/>- Duck — another frequently praised dish<br/>- Reviews advise against the brown butter parsnips<br/><br/>Tips<br/>- Resy reservation, 2 guests, Mon Sep 7 at 6:30 PM, Dining Room.<br/>- Cashless restaurant — credit, debit, gift cards, and tap-to-pay accepted.<br/>- Cancellation fee ($25 + tax per guest) applies if cancelled after Sat Sep 5, 6:30 PM.<br/>- Phone: +1 802-457-6671 (call if running more than 15 min late)<br/><br/>More info: https://www.google.com/maps/place/Richardson%E2%80%99s+Tavern/@43.6241228,-72.5208001,17.56z/data=!4m13!1m5!2m4!1sTake+out+food+woodstock.+!5m1!15shas_takeout!6e5!3m6!1s0x89e1d820c9d59f7d:0x3d2df1080af8902e!8m2!3d43.6230555!4d-72.5189981!15sChhUYWtlIG91dCBmb29kIHdvb2RzdG9jay4iVVInL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2hhc190YWtlb3V0UicvZ2VvL3R5cGUvZXN0YWJsaXNobWVudF9wb2kvaGFzX3Rha2VvdXS4AQFaGSIXdGFrZSBvdXQgZm9vZCB3b29kc3RvY2uSARZmaW5lX2RpbmluZ19yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sY21WSVRUSkJSUkFC4AEA-gEFCKEDEEo!16s%2Fg%2F11hb389wr4?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-utensils-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>utensils</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.51900563822892,43.62314855956515,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -21973,6 +22211,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.26414478187155,43.654795157599246,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>✅ Viera on Main Chatham MA</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Viera%20on%20Main%20Chatham%20MA.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-20T18:30:00<br/><br/>Overview<br/>Type: Seafood Restaurant  <br/>Best known for: Fresh shucked oysters, skilled steak preparation  <br/>Location context: Chatham, MA  <br/>Price level: $50–100 per person  <br/>Visit timing: Dinner hours are busier; brunch is also popular<br/><br/>Typical Customers  <br/>Demographics: Mix of locals and tourists  <br/>Group types: Couples, families, friends  <br/>Common occasions: Brunch, casual dinners, special occasions  <br/><br/>Vibe & Setting  <br/>Atmosphere: Casual, cozy with a nautical theme  <br/>Noise level: Moderate  <br/>Decor & setting: Indoor seating, well-decorated interior  <br/>Service style: Generally attentive and friendly<br/><br/>Recommended Dishes  <br/>Overall dish consensus  <br/>Critics agree that oysters and steak dishes are standout options. The swordfish, however, received mixed reviews, being described as bland by some.  <br/><br/>How “top dishes” are determined  <br/>Top dishes were chosen based on frequency in reviews, mentions in photos, and noted popularity on the Google Maps place page. <br/><br/>| Rank | Dish              | Why it stands out                                   | How often it’s mentioned      | Ideal for                     |<br/>|------|-------------------|----------------------------------------------------|-------------------------------|-------------------------------|<br/>| 1    | Fresh Shucked Oysters | Highly praised for freshness and flavor.          | Mentioned in many reviews     | Sharing at the table          |<br/>| 2    | Steak Frites      | Consistently praised for perfect cooking and flavor.  | Appears in numerous photos     | Hearty main                  |<br/>| 3    | Swordfish         | Mixed reviews; specifically noted as bland by some.| Repeatedly noted as featured   | Lighter option                |<br/><br/>Good alternates / backup choices  <br/>- Lobster Ravioli: Described as good but not exceptional.  <br/>- Steak Hash: Noted for being well-cooked and flavorful, especially during brunch.  <br/><br/>Highlights (non‑dish positives from reviews)  <br/>Food Quality: Many reviewers enjoyed the taste of the food and specific dishes, particularly during brunch.  <br/>Service: Generally characterized as friendly and attentive, enhancing the dining experience.  <br/><br/>Common Issues (from reviews)  <br/>Service Speed: Reports of slow service during busy hours were noted.  <br/>Dish Quality: Some dishes, like the swordfish, have been labeled as bland, indicating inconsistency in preparation.  <br/><br/>Practical Notes  <br/>Reservation / wait: OpenTable confirmation #63046, 2 guests, Sun Sep 20 at 6:30 PM. 15-minute grace period.  <br/>Accessibility: Not mentioned  <br/>Parking / transit: Not mentioned  <br/>Best use case: Best for brunch with friends or casual dinners.<br/><br/>More info: https://www.google.com/maps/place/Viera+on+Main/@41.6816607,-69.96143,256m/data=!3m1!1e3!4m6!3m5!1s0x89fb14a1df4435d1:0x470de43a93b90b5d!8m2!3d41.6816658!4d-69.9601791!16s%2Fg%2F1thqhszl?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-coffee-red</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>coffee</value></Data>
+      <Data name="color"><value>red</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.96016347582975,41.6816945027531,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25486,6 +25737,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Twin Mountain, NH</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Twin%20Mountain%2C%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.53889,44.27222,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Union - Farms &amp; Antiques</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Union%20-%20Farms%20%26%20Antiques.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -25774,11 +26038,11 @@
   <Placemark>
     <name>Woodstock, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Woodstock%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
       <coordinates>-72.5218,43.6237,0</coordinates>
