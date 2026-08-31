@@ -7329,6 +7329,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Grafton Village Store Grafton VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Grafton%20Village%20Store%20Grafton%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Grafton Village Store<br/><br/>📍 205 Main St, Grafton, VT 05146<br/><br/>A welcoming village anchor situated right on Main Street, the Grafton Village Store offers a classic country-store experience. The store stocks award-winning Grafton Village Cheese, fresh deli sandwiches, house-made baked goods, coffee, craft beers, and Vermont maple specialties. A small cafe seating area and outdoor benches let visitors enjoy breakfast or lunch overlooking the town's historic architecture.<br/><br/>Tips<br/>- Ideal spot to pick up lunch or snacks before walking around Grafton's historic covered bridges or driving the backroads of Windham County.<br/>- Great selection of locally made jams, jellies, craft ciders, and Grafton knitwear.<br/><br/>More info: https://www.graftonvillagestore.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.607,43.1725,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Granite Hall Store Bristol ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Granite%20Hall%20Store%20Bristol%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-07T13:00:00<br/><br/>Granite Hall Store<br/><br/>📍 Round Pond, Bristol, ME<br/><br/>Gift shop offering penny candy, ice cream, and various gifts. Does not serve food for lunch or dinner, nor alcohol.<br/><br/>Tips<br/>- Combine with Round Pond Lobster, just steps away.]]></description>
     <styleUrl>#s-sandwich-purple</styleUrl>
@@ -8005,6 +8018,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Haskell Free Library and Opera House Derby Line VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Haskell%20Free%20Library%20and%20Opera%20House%20Derby%20Line%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Haskell Free Library and Opera House<br/><br/>📍 93 Caswell Ave, Derby Line, VT 05830<br/><br/>Completed in 1904 as a gift from Martha Stewart Haskell and her son Horace to honor her late husband Carlos, this Victorian neoclassical landmark was deliberately constructed directly on the boundary line dividing Derby Line, Vermont, from Stanstead, Quebec. Inside, a thick black boundary line is taped right across the hardwood floor of the library reading room and diagonally through the 400-seat opera house auditorium. Theatergoers sit in the United States while performers act and sing on a stage located in Canada.<br/><br/>Highlights<br/>- The International Border Line: Walk across the famous black tape line running across the library floor.<br/>- Historic Opera House: Modeled on the Boston Opera House, with ornate plasterwork, gilded proscenium, and painted period scenery.<br/>- Bi-National Operation: Managed jointly by American and Canadian trustees, with collections in both English and French.<br/><br/>Tips<br/>- Visitors entering from the US side use the Caswell Avenue entrance; visitors entering from the Canadian side walk up Church Street. Passports are not required to visit inside the building, but you must enter and exit through the door of your originating country.<br/>- Located right at the northern terminus of I-91 on the Quebec border; easily combined with a visit to Lake Memphremagog in Newport.<br/><br/>More info: https://haskelloperahouse.org/]]></description>
+    <styleUrl>#s-scroll-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.0989,45.0058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Hatchet Mountain Preserve Hope ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Hatchet%20Mountain%20Preserve%20Hope%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Hatchet Mountain Preserve<br/><br/>📍 Hatchet Mountain Road (ME-235), Hope ME<br/><br/>A 1.4-mile out-and-back trail rising above Hope Village, with a well-built 0.75-mile switchback trail to viewpoints over Hobbs Pond, Bald and Ragged Mountains, and Camden Hills State Park toward Penobscot Bay. Moderately challenging, about an hour round trip.<br/><br/>Tips<br/>- Trailhead and parking are on ME-235, 0.6 miles from Hope Center.<br/>- A good option if you want a real hike with a view but shorter/quieter than the Camden Hills trails.<br/>- This is the destination note's own namesake attraction — previously had no Place note at all despite being the reason for the destination's name.]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -8041,6 +8067,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.0364,44.1547,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hazen's Notch Scenic Drive Montgomery VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Hazen%27s%20Notch%20Scenic%20Drive%20Montgomery%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Hazen's Notch Scenic Drive (Route 58)<br/><br/>📍 VT Route 58, Montgomery, VT 05470<br/><br/>Hazen's Notch is a dramatic, cliff-walled mountain pass cutting through the northern Green Mountains between Montgomery Center and Lowell along Vermont Route 58. First cleared as a military road in 1779 by General Moses Hazen during the Revolutionary War, the eastern section through the notch remains an unpaved, winding, single-lane gravel road that climbs past the sheer rocky cliffs of Sugarloaf Mountain. It is widely considered one of the most breathtaking, wild, and unspoiled fall foliage drives in New England.<br/><br/>Highlights<br/>- Sugarloaf Cliff Overlooks: Towering limestone and schist cliffs dropping sheer toward the road.<br/>- Hazen's Notch State Park: Undeveloped parklands offering quiet hiking access to the Long Trail where it crosses the pass.<br/>- Covered Bridge Circuit: Pairs naturally with a driving tour of Montgomery's six historic covered bridges.<br/><br/>Tips<br/>- The gravel pass is unpaved, narrow, and winding; drive slowly and watch for oncoming traffic.<br/>- Route 58 is closed during winter; peak driving season is late summer through mid-October for foliage.<br/>- Easily combined with a visit to Jay Peak Resort just 15 minutes to the north.<br/><br/>More info: https://vtstateparks.com/hazens.html]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5312,44.8711,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -11346,6 +11385,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Middlebury Falls Middlebury VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Middlebury%20Falls%20Middlebury%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Middlebury Falls & Historic Downtown<br/><br/>📍 Main St & Frog Hollow, Middlebury, VT 05753<br/><br/>Dropping dramatically over tiered limestone ledges on Otter Creek right in the middle of town, Middlebury Falls has been the industrial and visual heart of Middlebury since the town's settlement in the 1770s. The falls powered historic grain, saw, and marble mills, whose handsome native-stone structures have been repurposed into Frog Hollow Vermont Craft Center, art galleries, and restaurants. A graceful pedestrian suspension footbridge crosses directly above the rushing gorge, offering spectacular, misty views of the cascades and historic riverfront architecture.<br/><br/>Highlights<br/>- Pedestrian Bridge Overlook: Suspended directly over the gorge with direct views down into the churning whitewater.<br/>- Frog Hollow: America's first certified state craft center, showcasing juried Vermont fine woodworking, pottery, glass, and textiles in a historic 19th-century mill building.<br/>- Historic Marble Sidewalks & Village Green: Stroll Main Street's independent shops, cafes, and historic Greek Revival inns.<br/><br/>Tips<br/>- Free public parking is available behind the town offices and along Mill Street near Frog Hollow.<br/>- The riverside terrace at The Arcadian or Two Brothers Tavern offers great dining within sight of the creek.<br/><br/>More info: https://www.experiencemiddlebury.com/]]></description>
+    <styleUrl>#s-landmark-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Landmark</value></Data>
+      <Data name="icon"><value>landmark</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1698,44.0125,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mill Brook Preserve Searsport ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mill%20Brook%20Preserve%20Searsport%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mill Brook Preserve<br/><br/>📍 Goodell St, Searsport, ME (walk 0.3 mi in from the municipal lot — no parking currently at the preserve itself)<br/><br/>A 44 ft hemlock-decked bridge spans Mill Brook in a steep, forested valley — walking distance from Searsport's schools, used as an outdoor-education 'Learning Landscape.' Great for fishing. Conserved 2021, thanks to Linda and Jim Babb.<br/><br/>Tips<br/>- No parking at the preserve — park in the public lot on Goodell St and walk 0.3 mi (look for the grassy road entrance next to a red fire hydrant)<br/>- Trail currently dead-ends at 0.3 mi<br/><br/>More info: https://www.coastalmountains.org]]></description>
     <styleUrl>#s-footprints-green</styleUrl>
@@ -12243,6 +12295,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Mountain Top Inn &amp; Resort Chittenden VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mountain%20Top%20Inn%20%26%20Resort%20Chittenden%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Mountain Top Inn & Resort<br/><br/>📍 195 Mountain Top Rd, Chittenden, VT 05737<br/><br/>Perched on a high knoll 11 miles north of Rutland, Mountain Top Inn & Resort commands one of the most stunning panoramic landscape vistas in central Vermont. The estate sweeps down toward the pristine, undeveloped 750-acre Chittenden Reservoir, framed by the peaks of the Green Mountain National Forest. The resort features an expansive tavern terrace with outdoor fire pits, miles of private carriage roads and walking trails, and private beach access on the reservoir.<br/><br/>Highlights<br/>- Reservoir Overlook: Sweeping, unobstructed views looking directly down over the glistening water and wilderness shoreline.<br/>- The Mountain Top Tavern: Dine indoors or on the stone terrace overlooking the lake; excellent local draft beer and seasonal Vermont dining.<br/>- Recreation Trails: Miles of gentle walking trails through high meadows and down to the Chittenden Dam shoreline.<br/><br/>Tips<br/>- Worth the short detour off Route 7 or Route 100 for an afternoon drink, coffee, or scenic lunch on the terrace.<br/>- Sunset over the reservoir and mountains from the main lawn is spectacular.<br/><br/>More info: https://mountaintopinn.com/]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Scenic</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.9358,43.7314,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Mt Kearsarge Indian Museum Woodstock VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Mt%20Kearsarge%20Indian%20Museum%20Woodstock%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a>]]></description>
     <styleUrl>#s-landmark-green</styleUrl>
@@ -12643,6 +12708,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.0724,42.2022,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Northshire Bookstore Manchester VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Northshire%20Bookstore%20Manchester%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Northshire Bookstore<br/><br/>📍 4869 Main St, Manchester Center, VT 05255<br/><br/>Founded in 1976 and occupying the historic Colburn House in the heart of Manchester Center, Northshire Bookstore is a beloved national literary destination. Spanning multiple floors and interconnected rooms with hardwood floors, it holds over 300,000 volumes, extensive staff-recommendation notes, a massive dedicated children's floor, rare and used book rooms, and an on-site espresso cafe.<br/><br/>Highlights<br/>- Curated Reading Rooms: Deep, thoughtfully curated sections for fiction, poetry, history, and natural sciences.<br/>- Vermont & New England Department: One of the most comprehensive collections of Vermont history, Green Mountain trail maps, and regional nature writing anywhere in the state.<br/>- Spiral Press Cafe: In-house cafe serving artisan coffee, light lunches, and baked treats.<br/><br/>Tips<br/>- Set aside at least 45 to 60 minutes just to browse; it is an easy place for book lovers to spend an entire afternoon.<br/>- Plentiful free parking available in the rear lot off Main Street.<br/><br/>More info: https://www.northshire.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.0566,43.1772,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -16767,6 +16845,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Silver Lake State Park Barnard VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Silver%20Lake%20State%20Park%20Barnard%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Silver Lake State Park & Barnard Village<br/><br/>📍 20 State Park Dr & 6208 VT-12, Barnard, VT 05031<br/><br/>Located just 15 minutes north of Woodstock on Route 12, Barnard centers around the serene 84-acre waters of Silver Lake. The town presents one of Vermont's most classic photographic scenes: the gleaming white steeple of the 1838 Universalist Church reflected in the calm waters of the lake, flanked by the historic Barnard General Store (operating since 1832). Silver Lake State Park occupies the northern shore, offering shaded picnic lawns under mature maples, sandy swimming areas, and gentle walking paths along the water.<br/><br/>Highlights<br/>- Church on the Lake Vista: The classic photography vantage point looking across Silver Lake toward the church steeple from Route 12 or the state park beach.<br/>- Barnard General Store: Operating continuously since 1832; famous for homemade deli sandwiches, baked goods, local cider, and porch seating with lake views.<br/>- Lakeside Walking: Flat, gentle walking paths along the shoreline and around the state park grounds.<br/><br/>Tips<br/>- An easy, relaxing morning or afternoon excursion from Woodstock. Grab lunch at the Barnard General Store and enjoy it at the state park picnic tables overlooking the water.<br/>- Leashed dogs are permitted in designated day-use areas outside the swimming beach.<br/><br/>More info: https://vtstateparks.com/silver.html]]></description>
+    <styleUrl>#s-mountain-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Park</value></Data>
+      <Data name="icon"><value>mountain</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6164,43.7302,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Silvia Woodstock, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Silvia%20Woodstock%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Silvia<br/><br/>📍 Woodstock, NY<br/><br/>An open-kitchen wood-fire restaurant widely regarded as one of the Catskills' most accomplished tables — inventive fire-driven cooking with exceptional local sourcing.<br/><br/>Must Order<br/>- Wood-fired vegetables — the kitchen's greatest strength<br/>- 14-oz steak — with charred jalapeño chimichurri<br/>- Smoked fish — a recurring and outstanding starter<br/><br/>Tips<br/>- Reserve 1–2 weeks in advance for weekend dinner<br/>- The open kitchen makes the bar the best seat in the house<br/><br/>More info: https://www.google.com/maps/search/Silvia+Woodstock,+NY]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -17570,6 +17661,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.6874,44.4654,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strafford Town House Strafford VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Strafford%20Town%20House%20Strafford%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Strafford Town House<br/><br/>📍 12 Common Rd, Strafford, VT 05072<br/><br/>Standing proudly at the head of Strafford’s sloping upper common, the Strafford Town House is a masterpiece of early American civic architecture. Erected in 1799 by master builder Timothy Bush, the building features an extraordinary soaring four-stage belfry, Palladian windows, hand-carved dentil molding, and original interior box pews. Remarkably, it has served continuously for more than 225 years as the site of Strafford's annual Town Meeting—the oldest building in Vermont to maintain this unbroken civic tradition.<br/><br/>Highlights<br/>- Hilltop Common Vantage: The view from the foot of Common Road looking up the grassy green toward the white spire is considered one of the quintessential scenes of rural New England.<br/>- Justin Smith Morrill Homestead: Located a short walk down Justin Morrill Highway; the 1851 Gothic Revival pink villa of Senator Morrill (father of the Land-Grant College Act) is a National Historic Landmark.<br/><br/>Tips<br/>- Strafford is tucked into a quiet, peaceful mountain valley east of Route 14; roads into town are delightfully scenic and uncrowded.<br/>- Perfect quiet driving loop from Woodstock: head north on Route 14 through South Royalton and East Barnard, then return via Sharon.<br/><br/>More info: https://straffordvt.org/]]></description>
+    <styleUrl>#s-scroll-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>scroll</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3785,43.8658,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -18704,6 +18808,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>The Grafton Inn &amp; Tavern Grafton VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Grafton%20Inn%20%26%20Tavern%20Grafton%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Grafton Inn & Tavern<br/><br/>📍 92 Main St, Grafton, VT 05146<br/><br/>Operating continuously since 1801, The Grafton Inn has hosted legendary figures including Ulysses S. Grant, Ralph Waldo Emerson, Henry David Thoreau, and Rudyard Kipling. Meticulously restored and preserved by the Windham Foundation, the inn anchors the postcard-perfect historic district of Grafton. Its subterranean Grafton Tavern features exposed hand-hewn timbers, cozy stone fireplaces, and an exceptional menu celebrating regional Vermont farms and Grafton Village Cheese.<br/><br/>Tips<br/>- Stop into the historic tavern for a relaxed lunch or fireside dinner; sample the Grafton Village cheddar soup and local hard ciders.<br/>- Directly across from the village green, historic covered bridges, and the Grafton Village Store.<br/>- The grounds include walking trails leading to peaceful hillside pastures and the Windham Foundation nature museum.<br/><br/>More info: https://www.graftoninnvermont.com/]]></description>
+    <styleUrl>#s-hotel-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Historical</value></Data>
+      <Data name="icon"><value>hotel</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6075,43.1717,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Happy Clam Shack Bar Harbor ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Happy%20Clam%20Shack%20Bar%20Harbor%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>What it is: Casual takeout clam shack specializing in fresh lobster rolls, steamed clams, clam chowder, lobster bisque, and blueberry pie, with outdoor wood-fired cooking equipment built by the owners.<br/><br/>Customers: Tourists and locals seeking authentic Maine seafood experience; families and casual diners; repeat visitors (6+ years mentioned).<br/><br/>Vibe: Casual, unpretentious outdoor-only venue with picnic tables and umbrellas; lively, friendly, laid-back atmosphere with genuine owner presence.<br/><br/>Strongest positives:<br/><br/>- Exceptionally fresh, high-quality lobster consistently praised as "best we've ever had" (soft-shell noted)<br/>- Signature blueberry pie—"slice of heaven" (mentioned in 61 reviews)<br/>- Outstanding lobster rolls highlighted as "one of our highlight lobster rolls in Maine" (mentioned in 94 reviews)<br/>- Genuine friendliness and hospitality; described as "friendliest people we met on our travels" and "local gem"<br/>- Excellent value for quality ($20–30/person)<br/><br/>Downsides:<br/><br/>- Outdoor seating only (no indoor dining)<br/>- Takeout-focused model limits dining experience<br/><br/>More info: https://www.google.com/maps/place/The+Happy+Clam+Shack/@44.420652,-68.335271,792m/data=!3m1!1e3!4m14!1m7!3m6!1s0x4caeeb3450b62b41:0xfa2c7d55ef3b46ef!2sThe+Happy+Clam+Shack!8m2!3d44.4206482!4d-68.3326961!16s%2Fg%2F11c3tcwz69!3m5!1s0x4caeeb3450b62b41:0xfa2c7d55ef3b46ef!8m2!3d44.4206482!4d-68.3326961!16s%2Fg%2F11c3tcwz69?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -19325,6 +19442,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.2203,44.3947,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Vermont Country Store Weston VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/The%20Vermont%20Country%20Store%20Weston%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The Vermont Country Store<br/><br/>📍 657 Main St, Weston, VT 05161<br/><br/>Founded in 1946 by Vrest and Ellen Orton, The Vermont Country Store is an American icon of nostalgic retail. The rambling wooden store on Route 100 in Weston is packed to the rafters with goods from eras past: retro toys, classic apothecary soaps, flannel bedding, cast iron cookware, and practical New England clothing. The food room is famous for its self-serve sample barrels of Vermont cheddar, maple candy, fudge, and barrel pickles.<br/><br/>Highlights<br/>- Cheddar Sampling: Sample multiple vintages and sharp aging levels of authentic Vermont farmstead cheddars.<br/>- The Bryant House Restaurant: Adjacent historic 1827 tavern serving traditional Vermont chicken pot pie, Johnnycakes, and warm apple pie.<br/>- Penny Candy Counter: Hundreds of classic, retro candies from the 1930s through 1970s.<br/><br/>Tips<br/>- Combine with a stroll around Weston's town green and a visit to the historic Weston Grist Mill (just across the river).<br/>- Can get busy on autumn foliage weekends; early morning (opens at 9:00 AM) is the quietest time to explore.<br/><br/>More info: https://www.vermontcountrystore.com/]]></description>
+    <styleUrl>#s-shopping-bag-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Shop</value></Data>
+      <Data name="icon"><value>shopping-bag</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.7944,43.2929,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -22929,6 +23059,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Arlington, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Arlington%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1534,43.0748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Athens, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Athens%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -22939,6 +23082,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-73.8118,42.2631,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bakersfield, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Bakersfield%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.8028,44.7878,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -22965,6 +23121,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-68.2042989,44.3875617,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barnard, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Barnard%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6162,43.7303,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -23111,6 +23280,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Bennington, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Bennington%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1968,42.8781,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Berlin, NH</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Berlin%2C%20NH.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -23251,6 +23433,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.4954131,43.9248053,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bristol, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Bristol%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.0787,44.1337,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -23410,6 +23605,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Chelsea, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Chelsea%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.4464,43.9892,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Cherryfield, ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Cherryfield%2C%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -23446,6 +23654,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.4704,42.8873,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chittenden, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Chittenden%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.9526,43.7087,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -23566,6 +23787,32 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Cornwall, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Cornwall%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.2087,43.9634,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Craftsbury Common, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Craftsbury%20Common%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3789,44.6465,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Crawford Notch State Park</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Crawford%20Notch%20State%20Park.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -23605,6 +23852,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Danville, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Danville%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.1384,44.4117,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Deer Isle, ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Deer%20Isle%2C%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -23631,16 +23891,29 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Dorset</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Dorset.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```<br/><br/>More info: https://www.google.com/maps/place/Dorset,+VT/@43.2590392,-73.2162388,50933m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e05d1821bbe999:0x9803e80e814e2bb7!8m2!3d43.2548074!4d-73.0987801!16zL20vMDEwaHBq?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <name>Derby Line, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Derby%20Line%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-73.09694286560816,43.25547181418759,0</coordinates>
+      <coordinates>-72.1009,45.0006,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dorset, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Dorset%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.0969,43.2555,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -23667,6 +23940,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-73.7956214,41.5533306,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>East Middlebury, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/East%20Middlebury%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1093,43.9781,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -23904,16 +24190,16 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Grafton</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Grafton.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```<br/><br/>More info: https://www.google.com/maps/place/Grafton,+MA/@42.207707,-71.7677533,25902m/data=!3m1!1e3!4m15!1m8!3m7!1s0x89e40e967c235aff:0xb77895ea49119294!2sGrafton,+MA!3b1!8m2!3d42.2070391!4d-71.6856236!16zL20vMHYwMjc!3m5!1s0x89e40e967c235aff:0xb77895ea49119294!8m2!3d42.2070391!4d-71.6856236!16zL20vMHYwMjc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <name>Grafton, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Grafton%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.60725157330444,43.171775341762704,0</coordinates>
+      <coordinates>-72.6073,43.1718,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -24411,6 +24697,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Lincoln, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Lincoln%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.0032,44.1037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Lincolnville, ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Lincolnville%2C%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -24504,14 +24803,14 @@
   <Placemark>
     <name>Manchester, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Manchester%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-73.0720817,43.1635393,0</coordinates>
+      <coordinates>-73.0721,43.1635,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -24551,6 +24850,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-71.5012,43.6568,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middlebury, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Middlebury%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1673,44.0153,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -24616,6 +24928,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.32175,43.76517,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Montgomery, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Montgomery%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6397,44.9014,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -24720,6 +25045,32 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.0897,41.7462,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Newfane, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Newfane%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.6562,42.9862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Newport, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Newport%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.2051,44.9367,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -24879,6 +25230,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pawlet, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Pawlet%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.1782,43.3465,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pawling, NY</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Pawling%2C%20NY.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -24894,14 +25258,14 @@
   <Placemark>
     <name>Peacham, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Peacham%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.19,44.317,0</coordinates>
+      <coordinates>-72.1706,44.3292,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25115,14 +25479,14 @@
   <Placemark>
     <name>Quechee, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Quechee%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.4186105,43.646227,0</coordinates>
+      <coordinates>-72.4186,43.6462,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25204,6 +25568,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Rochester, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Rochester%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.809,43.8762,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Rockland – Art, Harbors, and Fine Dining**</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Rockland%20%E2%80%93%20Art%2C%20Harbors%2C%20and%20Fine%20Dining%2A%2A.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
@@ -25266,6 +25643,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-74.0815,41.839,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rupert, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Rupert%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.2209,43.2598,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25477,8 +25867,8 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>South Royalton</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/South%20Royalton.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```<br/><br/>More info: https://www.google.com/maps/place/South+Royalton,+Royalton,+VT/@43.8115126,-72.5614156,12617m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4d98c3a9c36a1:0x9f3d3d5952a5b734!8m2!3d43.8205295!4d-72.5213419!16s%2Fm%2F04c4by8?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <name>South Royalton, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/South%20Royalton%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
     <styleUrl>#s-route-orange</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
@@ -25486,7 +25876,7 @@
       <Data name="color"><value>orange</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.52177674790667,43.81994311582308,0</coordinates>
+      <coordinates>-72.5213,43.8205,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25578,6 +25968,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.6874,44.4654,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strafford, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Strafford%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.3787,43.8653,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -25817,11 +26220,11 @@
   <Placemark>
     <name>Waitsfield, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Waitsfield%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
       <coordinates>-72.8205,44.1891,0</coordinates>
@@ -25856,11 +26259,11 @@
   <Placemark>
     <name>Warren, VT</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Warren%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
       <coordinates>-72.857,44.1132,0</coordinates>
@@ -25933,15 +26336,15 @@
   </Placemark>
   <Placemark>
     <name>Weston, VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Weston%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```<br/><br/>More info: https://www.google.com/maps/place/Weston,+VT/@43.3100317,-72.9763508,50891m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e04eaf238cfbdd:0x6b23eddc17515b3e!8m2!3d43.2913008!4d-72.7929085!16zL20vMDEwbDBy?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-route-orange</styleUrl>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Weston%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-star-purple</styleUrl>
     <ExtendedData>
       <Data name="vault_type"><value>destination</value></Data>
-      <Data name="icon"><value>route</value></Data>
-      <Data name="color"><value>orange</value></Data>
+      <Data name="icon"><value>star</value></Data>
+      <Data name="color"><value>purple</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-72.79427516796342,43.292851892656515,0</coordinates>
+      <coordinates>-72.7943,43.2929,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -26046,6 +26449,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-72.5218,43.6237,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Worcester, VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Destinations/Worcester%2C%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>    - file == this.<br/>views:<br/>  - type: map<br/>    name: Map<br/>    coordinates: note.Coordinates<br/>    markerIcon: note.<br/>    markerColor: note.<br/>    mapHeight: 400<br/>    defaultZoom: 12<br/>```<br/><br/>Points of interest<br/><br/>```base<br/>filters:<br/>  or:<br/>    - destination == this<br/>    - list(trail).filter(value == this). 0<br/>views:<br/>  - type: table<br/>    name: Places<br/>    order:<br/>      - file.<br/>      - type<br/>      - Rating<br/>      - icon<br/>      - Coordinates<br/>    sort:<br/>      - property: rating<br/>        direction: DESC<br/>```]]></description>
+    <styleUrl>#s-route-orange</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>destination</value></Data>
+      <Data name="icon"><value>route</value></Data>
+      <Data name="color"><value>orange</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.5512,44.3739,0</coordinates>
     </Point>
   </Placemark>
 </Document>

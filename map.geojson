@@ -10407,6 +10407,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Grafton Village Store Grafton VT",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "Classic 19th-century country store in the heart of Grafton, offering Vermont artisan cheeses, fresh baked goods, deli sandwiches, maple syrup, and local provisions.",
+        "start_date_time": "",
+        "detail": "Grafton Village Store\n\n\ud83d\udccd 205 Main St, Grafton, VT 05146\n\nA welcoming village anchor situated right on Main Street, the Grafton Village Store offers a classic country-store experience. The store stocks award-winning Grafton Village Cheese, fresh deli sandwiches, house-made baked goods, coffee, craft beers, and Vermont maple specialties. A small cafe seating area and outdoor benches let visitors enjoy breakfast or lunch overlooking the town's historic architecture.\n\nTips\n- Ideal spot to pick up lunch or snacks before walking around Grafton's historic covered bridges or driving the backroads of Windham County.\n- Great selection of locally made jams, jellies, craft ciders, and Grafton knitwear.",
+        "website": "https://www.graftonvillagestore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607,
+          43.1725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Granite Hall Store Bristol ME",
         "icon": "sandwich",
         "color": "purple",
@@ -11423,6 +11443,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Haskell Free Library and Opera House Derby Line VT",
+        "icon": "scroll",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "Victorian neoclassical library and opera house deliberately constructed in 1904 directly across the US\u2013Canada international border, where the stage is in Canada while the audience sits in the United States.",
+        "start_date_time": "",
+        "detail": "Haskell Free Library and Opera House\n\n\ud83d\udccd 93 Caswell Ave, Derby Line, VT 05830\n\nCompleted in 1904 as a gift from Martha Stewart Haskell and her son Horace to honor her late husband Carlos, this Victorian neoclassical landmark was deliberately constructed directly on the boundary line dividing Derby Line, Vermont, from Stanstead, Quebec. Inside, a thick black boundary line is taped right across the hardwood floor of the library reading room and diagonally through the 400-seat opera house auditorium. Theatergoers sit in the United States while performers act and sing on a stage located in Canada.\n\nHighlights\n- The International Border Line: Walk across the famous black tape line running across the library floor.\n- Historic Opera House: Modeled on the Boston Opera House, with ornate plasterwork, gilded proscenium, and painted period scenery.\n- Bi-National Operation: Managed jointly by American and Canadian trustees, with collections in both English and French.\n\nTips\n- Visitors entering from the US side use the Caswell Avenue entrance; visitors entering from the Canadian side walk up Church Street. Passports are not required to visit inside the building, but you must enter and exit through the door of your originating country.\n- Located right at the northern terminus of I-91 on the Quebec border; easily combined with a visit to Lake Memphremagog in Newport.",
+        "website": "https://haskelloperahouse.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0989,
+          45.0058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hatchet Mountain Preserve Hope ME",
         "icon": "footprints",
         "color": "green",
@@ -11476,6 +11516,26 @@
         "coordinates": [
           -72.0364,
           44.1547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazen's Notch Scenic Drive Montgomery VT",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "Dramatic, narrow seasonal mountain pass through the northern Green Mountains beneath Sugarloaf Mountain and Hazen's Notch State Park, renowned for pristine autumn foliage and rustic mountain wilderness.",
+        "start_date_time": "",
+        "detail": "Hazen's Notch Scenic Drive (Route 58)\n\n\ud83d\udccd VT Route 58, Montgomery, VT 05470\n\nHazen's Notch is a dramatic, cliff-walled mountain pass cutting through the northern Green Mountains between Montgomery Center and Lowell along Vermont Route 58. First cleared as a military road in 1779 by General Moses Hazen during the Revolutionary War, the eastern section through the notch remains an unpaved, winding, single-lane gravel road that climbs past the sheer rocky cliffs of Sugarloaf Mountain. It is widely considered one of the most breathtaking, wild, and unspoiled fall foliage drives in New England.\n\nHighlights\n- Sugarloaf Cliff Overlooks: Towering limestone and schist cliffs dropping sheer toward the road.\n- Hazen's Notch State Park: Undeveloped parklands offering quiet hiking access to the Long Trail where it crosses the pass.\n- Covered Bridge Circuit: Pairs naturally with a driving tour of Montgomery's six historic covered bridges.\n\nTips\n- The gravel pass is unpaved, narrow, and winding; drive slowly and watch for oncoming traffic.\n- Route 58 is closed during winter; peak driving season is late summer through mid-October for foliage.\n- Easily combined with a visit to Jay Peak Resort just 15 minutes to the north.",
+        "website": "https://vtstateparks.com/hazens.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5312,
+          44.8711
         ]
       }
     },
@@ -16474,6 +16534,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Middlebury Falls Middlebury VT",
+        "icon": "landmark",
+        "color": "purple",
+        "vault_type": "Landmark",
+        "description": "Thunderous natural waterfall on Otter Creek plunging through the heart of Middlebury's historic downtown, crossed by a scenic pedestrian suspension footbridge and bordered by 19th-century stone mills.",
+        "start_date_time": "",
+        "detail": "Middlebury Falls & Historic Downtown\n\n\ud83d\udccd Main St & Frog Hollow, Middlebury, VT 05753\n\nDropping dramatically over tiered limestone ledges on Otter Creek right in the middle of town, Middlebury Falls has been the industrial and visual heart of Middlebury since the town's settlement in the 1770s. The falls powered historic grain, saw, and marble mills, whose handsome native-stone structures have been repurposed into Frog Hollow Vermont Craft Center, art galleries, and restaurants. A graceful pedestrian suspension footbridge crosses directly above the rushing gorge, offering spectacular, misty views of the cascades and historic riverfront architecture.\n\nHighlights\n- Pedestrian Bridge Overlook: Suspended directly over the gorge with direct views down into the churning whitewater.\n- Frog Hollow: America's first certified state craft center, showcasing juried Vermont fine woodworking, pottery, glass, and textiles in a historic 19th-century mill building.\n- Historic Marble Sidewalks & Village Green: Stroll Main Street's independent shops, cafes, and historic Greek Revival inns.\n\nTips\n- Free public parking is available behind the town offices and along Mill Street near Frog Hollow.\n- The riverside terrace at The Arcadian or Two Brothers Tavern offers great dining within sight of the creek.",
+        "website": "https://www.experiencemiddlebury.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1698,
+          44.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mill Brook Preserve Searsport ME",
         "icon": "footprints",
         "color": "green",
@@ -17836,6 +17916,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mountain Top Inn & Resort Chittenden VT",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Scenic",
+        "description": "Spectacular 700-acre mountain resort perched high on a ridge overlooking the 750-acre Chittenden Reservoir and Green Mountains, renowned for breathtaking lake vistas, lakeside trails, and dining.",
+        "start_date_time": "",
+        "detail": "Mountain Top Inn & Resort\n\n\ud83d\udccd 195 Mountain Top Rd, Chittenden, VT 05737\n\nPerched on a high knoll 11 miles north of Rutland, Mountain Top Inn & Resort commands one of the most stunning panoramic landscape vistas in central Vermont. The estate sweeps down toward the pristine, undeveloped 750-acre Chittenden Reservoir, framed by the peaks of the Green Mountain National Forest. The resort features an expansive tavern terrace with outdoor fire pits, miles of private carriage roads and walking trails, and private beach access on the reservoir.\n\nHighlights\n- Reservoir Overlook: Sweeping, unobstructed views looking directly down over the glistening water and wilderness shoreline.\n- The Mountain Top Tavern: Dine indoors or on the stone terrace overlooking the lake; excellent local draft beer and seasonal Vermont dining.\n- Recreation Trails: Miles of gentle walking trails through high meadows and down to the Chittenden Dam shoreline.\n\nTips\n- Worth the short detour off Route 7 or Route 100 for an afternoon drink, coffee, or scenic lunch on the terrace.\n- Sunset over the reservoir and mountains from the main lawn is spectacular.",
+        "website": "https://mountaintopinn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9358,
+          43.7314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mt Kearsarge Indian Museum Woodstock VT",
         "icon": "landmark",
         "color": "green",
@@ -18436,6 +18536,26 @@
         "coordinates": [
           -74.0724,
           42.2022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northshire Bookstore Manchester VT",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "One of America's greatest independent bookstores, sprawling across 10,000 square feet in a historic former inn, featuring curated literature, regional Vermont books, and an artisan cafe.",
+        "start_date_time": "",
+        "detail": "Northshire Bookstore\n\n\ud83d\udccd 4869 Main St, Manchester Center, VT 05255\n\nFounded in 1976 and occupying the historic Colburn House in the heart of Manchester Center, Northshire Bookstore is a beloved national literary destination. Spanning multiple floors and interconnected rooms with hardwood floors, it holds over 300,000 volumes, extensive staff-recommendation notes, a massive dedicated children's floor, rare and used book rooms, and an on-site espresso cafe.\n\nHighlights\n- Curated Reading Rooms: Deep, thoughtfully curated sections for fiction, poetry, history, and natural sciences.\n- Vermont & New England Department: One of the most comprehensive collections of Vermont history, Green Mountain trail maps, and regional nature writing anywhere in the state.\n- Spiral Press Cafe: In-house cafe serving artisan coffee, light lunches, and baked treats.\n\nTips\n- Set aside at least 45 to 60 minutes just to browse; it is an easy place for book lovers to spend an entire afternoon.\n- Plentiful free parking available in the rear lot off Main Street.",
+        "website": "https://www.northshire.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0566,
+          43.1772
         ]
       }
     },
@@ -24661,6 +24781,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Silver Lake State Park Barnard VT",
+        "icon": "mountain",
+        "color": "purple",
+        "vault_type": "Park",
+        "description": "Iconic postcard setting where the historic white church and village green reflect in Silver Lake, featuring a quiet state park beach, lakeside walking paths, and the 1832 Barnard General Store.",
+        "start_date_time": "",
+        "detail": "Silver Lake State Park & Barnard Village\n\n\ud83d\udccd 20 State Park Dr & 6208 VT-12, Barnard, VT 05031\n\nLocated just 15 minutes north of Woodstock on Route 12, Barnard centers around the serene 84-acre waters of Silver Lake. The town presents one of Vermont's most classic photographic scenes: the gleaming white steeple of the 1838 Universalist Church reflected in the calm waters of the lake, flanked by the historic Barnard General Store (operating since 1832). Silver Lake State Park occupies the northern shore, offering shaded picnic lawns under mature maples, sandy swimming areas, and gentle walking paths along the water.\n\nHighlights\n- Church on the Lake Vista: The classic photography vantage point looking across Silver Lake toward the church steeple from Route 12 or the state park beach.\n- Barnard General Store: Operating continuously since 1832; famous for homemade deli sandwiches, baked goods, local cider, and porch seating with lake views.\n- Lakeside Walking: Flat, gentle walking paths along the shoreline and around the state park grounds.\n\nTips\n- An easy, relaxing morning or afternoon excursion from Woodstock. Grab lunch at the Barnard General Store and enjoy it at the state park picnic tables overlooking the water.\n- Leashed dogs are permitted in designated day-use areas outside the swimming beach.",
+        "website": "https://vtstateparks.com/silver.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6164,
+          43.7302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Silvia Woodstock, NY",
         "icon": "sandwich",
         "color": "red",
@@ -25866,6 +26006,26 @@
         "coordinates": [
           -72.6874,
           44.4654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strafford Town House Strafford VT",
+        "icon": "scroll",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "Built in 1799, this iconic white meetinghouse presides majestically atop Strafford's upper town green, recognized as one of the most architecturally pure and photographed 18th-century civic buildings in New England.",
+        "start_date_time": "",
+        "detail": "Strafford Town House\n\n\ud83d\udccd 12 Common Rd, Strafford, VT 05072\n\nStanding proudly at the head of Strafford\u2019s sloping upper common, the Strafford Town House is a masterpiece of early American civic architecture. Erected in 1799 by master builder Timothy Bush, the building features an extraordinary soaring four-stage belfry, Palladian windows, hand-carved dentil molding, and original interior box pews. Remarkably, it has served continuously for more than 225 years as the site of Strafford's annual Town Meeting\u2014the oldest building in Vermont to maintain this unbroken civic tradition.\n\nHighlights\n- Hilltop Common Vantage: The view from the foot of Common Road looking up the grassy green toward the white spire is considered one of the quintessential scenes of rural New England.\n- Justin Smith Morrill Homestead: Located a short walk down Justin Morrill Highway; the 1851 Gothic Revival pink villa of Senator Morrill (father of the Land-Grant College Act) is a National Historic Landmark.\n\nTips\n- Strafford is tucked into a quiet, peaceful mountain valley east of Route 14; roads into town are delightfully scenic and uncrowded.\n- Perfect quiet driving loop from Woodstock: head north on Route 14 through South Royalton and East Barnard, then return via Sharon.",
+        "website": "https://straffordvt.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3785,
+          43.8658
         ]
       }
     },
@@ -27588,6 +27748,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Grafton Inn & Tavern Grafton VT",
+        "icon": "hotel",
+        "color": "purple",
+        "vault_type": "Historical",
+        "description": "One of the oldest operating inns in America (welcoming travelers since 1801), featuring an authentic 19th-century tavern with wood-burning fireplaces, local farmstead fare, and timeless village elegance.",
+        "start_date_time": "",
+        "detail": "The Grafton Inn & Tavern\n\n\ud83d\udccd 92 Main St, Grafton, VT 05146\n\nOperating continuously since 1801, The Grafton Inn has hosted legendary figures including Ulysses S. Grant, Ralph Waldo Emerson, Henry David Thoreau, and Rudyard Kipling. Meticulously restored and preserved by the Windham Foundation, the inn anchors the postcard-perfect historic district of Grafton. Its subterranean Grafton Tavern features exposed hand-hewn timbers, cozy stone fireplaces, and an exceptional menu celebrating regional Vermont farms and Grafton Village Cheese.\n\nTips\n- Stop into the historic tavern for a relaxed lunch or fireside dinner; sample the Grafton Village cheddar soup and local hard ciders.\n- Directly across from the village green, historic covered bridges, and the Grafton Village Store.\n- The grounds include walking trails leading to peaceful hillside pastures and the Windham Foundation nature museum.",
+        "website": "https://www.graftoninnvermont.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6075,
+          43.1717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Happy Clam Shack Bar Harbor ME",
         "icon": "sandwich",
         "color": "red",
@@ -28522,6 +28702,26 @@
         "coordinates": [
           -68.2203,
           44.3947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vermont Country Store Weston VT",
+        "icon": "shopping-bag",
+        "color": "purple",
+        "vault_type": "Shop",
+        "description": "The original 1946 flagship country emporium founded by the Orton family, famed for nostalgic hard-to-find goods, Vermont cheddar samples, penny candy, and practical housewares.",
+        "start_date_time": "",
+        "detail": "The Vermont Country Store\n\n\ud83d\udccd 657 Main St, Weston, VT 05161\n\nFounded in 1946 by Vrest and Ellen Orton, The Vermont Country Store is an American icon of nostalgic retail. The rambling wooden store on Route 100 in Weston is packed to the rafters with goods from eras past: retro toys, classic apothecary soaps, flannel bedding, cast iron cookware, and practical New England clothing. The food room is famous for its self-serve sample barrels of Vermont cheddar, maple candy, fudge, and barrel pickles.\n\nHighlights\n- Cheddar Sampling: Sample multiple vintages and sharp aging levels of authentic Vermont farmstead cheddars.\n- The Bryant House Restaurant: Adjacent historic 1827 tavern serving traditional Vermont chicken pot pie, Johnnycakes, and warm apple pie.\n- Penny Candy Counter: Hundreds of classic, retro candies from the 1930s through 1970s.\n\nTips\n- Combine with a stroll around Weston's town green and a visit to the historic Weston Grist Mill (just across the river).\n- Can get busy on autumn foliage weekends; early morning (opens at 9:00 AM) is the quietest time to explore.",
+        "website": "https://www.vermontcountrystore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7944,
+          43.2929
         ]
       }
     },
@@ -33982,6 +34182,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Arlington, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Historic Battenkill River town noted for its scenic mountain setting, covered bridges (including Arlington Green Covered Bridge), and legacy as the longtime home of Norman Rockwell.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1534,
+          43.0748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Athens, NY",
         "icon": "route",
         "color": "orange",
@@ -33995,6 +34214,25 @@
         "coordinates": [
           -73.8118,
           42.2631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakersfield, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Quiet, unspoiled town in Franklin County embodying classic northern Vermont rural appeal with rolling farmland and peaceful village quiet.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8028,
+          44.7878
         ]
       }
     },
@@ -34033,6 +34271,25 @@
         "coordinates": [
           -68.2042989,
           44.3875617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barnard, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Peaceful rural town directly north of Woodstock, highlighted for its postcard-perfect white church setting along the shores of Silver Lake, Silver Lake State Park, and the 1832 Barnard General Store.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6162,
+          43.7303
         ]
       }
     },
@@ -34249,6 +34506,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bennington, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Historic southern Vermont corner stone, noted for Revolutionary War history, the 306-foot Bennington Battle Monument, Old First Church, classic village layouts, and three covered bridges.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1968,
+          42.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Berlin, NH",
         "icon": "route",
         "color": "orange",
@@ -34453,6 +34729,25 @@
         "coordinates": [
           -69.4954131,
           43.9248053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bristol, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Vibrant mountain gateway community cited for genuine mountain gap appeal, historic Main Street storefronts, Bartlett Falls, and direct access to Lincoln Gap.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0787,
+          44.1337
         ]
       }
     },
@@ -34689,6 +34984,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Chelsea, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Orange County shire town celebrated for authentic historic architecture, unique twin town greens (North and South Greens), an 1847 red-brick courthouse, and the historic 1811 United Church.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4464,
+          43.9892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cherryfield, ME",
         "icon": "route",
         "color": "orange",
@@ -34741,6 +35055,25 @@
         "coordinates": [
           -72.4704,
           42.8873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chittenden, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Tranquil mountain town highlighted for panoramic reservoir views, the historic Chittenden Dam, and scenic vistas from the Mountain Top Inn overlooking the water.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9526,
+          43.7087
         ]
       }
     },
@@ -34919,6 +35252,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cornwall, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Quiet, expansive agricultural township southwest of Middlebury, known for rolling apple orchards, historic dairy barns, and broad views of the Green Mountains and Adirondacks.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2087,
+          43.9634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craftsbury Common, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Iconic northern Vermont hilltop village celebrated for classic rural appeal, an expansive hilltop town common enclosed by historic white fences, and undisturbed pastoral views.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3789,
+          44.6465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Crawford Notch State Park",
         "icon": "route",
         "color": "orange",
@@ -34976,6 +35347,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Danville, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Peaceful, quintessential northern town known for its sweeping hilltop village green, less commercialization and traffic, and panoramic ridge views across the Northeast Kingdom.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1384,
+          44.4117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Deer Isle, ME",
         "icon": "route",
         "color": "orange",
@@ -35014,20 +35404,38 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dorset",
-        "icon": "route",
-        "color": "orange",
+        "name": "Derby Line, VT",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "Dorset, Vermont is known for its charming inns and cottages offering a mix of American cuisine, typically priced from $115 to $484 per night at local establishments. Many places offer dinner and lunch, with some serving alcohol.",
+        "description": "Unique far-northern border town, celebrated for its international setting and the historic Haskell Free Library and Opera House, straddling the US\u2013Canada border.",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```",
-        "website": "https://www.google.com/maps/place/Dorset,+VT/@43.2590392,-73.2162388,50933m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e05d1821bbe999:0x9803e80e814e2bb7!8m2!3d43.2548074!4d-73.0987801!16zL20vMDEwaHBq?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.09694286560816,
-          43.25547181418759
+          -72.1009,
+          45.0006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorset, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Idyllic historic marble town near Manchester, highlighted for its historic inns (including the 1796 Dorset Inn), Church Street, manicured green, and historic Dorset Playhouse.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0969,
+          43.2555
         ]
       }
     },
@@ -35066,6 +35474,25 @@
         "coordinates": [
           -73.7956214,
           41.5533306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Middlebury, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Quiet hamlet situated at the foot of Middlebury Gap along the Middlebury River gorge, surrounded by quiet Champlain Valley and mountain farmland.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1093,
+          43.9781
         ]
       }
     },
@@ -35415,20 +35842,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grafton",
-        "icon": "route",
-        "color": "orange",
+        "name": "Grafton, VT",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "Grafton, Massachusetts, offers American cuisine including burgers, pizza, and seafood. Prices typically range from $10 to $30 for main courses. Many restaurants are open for both lunch and dinner and may serve alcohol.",
+        "description": "Praised for its classic 19th-century village setting, the historic Grafton Village Store, covered bridges, and the landmark Grafton Inn & Tavern, meticulously preserved by the Windham Foundation.",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```",
-        "website": "https://www.google.com/maps/place/Grafton,+MA/@42.207707,-71.7677533,25902m/data=!3m1!1e3!4m15!1m8!3m7!1s0x89e40e967c235aff:0xb77895ea49119294!2sGrafton,+MA!3b1!8m2!3d42.2070391!4d-71.6856236!16zL20vMHYwMjc!3m5!1s0x89e40e967c235aff:0xb77895ea49119294!8m2!3d42.2070391!4d-71.6856236!16zL20vMHYwMjc?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.60725157330444,
-          43.171775341762704
+          -72.6073,
+          43.1718
         ]
       }
     },
@@ -36161,6 +36587,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lincoln, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Genuine, rugged mountain gap community nestled high beneath Mount Abraham, known for Lincoln Gap (the steepest paved mile in Vermont) and mountain wilderness scenery.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0032,
+          44.1037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lincolnville, ME",
         "icon": "route",
         "color": "orange",
@@ -36297,18 +36742,18 @@
       "type": "Feature",
       "properties": {
         "name": "Manchester, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "",
+        "description": "Noted for its exceptionally walkable historic village, marble sidewalks, acclaimed restaurants, designer outlets, and the legendary independent Northshire Bookstore.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0720817,
-          43.1635393
+          -73.0721,
+          43.1635
         ]
       }
     },
@@ -36367,6 +36812,25 @@
         "coordinates": [
           -71.5012,
           43.6568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middlebury, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Distinguished shire and college town noted for its historic downtown, roaring Middlebury Falls on Otter Creek, stone footbridge, and surrounding pastoral Champlain Valley farmland.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1673,
+          44.0153
         ]
       }
     },
@@ -36462,6 +36926,25 @@
         "coordinates": [
           -69.32175,
           43.76517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montgomery, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Known as Vermont's Covered Bridge Capital with six historic covered bridges, highlighted for its proximity to Jay Peak and scenic fall drives through Hazen's Notch.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6397,
+          44.9014
         ]
       }
     },
@@ -36616,6 +37099,44 @@
         "coordinates": [
           -74.0897,
           41.7462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newfane, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Archetypal southern Vermont village renowned for early American history, a pristine shaded courthouse green, Greek Revival architecture, and historic covered bridges.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6562,
+          42.9862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newport, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Far-northern lakeside city on the southern shore of 30-mile-long Lake Memphremagog, noted for its waterfront boardwalk, marina, and views reaching into Quebec.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2051,
+          44.9367
         ]
       }
     },
@@ -36853,6 +37374,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pawlet, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Quiet, picturesque agricultural town in southwest Vermont, noted for historic slate-roofed homes, the Flower Brook gorge running through the village center, and working family dairy farms.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1782,
+          43.3465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pawling, NY",
         "icon": "route",
         "color": "orange",
@@ -36873,18 +37413,18 @@
       "type": "Feature",
       "properties": {
         "name": "Peacham, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "",
+        "description": "Quintessential, peaceful Caledonia County town renowned as one of Vermont's most photographed villages, offering historic white-steeple architecture, rolling hills, and freedom from commercialization and traffic.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.19,
-          44.317
+          -72.1706,
+          44.3292
         ]
       }
     },
@@ -37197,18 +37737,18 @@
       "type": "Feature",
       "properties": {
         "name": "Quechee, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "",
+        "description": "Famous Ottauquechee River village celebrated for dramatic views of Quechee Gorge (Vermont's deepest canyon), historic covered bridge views, and the Simon Pearce waterfall mill.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.4186105,
-          43.646227
+          -72.4186,
+          43.6462
         ]
       }
     },
@@ -37331,6 +37871,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Rochester, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Scenic Route 100 valley town suggested for its central town green, white bandstand gazebo, local cafes, and scenic mountain roads winding into North Hollow.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.809,
+          43.8762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Rockland \u2013 Art, Harbors, and Fine Dining**",
         "icon": "route",
         "color": "orange",
@@ -37420,6 +37979,25 @@
         "coordinates": [
           -74.0815,
           41.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rupert, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Quiet, small agricultural town nestled in southwest Vermont along the New York border, celebrated for unspoiled rolling dairy pastures and the historic Merck Forest & Farmland Center.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2209,
+          43.2598
         ]
       }
     },
@@ -37733,20 +38311,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Royalton",
+        "name": "South Royalton, VT",
         "icon": "route",
         "color": "orange",
         "vault_type": "destination",
-        "description": "South Royalton is an unincorporated village in Royalton, VT, known for its casual eateries and local American cuisine. Prices typically range from $10 to $25 per meal. Some places may be open for lunch and dinner, and alcohol options might be available at select restaurants.",
+        "description": "Noted for authentic historic architecture and village character on the White River, centered around a wide town green with brick commercial blocks and the Vermont Law School.",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```",
-        "website": "https://www.google.com/maps/place/South+Royalton,+Royalton,+VT/@43.8115126,-72.5614156,12617m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4d98c3a9c36a1:0x9f3d3d5952a5b734!8m2!3d43.8205295!4d-72.5213419!16s%2Fm%2F04c4by8?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.52177674790667,
-          43.81994311582308
+          -72.5213,
+          43.8205
         ]
       }
     },
@@ -37880,6 +38457,25 @@
         "coordinates": [
           -72.6874,
           44.4654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strafford, VT",
+        "icon": "star",
+        "color": "purple",
+        "vault_type": "destination",
+        "description": "Quiet, enchanting village tucked into the hills, world-famous for its iconic 1799 white Town House presiding over the upper green and the historic Justin Smith Morrill Homestead.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3787,
+          43.8653
         ]
       }
     },
@@ -38232,10 +38828,10 @@
       "type": "Feature",
       "properties": {
         "name": "Waitsfield, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "",
+        "description": "Vibrant hub along Route 100 in the heart of the Mad River Valley, celebrated for dramatic mountain valley scenery, the 1833 Great Eddy Covered Bridge, and artisan food producers.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
@@ -38289,10 +38885,10 @@
       "type": "Feature",
       "properties": {
         "name": "Warren, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "A small Mad River Valley village at the base of Sugarbush Resort \u2014 a classic Vermont ski town with a general store, covered bridge, and swimming-hole access on the Mad River.",
+        "description": "Scenic Mad River Valley town located along Route 100 at the base of Sugarbush Resort, recommended for spectacular mountain valley scenery, the Warren Store, and covered bridges.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
@@ -38403,19 +38999,18 @@
       "type": "Feature",
       "properties": {
         "name": "Weston, VT",
-        "icon": "route",
-        "color": "orange",
+        "icon": "star",
+        "color": "purple",
         "vault_type": "destination",
-        "description": "Weston, Vermont offers a quaint small-town experience with a mix of American cuisine. Prices typically range from $10 to $30 per meal. Most places are open for both lunch and dinner, and alcohol is usually available.",
+        "description": "Renowned for its traditional town green and gazebo, historic summer playhouse, picturesque mill pond, and the original flagship Vermont Country Store.",
         "start_date_time": "",
-        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```",
-        "website": "https://www.google.com/maps/place/Weston,+VT/@43.3100317,-72.9763508,50891m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e04eaf238cfbdd:0x6b23eddc17515b3e!8m2!3d43.2913008!4d-72.7929085!16zL20vMDEwbDBy?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.79427516796342,
-          43.292851892656515
+          -72.7943,
+          43.2929
         ]
       }
     },
@@ -38560,7 +39155,7 @@
         "icon": "star",
         "color": "purple",
         "vault_type": "destination",
-        "description": "Quintessential Vermont shire town renowned for its pristine 19th-century Village Green, covered bridges, preserved carriage roads, farmstead cuisine, and Marsh-Billings-Rockefeller National Historical Park.",
+        "description": "Quintessential Vermont shire town renowned for its preserved historic homes, oval village green, covered bridges, carriage roads, and heritage shops like F.H. Gillingham & Sons; noted for heavy autumn foliage traffic.",
         "start_date_time": "",
         "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
       },
@@ -38569,6 +39164,25 @@
         "coordinates": [
           -72.5218,
           43.6237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worcester, VT",
+        "icon": "route",
+        "color": "orange",
+        "vault_type": "destination",
+        "description": "Picturesque, low-key northern Vermont mountain town situated along the North Branch of the Winooski River beneath the scenic Worcester Mountain Range.",
+        "start_date_time": "",
+        "detail": "```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\n    - file == this.\nviews:\n  - type: map\n    name: Map\n    coordinates: note.Coordinates\n    markerIcon: note.\n    markerColor: note.\n    mapHeight: 400\n    defaultZoom: 12\n```\n\nPoints of interest\n\n```base\nfilters:\n  or:\n    - destination == this\n    - list(trail).filter(value == this). 0\nviews:\n  - type: table\n    name: Places\n    order:\n      - file.\n      - type\n      - Rating\n      - icon\n      - Coordinates\n    sort:\n      - property: rating\n        direction: DESC\n```"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5512,
+          44.3739
         ]
       }
     }
