@@ -777,19 +777,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>American Flatbread 1 Stowe VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/American%20Flatbread%201%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>American Flatbread in Stowe is a popular pizza restaurant known for its delicious variety of pizzas. It typically attracts families, groups of friends, and gatherings, making it a go-to spot for casual dining experiences. The atmosphere is casual and lively, suitable for group outings. Customers consistently praise the fabulous food and attentive service. The soup of the day is noted for its flavor and heartiness, and the large pizzas offer good value for shared dining. However, some reviews mention that the serving staff can feel overwhelmed during busy times, and there was an instance of reservation mishaps that affected wait times.<br/><br/>More info: https://www.google.com/maps/place/American+Flatbread/@44.4771113,-72.7042647,6585m/data=!3m1!1e3!4m11!3m10!1s0x4cb59755a7ad2741:0x1ffd4393d2454ce2!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4750536!4d-72.7025164!16s%2Fg%2F11s7ny929l?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-sandwich-purple</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>purple</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.70229716155156,44.474781982372285,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>American Flatbread Rockport ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/American%20Flatbread%20Rockport%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>American Flatbread in Rockport is a casual dining spot best known for its wood-fired pizzas and a menu that incorporates organic and local ingredients. It attracts a diverse clientele, including families and groups of friends, often dining out for occasions such as casual lunches or dinners. The overall vibe of the restaurant is friendly and welcoming, with a comfortable atmosphere that balances casual dining with quality food, making it suitable for a variety of diners from families to couples.<br/><br/>Customers consistently praise the delicious wood-fired pizza, the friendly and helpful staff, and the overall quality of the food, especially highlighting the use of fresh ingredients. However, some reviews mention the limited menu options and that some dishes may come with a higher price point, which could deter budget-conscious diners.<br/><br/>More info: https://www.google.com/maps/place/American+Flatbread/@44.1785551,-69.0839428,5053m/data=!3m1!1e3!4m6!3m5!1s0x4cadd0d19b66cacb:0xd0af367dc1add455!8m2!3d44.1741673!4d-69.0799642!16s%2Fg%2F11btyvkjlx?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-sandwich-red</styleUrl>
@@ -5987,19 +5974,6 @@
     </ExtendedData>
     <Point>
       <coordinates>-70.2382,43.6647,0</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Eastside Bevs &amp; Bites Stowe VT</name>
-    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/Eastside%20Bevs%20%26%20Bites%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>The place is a casual restaurant and bar known for its lively atmosphere, great food, and delicious drinks. It typically attracts families, couples, and groups of friends, often looking for a fun dining experience or entertainment during their visit, such as live music events.<br/><br/>The overall vibe is casual and welcoming, making it an ideal spot for relaxation and enjoyment. Patrons appreciate the fun decor and the vibrant ambiance, with a focus on social interaction. <br/><br/>The strongest positives highlighted in reviews include: 1) Delicious food and drinks, 2) Great service, often mentioned by staff members who engage positively with guests, 3) A lively atmosphere with enjoyable live music events.  <br/><br/>Common downsides noted by some reviewers include: 1) High prices for the quality of food, perceived as expensive, 2) Some descriptions of the food as basic compared to expectations, 3) Occasional issues with wait times during peak periods.<br/><br/>More info: https://www.google.com/maps/place/Eastside+Bevs+%26+Bites/@44.4731829,-72.6972324,777m/data=!3m1!1e3!4m11!3m10!1s0x4cb5974fc026fab3:0x9be51aac17aa6434!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4740796!4d-72.6961106!16s%2Fg%2F11w82475p2?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
-    <styleUrl>#s-sandwich-purple</styleUrl>
-    <ExtendedData>
-      <Data name="vault_type"><value>Restaurant</value></Data>
-      <Data name="icon"><value>sandwich</value></Data>
-      <Data name="color"><value>purple</value></Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>-72.69606398191429,44.47404319014894,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -21902,6 +21876,19 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>✅ American Flatbread 1 Stowe VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20American%20Flatbread%201%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-02T18:30:00<br/><br/>American Flatbread in Stowe is a popular pizza restaurant known for its delicious variety of pizzas. It typically attracts families, groups of friends, and gatherings, making it a go-to spot for casual dining experiences. The atmosphere is casual and lively, suitable for group outings. Customers consistently praise the fabulous food and attentive service. The soup of the day is noted for its flavor and heartiness, and the large pizzas offer good value for shared dining. However, some reviews mention that the serving staff can feel overwhelmed during busy times, and there was an instance of reservation mishaps that affected wait times.<br/><br/>Tips<br/>- Resy reservation (via Reserve with Google), 2 guests, Wed Sep 2 at 6:30 PM, Indoor.<br/>- No charge to cancel — ask for at least 24 hours' notice.<br/>- Phone: +1 802-253-3092 (call if running more than 15 min late)<br/><br/>More info: https://www.google.com/maps/place/American+Flatbread/@44.4771113,-72.7042647,6585m/data=!3m1!1e3!4m11!3m10!1s0x4cb59755a7ad2741:0x1ffd4393d2454ce2!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4750536!4d-72.7025164!16s%2Fg%2F11s7ny929l?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-sandwich-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.70229716155156,44.474781982372285,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>✅ Aster &amp; Rose Restaurant Camden ME</name>
     <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Aster%20%26%20Rose%20Restaurant%20Camden%20ME.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-08-06T18:00:00<br/><br/>Aster & Rose<br/><br/>📍 581 Youngtown Rd, Lincolnville, ME (at the Youngtown Inn — a short drive from downtown Camden, not in Camden itself)<br/><br/>The top-rated restaurant in Lincolnville — 4.8 on Restaurant Guru across 477 reviews, ranked #1 of 15 Lincolnville restaurants. Set in a beautiful old farmhouse at the historic Youngtown Inn, just minutes from downtown Camden but a genuinely different, quieter countryside setting with Camden Hills views. Locally sourced, seasonal, creatively prepared cuisine with attentive service and a strong wine/cocktail list — a cozy, romantic atmosphere.<br/><br/>Must Order<br/>- Whatever's featured seasonally — the kitchen is built around what's fresh, not a fixed menu<br/><br/>Tips<br/>- Open Wednesday–Saturday, dinner only, 5pm–9pm.<br/>- Book via Tock: exploretock.com/asterrose.<br/>- Worth the short drive from Camden proper — it reads as a special-occasion destination, not a quick stop.<br/><br/>More info: https://www.google.com/maps/place/Aster+%26+Rose+Restaurant/@44.2691958,-69.1002327,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cae775eb918804b:0x6d07c0c2faed1ed4!8m2!3d44.269192!4d-69.0976578!16s%2Fg%2F11swk7hf2q?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D]]></description>
     <styleUrl>#s-utensils-purple</styleUrl>
@@ -21951,6 +21938,19 @@
     </ExtendedData>
     <Point>
       <coordinates>-69.96943050804009,41.686844805455145,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>✅ Eastside Bevs &amp; Bites Stowe VT</name>
+    <description><![CDATA[<a href="obsidian://adv-uri?vault=TRSovereign&filepath=05%20-%20Projects/New%20England%202026/Places/%E2%9C%85%20Eastside%20Bevs%20%26%20Bites%20Stowe%20VT.md" style="display:inline-block;padding:8px 14px;margin:2px 4px 2px 0;background:#7c3aed;color:white;text-decoration:none;border-radius:8px;font-weight:bold;font-size:14px;">📖 Read in Obsidian</a><br/><br/>Time: 2026-09-03T18:30:00<br/><br/>The place is a casual restaurant and bar known for its lively atmosphere, great food, and delicious drinks. It typically attracts families, couples, and groups of friends, often looking for a fun dining experience or entertainment during their visit, such as live music events.<br/><br/>The overall vibe is casual and welcoming, making it an ideal spot for relaxation and enjoyment. Patrons appreciate the fun decor and the vibrant ambiance, with a focus on social interaction. <br/><br/>The strongest positives highlighted in reviews include: 1) Delicious food and drinks, 2) Great service, often mentioned by staff members who engage positively with guests, 3) A lively atmosphere with enjoyable live music events.  <br/><br/>Common downsides noted by some reviewers include: 1) High prices for the quality of food, perceived as expensive, 2) Some descriptions of the food as basic compared to expectations, 3) Occasional issues with wait times during peak periods.<br/><br/>Tips<br/>- Resy reservation (via Reserve with Google), 2 guests, Thu Sep 3 at 6:30 PM, Booth.<br/>- No charge to cancel — ask for at least 24 hours' notice.<br/>- Phone: +1 802-585-1742 (call if running more than 15 min late)<br/><br/>More info: https://www.google.com/maps/place/Eastside+Bevs+%26+Bites/@44.4731829,-72.6972324,777m/data=!3m1!1e3!4m11!3m10!1s0x4cb5974fc026fab3:0x9be51aac17aa6434!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4740796!4d-72.6961106!16s%2Fg%2F11w82475p2?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D]]></description>
+    <styleUrl>#s-sandwich-purple</styleUrl>
+    <ExtendedData>
+      <Data name="vault_type"><value>Restaurant</value></Data>
+      <Data name="icon"><value>sandwich</value></Data>
+      <Data name="color"><value>purple</value></Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.69606398191429,44.47404319014894,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
