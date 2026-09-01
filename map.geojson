@@ -32176,26 +32176,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "von Trapp Family Lodge & Resort Lounge 1 Stowe VT",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "",
-        "detail": "The von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is best known for its picturesque surroundings and family-friendly atmosphere, attracting visitors seeking a casual outdoor experience.\n\nTypical customers include families, couples, and groups looking for leisure activities, especially during winter and summer vacations. The vibe is informal and cozy, offering a mix of recreational options and a welcoming environment.\n\nStrengths noted in reviews include the immaculate cleanliness of the lodge, the excellent staff service, and the beautiful grounds. Guests also appreciate the resort's family-friendly amenities and its pet-friendly policy.\n\nCommon downsides mentioned include discomfort with some pillows reported as too soft, and occasional concerns about timing for scheduled tours due to strict management.",
-        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4652093,-72.7452802,144m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.74473086451796,
-          44.46550086752873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 27 Littleton NH",
         "icon": "alert-triangle",
         "color": "yellow",
@@ -32638,7 +32618,7 @@
         "vault_type": "Attraction",
         "description": "60-minute massage appointment at the von Trapp Family Lodge & Resort spa.",
         "start_date_time": "2026-09-01T14:45:00",
-        "detail": "Time: 2026-09-01T14:45:00\n\nMassage \u2014 von Trapp Family Lodge & Resort Spa (Visit 1)\n\n\ud83d\udccd 700 Trapp Hill Road, Stowe, VT\n\n60-minute massage (Regular) with Leane Rexford, booked at the resort's on-site spa during the Base Camp 7 Stowe stay. First of two back-to-back appointments booked the same afternoon \u2014 see Visit 2 for the second slot.\n\nTips\n- The spa will call ahead at (614) 218-7962 to confirm.\n- Cancellation policy: reschedule or cancel 24+ hours ahead to avoid a penalty equal to the treatment cost \u2014 call 802-253-5722.",
+        "detail": "Time: 2026-09-01T14:45:00\n\nMassage \u2014 von Trapp Family Lodge & Resort Spa (Visit 1)\n\n\ud83d\udccd 700 Trapp Hill Road, Stowe, VT\n\n60-minute massage (Regular) with Becky Newkirk (changed from Leane Rexford, 2026-09-01), booked at the resort's on-site spa during the Base Camp 7 Stowe stay. First of two back-to-back appointments booked the same afternoon \u2014 see Visit 2 for the second slot.\n\nTips\n- The spa will call ahead at (614) 218-7962 to confirm.\n- Cancellation policy: reschedule or cancel 24+ hours ahead to avoid a penalty equal to the treatment cost \u2014 call 802-253-5722.",
         "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4654726,-72.7666041,6525m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -32658,7 +32638,7 @@
         "vault_type": "Attraction",
         "description": "60-minute massage appointment at the von Trapp Family Lodge & Resort spa.",
         "start_date_time": "2026-09-01T16:00:00",
-        "detail": "Time: 2026-09-01T16:00:00\n\nMassage \u2014 von Trapp Family Lodge & Resort Spa (Visit 2)\n\n\ud83d\udccd 700 Trapp Hill Road, Stowe, VT\n\n60-minute massage (Regular) with Leane Rexford, booked at the resort's on-site spa during the Base Camp 7 Stowe stay. Second of two back-to-back appointments booked the same afternoon, immediately following Visit 1.\n\nTips\n- The spa will call ahead at (614) 218-7962 to confirm.\n- Cancellation policy: reschedule or cancel 24+ hours ahead to avoid a penalty equal to the treatment cost \u2014 call 802-253-5722.",
+        "detail": "Time: 2026-09-01T16:00:00\n\nMassage \u2014 von Trapp Family Lodge & Resort Spa (Visit 2)\n\n\ud83d\udccd 700 Trapp Hill Road, Stowe, VT\n\n60-minute massage (Regular) with Becky Newkirk (changed from Leane Rexford, 2026-09-01), booked at the resort's on-site spa during the Base Camp 7 Stowe stay. Second of two back-to-back appointments booked the same afternoon, immediately following Visit 1.\n\nTips\n- The spa will call ahead at (614) 218-7962 to confirm.\n- Cancellation policy: reschedule or cancel 24+ hours ahead to avoid a penalty equal to the treatment cost \u2014 call 802-253-5722.",
         "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4654726,-72.7666041,6525m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -33132,33 +33112,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 von Trapp Family Lodge & Resort Dining Room 1 Stowe VT",
-        "icon": "sandwich",
-        "color": "red",
-        "vault_type": "Restaurant",
-        "description": "",
-        "start_date_time": "2026-09-03T18:30:00",
-        "detail": "Time: 2026-09-03T18:30:00\n\nVon Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nThird of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): Dining Room (Aug 31), the Lounge (Sep 2), then this Dining Room booking. Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense.",
-        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4649088,-72.7459202,411m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.74542626928272,
-          44.46515632538096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "\u2705 von Trapp Family Lodge & Resort Dining Room Stowe VT",
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
         "description": "",
         "start_date_time": "2026-08-31T18:30:00",
-        "detail": "Time: 2026-08-31T18:30:00\n\nVon Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nFirst of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): this Dining Room booking, then the Lounge (Sep 2), then Dining Room again (Sep 3). Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense.",
+        "detail": "Time: 2026-08-31T18:30:00\n\nVon Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nFirst of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): this Dining Room booking, then the Lounge (Sep 2), then Dining Room again (Sep 3). Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense. The Sep 2 and Sep 3 legs were cancelled 2026-09-01 \u2014 this Aug 31 dinner already happened and is unaffected.",
         "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4649088,-72.7459202,411m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -33172,13 +33132,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "\u2705 von Trapp Family Lodge & Resort Lounge Stowe VT",
+        "name": "\u2705 von Trapp Family Lodge & Resort Lounge 1 Stowe VT",
         "icon": "sandwich",
         "color": "red",
         "vault_type": "Restaurant",
         "description": "",
-        "start_date_time": "2026-09-02T18:30:00",
-        "detail": "Time: 2026-09-02T18:30:00\n\nThe von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is best known for its picturesque surroundings and family-friendly atmosphere, attracting visitors seeking a casual outdoor experience.\n\nTypical customers include families, couples, and groups looking for leisure activities, especially during winter and summer vacations. The vibe is informal and cozy, offering a mix of recreational options and a welcoming environment.\n\nStrengths noted in reviews include the immaculate cleanliness of the lodge, the excellent staff service, and the beautiful grounds. Guests also appreciate the resort's family-friendly amenities and its pet-friendly policy.\n\nCommon downsides mentioned include discomfort with some pillows reported as too soft, and occasional concerns about timing for scheduled tours due to strict management.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nSecond of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): Dining Room (Aug 31), this Lounge booking, then Dining Room again (Sep 3). Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense.",
+        "start_date_time": "2026-09-01T12:00:00",
+        "detail": "Time: 2026-09-01T12:00:00\n\n[!note] New lunch reservation \u2014 confirmed 2026-09-01\nResy confirms a Lounge lunch reservation for today, Tue Sep 1 at 12:00pm (2 guests) \u2014 booked about an hour after the same-morning cancellation of the Sep 2 Lounge and Sep 3 Dining Room dinners. Different date and meal (lunch vs. dinner), so not treated as a direct replacement for either \u2014 but the timing is close enough to flag. Found via Apple Mail (tom.rubel@me.com).\n\nThe von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is best known for its picturesque surroundings and family-friendly atmosphere, attracting visitors seeking a casual outdoor experience.\n\nTypical customers include families, couples, and groups looking for leisure activities, especially during winter and summer vacations. The vibe is informal and cozy, offering a mix of recreational options and a welcoming environment.\n\nStrengths noted in reviews include the immaculate cleanliness of the lodge, the excellent staff service, and the beautiful grounds. Guests also appreciate the resort's family-friendly amenities and its pet-friendly policy.\n\nCommon downsides mentioned include discomfort with some pillows reported as too soft, and occasional concerns about timing for scheduled tours due to strict management.",
         "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4652093,-72.7452802,144m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -33366,6 +33326,46 @@
         "coordinates": [
           -71.19549085725357,
           44.1039802080996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u274c von Trapp Family Lodge & Resort Dining Room 1 Stowe VT",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "2026-09-03T18:30:00",
+        "detail": "Time: 2026-09-03T18:30:00\n\n[!failure] Cancelled 2026-09-01\nResy confirms this reservation (Thu, Sep. 3 at 6:30pm, 2 Guests, Dining Room) was cancelled \u2014 email gives no indication of who initiated it (unlike the Brasserie LeBrun case, which explicitly said \"canceled by the restaurant\"; this one is silent, so it can't be attributed to either party with confidence). Found via Apple Mail (tom.rubel@me.com). No replacement booking found yet. See also the same-day cancellation of the Sep 2 Lounge reservation \u2014 both of the two remaining von Trapp Family Dining Room bookings for this stay were cancelled together.\n\nVon Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is well-known for its picturesque setting and amenities catering to both relaxation and outdoor activities, attracting families, couples, and outdoor enthusiasts, particularly in winter for skiing and in summer for hiking. The overall vibe is casual yet inviting, making it suitable for a variety of occasions, including family vacations, romantic getaways, and group retreats. Visitors consistently praise the immaculate grounds, excellent staff, and clean facilities. However, some guests have noted the softness of the pillows and the need for punctuality for scheduled tours due to the resort's efficient management style.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nThird of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): Dining Room (Aug 31), the Lounge (Sep 2), then this Dining Room booking. Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense. Both the Sep 2 and Sep 3 legs of this plan have since been cancelled \u2014 see the callout above.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4649088,-72.7459202,411m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74542626928272,
+          44.46515632538096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2705\u274c von Trapp Family Lodge & Resort Lounge Stowe VT",
+        "icon": "sandwich",
+        "color": "red",
+        "vault_type": "Restaurant",
+        "description": "",
+        "start_date_time": "2026-09-02T18:30:00",
+        "detail": "Time: 2026-09-02T18:30:00\n\n[!failure] Cancelled 2026-09-01\nResy confirms this reservation (Wed, Sep. 2 at 6:30pm, 2 Guests, The Lounge) was cancelled \u2014 email gives no indication of who initiated it (unlike the Brasserie LeBrun case, which explicitly said \"canceled by the restaurant\"; this one is silent, so it can't be attributed to either party with confidence). Found via Apple Mail (tom.rubel@me.com). No replacement booking found yet. See also the same-day cancellation of the Sep 3 Dining Room reservation \u2014 both of the two remaining von Trapp Family Dining Room bookings for this stay were cancelled together.\n\nThe von Trapp Family Lodge & Resort is a relaxed, Alpine-style mountain resort located 3 miles from the Stowe ski slopes and 6 miles from Bingham Falls. It is best known for its picturesque surroundings and family-friendly atmosphere, attracting visitors seeking a casual outdoor experience.\n\nTypical customers include families, couples, and groups looking for leisure activities, especially during winter and summer vacations. The vibe is informal and cozy, offering a mix of recreational options and a welcoming environment.\n\nStrengths noted in reviews include the immaculate cleanliness of the lodge, the excellent staff service, and the beautiful grounds. Guests also appreciate the resort's family-friendly amenities and its pet-friendly policy.\n\nCommon downsides mentioned include discomfort with some pillows reported as too soft, and occasional concerns about timing for scheduled tours due to strict management.\n\n[!note] Intentional repeat \u2014 confirmed 2026-08-23\nSecond of three dinners at this resort's two venues across the 4-night Stowe stay (Aug 31 \u2013 Sep 3): Dining Room (Aug 31), this Lounge booking, then Dining Room again (Sep 3). Tom confirmed this is deliberate, not an error \u2014 it's a relatively rural resort with limited nearby dining options, so eating on-site most nights makes sense. Both this and the Sep 3 leg have since been cancelled \u2014 see the callout above.",
+        "website": "https://www.google.com/maps/place/von+Trapp+Family+Lodge+%26+Resort/@44.4652093,-72.7452802,144m/data=!3m1!1e3!4m11!3m10!1s0x4cb590d36543edb1:0x21920f8850f87951!5m4!1s2026-09-21!2i4!4m1!1i2!8m2!3d44.4654749!4d-72.7451814!16s%2Fm%2F02vn6h6?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74473086451796,
+          44.46550086752873
         ]
       }
     },
