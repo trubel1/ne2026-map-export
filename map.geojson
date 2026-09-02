@@ -2941,17 +2941,17 @@
       "properties": {
         "name": "Bingham Falls Stowe VT",
         "icon": "mountain",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Scenic",
-        "description": "Hidden waterfall gorge carved by the West Branch with cascades through sculpted rock, off Route 108 in the Smugglers' Notch corridor.",
+        "description": "Hidden waterfall gorge carved by the West Branch with cascades through sculpted rock, off Route 108 in the Smugglers' Notch corridor \u2014 reached via the Mill Trail, a short, steep spur.",
         "start_date_time": "",
-        "detail": "Bingham Falls\n\n\ud83d\udccd Stowe VT\n\nHidden waterfall gorge carved by the West Branch with cascades through sculpted rock, off Route 108 in the Smugglers' Notch corridor.\n\nTips\n- Wear hiking boots \u2014 the descent is short but steep and slippery.\n- Easy to combine with the Smugglers' Notch scenic drive on Route 108."
+        "detail": "Bingham Falls\n\n\ud83d\udccd VT-108 (Mountain Road), Stowe, VT \u2014 paved pull-offs near Notchbrook Rd, ~6.4 mi west of the Rte 100/108 junction\n\nHidden waterfall gorge carved by the West Branch with cascades through sculpted rock, off Route 108 in the Smugglers' Notch corridor. Reached via the Mill Trail \u2014 a 1.3-mile out-and-back (AllTrails) down a short, steep quarter-mile spur to a 91-foot series of cascades dropping into a blue pool, on Stowe Land Trust/Smugglers' Notch State Park land. 4.8\u2605 on AllTrails, one of the most popular easy hikes in the area.\n\nTips\n- Wear hiking boots \u2014 the descent is short (~32 min average round trip) but steep and often wet/slippery near the bottom.\n- Stay well back from the gorge edges; a fall here can be fatal, and this is a real risk with kids or dogs.\n- Two paved pull-offs on Route 108 provide parking; can also be reached via the Stowe Land Trust's Mill Trail property.\n- Easy to combine with the Smugglers' Notch scenic drive on Route 108.\n\nSources consulted: AllTrails, Stowe Land Trust, gostowe. (verified 2026-09-02)."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.7985,
-          44.5293
+          -72.7659,
+          44.5176
         ]
       }
     },
@@ -25954,18 +25954,17 @@
       "properties": {
         "name": "Stowe Recreation Path Stowe VT",
         "icon": "footprints",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Footpath",
-        "description": "Paved 5.5-mile nonmotorized greenway from the village along the West Branch River \u2014 flat, family-friendly, passing restaurants, a brewery, and picnic areas.",
-        "start_date_time": "2026-08-31T17:30:00",
-        "detail": "Time: 2026-08-31T17:30:00\n\nStowe Recreation Path\n\n\ud83d\udccd Stowe VT\n\nPaved 5.5-mile nonmotorized greenway from the village along the West Branch River \u2014 flat, family-friendly, passing restaurants, a brewery, and picnic areas. A gentle evening stroll after a transfer day rather than another drive.\n\nTips\n- Rent bikes in the village for the best experience.\n- The path runs past several restaurants and shops \u2014 easy to stop en route.\n- Easy access point: park near Lintilhac Park behind Stowe Community Church and walk 20\u201340 minutes out and back \u2014 level, low-stress, a good way to see the village after check-in.",
-        "website": "https://www.stowevt.gov/Departments/Parks-Recreation/Parks-Facilities/Stowe-Recreation-Path"
+        "description": "Flat, paved greenway running from Stowe Village to Topnotch Resort along the Mountain Road corridor \u2014 an easy, dog-friendly walk/bike path with mountain views.",
+        "start_date_time": "",
+        "detail": "Stowe Recreation Path\n\n\ud83d\udccd Trailhead near Stowe Village, VT \u2014 path runs ~5.3 mi one-way to Topnotch Resort on Mountain Road\n\nA flat, paved multi-use greenway \u2014 one of Vermont's best-known rail-trail-style paths \u2014 connecting Stowe Village to the Topnotch Resort area along Mountain Road. AllTrails lists it as a 10.4-mile out-and-back at 4.7\u2605, easy grade throughout, popular for walking, jogging, and biking with mountain views along the way.\n\nTips\n- Fully paved and flat \u2014 suitable for strollers, bikes, and less mobile walkers.\n- Dogs must stay leashed on the main path; the adjoining Quiet Path section allows off-leash.\n- Walk any shorter out-and-back segment rather than committing to the full length.\n\nSources consulted: AllTrails, gostowe.com, BringFido (verified 2026-09-02)."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.6874,
-          44.4654
+          -72.68502,
+          44.46609
         ]
       }
     },
@@ -31277,16 +31276,15 @@
         "icon": "footprints",
         "color": "purple",
         "vault_type": "Footpath",
-        "description": "Stowe Land Trust's flagship preserve \u2014 a mature hardwood/softwood forest donated by the Wiessner family, with wide, gentle, well-maintained trails explicitly welcoming dog walking.",
+        "description": "Quiet, flat 104-acre Stowe Land Trust forest preserve off Edson Hill Road with easy looping trails through hemlock and hardwoods.",
         "start_date_time": "",
-        "detail": "Wiessner Woods\n\n\ud83d\udccd Edson Hill Rd, Stowe, VT\n\nWiessner Woods is Stowe Land Trust's best-known conserved property \u2014 a mature stand of hemlock, spruce, white pine, maple, beech, and birch, donated by the Wiessner family specifically to preserve the land's natural beauty for public enjoyment. It's the organization's go-to answer for an easy, reliable dog walk close to Stowe village: wide, gentle forest paths with none of the exposed scrambling found at higher trails like Sterling Falls Gorge, making it a genuinely low-effort, carriage-road-style outing rather than a hike.\n\nTips\n- Hiking, snowshoeing, cross-country skiing, and dog walking are all explicitly listed uses \u2014 this is a preserve built for exactly this kind of easy outing.\n- Trails are wide and gentle throughout, a good match for older travelers or an off-day from more strenuous hikes like Mount Mansfield.\n- A short drive from Stowe village off Edson Hill Road, with a small trailhead parking area.",
-        "website": "https://www.stowelandtrust.org/work/land-protection/conserved/wiessner-woods"
+        "detail": "Wiessner Woods\n\n\ud83d\udccd Edson Hill Road, Stowe, VT 05672\n\nA 104-acre Stowe Land Trust preserve of casual, relatively flat looping trails through mixed forest, popular for hiking, snowshoeing, and cross-country skiing. AllTrails rates it 4.7\u2605 over a roughly 2-mile loop \u2014 one of the easiest, quietest walks near Stowe Village.\n\nTips\n- Park on the left just past the Stowehof Inn turn on Edson Hill Road, about 3.5 miles north of the historic village on Route 108.\n- Flat, forested, and shaded \u2014 a good option on a hot day or for an easy morning walk.\n- Dogs welcome on leash.\n\nSources consulted: AllTrails, Stowe Land Trust, gostowe. (verified 2026-09-02)."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.7332,
-          44.4995
+          -72.72696,
+          44.49696
         ]
       }
     },
