@@ -25070,8 +25070,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sleepy Hollow Farm Pomfret VT",
-        "icon": "alert-triangle",
-        "color": "yellow",
+        "icon": "landmark",
+        "color": "green",
         "vault_type": "Attraction",
         "description": "Iconic private 115-acre farm on Cloudland Road. CRITICAL VISITOR ADVISORY: Cloudland Road is legally closed to non-resident vehicular and pedestrian traffic during peak foliage season due to town ordinances and sheriff enforcement. Stick to public scenic drives like Route 106 or public Pomfret backroads.",
         "start_date_time": "",
@@ -32263,82 +32263,6 @@
         "coordinates": [
           -68.20509361130145,
           44.390949608072525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 27 Littleton NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "No advance dinner reservation for this date \u2014 Littleton has no restaurants taking reservations. Walk-in plan, decide on the ground.",
-        "start_date_time": "2026-08-27T18:00:00",
-        "detail": "Time: 2026-08-27T18:00:00\n\nWalk-In Dinner \u2014 Thu, Aug 27\n\nConfirmed 2026-08-23: Littleton doesn't have any restaurants that take reservations. This isn't an open TODO waiting on a booking \u2014 it's the actual plan for every remaining Littleton night. Decide where to eat on the ground that day. Leave this note as a marker so the base camp's Reservations view still shows the date isn't blank; delete or update if that changes."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.7745,
-          44.3042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 28 Littleton NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "No advance dinner reservation for this date \u2014 Littleton has no restaurants taking reservations. Walk-in plan, decide on the ground.",
-        "start_date_time": "2026-08-28T18:00:00",
-        "detail": "Time: 2026-08-28T18:00:00\n\nWalk-In Dinner \u2014 Fri, Aug 28\n\nConfirmed 2026-08-23: Littleton doesn't have any restaurants that take reservations. This isn't an open TODO waiting on a booking \u2014 it's the actual plan for every remaining Littleton night. Decide where to eat on the ground that day. Leave this note as a marker so the base camp's Reservations view still shows the date isn't blank; delete or update if that changes."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.7745,
-          44.3042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Dinner Reservation Needed - Aug 30 Littleton NH",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "No advance dinner reservation for this date \u2014 Littleton has no restaurants taking reservations. Walk-in plan, decide on the ground.",
-        "start_date_time": "2026-08-30T18:00:00",
-        "detail": "Time: 2026-08-30T18:00:00\n\nWalk-In Dinner \u2014 Sun, Aug 30\n\nConfirmed 2026-08-23: Littleton doesn't have any restaurants that take reservations. This isn't an open TODO waiting on a booking \u2014 it's the actual plan for every remaining Littleton night. Decide where to eat on the ground that day. Leave this note as a marker so the base camp's Reservations view still shows the date isn't blank; delete or update if that changes."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.7745,
-          44.3042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\u26a0\ufe0f Salt Line planned closed Mondays - Sep 21 Hudson Valley",
-        "icon": "alert-triangle",
-        "color": "yellow",
-        "vault_type": "Restaurant",
-        "description": "Placeholder \u2014 no dinner reservation booked yet for this date. Chatham MA -> Hudson Valley changeover day.",
-        "start_date_time": "2026-09-21T18:00:00",
-        "detail": "Time: 2026-09-21T18:00:00\n\nDinner Reservation Needed \u2014 Mon, Sep 21\n\nNo dinner reservation has been booked yet for this date \u2014 the Chatham MA \u2192 Hudson Valley changeover day. Replace this placeholder once a real reservation is made."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.92894,
-          41.70904
         ]
       }
     },
