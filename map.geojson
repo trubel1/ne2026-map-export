@@ -7630,7 +7630,7 @@
         "vault_type": "Footpath",
         "description": "A flat, ~1.5-2.2-mile out-and-back walk along an earthen dike between the Ottauquechee River and Dewey's Pond, near Quechee Gorge.",
         "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nDewey's Mills Pond & Dike Trail\n\n\ud83d\udccd Quechee Main St, Quechee, VT (~10 minutes east of Woodstock)\n\nWalks out along the earthen dike separating the Ottauquechee River from Dewey's Pond. Flanked by water on both sides \u2014 good for birdwatching (herons, waterfowl) and quiet reflection with no hill climbing. About 1.5-2.2 miles out-and-back, flat, on a wide packed-earth dike and gravel path.\n\nTips\n- Primary parking: Dewey's Landing lot, gravel, off Quechee Main St right at the water's edge / dike gate \u2014 `43.6476, -72.4065`.\n- Alternate: Quechee Gorge Visitor Center lot, paved, 5966 US-4 \u2014 `43.6387, -72.4178` \u2014 connector trail down to the pond path."
+        "detail": "Dewey's Mills Pond & Dike Trail\n\n\ud83d\udccd Quechee Main St, Quechee, VT (~10 minutes east of Woodstock)\n\nWalks out along the earthen dike separating the Ottauquechee River from Dewey's Pond. Flanked by water on both sides \u2014 good for birdwatching (herons, waterfowl) and quiet reflection with no hill climbing. About 1.5-2.2 miles out-and-back, flat, on a wide packed-earth dike and gravel path.\n\nTips\n- Primary parking: Dewey's Landing lot, gravel, off Quechee Main St right at the water's edge / dike gate \u2014 `43.6476, -72.4065`.\n- Alternate: Quechee Gorge Visitor Center lot, paved, 5966 US-4 \u2014 `43.6387, -72.4178` \u2014 connector trail down to the pond path."
       },
       "geometry": {
         "type": "Point",
@@ -13593,8 +13593,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5504,
-          43.6247
+          -72.5431,
+          43.6197
         ]
       }
     },
@@ -16027,7 +16027,7 @@
         "vault_type": "Footpath",
         "description": "Gentle carriage-road loops (2-3 mi, under 120 ft gain) through the nation's premier conservation park, past historic pastures and stone walls.",
         "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nMarsh-Billings-Rockefeller National Historical Park\n\n\ud83d\udccd 54 Elm St, Woodstock, VT 05091\n\nThe nation's premier conservation-history park. Stick to the Lower Meadow Walk, Pasture Road, and lower Mountain Road for shade, historic stone walls, and rolling pastures without climbing to the summit \u2014 2-3 miles of flexible loops with under 120 ft of elevation change on wide, crushed-gravel 19th-century carriage roads.\n\nTips\n- Primary parking: Visitor Center / Billings Farm Lot, paved, off Old River Rd / Route 12 \u2014 `43.6309, -72.5187`.\n- Alternate parking: Prosper Road Trailhead Lot (gravel, western access) \u2014 `43.6448, -72.5402` \u2014 starts higher up, gentler grade toward The Pogue carriage road."
+        "detail": "Marsh-Billings-Rockefeller National Historical Park\n\n\ud83d\udccd 54 Elm St, Woodstock, VT 05091\n\nThe nation's premier conservation-history park. Stick to the Lower Meadow Walk, Pasture Road, and lower Mountain Road for shade, historic stone walls, and rolling pastures without climbing to the summit \u2014 2-3 miles of flexible loops with under 120 ft of elevation change on wide, crushed-gravel 19th-century carriage roads.\n\nTips\n- Primary parking: Visitor Center / Billings Farm Lot, paved, off Old River Rd / Route 12 \u2014 `43.6309, -72.5187`.\n- Alternate parking: Prosper Road Trailhead Lot (gravel, western access) \u2014 `43.6448, -72.5402` \u2014 starts higher up, gentler grade toward The Pogue carriage road."
       },
       "geometry": {
         "type": "Point",
@@ -16715,7 +16715,7 @@
         "vault_type": "Footpath",
         "description": "A 112-acre Hanover Conservancy preserve, 1.5-2.5 miles of interconnected loops through pine/hemlock woods along Mink Brook.",
         "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nMink Brook Nature Preserve\n\n\ud83d\udccd 10 Buck Rd, Hanover, NH (~25 minutes northeast of Woodstock)\n\nA 112-acre woodland preserve following the tumbling Mink Brook through stands of mature white pine and hemlock with wooden boardwalk crossings and benches. About 1.5-2.5 miles of interconnected loops, under 60 ft of elevation change, on wide woodland paths and soft pine needles.\n\nTips\n- Primary parking: Buck Road Trailhead / Wheelock lot, gravel, 10 Buck Rd \u2014 `43.6915, -72.2709`.\n- Alternate: South Main St / Brook Road access, near the substation turnoff at the lower end of the preserve \u2014 `43.6934, -72.2902`."
+        "detail": "Mink Brook Nature Preserve\n\n\ud83d\udccd 10 Buck Rd, Hanover, NH (~25 minutes northeast of Woodstock)\n\nA 112-acre woodland preserve following the tumbling Mink Brook through stands of mature white pine and hemlock with wooden boardwalk crossings and benches. About 1.5-2.5 miles of interconnected loops, under 60 ft of elevation change, on wide woodland paths and soft pine needles.\n\nTips\n- Primary parking: Buck Road Trailhead / Wheelock lot, gravel, 10 Buck Rd \u2014 `43.6915, -72.2709`.\n- Alternate: South Main St / Brook Road access, near the substation turnoff at the lower end of the preserve \u2014 `43.6934, -72.2902`."
       },
       "geometry": {
         "type": "Point",
@@ -19054,7 +19054,7 @@
         "vault_type": "Footpath",
         "description": "A flat, ~2.8-mile round-trip community river trail along an 1870s railroad bed, with views across to Mount Tom and Mount Peg.",
         "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nOttauquechee River Trail (ORT)\n\n\ud83d\udccd 217 Maxham Meadow Way, Woodstock, VT (East End Park trailhead)\n\nA tranquil community river conservation trail following the curves of the Ottauquechee River through floodplains and canopy trees, with open views across to Mount Tom and Mount Peg. About 2.8 miles round-trip, essentially flat (under 30 ft of elevation change), on smooth packed dirt, mowed grass, and crushed stone along an 1870s railroad bed.\n\nTips\n- Primary parking: East End Park trailhead, dedicated lot right at the trail start \u2014 `43.6236, -72.5074`.\n- Alternate parking: Mechanic Street public lot in Woodstock Village \u2014 `43.6238, -72.5182` \u2014 short, flat walk to the trailhead."
+        "detail": "Ottauquechee River Trail (ORT)\n\n\ud83d\udccd 217 Maxham Meadow Way, Woodstock, VT (East End Park trailhead)\n\nA tranquil community river conservation trail following the curves of the Ottauquechee River through floodplains and canopy trees, with open views across to Mount Tom and Mount Peg. About 2.8 miles round-trip, essentially flat (under 30 ft of elevation change), on smooth packed dirt, mowed grass, and crushed stone along an 1870s railroad bed.\n\nTips\n- Primary parking: East End Park trailhead, dedicated lot right at the trail start \u2014 `43.6236, -72.5074`.\n- Alternate parking: Mechanic Street public lot in Woodstock Village \u2014 `43.6238, -72.5182` \u2014 short, flat walk to the trailhead."
       },
       "geometry": {
         "type": "Point",
@@ -20507,13 +20507,13 @@
         "vault_type": "Attraction",
         "description": "",
         "start_date_time": "",
-        "detail": ""
+        "detail": "Pleasant Street\n\n\ud83d\udccd Pleasant St (Route 4), Woodstock, VT 05091\n\nThe picturesque, tree-lined residential and historic district of Woodstock Village stretching east along Route 4 from Central Street, featuring stately Federal, Greek Revival, and Victorian homes."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.1771832,
-          43.7923667
+          -72.5135,
+          43.6256
         ]
       }
     },
@@ -28215,17 +28215,18 @@
       "properties": {
         "name": "The Nature Museum Grafton Woodstock VT",
         "icon": "landmark",
-        "color": "green",
+        "color": "purple",
         "vault_type": "Museum",
-        "description": "",
+        "description": "Regional hands-on natural history museum with nature trails, exhibits, and educational programs in historic Grafton.",
         "start_date_time": "",
-        "detail": ""
+        "detail": "The Nature Museum at Grafton\n\n\ud83d\udccd 186 Townshend Rd, Grafton, VT 05146\n\nHands-on natural history museum offering interactive regional ecology exhibits, a pollinator garden, and easy walking trails through woods and meadows in Grafton.",
+        "website": "https://www.nature-museum.org/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5664743,
-          42.8474191
+          -72.6074,
+          43.1704
         ]
       }
     },
@@ -28669,13 +28670,13 @@
         "vault_type": "Historical",
         "description": "",
         "start_date_time": "",
-        "detail": ""
+        "detail": "The Stone Church\n\n\ud83d\udccd 210 Main St, Brattleboro, VT 05301\n\nIconic Victorian Gothic stone church built in 1875, now transformed into a premier live music, community gathering, and performing arts venue in downtown Brattleboro."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9381265,
-          43.0788559
+          -72.5602,
+          42.8542
         ]
       }
     },
@@ -29871,7 +29872,7 @@
         "vault_type": "Footpath",
         "description": "Flat-to-gentle 1.5-3.5 mile walk on gated dam service roads and riverside lanes in Thetford, near a covered bridge and old mill site.",
         "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\n[!note] No matching Destination note\nThetford, VT doesn't have a `Destinations/` note in this vault yet, and this single POI doesn't warrant creating one on its own \u2014 `destination` is left blank per the vault's \"don't force a match\" rule (see Trail Collections in the project CLAUDE.md).\n\nUnion Village Dam Recreation Area\n\n\ud83d\udccd Academy Brook Rd, Thetford, VT (~25 miles from Woodstock)\n\nGated dam service roads and wide grassy riverside lanes near an old mill site and covered bridge. About 1.5-3.5 miles, flat to very gentle (under 50 ft of elevation change), on paved/gravel dam roads and grassy lanes.\n\nTips\n- Primary parking: Dam Overlook & Pavilion lot, paved, off Academy Brook Rd \u2014 `43.7908, -72.2573`.\n- Alternate: Lower River Road lot, near the old mill site and covered bridge \u2014 `43.7972, -72.2598`."
+        "detail": "[!note] No matching Destination note\nThetford, VT doesn't have a `Destinations/` note in this vault yet, and this single POI doesn't warrant creating one on its own \u2014 `destination` is left blank per the vault's \"don't force a match\" rule (see Trail Collections in the project CLAUDE.md).\n\nUnion Village Dam Recreation Area\n\n\ud83d\udccd Academy Brook Rd, Thetford, VT (~25 miles from Woodstock)\n\nGated dam service roads and wide grassy riverside lanes near an old mill site and covered bridge. About 1.5-3.5 miles, flat to very gentle (under 50 ft of elevation change), on paved/gravel dam roads and grassy lanes.\n\nTips\n- Primary parking: Dam Overlook & Pavilion lot, paved, off Academy Brook Rd \u2014 `43.7908, -72.2573`.\n- Alternate: Lower River Road lot, near the old mill site and covered bridge \u2014 `43.7972, -72.2598`."
       },
       "geometry": {
         "type": "Point",
@@ -32083,8 +32084,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5218,
-          43.6237
+          -72.5441,
+          43.6198
         ]
       }
     },
