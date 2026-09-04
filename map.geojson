@@ -13581,32 +13581,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "King Farm Preserve Woodstock VT",
-        "icon": "footprints",
-        "color": "purple",
-        "vault_type": "Footpath",
-        "description": "A 154-acre Vermont Land Trust farm preserve, 1.8-2.5 mile loop on wide mowed farm roads past 18th-century barns and hill panoramas.",
-        "start_date_time": "",
-        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nKing Farm Preserve (Vermont Land Trust)\n\n\ud83d\udccd King Farm Rd, Woodstock, VT\n\nA 154-acre historic working farm and preserve managed by the Vermont Land Trust. Loops pass 18th-century timber barns, community gardens, and open agricultural meadows with quintessential Vermont hill panoramas \u2014 a 1.8-2.5 mile loop, under 80 ft of elevation change, on wide mowed farm roads and grassy tracks.\n\nTips\n- Primary parking: main farmstead lot at the historic barns on King Farm Rd \u2014 `43.6197, -72.5431` (gravel).\n- Alternate: roadside pull-off near the lower meadow gate / secondary trail access \u2014 `43.6212, -72.5458`."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5431,
-          43.6197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "King Farm Woodstock VT",
         "icon": "footprints",
         "color": "purple",
         "vault_type": "Footpath",
         "description": "154-acre Vermont Land Trust property rising from the Ottauquechee River with sweeping valley views \u2014 miles of easy, open trails that connect seamlessly into Marsh-Billings-Rockefeller National Historical Park next door.",
         "start_date_time": "",
-        "detail": "King Farm\n\n\ud83d\udccd King Farm, Woodstock, VT\n\nOwned and managed by the Vermont Land Trust since 1986, King Farm is a 154-acre working and conserved landscape rising from the Ottauquechee River to open, sweeping views across the valley. Its trail network is free and open to the public \u2014 no fees, no reservations \u2014 and links directly into the neighboring Marsh-Billings-Rockefeller National Historical Park's carriage-road system, making it easy to combine both properties into one longer, entirely easy walk. Community gardens and occasional public art/events add some local color beyond the trails themselves.\n\nTips\n- Trails are free, open, and genuinely easy \u2014 wide farm-road and field-edge walking, not technical terrain.\n- Dogs are welcome throughout; leash up specifically near the farmstead buildings, where the property still functions as a working farm.\n- Connects directly to Marsh-Billings-Rockefeller's own carriage roads (Mt Tom / The Pogue / Aqueduct Trails) \u2014 a good add-on rather than a separate outing if more mileage is wanted.\n- The river-valley views from the upper fields are considered among the best easy-access views in the Woodstock area.",
+        "detail": "King Farm\n\n\ud83d\udccd King Farm, Woodstock, VT\n\nOwned and managed by the Vermont Land Trust since 1986, King Farm is a 154-acre working and conserved landscape rising from the Ottauquechee River to open, sweeping views across the valley. Its trail network is free and open to the public \u2014 no fees, no reservations \u2014 and links directly into the neighboring Marsh-Billings-Rockefeller National Historical Park's carriage-road system, making it easy to combine both properties into one longer, entirely easy walk. Community gardens and occasional public art/events add some local color beyond the trails themselves.\n\nTips\n- Trails are free, open, and genuinely easy \u2014 wide farm-road and field-edge walking, not technical terrain.\n- Dogs are welcome throughout; leash up specifically near the farmstead buildings, where the property still functions as a working farm.\n- Connects directly to Marsh-Billings-Rockefeller's own carriage roads (Mt Tom / The Pogue / Aqueduct Trails) \u2014 a good add-on rather than a separate outing if more mileage is wanted.\n- The river-valley views from the upper fields are considered among the best easy-access views in the Woodstock area.\n- A loop covering the main fields runs roughly 1.8-2.5 miles.\n- Primary parking is the main farmstead lot at the historic barns on King Farm Rd; an alternate roadside pull-off sits near the lower meadow gate / secondary trail access (unsourced, from a pasted trail list \u2014 verify before relying on it).",
         "website": "https://vlt.org/featured-properties/king-farm/"
       },
       "geometry": {
