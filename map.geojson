@@ -7624,6 +7624,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Deweys Mills Pond and Dike Trail Quechee VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A flat, ~1.5-2.2-mile out-and-back walk along an earthen dike between the Ottauquechee River and Dewey's Pond, near Quechee Gorge.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nDewey's Mills Pond & Dike Trail\n\n\ud83d\udccd Quechee Main St, Quechee, VT (~10 minutes east of Woodstock)\n\nWalks out along the earthen dike separating the Ottauquechee River from Dewey's Pond. Flanked by water on both sides \u2014 good for birdwatching (herons, waterfowl) and quiet reflection with no hill climbing. About 1.5-2.2 miles out-and-back, flat, on a wide packed-earth dike and gravel path.\n\nTips\n- Primary parking: Dewey's Landing lot, gravel, off Quechee Main St right at the water's edge / dike gate \u2014 `43.6476, -72.4065`.\n- Alternate: Quechee Gorge Visitor Center lot, paved, 5966 US-4 \u2014 `43.6387, -72.4178` \u2014 connector trail down to the pond path."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4065,
+          43.6476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dia Beacon",
         "icon": "palette",
         "color": "green",
@@ -9106,6 +9125,25 @@
         "coordinates": [
           -69.9682565,
           43.9110048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faulkner Park Lower Promenade Woodstock VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A short (~0.8-1.2 mi) almost-flat promenade through gardens and stone footbridges, in Woodstock Village.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nFaulkner Park Lower Promenade\n\n\ud83d\udccd Mountain Ave, Woodstock, VT\n\nA compact garden park in Woodstock Village. Staying on the lower paths keeps it almost flat (under 30 ft of elevation change) \u2014 a compacted-gravel promenade through gardens and stone footbridges, about 0.8-1.2 miles.\n\nTips\n- Parking: roadside along Mountain Ave, directly adjacent to the park entrance \u2014 `43.6243, -72.5268`.\n- Good short/easy option to pair with a Woodstock Village walk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5268,
+          43.6243
         ]
       }
     },
@@ -13543,6 +13581,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "King Farm Preserve Woodstock VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A 154-acre Vermont Land Trust farm preserve, 1.8-2.5 mile loop on wide mowed farm roads past 18th-century barns and hill panoramas.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nKing Farm Preserve (Vermont Land Trust)\n\n\ud83d\udccd King Farm Rd, Woodstock, VT\n\nA 154-acre historic working farm and preserve managed by the Vermont Land Trust. Loops pass 18th-century timber barns, community gardens, and open agricultural meadows with quintessential Vermont hill panoramas \u2014 a 1.8-2.5 mile loop, under 80 ft of elevation change, on wide mowed farm roads and grassy tracks.\n\nTips\n- Primary parking: main farmstead lot at the historic barns on King Farm Rd \u2014 `43.6197, -72.5431` (gravel).\n- Alternate: roadside pull-off near the lower meadow gate / secondary trail access \u2014 `43.6212, -72.5458`."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5431,
+          43.6197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "King Farm Woodstock VT",
         "icon": "footprints",
         "color": "purple",
@@ -15984,19 +16041,18 @@
       "type": "Feature",
       "properties": {
         "name": "Marsh-Billings-Rockefeller National Historical Park Woodstock VT",
-        "icon": "mountain",
+        "icon": "footprints",
         "color": "purple",
-        "vault_type": "Park",
-        "description": "Vermont's only national park, preserving one of America's earliest planned conservation forests, 20 miles of scenic carriage roads, the historic Queen Anne mansion, and trails climbing up to The Pogue.",
+        "vault_type": "Footpath",
+        "description": "Gentle carriage-road loops (2-3 mi, under 120 ft gain) through the nation's premier conservation park, past historic pastures and stone walls.",
         "start_date_time": "",
-        "detail": "Marsh-Billings-Rockefeller National Historical Park\n\n\ud83d\udccd 54 Elm St, Woodstock, VT 05091\n\nEstablished in 1998, Marsh-Billings-Rockefeller National Historical Park is Vermont\u2019s only national park and the only unit in the National Park System dedicated to the history and evolution of conservation stewardship. The property was the boyhood home of George Perkins Marsh (pioneering conservationist and author of Man and Nature), later developed into a sustainable scientific tree plantation and estate by railway magnate Frederick Billings, and finally preserved by Billings\u2019s granddaughter Mary French Rockefeller and her husband Laurance Rockefeller. The park encompasses 550 acres of managed woodland laced with 20 miles of gently graded 19th-century carriage roads that wind through towering hemlock, spruce, and sugar maple groves up to The Pogue, a tranquil 14-acre pond nestled high in the forest hills.\n\nHighlights\n- Carriage Road Network: Twenty miles of wide, smooth gravel and packed-earth carriage roads engineered in the 1880s for horse-drawn travel, providing exceptionally smooth, gentle walking.\n- The Pogue: A pristine, 14-acre hilltop pond surrounded by dense forest, reachable via an easy 1.5-mile carriage road walk from the Forest Center.\n- Mansion & Grounds: Tours of the opulent Queen Anne-style mansion, formal gardens, and historic greenhouse filled with orchid collections.\n\nTips\n- Stop first at the Carriage Barn Visitor Center for trail maps, ranger advice, and estate grounds history.\n- Parking at the park's Forest Center is limited; overflow parking is readily available across the road at Billings Farm & Museum.\n- The carriage roads offer some of the most accessible, high-grade walking in the region with wide pathways and manageable slopes.\n- Dogs are welcome on all carriage roads on a 6-foot leash; carry waste bags.\n- Seamlessly connects with trails ascending Mount Tom and across Old River Road to Billings Farm & Museum.",
-        "website": "https://www.nps.gov/mabi/index.htm"
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nMarsh-Billings-Rockefeller National Historical Park\n\n\ud83d\udccd 54 Elm St, Woodstock, VT 05091\n\nThe nation's premier conservation-history park. Stick to the Lower Meadow Walk, Pasture Road, and lower Mountain Road for shade, historic stone walls, and rolling pastures without climbing to the summit \u2014 2-3 miles of flexible loops with under 120 ft of elevation change on wide, crushed-gravel 19th-century carriage roads.\n\nTips\n- Primary parking: Visitor Center / Billings Farm Lot, paved, off Old River Rd / Route 12 \u2014 `43.6309, -72.5187`.\n- Alternate parking: Prosper Road Trailhead Lot (gravel, western access) \u2014 `43.6448, -72.5402` \u2014 starts higher up, gentler grade toward The Pogue carriage road."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5178,
-          43.6311
+          -72.5187,
+          43.6309
         ]
       }
     },
@@ -16666,6 +16722,25 @@
         "coordinates": [
           -69.5192313,
           43.8708881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mink Brook Nature Preserve Hanover NH",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A 112-acre Hanover Conservancy preserve, 1.5-2.5 miles of interconnected loops through pine/hemlock woods along Mink Brook.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nMink Brook Nature Preserve\n\n\ud83d\udccd 10 Buck Rd, Hanover, NH (~25 minutes northeast of Woodstock)\n\nA 112-acre woodland preserve following the tumbling Mink Brook through stands of mature white pine and hemlock with wooden boardwalk crossings and benches. About 1.5-2.5 miles of interconnected loops, under 60 ft of elevation change, on wide woodland paths and soft pine needles.\n\nTips\n- Primary parking: Buck Road Trailhead / Wheelock lot, gravel, 10 Buck Rd \u2014 `43.6915, -72.2709`.\n- Alternate: South Main St / Brook Road access, near the substation turnoff at the lower end of the preserve \u2014 `43.6934, -72.2902`."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2709,
+          43.6915
         ]
       }
     },
@@ -18986,6 +19061,25 @@
         "coordinates": [
           -80.0725959776384,
           26.67886736537504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ottauquechee River Trail Woodstock VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "A flat, ~2.8-mile round-trip community river trail along an 1870s railroad bed, with views across to Mount Tom and Mount Peg.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\nOttauquechee River Trail (ORT)\n\n\ud83d\udccd 217 Maxham Meadow Way, Woodstock, VT (East End Park trailhead)\n\nA tranquil community river conservation trail following the curves of the Ottauquechee River through floodplains and canopy trees, with open views across to Mount Tom and Mount Peg. About 2.8 miles round-trip, essentially flat (under 30 ft of elevation change), on smooth packed dirt, mowed grass, and crushed stone along an 1870s railroad bed.\n\nTips\n- Primary parking: East End Park trailhead, dedicated lot right at the trail start \u2014 `43.6236, -72.5074`.\n- Alternate parking: Mechanic Street public lot in Woodstock Village \u2014 `43.6238, -72.5182` \u2014 short, flat walk to the trailhead."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5074,
+          43.6236
         ]
       }
     },
@@ -29790,6 +29884,25 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Union Village Dam Recreation Area Thetford VT",
+        "icon": "footprints",
+        "color": "purple",
+        "vault_type": "Footpath",
+        "description": "Flat-to-gentle 1.5-3.5 mile walk on gated dam service roads and riverside lanes in Thetford, near a covered bridge and old mill site.",
+        "start_date_time": "",
+        "detail": "[!warning] Unverified data\nThis note's Rating, Coordinates, and trail details came from a pasted list of unconfirmed origin (presented as tool-search output, but no actual search ran in this session). Nothing here has been independently verified \u2014 check AllTrails/NPS before relying on it for trip planning.\n\n[!note] No matching Destination note\nThetford, VT doesn't have a `Destinations/` note in this vault yet, and this single POI doesn't warrant creating one on its own \u2014 `destination` is left blank per the vault's \"don't force a match\" rule (see Trail Collections in the project CLAUDE.md).\n\nUnion Village Dam Recreation Area\n\n\ud83d\udccd Academy Brook Rd, Thetford, VT (~25 miles from Woodstock)\n\nGated dam service roads and wide grassy riverside lanes near an old mill site and covered bridge. About 1.5-3.5 miles, flat to very gentle (under 50 ft of elevation change), on paved/gravel dam roads and grassy lanes.\n\nTips\n- Primary parking: Dam Overlook & Pavilion lot, paved, off Academy Brook Rd \u2014 `43.7908, -72.2573`.\n- Alternate: Lower River Road lot, near the old mill site and covered bridge \u2014 `43.7972, -72.2598`."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2573,
+          43.7908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "V M Gourmet Foods",
         "icon": "sandwich",
         "color": "purple",
@@ -33102,8 +33215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5084507,
-          43.6448009
+          -72.510301,
+          43.653952
         ]
       }
     },
