@@ -2885,7 +2885,7 @@
         "vault_type": "Restaurant",
         "description": "A barbecue restaurant known for its friendly staff and quick service. It serves a variety of smoked meats and offers a salad bar. Prices range from $10 to $20. Open for lunch and dinner, and it offers locally crafted beers.",
         "start_date_time": "",
-        "detail": "A barbecue restaurant known for its friendly staff and quick service. It serves a variety of smoked meats and offers a salad bar. Prices range from $10 to $20. Open for lunch and dinner, and it offers locally crafted beers.",
+        "detail": "Tips\n- Open Saturdays 12:00\u20138:00 PM (verified via web search 2026-09-05) \u2014 opens right at noon. Closed Mon\u2013Tue otherwise.\n- Casual, family-friendly, live music sometimes \u2014 good low-key lunch option vs. the fine-dining-heavy Woodstock village options.",
         "website": "https://www.google.com/maps/place/Big+Fatty's+BBQ/@43.6461847,-72.320862,795m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4ca509c04c4e5:0x2919955d13aeb40b!8m2!3d43.6461808!4d-72.3182871!16s%2Fg%2F1tgnwty6?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
@@ -21863,7 +21863,7 @@
         "vault_type": "Restaurant",
         "description": "The signature AAA Four Diamond dining room inside the historic Woodstock Inn & Resort, showcasing upscale farm-to-table cuisine, Vermont heritage meats, and vegetables harvested from the resort's Kelly Way Gardens.",
         "start_date_time": "",
-        "detail": "The Red Rooster (Woodstock Inn & Resort)\n\n\ud83d\udccd 14 The Green, Woodstock, VT 05091\n\nThe Red Rooster is the premier culinary centerpiece of the historic Woodstock Inn & Resort. Awarded AAA Four Diamond status, the dining room pairs relaxed New England elegance with an uncompromising farm-to-table philosophy. Executive chefs work closely with the master gardener at the resort\u2019s nearby 3-acre Kelly Way Gardens, integrating just-picked heirloom produce, edible blossoms, and herbs into seasonal menus alongside local Vermont dairy, heritage poultry, and pasture-raised meats.\n\nMust Order\n- Seasonal Garden Tasting Starters \u2014 Featuring freshly harvested produce from Kelly Way Gardens paired with local ch\u00e8vre and house vinaigrettes.\n- Pan-Seared Day-Boat Halibut or Salmon \u2014 Served with sweet corn succotash and herb-infused emulsions.\n- Braised Vermont Short Ribs \u2014 Slow-cooked to melting tenderness over creamy polenta with glazed root vegetables.\n- Artisan Cheese Cart \u2014 Curated selection of Vermont's finest cave-aged cheddars and bloomy rinds with honeycomb.\n\nTips\n- Located on the main lobby level of the Woodstock Inn, steps from Richardson's Tavern (the inn's cozier, casual fireside pub alternative).\n- Resort casual attire; reservations are strongly recommended for dinner, particularly in summer and autumn foliage seasons.\n- Perfect option for a celebratory dinner or a refined lunch overlooking the south terrace.",
+        "detail": "The Red Rooster (Woodstock Inn & Resort)\n\n\ud83d\udccd 14 The Green, Woodstock, VT 05091\n\nThe Red Rooster is the premier culinary centerpiece of the historic Woodstock Inn & Resort. Awarded AAA Four Diamond status, the dining room pairs relaxed New England elegance with an uncompromising farm-to-table philosophy. Executive chefs work closely with the master gardener at the resort\u2019s nearby 3-acre Kelly Way Gardens, integrating just-picked heirloom produce, edible blossoms, and herbs into seasonal menus alongside local Vermont dairy, heritage poultry, and pasture-raised meats.\n\nMust Order\n- Seasonal Garden Tasting Starters \u2014 Featuring freshly harvested produce from Kelly Way Gardens paired with local ch\u00e8vre and house vinaigrettes.\n- Pan-Seared Day-Boat Halibut or Salmon \u2014 Served with sweet corn succotash and herb-infused emulsions.\n- Braised Vermont Short Ribs \u2014 Slow-cooked to melting tenderness over creamy polenta with glazed root vegetables.\n- Artisan Cheese Cart \u2014 Curated selection of Vermont's finest cave-aged cheddars and bloomy rinds with honeycomb.\n\nTips\n- Located on the main lobby level of the Woodstock Inn, steps from Richardson's Tavern (the inn's cozier, casual fireside pub alternative).\n- Resort casual attire; reservations are strongly recommended for dinner, particularly in summer and autumn foliage seasons.\n- Perfect option for a celebratory dinner or a refined lunch overlooking the south terrace.\n- Lunch confirmed 12:00\u20133:00 PM Saturdays (verified via web search 2026-09-05); reservations recommended but this is right at noon.",
         "website": "https://www.woodstockinn.com/dining/red-rooster"
       },
       "geometry": {
@@ -32073,25 +32073,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodstock Farmers\u2019 Market VT",
-        "icon": "leaf",
-        "color": "green",
-        "vault_type": "Farm",
-        "description": "",
-        "start_date_time": "",
-        "detail": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.5441,
-          43.6198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Worthy Kitchen Woodstock VT",
         "icon": "utensils",
         "color": "red",
@@ -32895,7 +32876,7 @@
         "vault_type": "Restaurant",
         "description": "Simon Pearce is a restaurant known for its American cuisine, including dishes like North Star Farm Lamb Shoulder Pappardelle and Crispy Sesame Chicken. It offers lunch and dinner service and serves alcohol. Prices are generally considered pricey.",
         "start_date_time": "2026-09-06T18:30:00",
-        "detail": "Time: 2026-09-06T18:30:00\n\nSimon Pearce is a restaurant known for its American cuisine, including dishes like North Star Farm Lamb Shoulder Pappardelle and Crispy Sesame Chicken. It offers lunch and dinner service and serves alcohol. Prices are generally considered pricey.",
+        "detail": "Time: 2026-09-06T18:30:00\n\nTips\n- Lunch confirmed daily 11:00 AM\u20132:30 PM (verified via web search 2026-09-05) \u2014 open well before noon. Dinner separately served Wed\u2013Sun 5\u20139 PM.\n- Overlooks the Ottauquechee River waterfall and covered bridge; also has a glassblowing/homeware shop on-site.",
         "website": "https://www.google.com/maps/place/Simon+Pearce/@43.6460589,-72.4220369,795m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cb4cca0fca5cd17:0xc2f3e6a3d6ab104c!8m2!3d43.646055!4d-72.419462!16s%2Fm%2F021fw2n?entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       "geometry": {
