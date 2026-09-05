@@ -18009,6 +18009,26 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mt. Tom Farmers Market South Pomfret VT",
+        "icon": "shopping-basket",
+        "color": "green",
+        "vault_type": "Shop",
+        "description": "The real, outdoor, seasonal Woodstock-area farmers market (not to be confused with the year-round indoor Woodstock Farmers' Market grocery store) -- 20+ vendors of farmers, makers, and bakers at Saskadena Six ski area.",
+        "start_date_time": "",
+        "detail": "Mt. Tom Farmers Market\n\n\ud83d\udccd Saskadena Six Ski Area, 247 Stage Rd, South Pomfret, VT 05067\n\nThe actual outdoor, seasonal farmers market for the Woodstock area \u2014 41st year running, 20+ vendors of farmers, makers, and bakers, held in the Saskadena Six ski area parking lot on Route 12 North, about 3 miles north of Woodstock village.\n\nTips\n- Saturdays, 9:30 AM\u201312:30 PM, rain or shine, May 23\u2013October 10, 2026 (verified via web search 2026-09-05).\n- Don't confuse with Woodstock Farmers' Market \u2014 that's a year-round indoor specialty grocery/deli on Route 4, not an actual farmers market despite the name.",
+        "website": "https://www.woodstockvt.com/event/mt-tom-farmers-market/2026-05-23/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54444,
+          43.66389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mt. Washington Auto Road North Conway NH",
         "icon": "mountain",
         "color": "purple",
@@ -32059,7 +32079,7 @@
         "vault_type": "Shop",
         "description": "Legendary year-round specialty grocery, scratch bakery, and gourmet prepared-foods deli on Route 4, celebrated for creative artisan sandwiches, local farm produce, and Vermont cheeses.",
         "start_date_time": "",
-        "detail": "Woodstock Farmers' Market\n\n\ud83d\udccd 979 W Woodstock Rd (Route 4), Woodstock, VT 05091\n\nDespite its name suggesting an outdoor seasonal event, the Woodstock Farmers' Market is an indispensable, permanent, year-round gourmet food market and culinary hub located just west of the village on Route 4. Since 1992, the market has championed sustainable, organic, and small-producer New England agriculture. Inside the cedar-shingled store, shoppers find a bustling deli counter turning out nationally acclaimed sandwiches, a scratch bakery producing fresh pies, sourdough breads, and cookies, an extensive farmstead cheese case, organic local produce, and a curated selection of Vermont craft beers, ciders, and natural wines.\n\nMust Order\n- The Turkey & Brie Sandwich \u2014 House-roasted turkey breast, creamy French brie, tart green apples, and sweet cranberry chutney on freshly baked cranberry-walnut bread.\n- The Meatloaf Special or Roast Beef Chimichurri \u2014 Fan favorites from the hot and cold prepared deli cases.\n- Fresh-Baked Pies & Cookies \u2014 Heirloom apple, wild Maine blueberry, or the famous ginger molasses cookies.\n- Prepared Picnic Salads \u2014 Sesame peanut noodles, roasted seasonal beet salad, and local grain salads perfect for trail excursions.\n\nTips\n- The premier spot in the Woodstock area to pick up a gourmet picnic lunch before heading out to hike Mount Tom, walk The Pogue, or explore Quechee Gorge.\n- Call ahead or order sandwiches online via their website to skip the bustling midday deli counter line.\n- Outdoor picnic tables sit along the banks of the Ottauquechee River out back when weather is nice.\n- Closed Mondays; plan grocery provisioning accordingly.",
+        "detail": "Woodstock Farmers' Market\n\n\ud83d\udccd 979 W Woodstock Rd (Route 4), Woodstock, VT 05091\n\nDespite its name suggesting an outdoor seasonal event, the Woodstock Farmers' Market is an indispensable, permanent, year-round gourmet food market and culinary hub located just west of the village on Route 4. Since 1992, the market has championed sustainable, organic, and small-producer New England agriculture. Inside the cedar-shingled store, shoppers find a bustling deli counter turning out nationally acclaimed sandwiches, a scratch bakery producing fresh pies, sourdough breads, and cookies, an extensive farmstead cheese case, organic local produce, and a curated selection of Vermont craft beers, ciders, and natural wines.\n\nMust Order\n- The Turkey & Brie Sandwich \u2014 House-roasted turkey breast, creamy French brie, tart green apples, and sweet cranberry chutney on freshly baked cranberry-walnut bread.\n- The Meatloaf Special or Roast Beef Chimichurri \u2014 Fan favorites from the hot and cold prepared deli cases.\n- Fresh-Baked Pies & Cookies \u2014 Heirloom apple, wild Maine blueberry, or the famous ginger molasses cookies.\n- Prepared Picnic Salads \u2014 Sesame peanut noodles, roasted seasonal beet salad, and local grain salads perfect for trail excursions.\n\nTips\n- The premier spot in the Woodstock area to pick up a gourmet picnic lunch before heading out to hike Mount Tom, walk The Pogue, or explore Quechee Gorge.\n- Call ahead or order sandwiches online via their website to skip the bustling midday deli counter line.\n- Outdoor picnic tables sit along the banks of the Ottauquechee River out back when weather is nice.\n- Closed Mondays; plan grocery provisioning accordingly.\n- Not the same thing as Mt. Tom Farmers Market \u2014 the actual outdoor seasonal farmers market (Saturdays 9:30am\u201312:30pm, May\u2013Oct, at Saskadena Six), despite this store's name.",
         "website": "https://woodstockmarket.com/"
       },
       "geometry": {
